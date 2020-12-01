@@ -58,3 +58,21 @@ google_analytics_tracking_id: false
 # # GitHub Pages gems
 
 # Here is a list of gems that GitHub pages supports: https://pages.github.com/versions/
+
+
+
+
+
+
+
+# # Github's web hosting looks for a branch called "gh-pages"
+# # Git by names the default branch "master" so we need rename
+# # it to "gh-pages" so that Github can find the website files.
+
+# # In terminal/cmd
+# git checkout -b gh-pages                # Create a new branch called gh-pages
+# git push origin gh-pages                # Push the gh-pages repo to github
+
+# # On Github
+# Settings (Repo settings) --> Branches --> Default Branch --> gh-pages --> Update
+# (then delete the main branch)

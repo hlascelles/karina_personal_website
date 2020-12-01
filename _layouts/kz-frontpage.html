@@ -3,6 +3,7 @@ layout: default
 format: frontpage
 ---
 
+<!-- content (manual) -->
 <div class="row">
     <div class="small-12 columns">
         {{ content }}
@@ -28,6 +29,7 @@ format: frontpage
 {% endif %}
 
 
+<!-- row of three widgets -->
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
@@ -91,15 +93,16 @@ format: frontpage
 
         <!-- List of earlier pages -->
         <div class="medium-6 columns">
+            <h3>My rubbish stories:</h3>
             <ul class="side-nav">
                 {% for post in site.posts limit:10 %}
-                    {% unless post.primary_post == true %}
+                    {% if post.story_post == true %}
                       <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &middot; <strong>{{ post.title }}</strong></a></li>
-                    {% endunless %}
+                    {% endif %}
                 {% endfor %}
 
                 <!-- Link to the archive -->
-                <li class="text-right"><a href="/archive/"><strong>{{ site.data.language.to_archive }}</strong></a></li>
+                <li class="text-right"><a href="/stories/"><strong>{{ site.data.language.to_archive }}</strong></a></li>
             </ul>
         </div>
     </div>
