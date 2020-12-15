@@ -14,6 +14,10 @@
   url: "/stories/"
   side: left
 
+- title: "Travel stories"
+  url: "/travel/"
+  side: left
+
 - title: "Food for thought"
   url: "/food/"
   side: left

@@ -1,0 +1,76 @@
+---
+layout: kz-page
+subheadline: 
+title: Canary islands
+meta_description: 
+show_meta: false
+header: no
+categories:
+    - travel
+
+---
+
+During my trip in October - December 2020 I visited Tenerife, La Gomera (the  giant lemon squeezer), La Palma.
+
+<h4>1. Volcanoes</h4>
+<ul>
+  <li>Climbing Pico del Teide in Tenerife - highest point in Spain. <a href="https://www.reservasparquesnacionales.es/real/parquesnac/usu/html/Previo-inicio-reserva-oapn.aspx?cen=2&act=%201" target="_blank">Permit</a> is required to climb the last 200 meters and see the caldera. This is a great opportunity to smell the volcano that is alive, and to experience the heat of the steam coming out of the cracks in the rocks.</li>
+  <li>Climbing Pico Viejo in Tenerife. Loads of beautiful colours, especially around the "nostrils".</li>
+  <li>Circular walk around Chinyero volcano following the PR-TF 43 trail. This is the youngest volcano in Tenerife, that last erupted in 1909.</li>
+</ul>
+
+<h4>2. Forest hiking</h4>
+<ul>
+  <li>Ruta 18 in the Garajonay National Park in La Gomera - a circular trail through different ecosystems. Includes Mirador Del Morro De Agando which has the best view of the whole island.</li>
+  <li>Parque Rural de Anaga in Tenerife. Permits are required for hiking in <a href="https://centralreservas.tenerife.es/actividad/1" target="_blank">El Pijaral</a> and <a href="https://centralreservas.tenerife.es/actividad/7" target="_blank">Zona de Exclusión de Monte de Aguirre</a>.</li>
+  <li>Bosque de los Tilos in La Palma. Great bird watching. Rockfalls along the path.</li>
+</ul>
+
+
+<h4>3. Other stuff</h4>
+<ul>
+  <li>Stargazing in La Palma with an astronomer and an amature telescope.</li>
+  <li>Walks from Roque de los Muchachos to see different telescopes, including MAGIC (a system of two Imaging Atmospheric Cherenkov telescopes).</li>
+  <li>Salinas de Fuencaliente - traditional salt works in La Palma.</li>
+</ul>
+
+
+<h4>Do before you go</h4>
+<ul>
+  <li>Book free hiking permits, if required (see above).</li>
+  <li>Book stargazing in La Palma.</li>
+</ul>
+
+
+
+
+
+
+<h4>Local specialities</h4>
+<ul>
+  <li>Miel de Palma - it is brewed from Guarapo, the sap of the Gomeran Date Palm (Phoenix canariensis), with no added ingredients. It is dark in colour and tastes like liquid toffee.</li>
+</ul>
+
+
+
+<h4>Tips</h4>
+Best supermarket: Mercadona
+<br>
+Local car hire company that might not appear on aggregate websites: Cicar
+<br>
+Gas stations that allow to check tyre pressure and top up air for free: Repsol
+<br>
+Useful website for island hopping is [hellocanaryislands.com][1].
+<br>
+Hiking routes on Canary islands are well marked with colourful stripes of paint.
+
+
+
+
+
+
+[1]: https://www.hellocanaryislands.com/travelling-between-islands/
+
+
+
+
