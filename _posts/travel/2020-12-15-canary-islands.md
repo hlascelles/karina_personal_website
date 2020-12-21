@@ -10,13 +10,14 @@ categories:
 
 ---
 
-During my trip in October - December 2020 I visited Tenerife, La Gomera (the  giant lemon squeezer), La Palma.
+During my trip in October - December 2020 I visited Tenerife, La Gomera (the  giant lemon squeezer) and La Palma.
 
 <h4>1. Volcanoes</h4>
 <ul>
   <li>Climbing Pico del Teide in Tenerife - highest point in Spain. <a href="https://www.reservasparquesnacionales.es/real/parquesnac/usu/html/Previo-inicio-reserva-oapn.aspx?cen=2&act=%201" target="_blank">Permit</a> is required to climb the last 200 meters and see the caldera. This is a great opportunity to smell the volcano that is alive, and to experience the heat of the steam coming out of the cracks in the rocks.</li>
   <li>Climbing Pico Viejo in Tenerife. Loads of beautiful colours, especially around the "nostrils".</li>
   <li>Circular walk around Chinyero volcano following the PR-TF 43 trail. This is the youngest volcano in Tenerife, that last erupted in 1909.</li>
+  <li>Parts of Ruta de los Volcanes in La Palma, geologically the youngest of the islands. A trail paraller to the Ruta de los Volcanes (GR-131) from Refugio El Pilar to Cráter del Hoyo Negro is spectacular, with many calderas, big birds and great pine trees.</li>
 </ul>
 
 <h4>2. Forest hiking</h4>
@@ -29,7 +30,7 @@ During my trip in October - December 2020 I visited Tenerife, La Gomera (the  gi
 
 <h4>3. Other stuff</h4>
 <ul>
-  <li>Stargazing in La Palma with an astronomer and an amature telescope.</li>
+  <li>Stargazing in La Palma with an astronomer and an amature telescope. Especially if you happen to be in La Palma during Perseid or Geminid meteor showers in mid August and mid December respectively. (Not free.)</li>
   <li>Walks from Roque de los Muchachos to see different telescopes, including MAGIC (a system of two Imaging Atmospheric Cherenkov telescopes).</li>
   <li>Salinas de Fuencaliente - traditional salt works in La Palma.</li>
 </ul>
@@ -38,7 +39,7 @@ During my trip in October - December 2020 I visited Tenerife, La Gomera (the  gi
 <h4>Do before you go</h4>
 <ul>
   <li>Book free hiking permits, if required (see above).</li>
-  <li>Book stargazing in La Palma.</li>
+  <li>Book stargazing in La Palma. (Not free.)</li>
 </ul>
 
 
