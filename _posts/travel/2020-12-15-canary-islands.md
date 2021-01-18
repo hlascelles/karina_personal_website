@@ -18,6 +18,8 @@ During my trip in October - December 2020 I visited Tenerife, La Gomera (the  gi
   <li>Climbing Pico Viejo in Tenerife. Loads of beautiful colours, especially around the "nostrils".</li>
   <li>Circular walk around Chinyero volcano following the PR-TF 43 trail. This is the youngest volcano in Tenerife, that last erupted in 1909.</li>
   <li>Parts of Ruta de los Volcanes in La Palma, geologically the youngest of the islands. A trail paraller to the Ruta de los Volcanes (GR-131) from Refugio El Pilar to Cráter del Hoyo Negro is spectacular, with many calderas, big birds and great pine trees.</li>
+  <li>Caldera de la Laguna in Fuerteventura has been destroyed by mining and hence offers a glimpse of the internal geology of a volcanic cone. A short walk up to the caldera is a museum of colorful rocks and exposed layers.</li>
+  <li>Volcano Bayuyo in Fuerteventura offers a beautiful circular walk around the rim of it's caldera. Stunning views of the north part of Fuerteventura.</li>
 </ul>
 
 <h4>2. Forest hiking</h4>
@@ -31,8 +33,12 @@ During my trip in October - December 2020 I visited Tenerife, La Gomera (the  gi
 <h4>3. Other stuff</h4>
 <ul>
   <li>Stargazing in La Palma with an astronomer and an amature telescope. Especially if you happen to be in La Palma during Perseid or Geminid meteor showers in mid August and mid December respectively. (Not free.)</li>
-  <li>Walks from Roque de los Muchachos to see different telescopes, including MAGIC (a system of two Imaging Atmospheric Cherenkov telescopes).</li>
+  <li>Las Dunas de Maspalomas in Gran Canaria - a chance to experience sand dunes within two minute walk from the city.</li>
+  <li>Walks from Roque de los Muchachos in La Palma to see different telescopes, including MAGIC (a system of two Imaging Atmospheric Cherenkov telescopes).</li>
   <li>Salinas de Fuencaliente - traditional salt works in La Palma.</li>
+  <li>Wave watching in Parque Natural Jandia in Fuerteventura. View from Faro Punta Pesebre (lighthouse) is amazing.</li>
+  <li>Las Lagunitas in Isla de Lobos, just off the coast of Fuerteventura. A fragile salty wetland ecosystem of outstanding beauty. Great for watching birds and insects. A permit to visit might be required, check online. Best to visit on a less busy day.</li>
+  <li> <a href="https://fuerteventuractiva.es/en/popcorn-beach/" target="_blank">Popcorn beaches</a> in Fuerteventura. They are made from <a href="https://en.wikipedia.org/wiki/Rhodolith" target="_blank">Rhodoliths</a> that are shaped like popcorn. Popcorn Playa (28.752446865967023, -13.899711667958275) is one of these Popcorn beaches.</li>
 </ul>
 
 
