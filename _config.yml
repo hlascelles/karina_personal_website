@@ -229,8 +229,9 @@ sass:
 #                        /____/
 #
 # used in _includes/footer_scripts
+# google_analytics_tracking_id:     # not used anymore, instead using  gtag:
 
-google_analytics_tracking_id: G-QC7ZVMEGFD
+gtag: G-QC7ZVMEGFD
 
 
 

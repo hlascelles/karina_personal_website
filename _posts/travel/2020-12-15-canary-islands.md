@@ -36,9 +36,9 @@ During my trip in October - December 2020 I visited Tenerife, La Gomera (the  gi
   <li>Las Dunas de Maspalomas in Gran Canaria - a chance to experience sand dunes within two minute walk from the city.</li>
   <li>Walks from Roque de los Muchachos in La Palma to see different telescopes, including MAGIC (a system of two Imaging Atmospheric Cherenkov telescopes).</li>
   <li>Salinas de Fuencaliente - traditional salt works in La Palma.</li>
+  <li> <a href="https://fuerteventuractiva.es/en/popcorn-beach/" target="_blank">Popcorn beaches</a> in Fuerteventura. They are made from <a href="https://en.wikipedia.org/wiki/Rhodolith" target="_blank">Rhodoliths</a> that are shaped like popcorn. Popcorn Playa (28.752446865967023, -13.899711667958275) is one of these Popcorn beaches.</li>
   <li>Wave watching in Parque Natural Jandia in Fuerteventura. View from Faro Punta Pesebre (lighthouse) is amazing.</li>
   <li>Las Lagunitas in Isla de Lobos, just off the coast of Fuerteventura. A fragile salty wetland ecosystem of outstanding beauty. Great for watching birds and insects. A permit to visit might be required, check online. Best to visit on a less busy day.</li>
-  <li> <a href="https://fuerteventuractiva.es/en/popcorn-beach/" target="_blank">Popcorn beaches</a> in Fuerteventura. They are made from <a href="https://en.wikipedia.org/wiki/Rhodolith" target="_blank">Rhodoliths</a> that are shaped like popcorn. Popcorn Playa (28.752446865967023, -13.899711667958275) is one of these Popcorn beaches.</li>
 </ul>
 
 
@@ -61,7 +61,7 @@ During my trip in October - December 2020 I visited Tenerife, La Gomera (the  gi
 
 
 <h4>Tips</h4>
-Best supermarket: Mercadona
+Best chain of supermarkets - Mercadona and HyperDino. Lidl has good selection of vegetarian stuff too.
 <br>
 Local car hire company that might not appear on aggregate websites: Cicar
 <br>
