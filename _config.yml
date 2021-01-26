@@ -228,8 +228,8 @@ sass:
 #   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/      https://www.google.com/analytics/
 #                        /____/
 #
-# used in _includes/footer_scripts
-# google_analytics_tracking_id:     # not used anymore, instead using  gtag:
+# used in _includes/head
+# google_analytics_tracking_id:     # not used anymore, instead using gtag
 
 gtag: G-QC7ZVMEGFD
 
