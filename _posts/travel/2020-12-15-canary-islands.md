@@ -29,11 +29,15 @@ During my trip in October - December 2020 I visited Tenerife, La Gomera (the  gi
   <li>Bosque de los Tilos in La Palma. Great bird watching. Rockfalls along the path.</li>
 </ul>
 
+<h4>3. Sand dunes</h4>
+<ul>
+  <li>Las Dunas de Maspalomas in Gran Canaria - a chance to experience tall sand dunes within minutes walk from the city. Fun to run up and down the dunes!</li>
+  <li>Parque Natural de Corralejo in Fuerteventura - expansive sand dunes with loads of interesting plants, insects and footprints of diverse wildlife.</li>
+</ul>
 
-<h4>3. Other stuff</h4>
+<h4>4. Other stuff</h4>
 <ul>
   <li>Stargazing in La Palma with an astronomer and an amature telescope. Especially if you happen to be in La Palma during Perseid or Geminid meteor showers in mid August and mid December respectively. (Not free.)</li>
-  <li>Las Dunas de Maspalomas in Gran Canaria - a chance to experience sand dunes within two minute walk from the city.</li>
   <li>Walks from Roque de los Muchachos in La Palma to see different telescopes, including MAGIC (a system of two Imaging Atmospheric Cherenkov telescopes).</li>
   <li>Salinas de Fuencaliente - traditional salt works in La Palma.</li>
   <li> <a href="https://fuerteventuractiva.es/en/popcorn-beach/" target="_blank">Popcorn beaches</a> in Fuerteventura. They are made from <a href="https://en.wikipedia.org/wiki/Rhodolith" target="_blank">Rhodoliths</a> that are shaped like popcorn. Popcorn Playa (28.752446865967023, -13.899711667958275) is one of these Popcorn beaches.</li>
