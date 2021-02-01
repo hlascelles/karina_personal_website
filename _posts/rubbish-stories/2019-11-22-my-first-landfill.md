@@ -6,7 +6,7 @@ meta_description: It was already Thursday afternoon, I had to catch my flight on
 show_meta: false
 header: no
 categories:
-    - stories
+    - rubbish-stories
 story_post: true
 
 ---

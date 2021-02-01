@@ -65,9 +65,11 @@ During my trip in October - December 2020 I visited Tenerife, La Gomera (the  gi
 
 
 <h4>Tips</h4>
-Best chain of supermarkets - Mercadona and HyperDino. Lidl has good selection of vegetarian stuff too.
+Best supermarket chains: Mercadona and HyperDino. Lidl has good selection of vegetarian stuff too. Some supermarkets don't allow backpacks inside, don't worry - they don't sell anything edible either.
 <br>
 Local car hire company that might not appear on aggregate websites: Cicar
+<br>
+Sim cards: Orange is better than Movistar. Set aside an hour for queueing and waiting for your sim card to be registered with your passport.
 <br>
 Gas stations that allow to check tyre pressure and top up air for free: Repsol
 <br>

@@ -6,7 +6,7 @@ meta_description: Today was the day. I left my place without my backpack. I left
 show_meta: false
 header: no
 categories:
-    - stories
+    - rubbish-stories
 story_post: true
 
 ---

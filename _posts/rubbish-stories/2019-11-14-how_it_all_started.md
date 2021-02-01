@@ -6,7 +6,7 @@ meta_description: What did you believe in as a kid? Santa Claus? Magic fairies? 
 show_meta: false
 header: no
 categories:
-    - stories
+    - rubbish-stories
 story_post: true
 
 ---
