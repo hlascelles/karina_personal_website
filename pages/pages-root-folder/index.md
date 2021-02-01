@@ -22,7 +22,7 @@ widget3:
   url: /goals/phd/
   image: phd.jpg
   title: <a href="/goals/phd/" target="_self">3. My PhD was at the interface of computer science and biology.</a>
-  text: I spent 8 years in academia - a BSc in mathematics that I never finished, an MSc in mathematics and finally a PhD at UCL. If you are considering whether to do a PhD or if you are already doing one and feeling stuck, go get in touch. I'm good at asking the right questions to help you figure out what is right for you.
+  text: I spent 8 years in academia - a BSc in mathematics that I never finished, an MSc in mathematics and finally a PhD at UCL. If you are considering whether to do a PhD or if you are already doing one and are feeling stuck, do get in touch. I'm good at asking the right questions to help you figure out what is right for you.
   button: true
 
 ---

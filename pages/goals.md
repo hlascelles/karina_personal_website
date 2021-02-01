@@ -17,7 +17,7 @@ widgets:
   image: bio-maths.jpg
   title: Never stop making friends
   dates: Since Apr 2018
-  text: I've noticed that at a certain age people stop making new friends. I realised that some day I might lose my ability to strike a conversation with a stranger and grow it into a friendship. To avoid that, I decided to meet at least a couple of new people every week. <a href="https://lunchclub.com/" target="_blank">Lunchclub</a> has been a huge help. Apart from making new friends, this has changed my perspective on the world.
+  text: I've noticed that at a certain age people stop making new friends. I realised that some day I might lose my ability to strike up a conversation with a stranger and grow it into a friendship. To avoid that, I decided to meet at least a couple of new people every week. <a href="https://lunchclub.com/" target="_blank">Lunchclub</a> has been a huge help. Apart from making new friends, this has changed my perspective on the world.
 - url: /goals/big-cities/
   image: big_cities.jpg
   title: <a href="/goals/big-cities/" target="_self">Visit world's biggest cities</a>
@@ -37,7 +37,7 @@ widgets:
   image: airbnb.jpg
   title: Become a superhost
   dates: May 2018 - Sep 2018
-  text: I wondered what does the superhost label mean on AirBnB. At the moment in my life when I was living alone and had flexible work hours, I decided to find out! It was a fun journey of meeting people from different walks of life, chatting late into the night over a bottle of wine, surprising my guests with a smell of pancakes in the morning. I got the label.
+  text: Ever wondered what the superhost label means on AirBnB? At the moment in my life when I was living alone and had flexible work hours, I decided to find out! It was a fun journey of meeting people from different walks of life, chatting late into the night over a bottle of wine, surprising my guests with a smell of pancakes in the morning. I got the label.
 
 ---
 
