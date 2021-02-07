@@ -18,9 +18,9 @@ widgets:
   title: Never stop making friends
   dates: Since Apr 2018
   text: I've noticed that at a certain age people stop making new friends. I realised that some day I might lose my ability to strike up a conversation with a stranger and grow it into a friendship. To avoid that, I decided to meet at least a couple of new people every week. <a href="https://lunchclub.com/" target="_blank">Lunchclub</a> has been a huge help. Apart from making new friends, this has changed my perspective on the world.
-- url: /goals/big-cities/
+- url: /travel/cities/
   image: big_cities.jpg
-  title: <a href="/goals/big-cities/" target="_self">Visit world's biggest cities</a>
+  title: <a href="/travel/cities/" target="_self">Visit world's biggest cities</a>
   dates: Since Jun 2009
   text: I am a big city addict. I only truly feel alive when I live in a big city. Apart from London, my current home, I'd love to spend some time living in Mexico City, Singapore and Mumbai. My goal is to visit all cities with over 5 million people.
 - url:
