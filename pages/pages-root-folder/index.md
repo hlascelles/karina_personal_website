@@ -13,7 +13,7 @@ widget1:
   text: I've visited 40 countries so far. I avoid hotels when possible and I dislike tourist attractions. For me travelling is about exploring nature, architecture, cuisines and cultures around the world. Instead of visiting art galleries, I prefer to go for a walk looking for graffiti art. At night I prefer to wander around a busy port instead of pub crawling.
   button: true
 widget2:
-  url: /goals/big-cities/
+  url: /travel/cities/
   image: big_cities.jpg
   title: <a href="/travel/cities/" target="_self">2. I am a big city addict.</a>
   text: I love the feeling of being in the middle of nowhere. Camping deep in a desert and hiking from the last stop of a rarely used train line are amongst the happiest memories I have. But in the long term, I only truly feel alive when I live in a big city. I'd love to spend some time living in Mexico City, Singapore and Mumbai. My goal is to visit all cities with over 5 million people.
