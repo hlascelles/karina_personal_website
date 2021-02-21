@@ -1,9 +1,8 @@
 ---
-layout: page_kz
-title:  ""
-breadcrumb: true
-show_meta: true
+layout: kz-page
+title:  
 header: no
+cakes_post: true
 categories:
     - food
 
@@ -11,20 +10,16 @@ categories:
 
 ### Ingredients:
 
-* 
+* ...
 
 ### Methods:
 
-* 
+* ...
 
-**Serving suggestions:** .
+**Serving suggestions:** ...
 
-**Note:** .
+**Note:** ...
 
-### Ideas:
+**Inspired by:** [www.deliciousmagazine.co.uk][1]
 
-* 
-
-**Inspired by:** [www.greatbritishchefs.com][1]
-
-[1]: https://www.greatbritishchefs.com/recipes/aubergine-chocolate-cake-recipe
+[1]: https://www.deliciousmagazine.co.uk/recipes/paul-hollywoods-ultimate-carrot-cake/
