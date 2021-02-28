@@ -1,19 +1,46 @@
 ---
 layout: kz-page
-title: "Food for thought"
+title: Recipes for those who don't like to cook
 permalink: "/food/"
 meta_description:
+teaser: All recipe websites I've come across have one thing in common - they are made by people who love to cook. Here I made a list of my favourite recipes to share with people like me, who would rather go out for a run than cook. The recipe instructions are optimised for speed and using less items you'll need to wash later. All amounts are in grams, even for liquids, so you can add everything into a container on the scales, without using any measuring devices. No photos included because it doesn't matter how it looks like; the goal is to make nutritious and satisfying meals. You won't start liking to cook, but you'll love the food you make and how it makes you feel.
 header:
   title: ""
   image_fullwidth: main.jpg
+widgets:
+- url: /food/vegetable/
+  image: vegetables.jpg
+  title: <a href="/food/vegetable/" target="_self">Vegetable-centric dishes</a>
+  text:
+
+- url: /food/carbs-fats/
+  image: carbs-fats.jpg
+  title: <a href="/food/carbs-fats/" target="_self">Party of carbs and fats</a>
+  text:
+
+- url: /food/cake/
+  image: cake.jpg
+  title: <a href="/food/cake/" target="_self">Oven baked happiness</a>
+  text:
+
+- url: /food/sweet/
+  image: sweet-stuff.jpg
+  title: <a href="/food/sweet/" target="_self">Sweet stuff</a>
+  text:
+
+- url: /food/start/
+  image: start.jpg
+  title: <a href="/food/start/" target="_self">Where to start</a>
+  text:
 
 ---
 
-Full disclosure - I don't like cooking. I would much rather spend my time exercising or reading, while somebody else cooks for me. What I do like is fresh, tasty food that makes my body happy. Home cooked food is just so much better than supermarket or restaurant food, that I am ready to cook for it.
-
-Here I want to share my favourite recipes. My goal is not to create the most amazing dish possible, I am ready to compromise on presentation and even on a bit of flavour to achieve my main objective - a meal that I can make from raw ingredients, quickly and without wasting food. I try not to buy anything that has an ingredient list, with some obvious exceptions like pasta and chocolate. If a recipe could be improved with one spoon of an ingredient that I am not likely to use for any other dishes, I am happy to skip it to avoid binning the rest of the jar later.
-
-In my freezer I have a bag of home-cooked chickpeas, a pre-cut loaf of sourdough bread and a bag of peeled garlic cloves. Using these as a quick source of proteins, carbs and flavour, I can buy any vegetable on my way home and have something to eat ready in 5 minutes. When I do have the time and energy to make something better, I make these recipes that I'd love to share with you.
-
-
-Please bear with me, I'll upload the recipes as soon as possible...
+<div class="row">
+  {% for widget in page.widgets %}
+    {% assign loopindex = forloop.index | modulo: 3 %}
+    <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>
+    {% if loopindex == 0 %}
+  <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
+    {% endif %}
+  {% endfor %}
+</div>
