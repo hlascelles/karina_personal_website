@@ -22,12 +22,12 @@ widgets:
   image: big_cities.jpg
   title: <a href="/travel/cities/" target="_self">Visit world's biggest cities</a>
   dates: Since Jun 2009
-  text: I am a big city addict. I only truly feel alive when I live in a big city. Apart from London, my current home, I'd love to spend some time living in Mexico City, Singapore and Mumbai. My goal is to visit all cities with over 5 million people.
+  text: I am a big city addict. I only truly feel alive when I live in a big city. Exploring Tokyo was a breathtaking passionate affair with this city like no other. I fell in love with Mexico City during my two weeks there. Spending time in bustling cities in India makes me happy. London is the true love of my life. My goal is to visit all cities with over 5 million people.
 - url:
   image: pytorch.jpg
   title: Have my own Meetup
   dates: Jun 2019 - Feb 2021
-  text: I created the <a href="https://www.meetup.com/London-PyTorch-Meetup/" target="_blank">London PyTorch Meetup</a> together with <a href="https://www.mindstream-ai.com" target="_blank">Paul Dowling</a>. Our aim was to provide a platform where London-based ML professionals can share their experiences, make new friends, find advice and initiate collaborations. After 15 events both in person and online the group grew to 1000+ members.
+  text: I created the <a href="https://www.meetup.com/London-PyTorch-Meetup/" target="_blank">London PyTorch Meetup</a> together with <a href="https://www.mindstream-ai.com" target="_blank">Paul Dowling</a>. Our aim was to provide a platform where London-based machine learning professionals can share their experiences, make new friends, find advice and initiate collaborations. After 15 events both in person and online the group grew to more than 1000 members.
 - url:
   image: airbnb.jpg
   title: Become a superhost
@@ -37,7 +37,7 @@ widgets:
   image: phd.jpg
   title: <a href="/goals/phd/" target="_self">Get a PhD</a>
   dates: Sep 2015 - Sep 2019
-  text: I spent 8 years in academia - a BSc in mathematics that I never finished, an MSc in mathematics and finally a PhD at UCL. If you are considering whether to do a PhD or if you are already doing one and feeling stuck, go get in touch. I'm good at asking the right questions to help you figure out what is right for you.
+  text: My academic background is in mathematics. My PhD thesis was on applications of machine learning to transcriptomics, with a chapter on de novo evolution of proteins. Based on my experience, here is <a href="/goals/phd/" target="_self">my advice</a> on how to select the right PhD, make the most of it, pass your viva and finally make the most of your new title.
 
 ---
 
