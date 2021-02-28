@@ -3,11 +3,10 @@ layout: kz-page
 subheadline: 
 title: A white garbage truck with pink flowers
 meta_description: Today was the day. I left my place without my backpack. I left my sunglasses behind too, not to look like a tourist too much. Not knowing how long my adventure will be, I started by stuffing myself in my local vegetarian restaurant. Then I headed towards the central part of Coyoacan. I looked up "waste management system" in Spanish in my dictionary, just in case.
-show_meta: false
+story_post: true
 header: no
 categories:
     - rubbish-stories
-story_post: true
 
 ---
 

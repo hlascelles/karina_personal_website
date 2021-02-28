@@ -3,11 +3,10 @@ layout: kz-page
 subheadline: 
 title: How it all started
 meta_description: What did you believe in as a kid? Santa Claus? Magic fairies? I believed in a trash can. Whenever something was broken or old my mum would always say "just put it in the trash can". No matter what, it was always the easiest solution. We would take a bag of trash to the big bin behind our apartment building. From there it magically disappeared.
-show_meta: false
+story_post: true
 header: no
 categories:
     - rubbish-stories
-story_post: true
 
 ---
 

@@ -3,11 +3,10 @@ layout: kz-page
 subheadline: 
 title: My first ever visit to a landfill
 meta_description: It was already Thursday afternoon, I had to catch my flight on Monday and I started to accept the fact that I'll leave Mexico without gaining access to a landfill. As I was biting into my "tamales con tofu" (probably not the most typical Mexican dish), my phone buzzed with a message from a guy I met at a sustainable entrepreneurship conference - "Can you come at noon? Tomorrow." He sent me the GPS coordinates of where I should go and instructed me to ask for Pedro when I arrive.
-show_meta: false
+story_post: true
 header: no
 categories:
     - rubbish-stories
-story_post: true
 
 ---
 
