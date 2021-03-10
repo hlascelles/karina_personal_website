@@ -116,9 +116,9 @@ widgets:
   title: 22. Malta
   cols: 3
 
-- url:
+- url: /travel/mexico/
   image: mexico.jpg
-  title: 23. Mexico
+  title: <a href="/travel/mexico/" target="_self">23. Mexico</a>
   cols: 3
 
 - url:
@@ -181,9 +181,9 @@ widgets:
   title: 35. Slovakia
   cols: 3
 
-- url:
+- url: /travel/spain/
   image: spain.jpg
-  title: 36. Spain
+  title: <a href="/travel/spain/" target="_self">36. Spain</a>
   cols: 3
 
 - url:
