@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: "Pasta al Pesto (sundried tomatoes, almonds and garlic)"
+title: Pasta al Pesto (sundried tomatoes, almonds and garlic)
 header: no
 carb_post: true
 categories:
