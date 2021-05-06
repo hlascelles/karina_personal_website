@@ -67,7 +67,7 @@ I visited Fuerteventura (20.2 million years old island), Gran Canaria (14.6 Ma),
 <ul>
   <li>Sim cards: Orange is better than Movistar. Set aside an hour for queueing and waiting for your sim card to be registered with your passport.</li>
   <li>Best supermarket chains: Mercadona and HyperDino. Lidl has good selection of vegetarian stuff too. Some supermarkets don't allow backpacks inside, but they don't sell anything edible either.</li>
-  <li>Useful website for island hopping is <a href="https://www.hellocanaryislands.com/travelling-between-islands/" target="_blank">hellocanaryislands.com</a>.</li>
+  <li>Useful website for island hopping is <a href="https://www.hellocanaryislands.com/travelling-between-the-islands/" target="_blank">hellocanaryislands.com</a>.</li>
   <li>Hiking routes on Canary islands are well marked with colourful stripes of paint.</li>
   <li>Local car hire company that might not appear on aggregate websites: Cicar</li>
   <li>Gas stations that allow to check tyre pressure and top up air for free: Repsol</li>
