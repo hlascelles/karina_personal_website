@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Chocolate truffle
+title: Chocolate truffles
 header: no
 sweet_post: true
 categories:

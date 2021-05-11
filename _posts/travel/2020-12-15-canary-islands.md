@@ -2,7 +2,6 @@
 layout: kz-page
 subheadline: 
 title: Canary islands
-teaser: October 2020 - February 2021
 show_meta: false
 header: no
 categories:
@@ -10,7 +9,7 @@ categories:
 
 ---
 
-I visited Fuerteventura (20.2 million years old island), Gran Canaria (14.6 Ma), Tenerife (11.9 Ma), La Gomera (9.4 Ma) and La Palma (1.7 Ma). Fuerteventura is best for beaches; Tenerife is best for volcanoes; La Gomera (the  giant lemon squeezer) and La Palma are best for hiking in lush forests; La Palma is best for star gazing.
+Fuerteventura (20.2 million years old island) is best for beaches; Tenerife (11.9 million years old island) is best for volcanoes; La Gomera (the giant lemon squeezer, 9.4 million years old island) and La Palma are best for hiking in lush forests; La Palma (1.7 million years old island) is best for star gazing.
 
 <h4>Reasons to go:</h4>
 
@@ -24,17 +23,17 @@ I visited Fuerteventura (20.2 million years old island), Gran Canaria (14.6 Ma),
   <li>Volcano Bayuyo in Fuerteventura offers a beautiful circular walk around the rim of it's caldera. Stunning views of the north part of Fuerteventura.</li>
 </ul>
 
-<h5>2. Forest hiking</h5>
+<h5>2. Sand dunes</h5>
+<ul>
+  <li>Las Dunas de Maspalomas in Gran Canaria (14.6 million years old island) - a chance to experience tall sand dunes within minutes walk from the city.</li>
+  <li>Parque Natural de Corralejo in Fuerteventura - expansive sand dunes with loads of interesting plants, insects and footprints of diverse wildlife. Some of the sand here is made from shells of marine creatures, it's white and completely different from what you'll find in Las Dunas de Maspalomas.</li>
+</ul>
+
+<h5>3. Forest hiking</h5>
 <ul>
   <li>Ruta 18 in the Garajonay National Park in La Gomera - a circular trail through different ecosystems. Includes Mirador Del Morro De Agando which has the best view of the whole island.</li>
   <li>Parque Rural de Anaga in Tenerife. Permits are required for hiking in <a href="https://centralreservas.tenerife.es/actividad/1" target="_blank">El Pijaral</a> and <a href="https://centralreservas.tenerife.es/actividad/7" target="_blank">Zona de Exclusión de Monte de Aguirre</a>.</li>
   <li>Bosque de los Tilos in La Palma. Great bird watching. Rockfalls along the path.</li>
-</ul>
-
-<h5>3. Sand dunes</h5>
-<ul>
-  <li>Las Dunas de Maspalomas in Gran Canaria - a chance to experience tall sand dunes within minutes walk from the city.</li>
-  <li>Parque Natural de Corralejo in Fuerteventura - expansive sand dunes with loads of interesting plants, insects and footprints of diverse wildlife. Some of the sand here is made from shells of marine creatures, it's white and completely different from what you'll find in Las Dunas de Maspalomas.</li>
 </ul>
 
 <h5>4. Other stuff</h5>
@@ -46,6 +45,7 @@ I visited Fuerteventura (20.2 million years old island), Gran Canaria (14.6 Ma),
   <li>Wave watching in Parque Natural Jandia in Fuerteventura. View from Faro Punta Pesebre (lighthouse) is amazing.</li>
   <li>Las Lagunitas in Isla de Lobos, just off the coast of Fuerteventura. A fragile salty wetland ecosystem of outstanding beauty. Great for watching birds and insects. A permit to visit might be required, check online. Best to visit on a less busy day.</li>
 </ul>
+
 
 
 <h4>Do before you go:</h4>

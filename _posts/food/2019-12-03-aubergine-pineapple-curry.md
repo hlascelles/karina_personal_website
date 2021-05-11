@@ -1,5 +1,5 @@
 ---
-layout: page_kz
+layout: kz-page
 title:  Aubergine Pineapple curry
 header: no
 aubergine_post: true
