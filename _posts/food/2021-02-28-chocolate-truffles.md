@@ -14,7 +14,7 @@ categories:
 * 50g butter
 * 300g dark chocolate
 * 30g cacao powder
-* a shot of rum
+* 5-10 tablespoons of rum
 
 
 ### Methods:
