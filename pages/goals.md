@@ -18,9 +18,9 @@ widgets:
   title: Never stop making friends
   dates: Since Apr 2018
   text: I've noticed that at a certain age people stop making new friends. I realised that some day I might lose my ability to strike up a conversation with a stranger and grow it into a friendship. To avoid that, I decided to meet at least a couple of new people every week. <a href="https://lunchclub.com/" target="_blank">Lunchclub</a> has been a huge help. Apart from making new friends, this has changed my perspective on the world.
-- url: /travel/cities/
+- url: /travel-stories/cities/
   image: big_cities.jpg
-  title: <a href="/travel/cities/" target="_self">Visit world's biggest cities</a>
+  title: <a href="/travel-stories/cities/" target="_self">Visit world's biggest cities</a>
   dates: Since Jun 2009
   text: I am a big city addict. I only truly feel alive when I live in a big city. Exploring Tokyo was a breathtaking passionate affair with this city like no other. I fell in love with Mexico City during my two weeks there. Spending time in bustling cities in India makes me happy. London is the true love of my life. My goal is to visit all cities with over 5 million people.
 - url:
@@ -41,12 +41,4 @@ widgets:
 
 ---
 
-<div class="row">
-  {% for widget in page.widgets %}
-    {% assign loopindex = forloop.index | modulo: 3 %}
-    <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>
-    {% if loopindex == 0 %}
-  <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
-    {% endif %}
-  {% endfor %}
-</div>
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}

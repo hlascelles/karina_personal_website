@@ -4,7 +4,7 @@ title:
 header: no
 cakes_post: true
 categories:
-    - food
+    - kitchen-stories
 
 ---
 

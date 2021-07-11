@@ -15,11 +15,11 @@
   side: left
 
 - title: "Travel stories"
-  url: "/travel/"
+  url: "/travel-stories/"
   side: left
 
 - title: "Kitchen stories"
-  url: "/food/"
+  url: "/kitchen-stories/"
   side: left
 
 # - title: "Projects"
