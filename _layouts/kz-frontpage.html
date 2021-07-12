@@ -39,6 +39,7 @@ format: frontpage
 
 {% unless site.posts == empty %}
     {% assign primary_posts = site.posts | where: "primary_post", true %}
+    {% assign story_posts = site.posts | where: "story_post", true %}
 
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
@@ -76,10 +77,8 @@ format: frontpage
         <div class="medium-6 columns">
             <h3 style="margin-top: 0px;">Recently published:</h3>
             <ul class="side-nav">
-                {% for post in site.posts limit:7 %}
-                    {% unless post.primary_post == true %}
-                      <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &middot; <strong>{{ post.title }}</strong></a></li>
-                    {% endunless %}
+                {% for post in story_posts limit:7 %}
+                    <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &middot; <strong>{{ post.title }}</strong></a></li>
                 {% endfor %}
                 <!-- Link to the archive -->
                 <li class="text-right"><a href="/archive/"><strong>{{ site.data.language.to_archive }}</strong></a></li>
