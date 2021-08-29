@@ -9,7 +9,8 @@ categories:
 
 ---
 
-Fuerteventura (20.2 million years old island) is best for beaches; Tenerife (11.9 million years old island) is best for volcanoes; La Gomera (the giant lemon squeezer, 9.4 million years old island) and La Palma are best for hiking in lush forests; La Palma (1.7 million years old island) is best for star gazing.
+Fuerteventura (20.2 million years old island) is best for beaches; Tenerife (11.9 million years old island) is best for volcanoes; La Gomera (the giant lemon squeezer, 9.4 million years old island) and La Palma are best for hiking in lush forests; La Palma (1.7 million years old island) is best for star gazing. 
+<p style="color:#AEAEAE">Lanzarote is still on my to-visit list.</p>
 
 <h4>Reasons to go:</h4>
 
