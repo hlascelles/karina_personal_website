@@ -5,7 +5,7 @@ title: Rubbish stories
 teaser: "Here you can find snapshots of interesting days in my waste management career and find out how I got into waste management in the first place. <br/> <br/> July 2021: Since the pandemic started all of my work has been online, video calls don't make good stories. The most exciting thing that happened recently was in Isla Mujeres, Mexico. I approached a security guard at a landfill - the only waste management facility on the island. I wanted to say 'I can see a big pile of plastic furniture there - is that for recycling?', but he only listened to the first couple of words in my broken Spanish and mistook it for 'can I see?'. 'Sure, go see whatever you want,' he replied. I walked in, I was the only person in the whole landfill apart from the security guard. I walked up to the very top of the rubbish pile and had a good look around. This was my first time in a landfill with no protective equipment, I'm sure it's not the last."
 header:
   title: ""
-  image_fullwidth: rubish-stories.jpg
+  image_fullwidth: rubbish-stories.jpg
 
 ---
 

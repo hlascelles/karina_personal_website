@@ -22,6 +22,10 @@
   url: "/kitchen-stories/"
   side: left
 
+- title: "Everything else"
+  url: "/misc/"
+  side: left
+
 # - title: "Projects"
 #   url: "/projects/"
 #   side: left
