@@ -121,11 +121,14 @@ widgets:
   image: switzerland.jpg
   title: 38. Switzerland
 - url:
+  image: turkey.jpg
+  title: 39. Turkey
+- url:
   image: uk.jpg
-  title: 39. United Kingdom
+  title: 40. United Kingdom
 - url:
   image: usa.jpg
-  title: 40. USA
+  title: 41. USA
 
 ---
 

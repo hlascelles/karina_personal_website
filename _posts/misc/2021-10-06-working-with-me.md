@@ -13,7 +13,7 @@ Thank you so much for considering working with me.
 Let's learn from each other!
 Here are some things I'd like you to know about me:
 
-1. **I am not British.**
+1. **I am not British**
 
     I always say exactly what I mean, which in theory should make it easy to work with me. 
     Unfortunately, this also means that I don't sound as polite as British people do.

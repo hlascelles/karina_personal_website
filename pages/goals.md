@@ -8,11 +8,11 @@ header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
-- url: /goals/samudra/
+- url: https://samudra.world/
   image: samudra.jpg
-  title: <a href="/goals/samudra/" target="_self">Improve waste management worldwide</a>
+  title: <a href="https://samudra.world/" target="_blank">Improve waste management globally</a>
   dates: Since Feb 2020
-  text: My goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human and animal health. Currently I am working towards increasing the coverage of waste collection services in low and medium income countries.
+  text: My goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and ecosystem health. To achieve this I am building <a href="https://samudra.world/" target="_blank">Samudra.world</a> - an international organisation with the long-term goal to become an IGO that will act as a global orchestrator aligning efforts of major stakeholders in the waste management sector, and to have sufficient capacity to facilitate decision making on a global level.
 - url:
   image: bio-maths.jpg
   title: Never stop making friends
