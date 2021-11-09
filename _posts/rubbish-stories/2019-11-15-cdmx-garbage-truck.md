@@ -5,13 +5,13 @@ title: A white garbage truck with pink flowers
 meta_description: Today was the day. I left my place without my backpack. I left my sunglasses behind too, not to look like a tourist too much. Not knowing how long my adventure will be, I started by stuffing myself in my local vegetarian restaurant. Then I headed towards the central part of Coyoacan. I looked up "waste management system" in Spanish in my dictionary, just in case.
 story_post: true
 header: no
+show_meta: true
+first_date: 15 Nov 2019
+location: Coyoacán, Mexico city
 categories:
     - rubbish-stories
 
 ---
-
-<p class="subheadline">15 november 2019</p>
-<p class="subheadline b15">Coyoacán, Mexico city</p>
 
 Today was the day. I left my place without my backpack. I left my sunglasses behind too, not to look like a tourist too much. Not knowing how long my adventure will be, I started by stuffing myself in my local vegetarian restaurant. Then I headed towards the central part of Coyoacan. I looked up "waste management system" in Spanish in my dictionary, just in case. There were a lot of street cleaners on my way, but no visible garbage trucks. At every crossing I evaluated my options and chose a direction that seemed to be most likely to lead to an encounter. It was my first time walking aimlessly around the city, I was hoping to feel relaxed, but I was scared of doing what I was planning to do. Then, out of nowhere, I saw a white garbage truck with pink flowers drawn on its sides. I stared at the truck and at the people working on it. They noticed me staring, but didn't say anything. Eventually the truck drove off. 
 

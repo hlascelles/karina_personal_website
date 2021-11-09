@@ -120,9 +120,9 @@ widgets:
 - url:
   image: switzerland.jpg
   title: 38. Switzerland
-- url:
+- url: /travel-stories/turkey/
   image: turkey.jpg
-  title: 39. Turkey
+  title: <a href="/travel-stories/turkey/" target="_self">39. Turkey</a> 
 - url:
   image: uk.jpg
   title: 40. United Kingdom

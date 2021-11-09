@@ -5,13 +5,13 @@ title: How I got into waste management
 meta_description: What did you believe in as a kid? Santa Claus? Magic fairies? I believed in a trash can. Whenever something was broken or old my mum would always say "just put it in the trash can". No matter what, it was always the easiest solution. We would take a bag of trash to the big bin behind our apartment building. From there it magically disappeared.
 story_post: true
 header: no
+show_meta: true
+first_date: Before 2009
+location: Riga, Latvia
 categories:
     - rubbish-stories
 
 ---
-
-<p class="subheadline">Before 2009</p>
-<p class="subheadline b15">Riga, Latvia</p>
 
 What did you believe in as a kid? Santa Claus? Magic fairies? I believed in a trash can. Whenever something was broken or old my mum would always say "just put it in the trash can". No matter what, it was always the easiest solution. We would take a bag of trash to the big bin behind our apartment building. From there it magically disappeared. Well, I would leave for school at 8 in the morning and get back from work at 10 in the evening, a lot of other things were probably going on in my neighbourhood without me noticing. It came as a shock when my mum invited me to "go check out that new shopping mall that was built on top of the old landfill". That day I found out about landfills. My trash can content did not disappear by magic after all. It's surprising how old I was when I found out. It just wasn't a topic people talk about.
 
