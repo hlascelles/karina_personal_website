@@ -64,71 +64,77 @@ widgets:
   image: riga.jpg
   title: 19. Latvia
 - url:
+  image: lesotho.jpg
+  title: 20. Lesotho
+- url:
   image: lithuania.jpg
-  title: 20. Lithuania
+  title: 21. Lithuania
 - url:
   image: malaysia.jpg
-  title: ﻿21. Malaysia
+  title: 22. Malaysia
 - url:
   image: malta.jpg
-  title: 22. Malta
+  title: 23. Malta
 - url: /travel-stories/mexico/
   image: mexico.jpg
-  title: <a href="/travel-stories/mexico/" target="_self">23. Mexico</a>
+  title: <a href="/travel-stories/mexico/" target="_self">24. Mexico</a>
 - url:
   image: montenegro.jpg
-  title: 24. Montenegro
+  title: 25. Montenegro
 - url:
   image: morocco.jpg
-  title: 25. Morocco
+  title: 26. Morocco
 - url:
   image: netherlands.jpg
-  title: 26. Netherlands
+  title: 27. Netherlands
 - url:
   image: north_macedonia.jpg
-  title: 27. North Macedonia
+  title: 28. North Macedonia
 - url:
   image: norway.jpg
-  title: 28. Norway
+  title: 29. Norway
 - url:
   image: oman.jpg
-  title: 29. Oman
+  title: 30. Oman
 - url:
   image: panama.jpg
-  title: 30. Panama
+  title: 31. Panama
 - url:
   image: warsaw.jpg
-  title: 31. Poland
+  title: 32. Poland
 - url:
   image: portugal.jpg
-  title: 32. Portugal
+  title: 33. Portugal
 - url:
   image: russia.jpg
-  title: 33. Russia
+  title: 34. Russia
 - url:
   image: singapore.jpg
-  title: 34. Singapore
+  title: 35. Singapore
 - url:
   image: bratislava.jpg
-  title: 35. Slovakia
+  title: 36. Slovakia
+- url:
+  image: south-africa.jpg
+  title: 37. South Africa
 - url: /travel-stories/spain/
   image: spain.jpg
-  title: <a href="/travel-stories/spain/" target="_self">36. Spain</a>
+  title: <a href="/travel-stories/spain/" target="_self">38. Spain</a>
 - url:
   image: sweden.jpg
-  title: 37. Sweden
+  title: 39. Sweden
 - url:
   image: switzerland.jpg
-  title: 38. Switzerland
+  title: 40. Switzerland
 - url: /travel-stories/turkey/
   image: turkey.jpg
-  title: <a href="/travel-stories/turkey/" target="_self">39. Turkey</a> 
+  title: <a href="/travel-stories/turkey/" target="_self">41. Turkey</a> 
 - url:
   image: uk.jpg
-  title: 40. United Kingdom
+  title: 42. United Kingdom
 - url:
   image: usa.jpg
-  title: 41. USA
+  title: 43. USA
 
 ---
 
