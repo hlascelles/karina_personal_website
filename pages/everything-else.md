@@ -9,15 +9,15 @@ header:
   image_fullwidth: main.jpg
 widgets:
 - url: /misc/phd-survival-guide/
-  image: phd-survival-guide.jpg
+  image: misc-phd-survival-guide.jpg
 - url: /misc/unconventional-career-advice/
-  image: unconventional-career-advice.jpg
+  image: misc-career-advice.jpg
+- url: 
+  image: misc-orchids.jpg
+- url:
+  image: misc-street-art.jpg
 - url: /misc/working-with-me/
-  image: working-with-me.jpg
-- url: /misc/street-art/
-  image: street-art.jpg
-- url: /misc/startup-ideas/
-  image: startup-ideas.jpg
+  image: misc-working-with-me.jpg
 
 ---
 

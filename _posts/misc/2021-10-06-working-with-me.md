@@ -3,7 +3,7 @@ layout: kz-page
 title: ""
 header: no
 image:
-    title: working-with-me.jpg
+    title: misc-working-with-me.jpg
 categories:
     - misc
 

@@ -3,7 +3,7 @@ layout: kz-page
 title: ""
 header: no
 image:
-    title: phd-survival-guide.jpg
+    title: misc-phd-survival-guide.jpg
 categories:
     - misc
 
