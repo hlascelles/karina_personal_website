@@ -71,7 +71,7 @@ That is what I would have done if I would't have this unspoken permission from [
 
 The second option is to change the world yourself. 
 Instead of donating to your favorite charity or volunteering for it, you can research the causes of the situation the charity is trying to address and do something about it.
-That might mean joining that charity as part of the team, or doing a startup, or working for the government, or going (back) to university, or doing a PhD, or perhaps [setting up a new department at a university][4]. 
+That might mean joining that charity as part of the team, or getting a job with another organisation, or doing a startup, or doing a PhD, or perhaps [setting up a new department at a university][4]. 
 The list is endless and it might even involve doing things that have not been done before.
 
 ...
@@ -110,8 +110,6 @@ https://youtu.be/Xdhmgp4IUL0 - forget the ropes
 https://youtu.be/P3fIZuW9P_M - "marry yourself"
 
 
-Nothing wrong with first option.
-if NOT, see last section of this article
 
  -->
 
@@ -206,7 +204,7 @@ Carbon13 https://carbonthirteen.com
         https://workonclimate.org/
     RSS -something outside your bubble
 
-    
+
 
 I give you permission if all you need is one
 
