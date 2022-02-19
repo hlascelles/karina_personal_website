@@ -34,7 +34,7 @@ Fuerteventura (20.2 million years old island) is best for beaches; Tenerife (11.
 
 * Ruta 18 in the Garajonay National Park in La Gomera - a circular trail through different ecosystems. Includes Mirador Del Morro De Agando which has the best view of the whole island.
 * Parque Rural de Anaga in Tenerife. Permits are required for hiking in [El Pijaral][1] and [Zona de Exclusión de Monte de Aguirre][2].
-* Bosque de los Tilos in La Palma. Great bird watching. Rock falls along the path.
+* Bosque de los Tilos in La Palma.
 
 
 ##### 4. Other stuff
