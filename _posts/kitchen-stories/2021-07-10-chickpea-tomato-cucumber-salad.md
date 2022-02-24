@@ -3,8 +3,9 @@ layout: kz-page
 title: Chickpea, tomato and cucumber salad
 header: no
 chickpea_post: true
-tomatoe_post: true
+tomato_post: true
 cucumber_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Pomegranate
+permalink: "/kitchen-stories/pomegranate/"
 header: no
-categories:
-    - kitchen-stories
-
 ---
 
 <div id="blog-index" class="row">

@@ -3,6 +3,7 @@ layout: kz-page
 title:  Banana chocolate muffins (Vegan, great for hiking.)
 header: no
 cakes_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

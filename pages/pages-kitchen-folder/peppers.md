@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Oven baked happiness
+title: Peppers
+permalink: "/kitchen-stories/peppers/"
 header: no
-categories:
-    - kitchen-stories
-
 ---
 
 <div id="blog-index" class="row">
@@ -16,7 +14,7 @@ categories:
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 			{% for post in site.posts limit:1000 %}
-				{% if post.cakes_post == true %}
+				{% if post.pepper_post == true %}
 					<dd class="accordion-navigation">
 						<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong></a>
 						<div id="panel{{ counter }}" class="content">

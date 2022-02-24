@@ -2,8 +2,7 @@
 layout: kz-page
 title: Vegetable-centric dishes
 header: no
-categories:
-    - kitchen-stories
+permalink: "/kitchen-stories/vegetables/"
 widgets:
 - url: /kitchen-stories/asparagus/
   image: asparagus.jpg

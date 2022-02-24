@@ -4,6 +4,7 @@ title: Butternut squash and pomegranate salad
 header: no
 butternut-squash_post: true
 pomegranate_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

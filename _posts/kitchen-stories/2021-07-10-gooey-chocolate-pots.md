@@ -3,6 +3,7 @@ layout: kz-page
 title: Gooey chocolate pots
 header: no
 cakes_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

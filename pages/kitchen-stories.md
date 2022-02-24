@@ -3,7 +3,7 @@ layout: kz-page
 title: Recipes for those who don't like to cook
 permalink: "/kitchen-stories/"
 meta_description:
-teaser: All recipe websites I've come across have one thing in common - they are made by people who love to cook. Here I made a list of my favourite recipes to share with people like me, who would rather go out for a run than cook. The recipe instructions are optimised for speed and using less items you'll need to wash later. All amounts are in grams, even for liquids, so you can add everything into a container on the scales, without using any measuring devices. No photos included because it doesn't matter how it looks like; the goal is to make nutritious and satisfying meals. You still won't love cooking, but you'll love the food you make and how it makes you feel.
+teaser: All recipe websites I've come across have one thing in common - they are made by people who love to cook. Here I made a list of my favourite recipes to share with people like me, who would rather go out for a run than cook. The recipe instructions are optimised for speed and using less items you'll need to wash later. All amounts are in grams, even for liquids, so you can add everything into a container on the scales, without using any measuring devices. No photos included because it doesn't matter how it looks like; the goal is to make nutritious and satisfying meals. You still won't love cooking, but you'll love the food you make and how it makes you feel. <br/> <a href="/kitchen-stories/recipes/" target="_self">See what's new.</a> 
 header: no
 widgets:
 - url: /kitchen-stories/vegetables/

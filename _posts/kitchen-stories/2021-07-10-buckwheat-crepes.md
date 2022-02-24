@@ -6,6 +6,7 @@ asparagus_post: true
 onion_post: true
 pepper_post: true
 sweet_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

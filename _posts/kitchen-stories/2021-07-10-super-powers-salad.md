@@ -6,8 +6,9 @@ asparagus_post: true
 spinach_post: true
 broccoli_post: true
 greenbean_post: true
-tomatoe_post: true
+tomato_post: true
 avocado_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

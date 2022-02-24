@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Spinach
+title: Party of carbs and fats
+permalink: "/kitchen-stories/carbs-fats/"
 header: no
-categories:
-    - kitchen-stories
-
 ---
 
 <div id="blog-index" class="row">
@@ -16,7 +14,7 @@ categories:
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 			{% for post in site.posts limit:1000 %}
-				{% if post.spinach_post == true %}
+				{% if post.carb_post == true %}
 					<dd class="accordion-navigation">
 						<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong></a>
 						<div id="panel{{ counter }}" class="content">
@@ -29,7 +27,4 @@ categories:
 		</dl>
 	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
-
-
-
  

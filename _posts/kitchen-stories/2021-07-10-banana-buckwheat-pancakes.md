@@ -3,6 +3,7 @@ layout: kz-page
 title: Banana buckwheat pancakes
 header: no
 sweet_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

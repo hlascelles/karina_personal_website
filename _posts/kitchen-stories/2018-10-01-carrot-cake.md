@@ -3,6 +3,7 @@ layout: kz-page
 title:  Carrot cake
 header: no
 cakes_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

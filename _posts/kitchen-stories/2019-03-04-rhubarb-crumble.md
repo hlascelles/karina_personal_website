@@ -3,6 +3,7 @@ layout: kz-page
 title:  Rhubarb crumble (or whatever is in season - peaches, apples and blackberries, etc.)
 header: no
 cakes_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Cucumber
+title: Asparagus
+permalink: "/kitchen-stories/asparagus/"
 header: no
-categories:
-    - kitchen-stories
 
 ---
 
@@ -16,7 +15,7 @@ categories:
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 			{% for post in site.posts limit:1000 %}
-				{% if post.cucumber_post == true %}
+				{% if post.asparagus_post == true %}
 					<dd class="accordion-navigation">
 						<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong></a>
 						<div id="panel{{ counter }}" class="content">

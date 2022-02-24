@@ -4,6 +4,7 @@ title: Quinoa grapefruit avocado salad
 header: no
 avocado_post: true
 quinoa_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

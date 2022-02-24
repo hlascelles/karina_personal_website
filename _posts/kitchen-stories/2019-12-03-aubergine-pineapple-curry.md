@@ -3,6 +3,7 @@ layout: kz-page
 title:  Aubergine Pineapple curry
 header: no
 aubergine_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

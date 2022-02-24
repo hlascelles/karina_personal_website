@@ -3,6 +3,7 @@ layout: kz-page
 title: Sweet and sour onions
 header: no
 onion_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Broccoli
+permalink: "/kitchen-stories/recipes/"
+title: Recipes
 header: no
-categories:
-    - kitchen-stories
-
 ---
 
 <div id="blog-index" class="row">
@@ -16,9 +14,9 @@ categories:
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 			{% for post in site.posts limit:1000 %}
-				{% if post.broccoli_post == true %}
+				{% if post.kitchen_post == true %}
 					<dd class="accordion-navigation">
-						<a href="#panel{{ counter }}"><span class="iconfont"></span><strong>{{ post.title }}</strong></a>
+						<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.date %}{{ post.date | date: "%Y-%m-%d" }}{% endif %} &middot; <strong>{{ post.title }}</strong></a>
 						<div id="panel{{ counter }}" class="content">
            					<p>{{ post.content }}</p>
 						</div>
@@ -29,7 +27,3 @@ categories:
 		</dl>
 	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
-
-
-
- 

@@ -3,6 +3,7 @@ layout: kz-page
 title: Aubergine chocolate cake (Gluten free, satisfying, rich, dense and moist cake.)
 header: no
 cakes_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

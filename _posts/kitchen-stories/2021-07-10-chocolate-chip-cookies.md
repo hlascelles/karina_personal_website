@@ -3,6 +3,7 @@ layout: kz-page
 title: Chocolate chip cookies
 header: no
 cakes_post: true
+kitchen_post: true
 categories:
     - kitchen-stories
 

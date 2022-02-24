@@ -2,10 +2,9 @@
 layout: kz-page
 title: Where to start
 header: no
+permalink: "/kitchen-stories/start/"
 image:
     title: start.jpg
-categories:
-    - kitchen-stories
 
 ---
 
