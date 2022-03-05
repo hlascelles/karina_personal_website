@@ -14,7 +14,7 @@ widgets:
   image: misc-career-advice.jpg
 - url: 
   image: misc-orchids.jpg
-- url:
+- url: /misc/street-art/
   image: misc-street-art.jpg
 - url: /misc/working-with-me/
   image: misc-working-with-me.jpg

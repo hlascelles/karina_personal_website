@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Quinoa lentil and tahini goodness
+title: Quinoa, lentil and tahini goodness
 header: no
 kitchen_post: true
 onion_post: true

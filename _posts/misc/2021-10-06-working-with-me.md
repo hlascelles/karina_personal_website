@@ -2,6 +2,8 @@
 layout: kz-page
 title: ""
 header: no
+first_date: 6 Oct 2021
+show_meta: true
 image:
     title: misc-working-with-me.jpg
 categories:
@@ -56,7 +58,7 @@ Here are some things I'd like you to know about me:
 
 4. **Please let me know if it's urgent**
 
-    I always try to reply to messages (emails, Signal, etc.) as soon as possible, but sometimes there is a delay because I am travelling or working towards a tight deadline.
+    I always try to reply to messages (emails, Signal, LinkedIn and Slack) as soon as possible, but sometimes there is a delay because I am travelling or working towards a tight deadline.
     I am swapping sim cards often, depending on which country I am working from, hence reaching me by phone is usually not the best option.
     If your message is urgent, please let me know by sending an email with a subject starting with the word URGENT. 
     I reply to these types of messages immediately (or as soon as I reach an internet connection).
@@ -65,3 +67,8 @@ Here are some things I'd like you to know about me:
     For example, if you are booking accomodation in a city I've been to before and would like a recommendation about the best neighbourhood to stay in, I'd love to share my tips while they are still useful.
     So please don't hesitate to prepend an email subject or a Signal message with the word URGENT if a prompt reply will make a difference to you.
     I'll do the same, if you don't mind.
+
+    Way too often I reply to an email that starts with the words "sorry for the late reply" and then i start my reply with exactly the same words. 
+    Let’s just drop that and save ourselves some keystrokes. 
+    I typically take a 48 hour break over Saturday and Sunday to keep my sanity, during that time I have no meetings and I don’t reply to most messages. 
+    If we are working towards a specific deadline though, I can work non-stop for as many days as necessary.
