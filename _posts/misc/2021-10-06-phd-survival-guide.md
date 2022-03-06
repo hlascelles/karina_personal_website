@@ -2,8 +2,10 @@
 layout: kz-page
 title: ""
 header: no
+first_date: 6 Oct 2021
+show_meta: true
 image:
-    title: misc-phd-survival-guide.jpg
+    title: misc-phd.jpg
 categories:
     - misc
 
@@ -13,12 +15,12 @@ categories:
 
 First, should you do a PhD?
 In my opinion, there are two reasons to do a PhD: if you know exactly what you want to do and if you have absolutely no idea what you want to do. 
-If you know what you want to do, it's simple - find the best scientists in this area, email them, figure out the funding and get started.
+If you know what you want to do, it's simple - find the best scientists in that area, email them, figure out the funding and get started.
 Unlike in industry, email addresses of people in academia are usually listed on university websites.
 If not, you can find the email address of a scientist by looking at the papers of which they are a corresponding author.
 
 If you have no idea what you want to do, as was in my case, PhD is an incredible opportunity to learn how to learn independently, figure things out and truly develop yourself, all while being paid (if you are lucky to have a scholarship).
-In the UK there are Centres for Doctoral Training (CDTs) and Doctoral Training Partnerships (DTPs) which, unlike a traditional PhD, allow you to gain a bit of experience before commiting to a years long project; similar options exist in other countries.
+In the UK there are Centres for Doctoral Training (CDTs) and Doctoral Training Programs (DTPs) which, unlike a traditional PhD, allow you to gain a bit of experience before commiting to a years long project; similar options exist in other countries.
 
 Science is all about asking the right questions.
 The same is true for choosing your PhD project.
@@ -29,14 +31,14 @@ Ask any PhD student, everyone had some days when they felt not interested in any
 That is why you should choose a PhD project that you consider important for the future of humanity. 
 This sense of importance will be the driving factor that will motivate you every day, no matter what.
 
-Explore your PhD options widely in terms of academic and geographical areas. 
+Explore your PhD options widely in terms of academic areas (and geographical ones too). 
 If you find a particular area of research important (and hopefully interesting too) and you are motivated to learn, you'll be able to make a valuable scientific contribution even if you have no prior training in that specific area. 
 On a selfish level, it also adds value to your PhD as you'll essentially get a free Masters degree in a new subject or two.
 
 
 # Starting a PhD
 
-It will be overwhelming - you'll face a mountain of papers to read and a ton of jargon to learn, and you'll be under pressure to actually start doing something as soon as possible.
+It will be overwhelming - you'll face a mountain of papers to read and a ton of jargon to learn, and you'll be under pressure to *actually start doing something* as soon as possible.
 It will be tempting to just get stuck into it, only leaving your desk to refill your coffee mug.
 But trust me, someday you'll be longing for somebody to talk to about your project, or worse about a problem in your research team. 
 You'll realise that people outside academia don't quite understand what bothers you. 
@@ -69,7 +71,7 @@ It might take a while to set it up just right, but it's totally worth it.
 
     Another good reason to use plain text formats is that they can be version controlled with tools like git (and tools built on top of them like GitHub). Have you ever had a folder with MyDocument, MyDocument-version2, MyDocumentFinal, MyDocumentFinal-withComments, MyDocumentFinalFinal, MyDocumentFinalFinal-version2? Investing your time in learning how to use a version control tool will definitely pay off in the long run. Once you fall in love with plain text formats, you should try LaTeX. It might seem like a lot of work to learn it, but once you get to the stage of writing your hundreds of pages long thesis you'll be so grateful to yourself for learning it early on. I've seen a face of a PhD student who wrote their thesis in a Google Doc, added a couple of final paragraphs a day before the submission, and then tried to open the document to print it for submission only to see "Cannot open: document too big" warning. Writing your thesis in a *what you see is what you type format* has all sorts of benefits, it would take a whole book to describe them all.
 
-    You'll probably end up with a lot of lists - a to-do list, a list of ideas to try, a list of papers you found on a particular topic, a list of other labs working in your field, etc. Putting all of these lists into WorkFlowy made my life much easier. You can keep both PhD and personal notes there, share parts of your notes with other people (in view-only mode), collaborate with other people, access your notes from any device by simply logging in through a browser and also work offline. 
+    You'll probably end up with a lot of lists - a to-do list, a list of ideas to try, a list of papers you found on a particular topic, a list of other labs working in your field, etc. Putting all of these lists into WorkFlowy made my life much easier. You can keep both PhD and personal notes there, share parts of your notes with other people (in view-only mode), collaborate with other people, access your notes from any device by simply logging in through a browser and also work offline (using a desktop app). 
 
     Three types of notes you should probably keep even though it might not seem like a good use of your time at first:
     * Notes about every paper you've read, including an easy way to find that paper again. At first it seems that you'll definitely remember what the paper was about, and even if you do forget you can always simply read it again. In the long run, it will save you a lot of time to have short summaries of relevant papers in a searchable format.
@@ -84,11 +86,20 @@ See [this paper][1] (even if you are not a computational biologist) for a great 
 4. **Following literature using RSS feeds.**
 A lot of junior scientists, even post-docs, rely on their supervisors to notify them about important papers coming out in their field.
 Often PhD students discover a relevant paper, which they should have been aware of, only when writing the literature review section of their thesis. 
-To become an independent and well informed scientist, I highly recommend following relevant journals through their RSS feeds using an aggregator app (Feedly is my favourite).
+To become an independent and well informed scientist, I highly recommend following relevant journals through their RSS feeds using an RSS reader app (Feedly is my favourite).
 First, it won't take any extra time as you can scroll through the app while waiting for a bus or for a kettle to boil.
 Second, by scrolling through all recent publications (instead of relying on keyword searches) you'll become aware of developments in fields adjacent to yours, and become more confident at networking events.
 Your supervisor will be amazed when you show them relevant papers that even they are not aware of.
 If you've never used RSS feeds before, it might seem unintuitive at first, but spending time setting it up is totally worth it.
+If you don't know where to start, add Nature RSS feed first.
+Apart from great science in a diverse set of disciplines, they also publish articles about PhD student mental health, tips for networking and scientific presentations, etc.
+Once you find papers relevant to your work, add those journals to your reader app.
+
+    Once you are using an RSS reader app, you can also use it for personal benefit. 
+    Add websites you typically visit (like Wired or Visual Capitalist); when you come across non-scientific articles you'd like to read in your spare time, send them to another app (Pocket is my favourite and it works offline).
+    I find that my brain archives languages I've studied for a bit but then stopped studying/using; I struggled with re-learning Spanish many times.
+    The fix I discovered is adding an RSS feed in Spanish to my reader app. 
+    Even if I never actually read any articles in Spanish, just seeing a couple of titles in Spanish every day sends a signal to my brain that the language is *in active use* and I keep learning some new words.
 
 5. **Getting access to your university's VPN and Eduroam.** 
 The VPN (if available through your university) might not be a great one, and it might be a hassle to get it working, but it will allow you to freely access pay-walled papers when working from a different location. 
@@ -103,11 +114,11 @@ Once connected to an Eduroam network of any university you'll be able to access 
 
 These are the five skills I found most valuable while doing a PhD:
 
-1. **Adjusting your mental zoom level.** Often you'll be faced with a task so big that you'll just sit and stare at it without making any progress for days. In that case, instead of hiding behind a mountain of relevant papers that you absolutely have to read, you should zoom in on a particular doable sub-sub-problem of a sub-problem of a problem you are addressing.  Find something that can be done in less than a day and enjoy the feeling of having made some progress. This [blog post][2] describes the value of focussing on making progress on the problem instead of on solving the problem.
+1. **Adjusting your mental zoom level.** Often you'll be faced with a task so big that you'll just sit and stare at it without making any progress for days. In that case, instead of hiding behind a mountain of relevant papers that you absolutely have to read, you should zoom in on a particular doable sub-sub-problem of a sub-problem of a problem you are working on. Find something that can be done in less than a day and enjoy the feeling of having made some progress. This [blog post][2] describes the value of focussing on making progress on the problem instead of on solving the problem.
 
-    Often you'll feel like you've been doing something for weeks and you still feel stuck. At that point you should zoom out and remind yourself what is the big problem you are working on. Are the details you are concerned with really important? Did you have in mind a couple of ways to approach the problem and now you are stuck on one of them? What achievable goals do you have to complete to be able to move on? Ultimately, no matter what's happening in your field or with your project, you have to submit your thesis, graduate and build your path into the future the way you want it to be. Find a way to get yourself unstuck by looking at the big picture, even if it's not a pretty picture, and making a concrete plan.
+    Often you'll feel like you've been doing something for weeks and you still feel stuck. At that point you should zoom out and remind yourself what is the big problem you are working on. Are the details you are concerned with really important? Did you have in mind a couple of ways to approach the problem and now you are stuck on one of them? What achievable goals do you have to complete to be able to move on? Ultimately, no matter what's happening in your field or with your project, you have to submit your thesis, graduate and build your path to the future you want to have. Find a way to get yourself unstuck by looking at the big picture, even if it's not a pretty picture, and making a concrete plan.
 
-    An advice you'll probably not hear from anyone else - read "The Martian" book. It wasn't intended that way, but the book touches on some many aspects of a PhD life - longing for guidance and support from your supervisor, longing for your supervisor to stop telling you what to do, feeling lonely, surmounting despair, bad situations getting worse, staying organised and creative, and finally a happy ending. 
+    An advice you'll probably not hear from anyone else - read "The Martian" book. It wasn't intended that way, but the book touches on many aspects of a PhD life - longing for guidance and support from your supervisor, longing for your supervisor to stop telling you what to do, feeling lonely, surmounting despair, bad situations getting worse, staying organised and creative, and finally a happy ending. 
 
 2. **Navigating the ocean of papers.** It will take time to learn to distinguish good papers from bad papers. An obvious one is if you see the words "we hope" in the methods section, but most of the time it will take more skill to judge the paper correctly. It doesn't help that [often bad papers are cited more frequently than good ones][3] and hence are easier to find. A good place to start is from a good review paper of your field, from there you can go both backwards (the papers they cite) and forwards in time (the papers that cite this paper, which you can find through Google Scholar "cited by" feature).
 
@@ -132,10 +143,11 @@ This [specific example][6] is probably irrelevant to you, but there is a lot to 
     Often conclusions made from examining the plot do not hold if the colour scheme is changed. 
     This is due to how our eyes work and how some pairs of colours are perceived as more similar than other pairs even if the objective distance between the colours in the colour space is the same.
     There is no "best" colour scheme, so remember to look at your plot in several different ones before making your conclusions.
+    It is a good idea to make your figures [color blind people friendly][11].
 
-5. **Making the most of your time as a PhD student**
+5. **Making the most of your time as a PhD student.**
 Being a PhD student is a great platform from which you can shape your future. 
-If you want to develop a particular skill (data analysis, web-design or event organising) you can always find a small project or an interesting collaboration that will allow you to do so.
+If you want to develop a particular skill (data analysis, web-design or organising events) you can always find a small project or an interesting collaboration that will allow you to do so.
 If you want to build connections in a particular country, perhaps to move there for work after graduation, you can travel there for conferences or even arrange a collaboration which will allow you to be a visiting student in one of the universities there for a short time.
 Do you want to speak with an expert in the industry or arrange a visit to a factory?
 You'll be surprised how many doors will open if you simply send an email to the right person saying "Hello! I'm a PhD student from X university and I'd like to...".
@@ -150,7 +162,7 @@ Your supervisor might say you don't have time for all this, but please don't lis
 
 Nobody will ever be as interested in the work you've been doing for the past several years as during your viva. Get into the mindset that it will be an enjoyable discussion and that you have as much right to steer it as your examiners do. That said, the goal is to have as little corrections to do as possible. That is because almost nobody will read your thesis, so working on your papers and taking next steps in your career is much more important both for you and for science in general. Here are my top five phrases to use during your viva to ensure that you get minimal amount of corrections:
 
-* "This is beyond the SCOPE of the project." - if the examiners say you forgot to do something, emphasise that in the limited time you had you executed a well designed project, this just wasn't part of it.
+* "This is beyond the scope of the project." - if the examiners say you forgot to do something, emphasize that in the limited time you had you executed a well designed project, this just wasn't part of it.
 
 * "You are right. I think it's best if I remove it from the thesis all together." - if the examiners say that something was done to insufficient depth or requires more validation. If it's a small thing, don't agree to do any corrections related to it! Emphasize that it was tangential to the core project and it's your mistake for including it into the thesis in the first place. To have a thesis with a good story, it's best to simply remove this tangential part.
 
@@ -167,7 +179,7 @@ After doing a PhD you have more options open to you than before you started your
 If you haven't even started your PhD yet, this will seem obvious to you.
 Surprisingly, this might no longer be obvious to you after you graduate. 
 Well-meaning people around you will tell you that you now absolutely have to pursue a career in the area of your PhD, and that all the other directions are now essentially off limits to you. 
-Some will even say that if you don't pursue a career in academia then you've wasted years of your life by doing a PhD. 
+Some will even say that if you don't pursue a career in your field then you've wasted years of your life by doing a PhD. 
 Just remember yourself before you started your PhD and you'll know this is not true.
 You've learnt a lot of soft and technical skills, you've learnt how to learn quickly and how to manage years long projects, you've learnt to work independently and question everything. 
 Your future will be as amazing as you'll make it.
@@ -185,5 +197,6 @@ If you'd like to discuss anything mentioned here, or if you think I can help you
 [6]: https://www.cell.com/fulltext/S1535-6108(02)00133-2
 [7]: https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/
 [8]: https://observablehq.com/@mbostock/methods-of-comparison-compared
-[9]: /misc/unconventional-career-advice/
+[9]: /misc/career-advice/
 [10]: mailto:hello@karina.io
+[11]: https://www.nature.com/articles/d41586-021-02696-z

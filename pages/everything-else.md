@@ -18,7 +18,7 @@ widgets:
 - url: 
   image: misc-orchids.jpg
   text: "Coming soon..."
-- url: /misc/unconventional-career-advice/
+- url: /misc/career-advice/
   image: misc-career.jpg
   text: "Coming soon..."
 - url: 
