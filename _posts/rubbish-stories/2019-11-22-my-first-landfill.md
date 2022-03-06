@@ -8,7 +8,7 @@ meta_description: It was already Thursday afternoon, I had to catch my flight on
 story_post: true
 header: no
 show_meta: true
-first_date: 22 Nov 2019
+article_date: 22 Nov 2019
 location: Santiago de Querétaro, Mexico
 widgets:
 - image: mexico-landfill-1.jpg

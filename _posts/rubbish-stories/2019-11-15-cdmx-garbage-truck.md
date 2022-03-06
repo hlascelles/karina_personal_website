@@ -6,7 +6,7 @@ meta_description: Today was the day. I left my place without my backpack. I left
 story_post: true
 header: no
 show_meta: true
-first_date: 15 Nov 2019
+article_date: 15 Nov 2019
 location: Coyoacán, Mexico city
 categories:
     - rubbish-stories
