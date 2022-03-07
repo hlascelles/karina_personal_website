@@ -11,6 +11,7 @@ categories:
 
 ---
 
+<a name="before"></a>
 # Choosing a PhD
 
 First, should you do a PhD?
@@ -35,7 +36,7 @@ Explore your PhD options widely in terms of academic areas (and geographical one
 If you find a particular area of research important (and hopefully interesting too) and you are motivated to learn, you'll be able to make a valuable scientific contribution even if you have no prior training in that specific area. 
 On a selfish level, it also adds value to your PhD as you'll essentially get a free Masters degree in a new subject or two.
 
-
+<a name="start"></a>
 # Starting a PhD
 
 It will be overwhelming - you'll face a mountain of papers to read and a ton of jargon to learn, and you'll be under pressure to *actually start doing something* as soon as possible.
@@ -109,7 +110,7 @@ There might be a different WiFi in your building or you might be on a wired conn
 That is because the same username and password will work on all Eduroam networks, including many universities in 106 different countries and even Geneva Airport.
 Once connected to an Eduroam network of any university you'll be able to access papers from pay-walled journals to which this university subscribes, even if your university has no access to them.
 
-
+<a name="during"></a>
 # Doing a PhD
 
 These are the five skills I found most valuable while doing a PhD:
@@ -137,7 +138,10 @@ This [specific example][6] is probably irrelevant to you, but there is a lot to 
 
     When you are a young scientist it is tempting to prove you are not an undergrad anymore by using overly complicated sentences and writing long paragraphs peppered with highly specialised words and as many acronyms as possible. But your contribution to science will be so much greater if you make your writing easy to consume, which means more people will actually read it. When proofreading my own writing, I focus on the question "What will the reader learn from this particular sentence and this particular word?" and ruthlessly delete everything that can be deleted. Don't ever worry about your paper or your thesis being too short. Everyone is busy, and your skill to communicate ideas and facts with a minimal number of words is valuable.
 
-    Don't hesitate to try out new ideas. A great idea I found (unfortunately I can no longer find the original source) is to help your reader visualise a process inside a biological cell or a dynamic of celestial objects by scaling everything to sizes of objects they've seen before in a room. Say a skin cell is about the size of a sofa, the compartment of the cell you are studying is the size of a cat and the enzyme that you've discovered (as big as a poppy seed) interacts with the protein the size of a hazelnut. You should still include your measurements expressed in microns, but it's the vivid image you've created with objects the reader is familiar with that will allow them to easily imagine what you are talking about and stay with you for the rest of the paper. I'm sure there are loads of creative ideas like this one out there, it's a shame they are rarely seen in actual papers.
+    Don't hesitate to try out new ideas. 
+    For example, to help your reader visualise a process inside a biological cell or a dynamic of celestial objects [consider scaling everything to sizes of objects typically seen in a room][12]. 
+    Say a skin cell is about the size of a sofa, the compartment of the cell you are studying is the size of a cat and the enzyme that you've discovered (as big as a poppy seed) interacts with the protein the size of a hazelnut. 
+    You should still include your measurements expressed in microns, but it's the vivid image you've created with objects the reader is familiar with that will allow them to easily imagine what you are talking about and stay with you for the rest of the paper. I'm sure there are loads of creative ideas like this one out there, it's a shame they are rarely seen in actual papers.
 
     One thing you should be really careful with is choosing colour schemes for your plots, see a good explanation [here][8].
     Often conclusions made from examining the plot do not hold if the colour scheme is changed. 
@@ -157,7 +161,7 @@ Do you have an idea about which companies you might want to work for after gradu
 Get to know people who work there while you are still doing your PhD.
 Your supervisor might say you don't have time for all this, but please don't listen - there is nothing more important than your future and there is no better time to start building it than today.
 
-
+<a name="viva"></a>
 # Surviving your viva
 
 Nobody will ever be as interested in the work you've been doing for the past several years as during your viva. Get into the mindset that it will be an enjoyable discussion and that you have as much right to steer it as your examiners do. That said, the goal is to have as little corrections to do as possible. That is because almost nobody will read your thesis, so working on your papers and taking next steps in your career is much more important both for you and for science in general. Here are my top five phrases to use during your viva to ensure that you get minimal amount of corrections:
@@ -172,7 +176,7 @@ Nobody will ever be as interested in the work you've been doing for the past sev
 
 * "Absolutely! I've just added this to my list. This is a brilliant suggestion. This will really improve my thesis, thank you so much for this suggestion!" - if the examiners give you a correction that takes 10min to do, agree immediately and loudly. Overemphasise it as much as possible, to make sure the examiners feel like your list of corrections is filling up and that they should not give you too many more.
 
-
+<a name="after"></a>
 # Making the most of your new title
 
 After doing a PhD you have more options open to you than before you started your PhD.
@@ -200,3 +204,4 @@ If you'd like to discuss anything mentioned here, or if you think I can help you
 [9]: /misc/career-advice/
 [10]: mailto:hello@karina.io
 [11]: https://www.nature.com/articles/d41586-021-02696-z
+[12]: https://www.nature.com/articles/nmeth.4300

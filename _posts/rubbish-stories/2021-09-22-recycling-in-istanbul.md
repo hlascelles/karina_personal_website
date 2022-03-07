@@ -6,7 +6,7 @@ categories:
 title: Plastic recycling in Istanbul
 meta_description: "Having watched so many videos of plastic recycling machinery in operation, I was thrilled to get a chance to visit a small plastic recycling company on the outskirts of Istanbul. I met Eldar (not his real name) and his sister, who volunteered to be my translator for the day, in central Istanbul. It took us more than an hour to navigate Istanbul’s morning traffic; once we got close to the recycling factory, we stopped for a traditional Turkish breakfast."
 show_meta: true
-article_date: 23 Sep 2021
+article_date: 22 Sep 2021
 location: Istanbul, Turkey
 story_post: true
 header: no

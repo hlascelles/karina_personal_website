@@ -11,9 +11,9 @@ show_meta: true
 article_date: 22 Nov 2019
 location: Santiago de Querétaro, Mexico
 widgets:
-- image: mexico-landfill-1.jpg
-- image: mexico-landfill-2.jpg
-- image: mexico-landfill-3.jpg
+- image: rubbish-mexico-landfill-1.jpg
+- image: rubbish-mexico-landfill-2.jpg
+- image: rubbish-mexico-landfill-3.jpg
 
 ---
 
