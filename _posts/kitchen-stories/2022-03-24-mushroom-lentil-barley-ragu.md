@@ -40,7 +40,7 @@ categories:
 ### Methods:
 
 * Preheat the fan oven to 190C.
-* Finely chop carrots, onions, oyster mushrooms and tomatoes. 
+* Very finely chop carrots, onions, oyster mushrooms and tomatoes. 
 * Crush garlic cloves, or chop them very finely.
 * Use a hand blender to reduce dried porcini mushrooms into small bits.
 * Mix the next 6 ingredients (oil, miso paste, harissa, tomato paste, soy sauce and cumin seeds).
