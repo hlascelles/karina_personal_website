@@ -15,7 +15,7 @@ Thank you so much for considering working with me.
 Let's learn from each other!
 Here are some things I'd like you to know about me:
 
-1. **I am not British**
+**1. I am not British**
 
     I always say exactly what I mean, which in theory should make it easy to work with me. 
     Unfortunately, this also means that I don't sound as polite as British people do.
@@ -29,7 +29,7 @@ Here are some things I'd like you to know about me:
     Please help me grow, and I will do the same for you.
 
 
-2. **I don't like positive feedback**
+**2. I don't like positive feedback**
 
     To me "Well done!" sounds like "I didn't have time to look at your work". 
     I love criticism because it allows me to improve.
@@ -42,7 +42,7 @@ Here are some things I'd like you to know about me:
     "Well done!" could mean either that you had no time to look at my work or that you have no suggestions for how to improve it; either way I can't learn anything from it.
 
 
-3. **My background is in computer science**
+**3. My background is in computer science**
     
     My academic background is in mathematics and computer science.
     Since typing mathematical equations in *what you see is what you get* formats (Google Docs, Word and similar) is a pain, I fell in love with *what you see is what you type* formats.
@@ -56,7 +56,7 @@ Here are some things I'd like you to know about me:
 
 
 <a name="whatsapp"></a>
-4. **Why I don't use WhatsApp**
+**4. Why I don't use WhatsApp**
     
     First, it's my personal choice.
     To install WhatsApp I would have to accept their terms and conditions, but for me they are not acceptable. 
@@ -82,7 +82,7 @@ Here are some things I'd like you to know about me:
     No, because I don't want to compromise the security of my phone. 
 
 
-5. **Please let me know if it's urgent**
+**5. Please let me know if it's urgent**
 
     I always try to reply to messages (emails, Signal, LinkedIn and Slack) as soon as possible, but sometimes there is a delay because I am travelling or working towards a tight deadline.
     I am swapping sim cards often, depending on which country I am working from, hence reaching me by phone is usually not the best option.
