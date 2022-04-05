@@ -55,6 +55,7 @@ Here are some things I'd like you to know about me:
     Please let me know which formats and communication methods work best for you, and I'll try to adapt as much as possible.
 
 
+<a name="whatsapp"></a>
 4. **Why I don't use WhatsApp**
     
     First, it's my personal choice.
@@ -77,8 +78,8 @@ Here are some things I'd like you to know about me:
     Similarly, right now I use Signal, because it works for me, but I don't have to do it and I am free to switch to a different instant messaging provider. 
     I think we should protect our freedoms.
 
-    I know you might be thinking "Can you please just install WhatsApp for this one project we are working on together and you don't have to use it for anything else?".
-    No, because for that I would need to buy a new phone and a new sim card, as I don't want to compromise the security of my phone. 
+    I know you might be thinking "Can you please just install WhatsApp for this one project we are working on together and you don't have to use it for anything else?"
+    No, because I don't want to compromise the security of my phone. 
 
 
 5. **Please let me know if it's urgent**
