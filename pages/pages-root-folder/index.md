@@ -10,7 +10,7 @@ widgets:
 - url: /travel-stories/
   image: travel.jpg
   title: <a href="/travel-stories/" target="_self">1. Travelling is my favourite thing in life.</a>
-  text: I've visited 40 countries so far. I avoid hotels when possible and I dislike tourist attractions. For me travelling is about exploring nature, architecture, cuisines and cultures around the world. Instead of visiting art galleries, I prefer to go for a walk looking for graffiti art. At night I prefer to wander around a busy port instead of pub crawling. Camping deep in a desert and hiking from the last stop of a rarely used train line are amongst the happiest memories I have. 
+  text: I've visited more than 40 countries so far. I avoid hotels when possible and I dislike tourist attractions. For me travelling is about exploring nature, architecture, cuisines and cultures around the world. Instead of visiting art galleries, I prefer to go for a walk looking for graffiti art. At night I prefer to wander around a busy port instead of pub crawling. Camping deep in a desert and hiking from the last stop of a rarely used train line are amongst the happiest memories I have. 
   button: true
 - url: /travel-stories/cities/
   image: big_cities.jpg

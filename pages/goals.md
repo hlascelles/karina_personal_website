@@ -10,9 +10,9 @@ header:
 widgets:
 - url: https://samudra.world/
   image: samudra.jpg
-  title: <a href="https://samudra.world/" target="_blank">Improve waste management globally</a>
+  title: <a href="https://samudra.world/" target="_blank">Solve global waste management challenges</a>
   dates: Since Feb 2020
-  text: My goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and ecosystem health. To achieve this I am building <a href="https://samudra.world/" target="_blank">Samudra.world</a> - an international organisation with the long-term goal to become an IGO that will act as a global orchestrator aligning efforts of major stakeholders in the waste management sector, and to have sufficient capacity to facilitate decision making on a global level.
+  text: My goal is to reduce the negative impact of waste on climate, environment and health. To achieve this I am building <a href="https://samudra.world/" target="_blank">Samudra.world</a> - a global action network, a new type of organisation, that is neither government, nor business, nor civil society, but a structure that combines the resources and competences of all of these.
 - url:
   image: bio-maths.jpg
   title: Never stop making friends
@@ -32,7 +32,7 @@ widgets:
   image: airbnb.jpg
   title: Become a superhost
   dates: May 2018 - Sep 2018
-  text: Ever wondered what the superhost label means on AirBnB? At the moment in my life when I was living alone and had flexible work hours, I decided to find out! It was a fun journey of meeting people from different walks of life, chatting late into the night over a bottle of wine, surprising my guests with a smell of pancakes in the morning. I got the label.
+  text: Ever wondered what the superhost label means on AirBnB? At the moment in my life when I was living alone and had flexible work hours, I decided to find out! It was a fun journey of meeting people from different walks of life, chatting late into the night over a bottle of wine, surprising my guests with a smell of pancakes in the morning. I got the superhost label!
 - url: /misc/phd-survival-guide/
   image: phd.jpg
   title: <a href="/misc/phd-survival-guide/" target="_self">Get a PhD</a>
