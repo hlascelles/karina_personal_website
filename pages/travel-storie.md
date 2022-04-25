@@ -16,125 +16,128 @@ widgets:
   image: sarajevo.jpg
   title: 3. Bosnia and Herzogovina
 - url:
+  image: country-bulgaria.jpg
+  title: 4. Bulgaria
+- url:
   image: canada.jpg
-  title: 4. Canada
+  title: 5. Canada
 - url:
   image: colombia.jpg
-  title: 5. Colombia
+  title: 6. Colombia
 - url:
   image: croatia.jpg
-  title: 6. Croatia
+  title: 7. Croatia
 - url:
   image: denmark.jpg
-  title: 7. Denmark
+  title: 8. Denmark
 - url:
   image: egypt.jpg
-  title: 8. Egypt
+  title: 9. Egypt
 - url:
   image: finland.jpg
-  title: 9. Finland
+  title: 10. Finland
 - url:
   image: france.jpg
-  title: 10. France
+  title: 11. France
 - url:
   image: georgia.jpg
-  title: 11. Georgia
+  title: 12. Georgia
 - url:
   image: germany.jpg
-  title: 12. Germany
+  title: 13. Germany
 - url:
   image: greece.jpg
-  title: 13. Greece
+  title: 14. Greece
 - url:
   image: budapest.jpg
-  title: 14. Hungary
+  title: 15. Hungary
 - url:
   image: japan.jpg
-  title: 15. Japan
+  title: 16. Japan
 - url:
   image: india.jpg
-  title: 16. India
+  title: 17. India
 - url:
   image: italy.jpg
-  title: 17. Italy
+  title: 18. Italy
 - url:
   image: ireland.jpg
-  title: 18. Ireland
+  title: 19. Ireland
 - url:
   image: riga.jpg
-  title: 19. Latvia
+  title: 20. Latvia
 - url:
   image: lesotho.jpg
-  title: 20. Lesotho
+  title: 21. Lesotho
 - url:
   image: lithuania.jpg
-  title: 21. Lithuania
+  title: 22. Lithuania
 - url:
   image: malaysia.jpg
-  title: 22. Malaysia
+  title: 23. Malaysia
 - url:
   image: malta.jpg
-  title: 23. Malta
+  title: 24. Malta
 - url: /travel-stories/mexico/
   image: mexico.jpg
-  title: <a href="/travel-stories/mexico/" target="_self">24. Mexico</a>
+  title: <a href="/travel-stories/mexico/" target="_self">25. Mexico</a>
 - url:
   image: montenegro.jpg
-  title: 25. Montenegro
+  title: 26. Montenegro
 - url:
   image: morocco.jpg
-  title: 26. Morocco
+  title: 27. Morocco
 - url:
   image: netherlands.jpg
-  title: 27. Netherlands
+  title: 28. Netherlands
 - url:
   image: north_macedonia.jpg
-  title: 28. North Macedonia
+  title: 29. North Macedonia
 - url:
   image: norway.jpg
-  title: 29. Norway
+  title: 30. Norway
 - url:
   image: oman.jpg
-  title: 30. Oman
+  title: 31. Oman
 - url:
   image: panama.jpg
-  title: 31. Panama
+  title: 32. Panama
 - url:
   image: warsaw.jpg
-  title: 32. Poland
+  title: 33. Poland
 - url:
   image: portugal.jpg
-  title: 33. Portugal
+  title: 34. Portugal
 - url:
   image: russia.jpg
-  title: 34. Russia
+  title: 35. Russia
 - url:
   image: singapore.jpg
-  title: 35. Singapore
+  title: 36. Singapore
 - url:
   image: bratislava.jpg
-  title: 36. Slovakia
+  title: 37. Slovakia
 - url:
   image: south-africa.jpg
-  title: 37. South Africa
+  title: 38. South Africa
 - url: /travel-stories/spain/
   image: spain.jpg
-  title: <a href="/travel-stories/spain/" target="_self">38. Spain</a>
+  title: <a href="/travel-stories/spain/" target="_self">39. Spain</a>
 - url:
   image: sweden.jpg
-  title: 39. Sweden
+  title: 40. Sweden
 - url:
   image: switzerland.jpg
-  title: 40. Switzerland
+  title: 41. Switzerland
 - url: /travel-stories/turkey/
   image: turkey.jpg
-  title: <a href="/travel-stories/turkey/" target="_self">41. Turkey</a> 
+  title: <a href="/travel-stories/turkey/" target="_self">42. Turkey</a> 
 - url:
   image: uk.jpg
-  title: 42. United Kingdom
+  title: 43. United Kingdom
 - url:
   image: usa.jpg
-  title: 43. USA
+  title: 44. USA
 
 ---
 

@@ -21,7 +21,7 @@ Fuerteventura (20.2 million years old island) is best for beaches; Tenerife (11.
 * Circular walk around Chinyero volcano following the PR-TF 43 trail. This is the youngest volcano in Tenerife, that last erupted in 1909.
 * Parts of Ruta de los Volcanes in La Palma, geologically the youngest of the islands. A trail paraller to the Ruta de los Volcanes (GR-131) from Refugio El Pilar to Cráter del Hoyo Negro is spectacular, with many calderas, big birds and great pine trees.
 * Caldera de la Laguna in Fuerteventura has been destroyed by mining and hence offers a glimpse of the internal geology of a volcanic cone. A short walk up to the caldera is a museum of colorful rocks and exposed layers.
-* Volcano Bayuyo in Fuerteventura offers a beautiful circular walk around the rim of it's caldera. Stunning views of the north part of Fuerteventura.
+* Volcano Bayuyo in Fuerteventura offers a beautiful circular walk around the rim of its caldera. Stunning views of the north part of Fuerteventura.
 
 
 ##### 2. Sand dunes
@@ -56,16 +56,9 @@ Fuerteventura (20.2 million years old island) is best for beaches; Tenerife (11.
 
 
 
-
-### Local specialities:
-
-* Miel de Palma (in La Gomera) - it is brewed from Guarapo, the sap of the Gomeran Date Palm (Phoenix canariensis), with no added ingredients. It is dark in colour and tastes like liquid toffee.
-
-
-
-
 ### Tips:
 
+* Don't miss Miel de Palma (in La Gomera) - it is brewed from Guarapo, the sap of the Gomeran Date Palm (Phoenix canariensis), with no added ingredients. It is dark in colour and tastes like liquid toffee.
 * Sim cards: Orange is better than Movistar. Set aside an hour for queueing and waiting for your sim card to be registered with your passport.
 * Best supermarket chains: Mercadona and HyperDino. Lidl has a good selection of vegetarian stuff too. Some supermarkets don't allow backpacks inside, but they don't sell anything edible either.
 * A useful website for island hopping is [hellocanaryislands.com][6].
