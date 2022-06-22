@@ -9,9 +9,9 @@ widgets:
 - url:
   image: tirana.jpg
   title: 1. Albania
-- url:
+- url: /travel-stories/france/#pyrenees
   image: country-andorra.jpg
-  title: 2. Andorra
+  title: <a href="/travel-stories/france/#pyrenees" target="_self">2. Andorra</a>
 - url:
   image: vienna.jpg
   title: 3. Austria
@@ -39,9 +39,9 @@ widgets:
 - url:
   image: finland.jpg
   title: 11. Finland
-- url:
+- url: /travel-stories/france/
   image: france.jpg
-  title: 12. France
+  title: <a href="/travel-stories/france/" target="_self">12. France</a>
 - url:
   image: georgia.jpg
   title: 13. Georgia
