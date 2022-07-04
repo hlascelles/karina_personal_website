@@ -7,23 +7,23 @@ teaser: All recipe websites I've come across have one thing in common - they are
 header: no
 widgets:
 - url: /kitchen-stories/vegetables/
-  image: vegetables.jpg
+  image: food-vegetables.jpg
   title: <a href="/kitchen-stories/vegetables/" target="_self">Vegetable-centric dishes</a>
   text:
 - url: /kitchen-stories/carbs-fats/
-  image: carbs-fats.jpg
+  image: food-carbs-fats.jpg
   title: <a href="/kitchen-stories/carbs-fats/" target="_self">Party of carbs and fats</a>
   text:
 - url: /kitchen-stories/cakes/
-  image: cake.jpg
+  image: food-cake.jpg
   title: <a href="/kitchen-stories/cakes/" target="_self">Oven baked happiness</a>
   text:
 - url: /kitchen-stories/sweet/
-  image: sweet-stuff.jpg
+  image: food-sweet-stuff.jpg
   title: <a href="/kitchen-stories/sweet/" target="_self">Sweet stuff</a>
   text:
 - url: /kitchen-stories/start/
-  image: start.jpg
+  image: food-start.jpg
   title: <a href="/kitchen-stories/start/" target="_self">Where to start</a>
   text:
 

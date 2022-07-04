@@ -7,139 +7,139 @@ teaser:
 header: no
 widgets:
 - url:
-  image: tirana.jpg
+  image: city-tirana.jpg
   title: 1. Albania
 - url: /travel-stories/france/#pyrenees
   image: country-andorra.jpg
   title: <a href="/travel-stories/france/#pyrenees" target="_self">2. Andorra</a>
 - url:
-  image: vienna.jpg
+  image: city-vienna.jpg
   title: 3. Austria
 - url:
-  image: sarajevo.jpg
+  image: city-sarajevo.jpg
   title: 4. Bosnia and Herzogovina
 - url:
   image: country-bulgaria.jpg
   title: 5. Bulgaria
 - url:
-  image: canada.jpg
+  image: country-canada.jpg
   title: 6. Canada
 - url:
-  image: colombia.jpg
+  image: country-colombia.jpg
   title: 7. Colombia
 - url:
-  image: croatia.jpg
+  image: country-croatia.jpg
   title: 8. Croatia
 - url:
-  image: denmark.jpg
+  image: country-denmark.jpg
   title: 9. Denmark
 - url:
-  image: egypt.jpg
+  image: country-egypt.jpg
   title: 10. Egypt
 - url:
-  image: finland.jpg
+  image: country-finland.jpg
   title: 11. Finland
 - url: /travel-stories/france/
-  image: france.jpg
+  image: country-france.jpg
   title: <a href="/travel-stories/france/" target="_self">12. France</a>
 - url:
-  image: georgia.jpg
+  image: country-georgia.jpg
   title: 13. Georgia
 - url:
-  image: germany.jpg
+  image: country-germany.jpg
   title: 14. Germany
 - url:
-  image: greece.jpg
+  image: country-greece.jpg
   title: 15. Greece
 - url:
-  image: budapest.jpg
+  image: city-budapest.jpg
   title: 16. Hungary
 - url:
-  image: japan.jpg
+  image: country-japan.jpg
   title: 17. Japan
 - url:
-  image: india.jpg
+  image: country-india.jpg
   title: 18. India
 - url:
-  image: italy.jpg
+  image: country-italy.jpg
   title: 19. Italy
 - url:
-  image: ireland.jpg
+  image: country-ireland.jpg
   title: 20. Ireland
 - url:
-  image: riga.jpg
+  image: city-riga.jpg
   title: 21. Latvia
 - url:
-  image: lesotho.jpg
+  image: country-lesotho.jpg
   title: 22. Lesotho
 - url:
-  image: lithuania.jpg
+  image: country-lithuania.jpg
   title: 23. Lithuania
 - url:
-  image: malaysia.jpg
+  image: country-malaysia.jpg
   title: 24. Malaysia
 - url:
-  image: malta.jpg
+  image: country-malta.jpg
   title: 25. Malta
 - url: /travel-stories/mexico/
-  image: mexico.jpg
+  image: country-mexico.jpg
   title: <a href="/travel-stories/mexico/" target="_self">26. Mexico</a>
 - url:
-  image: montenegro.jpg
+  image: country-montenegro.jpg
   title: 27. Montenegro
 - url:
-  image: morocco.jpg
+  image: country-morocco.jpg
   title: 28. Morocco
 - url:
-  image: netherlands.jpg
+  image: country-netherlands.jpg
   title: 29. Netherlands
 - url:
-  image: north_macedonia.jpg
+  image: country-north_macedonia.jpg
   title: 30. North Macedonia
 - url:
-  image: norway.jpg
+  image: country-norway.jpg
   title: 31. Norway
 - url:
-  image: oman.jpg
+  image: country-oman.jpg
   title: 32. Oman
 - url:
-  image: panama.jpg
+  image: country-panama.jpg
   title: 33. Panama
 - url:
-  image: warsaw.jpg
+  image: city-warsaw.jpg
   title: 34. Poland
 - url:
-  image: portugal.jpg
+  image: country-portugal.jpg
   title: 35. Portugal
 - url:
-  image: russia.jpg
+  image: country-russia.jpg
   title: 36. Russia
 - url:
-  image: singapore.jpg
+  image: country-singapore.jpg
   title: 37. Singapore
 - url:
-  image: bratislava.jpg
+  image: city-bratislava.jpg
   title: 38. Slovakia
 - url:
-  image: south-africa.jpg
+  image: country-south-africa.jpg
   title: 39. South Africa
 - url: /travel-stories/spain/
-  image: spain.jpg
+  image: country-spain.jpg
   title: <a href="/travel-stories/spain/" target="_self">40. Spain</a>
 - url:
-  image: sweden.jpg
+  image: country-sweden.jpg
   title: 41. Sweden
 - url:
-  image: switzerland.jpg
+  image: country-switzerland.jpg
   title: 42. Switzerland
 - url: /travel-stories/turkey/
-  image: turkey.jpg
+  image: country-turkey.jpg
   title: <a href="/travel-stories/turkey/" target="_self">43. Turkey</a> 
 - url:
-  image: uk.jpg
+  image: country-uk.jpg
   title: 44. United Kingdom
 - url:
-  image: usa.jpg
+  image: country-usa.jpg
   title: 45. USA
 - url:
   image: country-vatican.jpg

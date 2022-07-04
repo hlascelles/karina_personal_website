@@ -5,7 +5,7 @@ title: Rubbish stories
 teaser: "Here you can find snapshots of interesting days in my waste management career and find out how I got into waste management in the first place."
 header:
   title: ""
-  image_fullwidth: rubbish-stories.jpg
+  image_fullwidth: main-rubbish-stories.jpg
 
 ---
 
