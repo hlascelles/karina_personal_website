@@ -135,9 +135,9 @@ widgets:
 - url: /travel-stories/turkey/
   image: country-turkey.jpg
   title: <a href="/travel-stories/turkey/" target="_self">43. Turkey</a> 
-- url:
+- url: /travel-stories/uk/
   image: country-uk.jpg
-  title: 44. United Kingdom
+  title: <a href="/travel-stories/uk/" target="_self">44. United Kingdom</a>
 - url:
   image: country-usa.jpg
   title: 45. USA
