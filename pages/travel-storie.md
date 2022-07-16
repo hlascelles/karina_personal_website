@@ -123,9 +123,9 @@ widgets:
 - url:
   image: country-south-africa.jpg
   title: 39. South Africa
-- url: /travel-stories/spain/
+- url: /travel-stories/canary-islands/
   image: country-spain.jpg
-  title: <a href="/travel-stories/spain/" target="_self">40. Spain</a>
+  title: <a href="/travel-stories/canary-islands/" target="_self">40. Spain</a>
 - url:
   image: country-sweden.jpg
   title: 41. Sweden
