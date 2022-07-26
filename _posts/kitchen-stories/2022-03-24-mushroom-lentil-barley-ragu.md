@@ -5,6 +5,7 @@ header: no
 kitchen_post: true
 onion_post: true
 tomato_post: true
+mushroom_post: true
 categories:
     - kitchen-stories
 

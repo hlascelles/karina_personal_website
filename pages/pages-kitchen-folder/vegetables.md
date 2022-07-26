@@ -37,6 +37,9 @@ widgets:
 - url: /kitchen-stories/green-beans/
   image: food-green-beans.jpg
   title: <a href="/kitchen-stories/green-beans/" target="_self">Green beans</a>
+- url: /kitchen-stories/mushrooms/
+  image: food-mushrooms.jpg
+  title: <a href="/kitchen-stories/mushrooms/" target="_self">Mushrooms</a>
 - url: /kitchen-stories/onions/
   image: food-onions.jpg
   title: <a href="/kitchen-stories/onions/" target="_self">Onions</a>
