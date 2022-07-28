@@ -22,9 +22,9 @@ widgets:
 - url: /kitchen-stories/butternut-squash/
   image: food-butternut-squash.jpg
   title: <a href="/kitchen-stories/butternut-squash/" target="_self">Butternut squash</a>
-- url:
+- url: /kitchen-stories/cauliflower/
   image: food-cauliflower.jpg
-  title: Cauliflower
+  title: <a href="/kitchen-stories/cauliflower/" target="_self">Cauliflower</a>
 - url: /kitchen-stories/chickpeas/
   image: food-chickpeas.jpg
   title: <a href="/kitchen-stories/chickpeas/" target="_self">Chickpeas</a>
@@ -49,9 +49,9 @@ widgets:
 - url: /kitchen-stories/pomegranate/
   image: food-pomegranate.jpg
   title: <a href="/kitchen-stories/pomegranate/" target="_self">Pomegranate</a>
-- url:
+- url: /kitchen-stories/potatoes/
   image: food-potatoes.jpg
-  title: Potatoes
+  title: <a href="/kitchen-stories/potatoes/" target="_self">Potatoes</a>
 - url: /kitchen-stories/quinoa/
   image: food-quinoa.jpg
   title: <a href="/kitchen-stories/quinoa/" target="_self">Quinoa</a>
