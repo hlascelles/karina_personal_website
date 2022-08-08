@@ -4,7 +4,7 @@
 # Then run the website locally (go to localhost:4000 in your browser)
 # bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
-# If port busy, check whuch process (PID) is using it and kill it
+# If port busy, check whuch process (PID) is using it and kill it
 # sudo lsof -i tcp:4000
 # kill -9 PID
 

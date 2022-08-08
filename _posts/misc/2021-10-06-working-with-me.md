@@ -2,7 +2,7 @@
 layout: kz-page
 title: ""
 header: no
-first_date: 6 Oct 2021
+the_date: 6 Oct 2021
 show_meta: true
 image:
     title: misc-working-with-me.jpg
