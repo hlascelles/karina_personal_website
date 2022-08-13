@@ -63,9 +63,9 @@ widgets:
 - url:
   image: country-italy.jpg
   title: 19. Italy
-- url:
+- url: /travel-stories/ireland/
   image: country-ireland.jpg
-  title: 20. Ireland
+  title: <a href="/travel-stories/ireland/" target="_self">20. Ireland</a> 
 - url:
   image: city-riga.jpg
   title: 21. Latvia

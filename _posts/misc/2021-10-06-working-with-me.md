@@ -61,8 +61,9 @@ Here are some things I'd like you to know about me:
     First, it's my personal choice.
     To install WhatsApp I would have to accept their terms and conditions, but for me they are not acceptable. 
     The actual situation might be even worse than what is outlined in terms and conditions, because WhatsApp is not a security focussed organisation. 
-    [Signal][2] invested a lot of resources into developing a security protocol, and then [shared][1] it with WhatsApp for free to contribute to building a safer world. 
+    [Signal](https://signal.org/) invested a lot of resources into developing a security protocol, and then [shared](https://signal.org/blog/whatsapp-complete/) it with WhatsApp for free to contribute to building a safer world. 
     Now using WhatsApp is more secure than it was before, but I choose to use communication methods developed by people who actually care. 
+    Signal developed a [method for private contact discovery](https://signal.org/blog/private-contact-discovery/), a method so beautiful it makes me cry.
 
     Second, I don't like the new type of descrimination against people who don't have WhatsApp. 
     I've travelled through many countries, and I've seen all sorts of organisations that refuse to communicate in any other way apart from WhatsApp. 
@@ -98,6 +99,3 @@ Here are some things I'd like you to know about me:
     Let’s just drop that and save ourselves some keystrokes. 
     I typically take a 48 hour break over Saturday and Sunday to keep my sanity, during that time I have no meetings and I don’t reply to most messages. 
     If we are working towards a specific deadline though, I can work non-stop for as many days as necessary.
-
-[1]: https://signal.org/blog/whatsapp-complete/
-[2]: https://signal.org/
