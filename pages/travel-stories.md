@@ -18,9 +18,9 @@ widgets:
 - url:
   image: city-sarajevo.jpg
   title: 4. Bosnia and Herzogovina
-- url:
+- url: /travel-stories/bulgaria/
   image: country-bulgaria.jpg
-  title: 5. Bulgaria
+  title: <a href="/travel-stories/bulgaria/" target="_self">5. Bulgaria</a>
 - url:
   image: country-canada.jpg
   title: 6. Canada
