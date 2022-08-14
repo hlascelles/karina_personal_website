@@ -69,9 +69,9 @@ widgets:
 - url:
   image: city-riga.jpg
   title: 21. Latvia
-- url:
+- url: /travel-stories/south-africa/#drakensberg
   image: country-lesotho.jpg
-  title: 22. Lesotho
+  title: <a href="/travel-stories/south-africa/#drakensberg" target="_self">22. Lesotho</a> 
 - url:
   image: country-lithuania.jpg
   title: 23. Lithuania
@@ -120,9 +120,9 @@ widgets:
 - url:
   image: city-bratislava.jpg
   title: 38. Slovakia
-- url:
+- url: /travel-stories/south-africa/
   image: country-south-africa.jpg
-  title: 39. South Africa
+  title: <a href="/travel-stories/south-africa/" target="_self">39. South Africa</a>
 - url: /travel-stories/canary-islands/
   image: country-spain.jpg
   title: <a href="/travel-stories/canary-islands/" target="_self">40. Spain</a>
