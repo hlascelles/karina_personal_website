@@ -232,7 +232,7 @@ sass:
 # used in _includes/head
 # google_analytics_tracking_id:     # not used anymore, instead using gtag
 
-gtag: G-QC7ZVMEGFD
+# gtag: G-QC7ZVMEGFD
 
 
 
