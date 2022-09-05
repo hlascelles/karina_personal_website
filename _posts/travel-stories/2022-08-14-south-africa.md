@@ -26,170 +26,68 @@ A couple of beautiful drives just outside the park: Panorama route (takes the wh
 
 ### 2. Garden route - coastal area from Port Elizabeth to Cape Town
 
+**Port Elizabeth**:
+* Best place to stay is around Stanley street. I've had great food at Kok (booking required), also nice falafel at Gypsy Shawarmas and Fish, Indian food at Royal Delhi Restaurant. The Kindred Kitchen is good and Muse is still on my to-visit list. 
+* Go for a walk in Settlers Park Local Authority Nature Reserve, finish with great food at Baobab Wholefood Cafe. And check out the building the cafe is located in.
+* SANCCOB Gqeberha - penguin rescue centre where you can learn all about them.
+* The Start of Sacramento Trail features beautiful rocks, and Sardinia Bay has sand dunes.
 
-<!-- 
+**Jeffrey's Bay**:
+* Seal point - beach made of sea shells, the first time I've seen anything like it. Shark point opposite has beautiful rocks and dunes. 
+* Gamtoos Mouth Resort - more dunes.
+* Tasty Table is a local gem.
 
-Port Elizabeth
-    Best place to stay - Stanley street
-        Amazing food at Kok, book and come early. 
-        Falafel at Gypsy Shawarmas and Fish
-        Indian at Royal Delhi Restaurant
-        The Kindred Kitchen
-        Muse still on my list
-    Baobab Wholefood Cafe
-        and the building it's in
-        and Settlers Park Local Authority Nature Reserve - nice walk
-    SANCCOB Gqeberha - penguin rescue centre
-    Start of Sacramento Trail - rocks
-    Sardinia Bay - dunes
+**Tsitsikamma National Park**:
+* Loads of hiking trails. The Waterfall trail (3km each way, includes rock hopping) is my favourite hike in the whole of the Garden route; try to spot [dassies](https://en.wikipedia.org/wiki/Rock_hyrax). The Storms river mouth trail (1km) is a must because a very short walk will reward you with beautiful views of the canyon; look out for dassies under the second suspension bridge.
+* Tsitrus Café is a local gem.
+* A lunch at Fynboshoek Cheese is still on my to-visit list. Book well in advance. And I've heard rumours that cheesecake can be requested for the day you are visiting. 
 
+**Nature's Valley**:
+* The Salt River Hiking Trail is great. 
+* Nature's Valley beach is great.
+* Natures Way Farm Stall is an absolute must; plan to eat there and buy loads of things to take with you. Also look out for other Farm Stalls along the Garden route.
 
-if Jeffrey's Bay 
-    Tasty Table in Jeffrey's Bay - local gem
-    Gamtoos Mouth Resort - dunes
-    detour to Seal point - sea shell beach and lighthouse that can be visited AND Shark point - more rocks and dunes
+**The Crags**:
+* Lawnwood Snake Sanctuary - a great place to handle snakes and learn about them.
+* Birds of Eden - 220 species of colourful birds in 20,000 square meter covered forest. Bring binoculars and expect to spend a long time here.
+* Tenikwa Wildlife Rehabilitation & Awareness Centre - a one hour guided tour will show you most if not all local big cats. 
+* If you have time left, Monkeyland is a fun place to see monkeys being funny.
 
+**Plettenberg Bay**:
+* Boat tours depart from here to see seals, dolphins (you are more likely to be lucky if you pick a very early boat) and whales (if it is the season). I loved my experience with Ocean Blue Adventures.
+* Robberg Nature Reserve - beautiful hiking area and beaches. In December, hike to The Island (the little peninsula) to see babies of sea birds.
 
+**Knysna**:
+* Hiking in the area is definitely better than a boring boat cruise I booked.
+* The only thing to do in town is brunch - Il de Pain, East Head Café Knysna, and Salt & Petal are all supposed to be great. If you are passing by, see Knysna Heads from the East Head View Point. 
+* Driving west, Seven Passes Drive is a good alternative to N2. 
 
-Tsitsikamma National Park + Tsitrus Café is great + Lunch at Fynboshoek Cheese (ask if he can make some cheesecake) still on my list
+**Wilderness**:
+* Rent a canoe to row along the Touw River to the start of the Wilderness Trail Waterfall - canoeing and a hike makes for a great day. There are other hiking and canoeing routes in the area too.
+* Wilderness Beach is great.
+* Two things are not to be missed in George - Outeniqua Transport Museum (old trains) and Bayleaf Café (an absolute gem, and the sign is not a joke - don't step on the wild chameleons).
 
-    Tsitsikamma hikes - mouth (look for dassie under second bridge); waterfall trail - good fun and dassie.
+**Calitzdorp, Oudtshoorn and Prince Albert**:
+* Calitzdorp, on the [Klein Karoo Wine Route](www.kleinkaroowines.co.za/wine-route/), is the best place in South Africa to sample port-style wines. Boplaas Winery and Distillery was my favourite. 
+* [Five Shy Meerkats](https://fiveshymeerkats.co.za/) offers a unique opportunity to see meerkats waking up, warming their bellies in the sun and heading off for a day of foraging. Don't be put off by the early meeting time, this experience is totally worth all your efforts.
+* Oudtshoorn has several ostrich farms open to visitors. I loved my visit to Safari Ostrich Farm.
+* Cango caves are beautiful (booking required).
+* Swartberg Pass is one of the most geologically exciting drives in the whole of the Garden route. After the drive you could stay in Prince Albert - a cute little town with several good restaurants.
 
-    Mouth trail 1 hour 1 km to visit SUSPENSION bridge and lookout point. The Viewpoint – after the last suspension bridge there is a trail that climbs up all the way to the top of the mountain. The views from there are stunning but the trail is quite challenging, especially the way up, it takes about 1.5 hours to go up and down to the bridge.
+**Hermanus**:
 
-    Waterfall trail 3-4 hours 3km visit Guano Cave.  The Waterfall hike – the trail starts at the caravan park, goes along the coast to the waterfall and the pool. It takes about 2-3h return. The route involves some rock hopping and a little bit of climbing, not suitable for hiking with small children.
+* Cliff Path park is the place to be during whale season. 
+* My sweetest memories of Hermanus are pastries at The Gallery Café and breakfast at Just Pure.
+* [Hemel-en-Aarde Wine Valley](https://insideguide.co.za/cape-town/hemel-en-aarde-wine-farms/). As a transport between different wineries, I had good experience with Wine Hoppers.
+* West of Hermanus is the Stony Point Penguin Colony, which is a must.
+* East of Hermanus is Walker Bay Nature Reserve. Grotto Beach, at one end of the reserve, is great. At the other end of the reserve there are Klipgat Caves, beautiful rocks and hiking along the beach. Cage diving to see sharks up close can be done nearby.
 
-    More hiking
-        Hike to Salt River Mouth Hike BEST
-        Otter Trail
-        Loerie Trail 1.5 hours 1 km
-        Blue Duiker Trail 3 hours 3.7km
+**Franschhoek**:
+* Franschhoek Wine Valley has both wines and scenery. As a transport between different wineries, I had a good experience on the purple/orange route of the [Wine Tram](https://winetram.co.za/hop-on-hop-off/). I enjoyed less popular wineries (where less people get off the tram) much more than the famous ones.
+* Terbodore Café is perfect for breakfast; and Col'Cacchio is there for you if you are craving high-carb comfort food after the wine tour.
+* Uitkyk Trail is a beautiful hike in [Mont Rochelle Nature Reserve](https://montrochellehiking.co.za/trails/).
+* Karoo Desert National Botanical Garden is still on my to-visit list.
 
-    BOOK Go on a Kayaking Tour: This 2-3 hour tour lets you explore the world of the Storms River Gorge, with trips into caves, pools, and ancient forests
-    Storms River kayak and lilo tour is rather a relaxing activity with no rapids or strong currents that allows you to enjoy the stunning and peaceful Storms River canyon. It’s the only way you can see it there is no road or hiking path along the canyon. 
-
-    exhilarating mountain biking on the scenic Storms River Pass
-
-    BOOK Stormsrivier - a quad bike tour through the forest
-
-
-Nature’s Valley
-    Nature’s Valley - Hike the Salt River Trail (half a day). Stay in nature's Valley. Great beach.
-
-    Hike the Salt River Trail (half a day) 
-    
-    Kalanderkloof hiking trail
-
-    at Nature’s Valley in its ‘gully’, where visitors can swim with sharks in shallow waters. The sharks, known as the Sharptooth Houndshark are not dangerous, and the ones here feed on lobsters, crabs and other small fish. 
-
-    cycling the Groot River pass amongst the indigenous rainforests of the Tsitsikamma. 
-
-    !!! Natures Way Farm Stall for food;  AMAZING and look out for other Farm Stalls
-
-
-
-Lawnwood Snake Sanctuary
-Birds of Eden - great
-Tenikwa Wildlife Rehabilitation & Awareness Centre - the colder the better as cats more active, tours every half hour for 1 hour.
-Monkeyland 0 if time
-
-
-Plettenberg Bay,
-    Cape fur seals boat 8:30am ocean blue adventures https://secure.activitybridge.com/search?supplierid=50356&sourceid=3156; 
-
-
-Robberg Nature reserve - great hiking, beach. In December don't miss the babies of sea birds on The Island connected to the mainland by the beach. 
-
-
-
-Knysna
-
-    Knysna Heads at the Eastern Viewpoint – One of the best spots to get a view over the lagoon in Kynsna! Incredible spot for sunset.
-
-    Featherbed Nature Reserve (private, by ferry, BOOK), offering forest and coastal walks, sea caves, and a chance to see the Heads up close, as well as commanding views of the Indian Ocean. This 4-hour eco experience costs R701 per person and is a great way to experience the lagoon.
-
-    https://www.knysnacycles.co.za/
-
-    Il de Pain lunch?; 3pm boat cruse Ocean sailing charters; The Knysna Gin Distillery & Brewery & Cocktailbar (until 7pm); stay nearby.
-    
-    Knysna Heads at the Eastern Viewpoint; Breakfast at Il de Pain (7:45am sharp);
-
-    MAYBE Seven Passes Drive (75km scenic drive) from Knysna to George;
-
-    Il de Pain AND Salt & Petal AND East Head Café Knysna
-
-
-Wilderness 
-    Wilderness Beach: One of the best of the Garden Route beaches,
-
-    Canoeing on the Touw River and some small lakes nearby, kayak rental is available in the park – ZAR80/US$6, 2 hours.
-    Eden Adventures Canoe and Waterfall trip: It costs R350 to rent a two-seater canoe for half the day and takes anywhere from 3-5 hours
-    Kayaking/canoeing on the Touw River: From the Ebb and Flow Rest Camp you can canoe the river all the way to Wilderness beach.
-    Canoe/hike to Waterfall Combo: You can rent a canoe from Eden Adventures and do a 4-5 hour trip to a waterfall and back. This was one of our favourite Garden Route activities 
-
-    mountain biking
-    
-    five main hiking trails in Wilderness and also visit Dolphin Point Lookout too (from the Ebb and Flow Rest Camp)
-        Hike the Giant Kingfisher Waterfall trail (a return trip will take between 3-4 hours) BEST
-
-    Ebb & Flow, Wilderness National park – a great place for camping at the river bank, with several hiking trails and kayak rental. Day visitors are allowed.
-
-    Hike the Giant Kingfisher Waterfall trail 4 hours); wilderness beach; stay in Wilderness
-
-
-George
-    Bayleaf Café in George - local gem. 
-    Outeniqua Transport Museum George - trains
-    shopping at  Woolworths Garden Route Mall perhaps
-    but don't stay there
-
-Calitzdorp
-    Ports at Calitzdorp (boplaas best) www.kleinkaroowines.co.za/wine-route/
-    Meerkats https://fiveshymeerkats.co.za/ ; Safari ostriches ; Cango caves; Swartberg Pass best drive ever; stay in Albert is cute.
-    Boplaas Winery and Distillery - favourite?
-
-
-Walker Bay Nature Reserve Entrance
-shark watching from a boat can be done nearby
-
-Hermanus
-    Hemel-en-Aarde wine valley - good experience with Wine Hoppers
-    Grotto Beach that extends all the way into Cape Nature Walker Bay
-    Just Pure - for breakfast
-    The Gallery Café bakery - pastries
-
-    wander along the sea cliff path and check out all of the local art and sculptures. 
-    you can also often see the Cape Fur Seal as well as dolphins.
-    Old Harbour where you’ll get a glimpse of the town’s colorful history 
-    Bientangs Cave OR Lemon Butta - seafood
-    Cliff Path – Another place you can watch whales from, this easy 10km coastal hike is a great way to spend time in Hermanus
-    Hermanus Wine Route has a unique terrior and vineyards affected by the coastal weather of the temperate Garden Route. 
-
-
-Stony Point Penguin Colony
-
-Franschhoek
-    Purple or orange train
-    Terbodore Café - brunch or breakfast
-    Col'Cacchio - carby comfort food
-    Uitkyk Trail at Mont Rochelle Nature Reserve https://montrochellehiking.co.za/trails/ - flowers, small reptiles, insects.
-
-    Hiking
-    Trails are either around the dam, or in the Mont Rochelle park here: https://montrochellehiking.co.za/trails/ 
-    This one is the most popular and sounds good, 3-4 hours: https://montrochellehiking.co.za/2020/11/10/uitkyk-trail/ I've found it on wikiloc: https://www.wikiloc.com/hiking-trails/mont-rochelle-32614506
-    The tram
-    https://www.tripsavvy.com/franschhoek-wine-tram-the-complete-guide-4788222 
-    https://winetram.co.za/hop-on-hop-off/   https://winetram.co.za/2017/07/choose-perfect-wine-tram-route/
-    One person said once (https://somewhere-in-between.com/cape-town-the-best-franschhoek-wine-tram-route/) that the purple/orange is "higher in the mountains with better scenery". It is certainly further away that all the others on the map, and it does have real tram for some of it (not bus). Shall we do that on Saturday, then wing Sunday? Maybe the hike in the morning, then just pay a taxi driver to go to 2-3 more in the afternoon?
-
-
-Karoo Desert National Botanical Garden - on my list
-
-
-
-SEE BOOKLET 
-
- -->
 
 
 ### <a name="drakensberg"></a> 3. Drakensberg
@@ -225,7 +123,7 @@ Food and drink:
 * Art of Duplicity - best cocktails in town, in a Prohibition-Era cocktail club. [Booking](https://170120.co.za/) required. Yes, it's not on Google maps. Look around Truth Coffee Roasting.
 * The Gin Bar - they make great negronis too.
 * Good hangout spots are Yours Truly on Kloof Street (drinks and pizza) and The Neighbourgoods Market inside The Old Biscuit Mill (in Woodstock, weekends only).
-* In Sea Point my favourites were: JARRYDS Espresso Bar + Eatery, Bentleys Bread, Scheckter's RAW, Vagabond Kitchens and Moro Gelato.
+* In Sea Point my favourites were: Jarryds Espresso Bar + Eatery, Bentleys Bread, Scheckter's RAW, Vagabond Kitchens and Moro Gelato.
 
 Tip: I've tried to rent a car in Cape Town twice (more than a month apart and from different companies), both times I paid online but there was no car when I arrived to pick it up. If it's mission critical, rent from the airport. If not, see if you are more lucky than me.
 
