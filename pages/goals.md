@@ -1,18 +1,17 @@
 ---
 layout: kz-page
-title: "My goals"
+title: "The goals I've set myself:"
 permalink: "/goals/"
 meta_description:
-teaser: "Here are the goals I've set myself:"
 header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
 - url: https://samudra.world/
   image: main-samudra.jpg
-  title: <a href="https://samudra.world/" target="_blank">Solve global waste management challenges</a>
+  title: <a href="https://samudra.world/" target="_blank">Reduce the negative impact of waste on climate, environment and health</a>
   dates: Since Feb 2020
-  text: My goal is to reduce the negative impact of waste on climate, environment and health. To achieve this I am building <a href="https://samudra.world/" target="_blank">Samudra.world</a> - a global action network, a new type of organisation, that is neither government, nor business, nor civil society, but a structure that combines the resources and competences of all of these.
+  text: To achieve this I founded <a href="https://samudra.world/" target="_blank">Samudra.world</a>. At Samudra we are experimenting with approaches and organisational structures that have not been tried before. Our strategy includes identifying success-relevant stakeholders and working with them to facilitate internal changes and enable powerful coordination between them.
 - url:
   image: main-bio-maths.jpg
   title: Never stop making friends
