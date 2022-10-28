@@ -7,9 +7,9 @@ header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
-- url: https://samudra.world/
+- url: /samudra/
   image: main-samudra.jpg
-  title: <a href="https://samudra.world/" target="_blank">Reduce the negative impact of waste on climate, environment and health</a>
+  title: <a href="/samudra/">Reduce the negative impact of waste on climate, environment and health</a>
   dates: Since Feb 2020
   text: To achieve this I founded <a href="https://samudra.world/" target="_blank">Samudra.world</a>. At Samudra we are experimenting with approaches and organisational structures that have not been tried before. Our strategy includes identifying success-relevant stakeholders and working with them to facilitate internal changes and enable powerful coordination between them.
 - url:

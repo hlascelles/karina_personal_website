@@ -4,18 +4,15 @@ subheadline:
 categories:
     - rubbish-stories
 title: My first ever visit to a landfill
-meta_description: It was already Thursday afternoon, I had to catch my flight on Monday and I started to accept the fact that I'll leave Mexico without gaining access to a landfill. As I was biting into my "tamales con tofu" (probably not the most typical Mexican dish), my phone buzzed with a message from a guy I met at a sustainable entrepreneurship conference - "Can you come at noon? Tomorrow." He sent me the GPS coordinates of where I should go and instructed me to ask for Pedro when I arrive.
-story_post: true
 header: no
-show_meta: true
-article_date: 22 Nov 2019
-location: Santiago de Querétaro, Mexico
 widgets:
 - image: rubbish-mexico-landfill-1.jpg
 - image: rubbish-mexico-landfill-2.jpg
 - image: rubbish-mexico-landfill-3.jpg
-
 ---
+
+<p class="subheadline">22nd Nov 2019</p>
+<p class="subheadline b15">Santiago de Querétaro, Mexico</p>
 
 It was already Thursday afternoon, I had to catch my flight on Monday and I started to accept the fact that I'll leave Mexico without gaining access to a landfill. As I was biting into my "tamales con tofu" (probably not the most typical Mexican dish), my phone buzzed with a message from a guy I met at a sustainable entrepreneurship conference - "Can you come at noon? Tomorrow." He sent me the GPS coordinates of where I should go and instructed me to ask for Pedro (not his real name) when I arrive. Google suggested that it will take me more than 6 hours to get there by public transport. I swung by my place to pick up my toothbrush and passport and immediately left for the bus terminal. Two hundred kilometres and one movie ("Guten tag, Ramon", it made me cry a lot) later I arrived in Santiago de Querétaro. A picture perfect city.
 

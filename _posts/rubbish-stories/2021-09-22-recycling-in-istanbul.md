@@ -4,14 +4,12 @@ subheadline:
 categories:
     - rubbish-stories
 title: Plastic recycling in Istanbul
-meta_description: "Having watched so many videos of plastic recycling machinery in operation, I was thrilled to get a chance to visit a small plastic recycling company on the outskirts of Istanbul. I met Eldar (not his real name) and his sister, who volunteered to be my translator for the day, in central Istanbul. It took us more than an hour to navigate Istanbul’s morning traffic; once we got close to the recycling factory, we stopped for a traditional Turkish breakfast."
-show_meta: true
-article_date: 22 Sep 2021
-location: Istanbul, Turkey
-story_post: true
+location: 
 header: no
-
 ---
+
+<p class="subheadline">22nd Sep 2021</p>
+<p class="subheadline b15">Istanbul, Turkey</p>
 
 Having watched so many videos of plastic recycling machinery in operation, I was thrilled to get a chance to visit a small plastic recycling company on the outskirts of Istanbul. I met Eldar (not his real name) and his sister, who volunteered to be my translator for the day, in central Istanbul. It took us more than an hour to navigate Istanbul’s morning traffic; once we got close to the recycling factory, we stopped for a traditional Turkish breakfast. Eldar told me that he studied environmental engineering, then he did all sorts of jobs for about a decade before joining this small plastic recycling company that does mechanical recycling of polyethylene (PE). To keep myself awake, I got frequent tea refills while indulging in a cheese börek. As in any place in Istanbul that serves food, there was a local cat looking for anyone willing to share their breakfast sausage. As a vegetarian, I got little attention from the cat.
 

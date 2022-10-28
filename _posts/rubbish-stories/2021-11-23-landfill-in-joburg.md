@@ -3,12 +3,7 @@ layout: kz-page
 subheadline: 
 categories:
     - rubbish-stories
-title: Landfill in Joburg
-meta_description: "Me and Tshepo Mazibuko parked outside the Universal Church of the Kingdom of God, located in Devland landfill in Soweto township. The church didn't look impressive - just a flat roof with some chairs arranged in rows underneath it. But for the people living here at the landfill it has made a huge difference - before they used to eat mainly what they can find in the landfill, now they get food and drinking water from the church daily."
-show_meta: true
-article_date: 23 Nov 2021
-location: Johannesburg, South Africa
-story_post: true
+title: A landfill in Joburg
 header: no
 widgets:
 - image: rubbish-joburg-landfill1.jpg
@@ -19,6 +14,9 @@ widgets:
 - image: rubbish-joburg-landfill6.jpg
 
 ---
+
+<p class="subheadline">23rd Nov 2021</p>
+<p class="subheadline b15">Johannesburg, South Africa</p>
 
 Me and Tshepo Mazibuko parked outside the Universal Church of the Kingdom of God, located in Devland landfill in Soweto township. 
 The church didn't look impressive - just a flat roof with some chairs arranged in rows underneath it.

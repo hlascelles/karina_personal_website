@@ -10,10 +10,6 @@
   url: "/goals/"
   side: left
 
-- title: "Rubbish stories"
-  url: "/rubbish-stories/"
-  side: left
-
 - title: "Travel stories"
   url: "/travel-stories/"
   side: left

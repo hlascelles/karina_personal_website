@@ -13,3 +13,9 @@ p {
 @media #{$medium-up} {
   p + ul { margin-top: -15px; }
 }
+
+.picture-in-text {
+  float: left;
+  width: 50%;
+  margin: 20px;
+}
