@@ -36,7 +36,7 @@ widgets:
   image: main-phd.jpg
   title: <a href="/misc/phd-survival-guide/" target="_self">Get a PhD</a>
   dates: Sep 2015 - Sep 2019
-  text: My academic background is in mathematics. My PhD thesis was on applications of machine learning to transcriptomics, with a chapter on de novo evolution of proteins. Based on my experience, <a href="/misc/phd-survival-guide/" target="_self">here</a> is my advice on how to select the right PhD, make the most of it, pass your viva and finally make the most of your new title.
+  text: My academic background is in mathematics; my PhD was dedicated to developing mathematical algorithms and statistical models to facilitate discoveries in genomics. Based on my experience, <a href="/misc/phd-survival-guide/" target="_self">here</a> is my advice on how to select the right PhD, make the most of it, pass your viva and finally make the most of your new title.
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
