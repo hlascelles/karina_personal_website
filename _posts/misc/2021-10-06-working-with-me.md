@@ -1,14 +1,13 @@
 ---
 layout: kz-page
-title: ""
+title: "Working with me"
 header: no
-the_date: 6 Oct 2021
-show_meta: true
 image:
     title: misc-working-with-me.jpg
+the_date: 6 Oct 2021
+show_meta: true
 categories:
     - misc
-
 ---
 
 Thank you so much for considering working with me.

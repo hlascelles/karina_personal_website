@@ -1,11 +1,8 @@
 ---
 layout: kz-page
-subheadline: 
-title: "Street art from around the world"
-meta_description: 
-teaser: 
-show_meta: false
+title: "Random street art"
 header: no
+show_meta: false
 categories:
     - misc
 widgets:

@@ -1,17 +1,15 @@
 ---
 layout: kz-page
-title: ""
+title: "PhD survival guide"
 header: no
+image:
+    title: main-phd.jpg
 the_date: 6 Oct 2021
 show_meta: true
-image:
-    title: misc-phd.jpg
 categories:
     - misc
-
 ---
 
-<a name="before"></a>
 # Choosing a PhD
 
 First, should you do a PhD?
