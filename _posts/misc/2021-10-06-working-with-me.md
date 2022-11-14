@@ -94,7 +94,7 @@ Here are some things I'd like you to know about me:
     So please don't hesitate to prepend an email subject or a Signal message with the word URGENT if a prompt reply will make a difference to you.
     I'll do the same, if you don't mind.
 
-    Way too often I reply to an email that starts with the words "sorry for the late reply" and then i start my reply with exactly the same words. 
+    Way too often I reply to an email that starts with the words "sorry for the late reply" and then I start my reply with exactly the same words. 
     Let’s just drop that and save ourselves some keystrokes. 
     I typically take a 48 hour break over Saturday and Sunday to keep my sanity, during that time I have no meetings and I don’t reply to most messages. 
     If we are working towards a specific deadline though, I can work non-stop for as many days as necessary.

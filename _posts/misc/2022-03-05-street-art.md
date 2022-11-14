@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: "Random street art"
+title: "Random street art:"
 header: no
 show_meta: false
 categories:
@@ -44,4 +44,5 @@ widgets:
   title: Kuala Lumpur, 2017
 ---
 
+<br/>
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
