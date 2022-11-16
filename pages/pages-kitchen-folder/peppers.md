@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peppers
-permalink: "/kitchen-stories/peppers/"
+permalink: "/kitchen/peppers/"
 header: no
 ---
 

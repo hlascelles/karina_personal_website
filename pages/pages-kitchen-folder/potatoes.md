@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Potatoes
-permalink: "/kitchen-stories/potatoes/"
+permalink: "/kitchen/potatoes/"
 header: no
 ---
 

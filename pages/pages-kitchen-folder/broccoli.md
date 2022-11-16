@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Broccoli
-permalink: "/kitchen-stories/broccoli/"
+permalink: "/kitchen/broccoli/"
 header: no
 ---
 

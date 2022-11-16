@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sweet stuff
-permalink: "/kitchen-stories/sweet/"
+title: Sweet
+permalink: "/kitchen/sweet/"
 header: no
 ---
 

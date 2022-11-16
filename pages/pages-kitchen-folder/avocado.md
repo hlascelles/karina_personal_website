@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avocado
-permalink: "/kitchen-stories/avocado/"
+permalink: "/kitchen/avocado/"
 header: no
 ---
 

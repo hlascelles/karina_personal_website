@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cauliflower
-permalink: "/kitchen-stories/cauliflower/"
+permalink: "/kitchen/cauliflower/"
 header: no
 ---
 

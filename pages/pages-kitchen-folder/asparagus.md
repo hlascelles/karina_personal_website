@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Asparagus
-permalink: "/kitchen-stories/asparagus/"
+permalink: "/kitchen/asparagus/"
 header: no
 
 ---

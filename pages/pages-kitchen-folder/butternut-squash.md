@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Butternut squash
-permalink: "/kitchen-stories/butternut-squash/"
+permalink: "/kitchen/butternut-squash/"
 header: no
 ---
 

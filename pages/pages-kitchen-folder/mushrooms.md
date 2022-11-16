@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mushrooms
-permalink: "/kitchen-stories/mushrooms/"
+permalink: "/kitchen/mushrooms/"
 header: no
 ---
 

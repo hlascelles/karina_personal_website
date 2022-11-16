@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spinach
-permalink: "/kitchen-stories/spinach/"
+permalink: "/kitchen/spinach/"
 header: no
 ---
 

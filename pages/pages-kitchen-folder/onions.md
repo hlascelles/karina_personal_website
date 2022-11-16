@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Onions
-permalink: "/kitchen-stories/onions/"
+permalink: "/kitchen/onions/"
 header: no
 ---
 

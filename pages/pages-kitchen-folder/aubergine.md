@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aubergine
-permalink: "/kitchen-stories/aubergine/"
+permalink: "/kitchen/aubergine/"
 header: no
 ---
 

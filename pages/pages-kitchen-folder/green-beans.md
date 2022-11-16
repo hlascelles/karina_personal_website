@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Green beans
-permalink: "/kitchen-stories/green-beans/"
+permalink: "/kitchen/green-beans/"
 header: no
 ---
 

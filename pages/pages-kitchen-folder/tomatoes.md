@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tomatoes
-permalink: "/kitchen-stories/tomatoes/"
+permalink: "/kitchen/tomatoes/"
 header: no
 ---
 

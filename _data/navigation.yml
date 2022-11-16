@@ -10,16 +10,16 @@
   url: "/goals/"
   side: left
 
-- title: "Travel stories"
-  url: "/travel-stories/"
+- title: "Travel notes"
+  url: "/travel/"
   side: left
 
-- title: "Kitchen stories"
-  url: "/kitchen-stories/"
+- title: "Kitchen notes"
+  url: "/kitchen/"
   side: left
 
-- title: "Everything else"
-  url: "/misc/"
+- title: "Notes"
+  url: "/notes/"
   side: left
 
 # - title: "Projects"

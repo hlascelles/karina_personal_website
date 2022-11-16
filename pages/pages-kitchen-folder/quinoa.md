@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quinoa
-permalink: "/kitchen-stories/quinoa/"
+permalink: "/kitchen/quinoa/"
 header: no
 ---
 

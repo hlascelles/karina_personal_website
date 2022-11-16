@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: "/kitchen-stories/recipes/"
-title: Recipes
+permalink: "/kitchen/recipes/"
+title: All recipes
 header: no
 ---
 

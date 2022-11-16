@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chickpeas
-permalink: "/kitchen-stories/chickpeas/"
+permalink: "/kitchen/chickpeas/"
 header: no
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Corn
-permalink: "/kitchen-stories/corn/"
+permalink: "/kitchen/corn/"
 header: no
 ---
 
