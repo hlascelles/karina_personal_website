@@ -15,6 +15,9 @@ widgets:
 - url:
   image: city-vienna.jpg
   title: 3. Austria
+- url: /travel/bolivia/
+  image: country-bolivia.jpg
+  title: <a href="/travel/bolivia/" target="_self">Bolivia</a>
 - url:
   image: city-sarajevo.jpg
   title: 4. Bosnia and Herzogovina
@@ -24,6 +27,9 @@ widgets:
 - url:
   image: country-canada.jpg
   title: 6. Canada
+- url: /travel/chile/
+  image: country-chile.jpg
+  title: <a href="/travel/chile/" target="_self">Chile</a>
 - url:
   image: country-colombia.jpg
   title: 7. Colombia
