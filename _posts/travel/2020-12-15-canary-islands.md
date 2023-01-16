@@ -42,7 +42,7 @@ Fuerteventura (20.2 million years old island) is best for beaches; Tenerife (11.
 * Stargazing in La Palma [with an astronomer][3] and an amature telescope. Especially if you happen to be in La Palma during Perseid or Geminid meteor showers in mid August or mid December respectively. (Not free)
 * Walks from Roque de los Muchachos in La Palma to see different telescopes, including MAGIC (a system of two Imaging Atmospheric Cherenkov telescopes).
 * Salinas de Fuencaliente - traditional salt works in La Palma.
-* [Popcorn beaches][4] in Fuerteventura. They are made from [Rhodoliths][5] that are shaped like popcorn. Popcorn Playa (28.75244, -13.89971) is one of these Popcorn beaches.
+* [Popcorn beaches](https://www.solosophie.com/popcorn-beach-fuerteventura/) in Fuerteventura. They are made from [Rhodoliths][5] that are shaped like popcorn. Popcorn Playa (28.75244, -13.89971) is one of these Popcorn beaches.
 * Wave watching in Parque Natural Jandia in Fuerteventura. View from Faro Punta Pesebre (lighthouse) is amazing.
 * Las Lagunitas in Isla de Lobos, just off the coast of Fuerteventura. A fragile salty wetland ecosystem of outstanding beauty. Great for watching birds and insects. A permit to visit might be required, check online. Best to visit on a less busy day.
 * <p style="color:#AEAEAE">High on my to-visit list are: Lanzarote; <a href="https://www.starsislandlapalma.es/en/observatory/visit-the-observatory/" target="_blank">The Observatory</a> in La Palma; <a href="https://www.canaryislandsinfo.co.uk/la-gomera/things-to-do/los-organos-natural-monument/" target="_blank">Los Organos Natural Monument</a> in La Gomera.</p>
@@ -70,6 +70,5 @@ Fuerteventura (20.2 million years old island) is best for beaches; Tenerife (11.
 [1]: https://centralreservas.tenerife.es/actividad/1
 [2]: https://centralreservas.tenerife.es/actividad/7
 [3]: https://lapalmastars.com/en/tours/astronomy-tour-stargazing/
-[4]: https://fuerteventuractiva.es/en/popcorn-beach/
 [5]: https://en.wikipedia.org/wiki/Rhodolith
 [6]: https://www.hellocanaryislands.com/travelling-between-the-islands/

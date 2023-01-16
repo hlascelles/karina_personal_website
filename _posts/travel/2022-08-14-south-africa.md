@@ -68,7 +68,7 @@ A couple of beautiful drives just outside the park: Panorama route (takes the wh
 * Two things are not to be missed in George - Outeniqua Transport Museum (old trains) and Bayleaf Café (an absolute gem, and the sign is not a joke - don't step on the wild chameleons).
 
 **Calitzdorp, Oudtshoorn and Prince Albert**:
-* Calitzdorp, on the [Klein Karoo Wine Route](www.kleinkaroowines.co.za/wine-route/), is the best place in South Africa to sample port-style wines. Boplaas Winery and Distillery was my favourite. 
+* Calitzdorp, on the [Klein Karoo Wine Route](https://www.kleinkaroowines.co.za/wine-route/), is the best place in South Africa to sample port-style wines. Boplaas Winery and Distillery was my favourite. 
 * [Five Shy Meerkats](https://fiveshymeerkats.co.za/) offers a unique opportunity to see meerkats waking up, warming their bellies in the sun and heading off for a day of foraging. Don't be put off by the early meeting time, this experience is totally worth all your efforts.
 * Oudtshoorn has several ostrich farms open to visitors. I loved my visit to Safari Ostrich Farm.
 * Cango caves are beautiful (booking required).
