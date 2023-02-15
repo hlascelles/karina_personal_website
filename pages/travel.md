@@ -13,143 +13,149 @@ widgets:
   image: country-andorra.jpg
   title: <a href="/travel/france/#pyrenees" target="_self">2. Andorra</a>
 - url:
+  image: country-antarctica.jpg
+  title: Antarctica
+- url: /travel/argentina/
+  image: country-argentina.jpg
+  title: <a href="/travel/argentina/" target="_self">3. Argentina</a>
+- url:
   image: city-vienna.jpg
-  title: 3. Austria
+  title: 4. Austria
 - url: /travel/bolivia/
   image: country-bolivia.jpg
-  title: <a href="/travel/bolivia/" target="_self">Bolivia</a>
+  title: <a href="/travel/bolivia/" target="_self">5. Bolivia</a>
 - url:
   image: city-sarajevo.jpg
-  title: 4. Bosnia and Herzogovina
+  title: 6. Bosnia and Herzogovina
 - url: /travel/bulgaria/
   image: country-bulgaria.jpg
-  title: <a href="/travel/bulgaria/" target="_self">5. Bulgaria</a>
+  title: <a href="/travel/bulgaria/" target="_self">7. Bulgaria</a>
 - url:
   image: country-canada.jpg
-  title: 6. Canada
+  title: 8. Canada
 - url: /travel/chile/
   image: country-chile.jpg
-  title: <a href="/travel/chile/" target="_self">Chile</a>
+  title: <a href="/travel/chile/" target="_self">9. Chile</a>
 - url:
   image: country-colombia.jpg
-  title: 7. Colombia
+  title: 10. Colombia
 - url:
   image: country-croatia.jpg
-  title: 8. Croatia
+  title: 11. Croatia
 - url:
   image: country-denmark.jpg
-  title: 9. Denmark
+  title: 12. Denmark
 - url:
   image: country-egypt.jpg
-  title: 10. Egypt
+  title: 13. Egypt
 - url:
   image: country-finland.jpg
-  title: 11. Finland
+  title: 14. Finland
 - url: /travel/france/
   image: country-france.jpg
-  title: <a href="/travel/france/" target="_self">12. France</a>
+  title: <a href="/travel/france/" target="_self">15. France</a>
 - url:
   image: country-georgia.jpg
-  title: 13. Georgia
+  title: 16. Georgia
 - url:
   image: country-germany.jpg
-  title: 14. Germany
+  title: 17. Germany
 - url:
   image: country-greece.jpg
-  title: 15. Greece
+  title: 18. Greece
 - url:
   image: city-budapest.jpg
-  title: 16. Hungary
+  title: 19. Hungary
 - url:
   image: country-japan.jpg
-  title: 17. Japan
+  title: 20. Japan
 - url:
   image: country-india.jpg
-  title: 18. India
+  title: 21. India
 - url:
   image: country-italy.jpg
-  title: 19. Italy
+  title: 22. Italy
 - url: /travel/ireland/
   image: country-ireland.jpg
-  title: <a href="/travel/ireland/" target="_self">20. Ireland</a> 
+  title: <a href="/travel/ireland/" target="_self">23. Ireland</a> 
 - url:
   image: city-riga.jpg
-  title: 21. Latvia
+  title: 24. Latvia
 - url: /travel/south-africa/#drakensberg
   image: country-lesotho.jpg
-  title: <a href="/travel/south-africa/#drakensberg" target="_self">22. Lesotho</a> 
+  title: <a href="/travel/south-africa/#drakensberg" target="_self">25. Lesotho</a> 
 - url:
   image: country-lithuania.jpg
-  title: 23. Lithuania
+  title: 26. Lithuania
 - url:
   image: country-malaysia.jpg
-  title: 24. Malaysia
+  title: 27. Malaysia
 - url:
   image: country-malta.jpg
-  title: 25. Malta
+  title: 28. Malta
 - url: /travel/mexico/
   image: country-mexico.jpg
-  title: <a href="/travel/mexico/" target="_self">26. Mexico</a>
+  title: <a href="/travel/mexico/" target="_self">29. Mexico</a>
 - url:
   image: country-montenegro.jpg
-  title: 27. Montenegro
+  title: 30. Montenegro
 - url:
   image: country-morocco.jpg
-  title: 28. Morocco
+  title: 31. Morocco
 - url:
   image: country-netherlands.jpg
-  title: 29. Netherlands
+  title: 32. Netherlands
 - url:
   image: country-north_macedonia.jpg
-  title: 30. North Macedonia
+  title: 33. North Macedonia
 - url:
   image: country-norway.jpg
-  title: 31. Norway
+  title: 34. Norway
 - url:
   image: country-oman.jpg
-  title: 32. Oman
+  title: 35. Oman
 - url:
   image: country-panama.jpg
-  title: 33. Panama
+  title: 36. Panama
 - url:
   image: city-warsaw.jpg
-  title: 34. Poland
+  title: 37. Poland
 - url:
   image: country-portugal.jpg
-  title: 35. Portugal
+  title: 38. Portugal
 - url:
   image: country-russia.jpg
-  title: 36. Russia
+  title: 39. Russia
 - url:
   image: country-singapore.jpg
-  title: 37. Singapore
+  title: 40. Singapore
 - url:
   image: city-bratislava.jpg
-  title: 38. Slovakia
+  title: 41. Slovakia
 - url: /travel/south-africa/
   image: country-south-africa.jpg
-  title: <a href="/travel/south-africa/" target="_self">39. South Africa</a>
+  title: <a href="/travel/south-africa/" target="_self">42. South Africa</a>
 - url: /travel/canary-islands/
   image: country-spain.jpg
-  title: <a href="/travel/canary-islands/" target="_self">40. Spain</a>
+  title: <a href="/travel/canary-islands/" target="_self">43. Spain</a>
 - url:
   image: country-sweden.jpg
-  title: 41. Sweden
+  title: 44. Sweden
 - url:
   image: country-switzerland.jpg
-  title: 42. Switzerland
+  title: 45. Switzerland
 - url: /travel/turkey/
   image: country-turkey.jpg
-  title: <a href="/travel/turkey/" target="_self">43. Turkey</a> 
+  title: <a href="/travel/turkey/" target="_self">46. Turkey</a> 
 - url: /travel/uk/
   image: country-uk.jpg
-  title: <a href="/travel/uk/" target="_self">44. United Kingdom</a>
+  title: <a href="/travel/uk/" target="_self">47. United Kingdom</a>
 - url:
   image: country-usa.jpg
-  title: 45. USA
+  title: 48. USA
 - url:
   image: country-vatican.jpg
-  title: 46. Vatican
+  title: 49. Vatican
 
 ---
 

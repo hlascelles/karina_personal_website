@@ -8,12 +8,18 @@ header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
+- url: /travel/street-art/
+  image: graffiti-2019-berlin.jpg
+  title: <a href="/travel/street-art/" target="_self">Random street art</a>
+- url: /travel/cities/
+  image: city-london.jpg
+  title: <a href="/travel/cities/" target="_self">200 most exciting cities</a>
+- url:
+  image: main-run.jpg
+  title: Notes about running
 - url: /notes/orchids/
   image: main-orchids.jpg
   title: <a href="/notes/orchids/" target="_self">Taking care of orchids</a>
-- url: /notes/street-art/
-  image: graffiti-2019-berlin.jpg
-  title: <a href="/notes/street-art/" target="_self">Random street art</a>
 - url: /notes/phd-survival-guide/
   image: main-phd.jpg
   title: <a href="/notes/phd-survival-guide/" target="_self">PhD survival guide</a>

@@ -19,9 +19,9 @@ widgets:
   image: main-phd.jpg
   title: <a href="/notes/phd-survival-guide/" target="_self">3. My PhD was at the interface of computer science and biology.</a>
   text: I spent 8 years in academia - first a BSc in mathematics that I never finished, then an MSc in mathematics and finally a PhD at UCL. My thesis was on applications of machine learning to transcriptomics, with a chapter on de novo evolution of proteins. If you are considering whether to do a PhD or if you are already doing one and are feeling stuck, do get in touch. I'm good at asking the right questions to help you figure out what is right for you. <a href="/notes/phd-survival-guide/"><strong>Keep reading></strong></a>
-- url: /samudra/
+- url: /notes/samudra/
   image: main-samudra.jpg
-  title: <a href="/samudra/" target="_self">4. I am on a mission to reduce the negative impact of waste on climate, environment and health.</a>
+  title: <a href="/notes/samudra/" target="_self">4. I am on a mission to reduce the negative impact of waste on climate, environment and health.</a>
   text: To achieve this I founded <a href="https://samudra.world/" target="_blank">Samudra.world</a>, a systems accelerator. At Samudra we are experimenting with approaches and organisational structures that have not been tried before. Our strategy includes identifying success-relevant stakeholders and working with them to facilitate internal changes and enable powerful coordination between them. <a href="/samudra/"><strong>Keep reading></strong></a>
 ---
 

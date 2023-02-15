@@ -4,7 +4,7 @@ title: "Random street art:"
 header: no
 show_meta: false
 categories:
-    - notes
+    - travel
 widgets:
 - url:
   image: graffiti-2019-CDMX2.jpg
