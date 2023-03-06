@@ -187,7 +187,7 @@ You've learnt a lot of soft and technical skills, you've learnt how to learn qui
 Your future will be as amazing as you'll make it.
 There is nothing you have to do, you are free to go and chase your dreams.
 
-Click [here][9] for more unconventional career advice. 
+<!-- Click [here][9] for more unconventional career advice.  -->
 If you'd like to discuss anything mentioned here, or if you think I can help you to make the most of your PhD, please do [get in touch][10].
 
 
