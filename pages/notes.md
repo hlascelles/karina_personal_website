@@ -9,7 +9,7 @@ header:
   image_fullwidth: main.jpg
 widgets:
 - url: /travel/street-art/
-  image: graffiti-2019-berlin.jpg
+  image: graffiti-2019-2-berlin-min.jpg
   title: <a href="/travel/street-art/" target="_self">Random street art</a>
 - url: /travel/cities/
   image: city-london.jpg
