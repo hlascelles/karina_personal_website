@@ -102,6 +102,8 @@ A couple of beautiful drives just outside the park: Panorama route (takes the wh
 
 ### <a name="capetown"></a> 4. Cape Town
 
+Cape Town reminded me of Los Angeles.
+
 Best neighbourhood to stay in is Sea Point, near Sunset Beach. There are loads of great food places and a wonderful running route along the ocean. 
 
 Hiking:
@@ -135,4 +137,4 @@ Note: I've tried to rent a car in Cape Town twice (more than a month apart and f
 * Capitec bank ATMs charge 50 rand per withdrawal.
 * Best grocery stores: Woolworth and Checkers. In particular, I ate a lot of macadamia nut butter.
 * Even if it is not on the menu, every place has rooibos tea - in case you need a drink free of alcohol, caffeine and sugar. If you do need caffeine, but get a blank stare after ordering a black tea, ask for Five Roses (most popular local brand).
-* In Johannesburg the best areas to stay are Parkhurst, Greenside and Parkview. Brenthurst Gardens is still on my to-visit list, booking is required to visit. 
+* In Johannesburg the best areas to stay are Parkhurst, Greenside and Parkview. Brenthurst Gardens is still on my to-visit list, booking is required to visit. Johannesburg prides itself for being the [largest man-made urban forest in the world](https://www.justtrees.co.za/blog/2019/04/11/joburg-the-largest-man-made-urban-forest-in-the-world/). The best time to visit Johannesburg is from late September to mid-November, when Jacaranda trees are flowering.

@@ -17,7 +17,7 @@ categories:
 * 3/4 teaspoon baking powder
 * 1/2 teaspoon salt
 * 130g chocolate
-* 3 large very ripe bananas
+* about 480g of very ripe peeled bananas (3-5 bananas)
 * 70g sunflower/canola oil
 * 170g sugar
 

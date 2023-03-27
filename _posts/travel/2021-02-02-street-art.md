@@ -8,14 +8,14 @@ categories:
 widgets:
 
 - url:
+  image: graffiti-2023-2-london-min.jpg
+  title: London, UK
+- url:
   image: graffiti-2022-23-ba-min.jpg
   title: Buenos Aires, Argentina
 - url:
-  image: graffiti-2022-22-valparaiso-min.jpg
-  title: Valparaíso, Chile
-- url:
-  image: graffiti-2022-21-birmingham-min.jpg
-  title: Birmingham, UK
+  image: graffiti-2019-15-bogota-min.jpg
+  title: Bogotá, Colombia
 
 - url:
   image: graffiti-2023-1-montevideo-min.jpg
@@ -28,33 +28,33 @@ widgets:
   title: Birmingham, UK
 
 - url:
+  image: graffiti-2022-22-valparaiso-min.jpg
+  title: Valparaíso, Chile
+- url:
+  image: graffiti-2022-21-birmingham-min.jpg
+  title: Birmingham, UK
+- url:
   image: graffiti-2022-20-birmingham-min.jpg
   title: Birmingham, UK
+
 - url:
   image: graffiti-2022-19-birmingham-min.jpg
   title: Birmingham, UK
 - url:
   image: graffiti-2022-17-birmingham-min.jpg
   title: Birmingham, UK
-
 - url:
   image: graffiti-2022-16-london-min.jpg
   title: London, UK
+
 - url:
   image: graffiti-2022-15-london-min.jpg
   title: London, UK
 - url:
   image: graffiti-2022-14-london-min.jpg
   title: London, UK
-
 - url:
   image: graffiti-2022-12-toulouse-min.jpg
-  title: Toulouse, France
-- url:
-  image: graffiti-2022-10-toulouse-min.jpg
-  title: Toulouse, France
-- url:
-  image: graffiti-2022-9-toulouse-min.jpg
   title: Toulouse, France
 
 - url:
@@ -78,13 +78,13 @@ widgets:
   title: Sofia, Bulgaria
 
 - url:
+  image: graffiti-2022-10-toulouse-min.jpg
+  title: Toulouse, France
+- url:
   image: graffiti-2022-7-london-min.jpg
   title: London, UK
 - url:
   image: graffiti-2022-2-sofia-min.jpg
-  title: Sofia, Bulgaria
-- url:
-  image: graffiti-2022-1-sofia-min.jpg
   title: Sofia, Bulgaria
 
 - url:
@@ -98,24 +98,25 @@ widgets:
   title: Istanbul, Turkey
 
 - url:
+  image: graffiti-2022-1-sofia-min.jpg
+  title: Sofia, Bulgaria
+- url:
   image: graffiti-2021-11-istanbul-min.jpg
   title: Istanbul, Turkey
 - url:
   image: graffiti-2021-9-istanbul-min.jpg
   title: Istanbul, Turkey
+
 - url:
   image: graffiti-2021-7-mexico-min.jpg
   title: Playa del Carmen, Mexico
-
 - url:
   image: graffiti-2021-6-mexico-min.jpg
   title: Playa del Carmen, Mexico
 - url:
   image: graffiti-2021-5-mexico-min.jpg
   title: Villahermosa, Mexico
-- url:
-  image: graffiti-2021-3-mexico-min.jpg
-  title: Santiago de Querétaro, Mexico
+
 
 - url:
   image: graffiti-2021-8-istanbul-min.jpg
@@ -128,23 +129,23 @@ widgets:
   title: London, UK
 
 - url:
+  image: graffiti-2021-3-mexico-min.jpg
+  title: Santiago de Querétaro, Mexico
+- url:
   image: graffiti-2021-2-mexico-min.jpg
   title: Santiago de Querétaro, Mexico
 - url:
   image: graffiti-2019-16-bogota-min.jpg
   title: Bogotá, Colombia
+
 - url:
   image: graffiti-2019-15-bogota-min.jpg
   title: Bogotá, Colombia
-
 - url:
   image: graffiti-2019-14-bogota-min.jpg
   title: Bogotá, Colombia
 - url:
   image: graffiti-2019-13-bogota-min.jpg
-  title: Bogotá, Colombia
-- url:
-  image: graffiti-2019-12-bogota-min.jpg
   title: Bogotá, Colombia
 
 - url:

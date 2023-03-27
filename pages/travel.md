@@ -12,9 +12,9 @@ widgets:
 - url: /travel/france/#pyrenees
   image: country-andorra.jpg
   title: <a href="/travel/france/#pyrenees" target="_self">2. Andorra</a>
-- url:
+- url: /travel/argentina/#ushuaia
   image: country-antarctica.jpg
-  title: Antarctica
+  title: <a href="/travel/argentina/#ushuaia" target="_self">Antarctica</a>
 - url: /travel/argentina/
   image: country-argentina.jpg
   title: <a href="/travel/argentina/" target="_self">3. Argentina</a>
@@ -33,6 +33,9 @@ widgets:
 - url:
   image: country-canada.jpg
   title: 8. Canada
+- url: /travel/canary-islands/
+  image: country-canary-islands.jpg
+  title: <a href="/travel/canary-islands/" target="_self">Canary Islands</a>
 - url: /travel/chile/
   image: country-chile.jpg
   title: <a href="/travel/chile/" target="_self">9. Chile</a>
@@ -150,13 +153,15 @@ widgets:
 - url: /travel/uk/
   image: country-uk.jpg
   title: <a href="/travel/uk/" target="_self">47. United Kingdom</a>
+- url: /travel/uruguay/
+  image: city-montevideo.jpg
+  title: <a href="/travel/uruguay/" target="_self">48. Uruguay</a>
 - url:
   image: country-usa.jpg
-  title: 48. USA
-- url:
+  title: 49. USA
+- url: 
   image: country-vatican.jpg
-  title: 49. Vatican
-
+  title: 50. Vatican
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}

@@ -5,7 +5,6 @@ meta_description:
 header: no
 categories:
     - travel
-
 ---
 
 ## Reasons to go:
@@ -73,45 +72,29 @@ Notes:
 ### 2. Southern Patagonian Ice Field
 
 **Hiking from El Chaltén**
-* Fitz Roy / Laguna de los Tres hike, [20km+ based on your route choices](https://connect.garmin.com/modern/activity/10492582369). The hike starts from (-49.320254, -72.894909) in El Chaltén, after initial climb it remains mostly flat until (-49.285243, -72.953509), from there you have two options - a steep one and a flat one. The steep option leads to Laguna de los Tres (-49.280957, -72.983987), I didn't do this route but it must be spectacular. The flat option is to explore left and right: view to Fitz Roy (-49.288982, -72.955827), mirador Piedras Blancas (-49.275032, -72.952705) and mirador Glaciar Piedras Blancas (-49.264604, -72.949762); the view of the glacier is spectacular. Where the route splits and you have the choice whether to go via Laguna Capri or not, I recommed to go via mirador Fitz Roy (-49.300284, -72.920191) on your way there and via Laguna Capri (-49.302853, -72.929678) on the way back, then you can relax on the shore of Laguna Capri for the whole of the remaining time until you absolutely have to return to El Chaltén. Do this hike on the best weather day as it includes the best views, but the immediate surroundings are beautiful throughout the whole hike so it is totally worth it even in miserable weather. 
-* Laguna Torre hike, [20km+ based on your route choices](https://connect.garmin.com/modern/activity/10484946438). The hike starts from (-49.333993, -72.899766), 
+* Fitz Roy / Laguna de los Tres hike, [~20km based on your route choices](https://connect.garmin.com/modern/activity/10492582369). The hike starts from (-49.320254, -72.894909) in El Chaltén, after initial climb it remains mostly flat until (-49.285243, -72.953509), from there you have two options - a steep one and a flat one. The steep option leads to Laguna de los Tres (-49.280957, -72.983987), I didn't do this route but it must be spectacular. The flat option is to explore left and right: view to Fitz Roy (-49.288982, -72.955827), mirador Piedras Blancas (-49.275032, -72.952705) and mirador Glaciar Piedras Blancas (-49.264604, -72.949762); the view of the glacier is spectacular. Where the route splits and you have the choice whether to go via Laguna Capri or not, I recommed to go via mirador Fitz Roy (-49.300284, -72.920191) on your way there and via Laguna Capri (-49.302853, -72.929678) on the way back, then you can relax on the shore of Laguna Capri for the whole of the remaining time until you absolutely have to return to El Chaltén. Do this hike on the best weather day as it includes the best views, but the immediate surroundings are beautiful throughout the whole hike so it is totally worth it even in miserable weather. 
+* Laguna Torre hike, [~20km based on your route choices](https://connect.garmin.com/modern/activity/10484946438). The hike starts from (-49.333993, -72.899766), and follows the Rio Fitz Roy until you reach Laguna Torre (-49.329916, -72.989218). Decide whether you'll hike all the way to Mirador Maestri (-49.316527, -73.005121), which is definitely worth if the visibility is good. Return to El Chaltén via (-49.324899, -72.981088). 
+* If I would have another day, I would have done the hike to Loma del Pliegue Tumbado (-49.359442, -72.967521).
+
+**Hiking from near El Chaltén**
+* Chorrillo del Salto waterfall (-49.295521, -72.907705) is just 500 flat meters from the nearest car park (-49.299845, -72.903588), 3km from the start of the Fitz Roy / Laguna de los Tres hike.
+* If I would have another day, I would have done the 4km hike to Glaciar Huemul viewpoint (-49.073363, -72.901847) from (-49.082815, -72.892122), 35km from the start of the Fitz Roy / Laguna de los Tres hike. According to [Erin Mushaway](https://solsalute.com/blog/hiking-el-chalten-trekking-guide/): "The hike has an small entry fee, as the entire trail is on private property. The trailhead is right by the free parking lot next to the cafe. Pay at the kiosk selling snacks. It’s an easy hike through a forest and it’s completely different than anything you’ll see in El Chalten. It’s humid, moss-covered, and gorgeous."
+
+Notes:
+* The two best restaurants in El Chaltén are The Asadores (two options only - vegetarian or not) and Maffia (pasta restaurant, everyone in El Chaltén told me it's their favourite). Both restaurants are super busy, so you must book.
+* La Roti - perfect place to buy great hiking food.
+
+**Perito Moreno Glacier**  
+While hiking from El Chaltén allows you to see glaciers from afar, at this national park (expensive) a glacier can be observed up close and from above. And Perito Moreno Glacier is gorgeously beautiful and very active. Balcon Inferior was my favourite spot for observing it. 
 
 
 
-
-
-<!-- 
-
-    from El Chalten to Laguna Torre (+stunning views of Cerro Torre) - one of the nicest hikes in Patagonia. 
-    Like most hikes in El Chalten, the first thirty minutes are the toughest part as you ascend from town into the mountains. The first highlights are the Margarita waterfall and the Mirador del Torre viewpoints. After that, it’s pretty smooth sailing through the river valley. A lot of this part of the trail goes through the forest so you aren’t overly exposed to the elements or wind.
-    Mirador Maestri extension - From the ridge before descending to the lagoon’s shore, you have the option to keep going for 2 kilometers to the Maestri viewpoint. The trail isn’t market but is easy to follow along the ridge circumventing the lagoon below. It’s a little difficult but worth it! You’ll see the glacier full-on from this viewpoint and get a unique view of the Cerro Torre’s granite needles as well.
-
-Chorrillo del Salto waterfall - 500m from a car park
-
-Pliegue Tumbado (21km, 8h)
-    Instead of bringing you to the foot of the village’s infamous peaks, it brings you up and around to the best panoramic views.
-    The trailhead is the same as Mirador de los Condores, turn to the left for the Condores and to the right for Pliegue Tumbado.
-Lago & Glaciar Huemul (4km, 2h)
-    37 kilometers from El Chalten down Ruta Provincial 41 in Lago del Desierto.
-    The hike has an entry fee (small) as the entire trail is on private property. The trailhead is right by the free parking lot next to the cafe. Pay at the kiosk selling snacks.
-    It’s an easy hike through a forest and it’s completely different than anything you’ll see in El Chalten. It’s humid, moss-covered, and gorgeous. The first half of the hike is pretty steady and all of the elevation gain hits you at the end but it’s short. Luckily, there are ropes strung up on the trees to help you pull yourself up. This hike has HUGE rewards for very minimal effort.
-
-
-in El Chalten
-Lunch place, grill and pasta dinners. 
-
-
-
-**Perito Moreno Glacier**
-While hiking from El Chaltén allows you to see glaciers from afar, at this national park (not free) a glacier can be observed up close and from above. And Perito Moreno Glacier is gorgeously beautiful and very active. Balcon Inferior was my favourite spot for observing it. -->
-
-
-
-### 3. Buenos Aires
+### <a name="ba"></a> 3. Buenos Aires
 
 
 <!-- ## Neighbourhoods
 
+ADD RUNNING TO BA AND MENDOZA
 
 ### Palermo Soho
 
@@ -205,28 +188,29 @@ Arroyo Maldonado https://en.wikipedia.org/wiki/Maldonado_Stream - look out for s
 
 
 
-### 4. Tierra del Fuego Province
+### <a name="ushuaia"></a> 4. Ushuaia, Tierra del Fuego Province
 
-<!-- Ushuaia
+**Outside Parque Nacional Tierra del Fuego**  
+There are a lot of hiking opportunities around Ushuaia. I only had time for the most popular hike - Laguna Esmeralda, and I loved it. From the beginning of the trail (-54.721852, -68.121948), I hiked to Laguna Esmeralda (-54.69231, -68.12884), around it, and then up to Laguna Turquesa (-54.733154, -68.14296) to get a beautiful view of Laguna Esmeralda from above. This was [17km hike](https://connect.garmin.com/modern/activity/10355318257) with 670 meters of elevation gain. 
 
-
-Isla Vegana - great vegan sandwiches for hiking, focaccia, alfahores with vegan dulce de leche, and much more. local craft beer
-Ana & Juana (two locations) - if you are in need of a cake
-La Anónima - well stocked supermarket
-
-In Ushuaia taxis are metered inside the city and fixed price for hiking destinations outside the city. It is usual to pay a return fair and agree on the pickup time for the return journey with the taxi driver. If you are happy to depart and return on the hour, mini-buses are often a very similar and much cheaper option. You'll need a taxi to depart early in the morning or to return after 19:00 (during the summer the sunsets in Ushuaia are very late).
-
-
-
-Parque Nacional Tierra del Fuego
-
-In the park there are 4 long trails and an area with loads of short trails, Lapataia. I did the Senda Costera (big trail) first, followed by as many short trails in Lapataia as I had time for. My highlights from the short trails were watching beavers through my binoculars at the end of Senda Castorera (-54.855235, -68.594303; and the devastation these invasive species cause to the ecosystem) and making it all the way to the lighthouse (-54.860785, -68.560515) at the end of Senda de la Baliza. The whole [18km hike](https://connect.garmin.com/modern/activity/10362216498) was very enjoyable and easy (360 meters of elevation gain).
+**Inside Parque Nacional Tierra del Fuego**  
+In the park there are 4 long trails and an area with loads of short trails, Lapataia. I did the Senda Costera (big trail from (-54.846511, -68.481283) to (-54.841084, -68.559822) first, followed by as many short trails in Lapataia as I had time for. My highlights from the short trails were watching beavers (and the devastation these invasive species cause to the ecosystem) through my binoculars at the end of Senda Castorera (-54.855235, -68.594303) and making it all the way to the lighthouse (-54.860785, -68.560515) at the end of Senda de la Baliza. The whole [18km hike](https://connect.garmin.com/modern/activity/10362216498) was very enjoyable and easy (360 meters of elevation gain).
 
 Inside the park there are three drop-off/pick-up points served by mini-buses and taxis. I took a mini-bus from Terminal de Ómnibus de Ushuaia (they depart every hour on the hour) to the first stop (-54.846511, -68.481283; the start of the Senda Costera) and got picked up at the last stop (-54.855153, -68.577928). This way I could spend as much time as I wanted enjoying the Senda Costera (one of the most beautiful trails in this park) and then use the remaining time to do short trails (last pickup at 19:00).
 
-Hiking outside the national park
+Notes:  
+* Isla Vegana was my favourite place in Ushuaia. They make great vegan sandwiches for hiking, focaccia, alfahores with vegan dulce de leche, and much more. And they sell local craft beer.
+* La Anónima - is a very well stocked supermarket, given the location.
+* If you are in need of any hiking/expedition gear, guys at Campamento Base shop will sort you out.
+* In Ushuaia taxis are metered inside the city and fixed price for hiking destinations outside the city. It is usual to pay a return fair and agree on the pickup time for the return journey with the taxi driver. If you are happy to depart and return on the hour, mini-buses are often a very similar and much cheaper option. You'll need a taxi to depart early in the morning or to return after 19:00 (during the summer the sunsets in Ushuaia are very late).
 
-There are a lot of hiking opportunities around Ushuaia. I only had time for the most popular hike - Laguna Esmeralda, and I loved it. From the beginning of the trail (-54.721852, -68.121948), I hiked to Laguna Esmeralda (-54.69231, -68.12884), around it, and then up to Laguna Turquesa (-54.733154, -68.14296) to get a beautiful view of Laguna Esmeralda from above. This was [17km hike](https://connect.garmin.com/modern/activity/10355318257) with 670 meters of elevation gain. 
+
+
+<!-- 
+
+tourists look for WU on Google maps and form long queues at those locations. Instead use https://location.westernunion.com/ar/ to identify locations that don't show up on google maps searcches. For example in Ushuaia, there are very long queues at 12 de Octubre 169, V9410 but nobody knows about the location inside a phone cover shop at Av. San Martín 999, V9410 (they allow withdrawals up to 100,000 ARS, keep this secret and use them quitly).
+
+
 
 
 
@@ -243,10 +227,6 @@ Dramamine
 
 
 
-
-tourists look for WU on Google maps and form long queues at those locations. Instead use https://location.westernunion.com/ar/ to identify locations that don't show up on google maps searcches. For example in Ushuaia, there are very long queues at 12 de Octubre 169, V9410 but nobody knows about the location inside a phone cover shop at Av. San Martín 999, V9410 (they allow withdrawals up to 100,000 ARS, keep this secret and use them quitly).
-
-If you need any gear, guys at Campamento Base shop will sort you out.
 
  -->
 
