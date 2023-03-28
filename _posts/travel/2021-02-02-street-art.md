@@ -4,7 +4,7 @@ title: "Random street art"
 header: no
 show_meta: false
 categories:
-    - travel
+  - travel
 widgets:
 
 - url:
