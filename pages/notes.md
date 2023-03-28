@@ -4,9 +4,7 @@ title:
 permalink: "/notes/"
 meta_description:
 teaser: 
-header:
-  title: ""
-  image_fullwidth: main.jpg
+header: no
 widgets:
 - url: /travel/street-art/
   image: graffiti-2019-2-berlin-min.jpg
@@ -16,7 +14,7 @@ widgets:
   title: <a href="/travel/cities/" target="_self">200 most exciting cities</a>
 - url:
   image: main-run.jpg
-  title: Notes about running
+  title: What I've learnt while trying to run 21km in less than 100 minutes
 - url: /notes/orchids/
   image: main-orchids.jpg
   title: <a href="/notes/orchids/" target="_self">Taking care of orchids</a>
@@ -29,4 +27,4 @@ widgets:
 
 ---
 
-{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}

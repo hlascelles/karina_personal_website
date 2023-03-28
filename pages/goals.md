@@ -3,9 +3,7 @@ layout: kz-page
 title: "The goals I've set myself:"
 permalink: "/goals/"
 meta_description:
-header:
-  title: ""
-  image_fullwidth: main.jpg
+header: no
 widgets:
 - url:
   image: main-run.jpg
@@ -44,4 +42,5 @@ widgets:
   text: My academic background is in mathematics; my PhD was dedicated to developing mathematical algorithms and statistical models to facilitate discoveries in genomics. Based on my experience, <a href="/notes/phd-survival-guide/" target="_self">here</a> is my advice on how to select the right PhD, make the most of it, pass your viva and finally make the most of your new title.
 ---
 
+<br/>
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
