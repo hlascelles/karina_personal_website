@@ -150,18 +150,24 @@ widgets:
 - url: /travel/turkey/
   image: country-turkey.jpg
   title: <a href="/travel/turkey/" target="_self">46. Turkey</a> 
+- url: /travel/turkmenistan/
+  image: country-turkmenistan.jpg
+  title: <a href="/travel/turkmenistan/" target="_self">47. Turkmenistan</a> 
 - url: /travel/uk/
   image: country-uk.jpg
-  title: <a href="/travel/uk/" target="_self">47. United Kingdom</a>
+  title: <a href="/travel/uk/" target="_self">48. United Kingdom</a>
 - url: /travel/uruguay/
   image: city-montevideo.jpg
-  title: <a href="/travel/uruguay/" target="_self">48. Uruguay</a>
+  title: <a href="/travel/uruguay/" target="_self">49. Uruguay</a>
 - url:
   image: country-usa.jpg
-  title: 49. USA
+  title: 50. USA
+- url: /travel/uzbekistan/
+  image: country-uzbekistan.jpg
+  title: <a href="/travel/uzbekistan/" target="_self">51. Uzbekistan</a> 
 - url: 
   image: country-vatican.jpg
-  title: 50. Vatican
+  title: 52. Vatican
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
