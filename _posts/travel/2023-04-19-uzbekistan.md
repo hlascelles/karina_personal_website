@@ -17,7 +17,7 @@ categories:
 * Hazrat Khizr Mosque and Islam Karimov Mausoleum mean a lot to locals. Be extra respectful of local norms and dress code, and you’ll be rewarded with real not-for-tourists sights.
 * Observatory of Ulugbek. Visit Ulugbek Memorial Museum first, then the remains of the observatory will make sense. On the way back to the city center, stop by to visit Khoja Daniyor Mausoleum - it is believed that the saint continues to grow in the tomb, so the tomb is very long. It means a lot to locals, so be extra respectful of local norms and dress code.
 * Shishraxtxona Maosoleum - this will give you an idea how Samarkand looked pre-restoration. Across the street is the Khodzha Abdu-Derun Mausoleum and a big new mosque is being built next door to it.
-* Siab Bazar. Possible items to hunt for include kurut (dried sour cheese balls), anzur (pickled wild onion, sold only in Samarkand), dried apricots stuffed with walnuts, fried ready-to-eat chickpeas.
+* Siab Bazar. Possible items to hunt for include kurut (dried sour cheese balls), [sumalak](https://www.atlasobscura.com/foods/sumalak-iran-pudding) (only in spring?), anzur (pickled wild onion, sold only in Samarkand), dried apricots stuffed with walnuts, fried ready-to-eat chickpeas.
 * Kosh Hauz Mosque is close to Registon Square and yet receives no attention from tourists. A cute little minaret inside the courtyard makes it totally worth a visit.
 * I didn't visit the Samarkand winery (Samarkandskiy Vinnyy Zavod Imeni M. A. Khovrenko), or The Eternal City in the brand new district called Samarkand City (I believe it is just a place for storing tourists overnight).
 

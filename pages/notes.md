@@ -12,9 +12,6 @@ widgets:
 - url: /travel/cities/
   image: city-london.jpg
   title: <a href="/travel/cities/" target="_self">200 most exciting cities</a>
-- url:
-  image: main-run.jpg
-  title: What I've learnt while trying to run 21km in less than 100 minutes
 - url: /notes/orchids/
   image: main-orchids.jpg
   title: <a href="/notes/orchids/" target="_self">Taking care of orchids</a>
@@ -28,3 +25,9 @@ widgets:
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
+
+<!-- 
+- url:
+  image: main-run.jpg
+  title: What I've learnt while trying to run 21km in less than 100 minutes
+-->
