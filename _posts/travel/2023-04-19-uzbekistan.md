@@ -158,7 +158,7 @@ I'm so not done with Tashkent; my to-visit list is still long:
 
 **Food and drink in Bukhara:**
 * Ayvan restaurant - this is the best food in central Bukhara. Because of its beautiful historical setting, the restaurant deserves a visit even if you are not hungry. The food here is much better than at Old Bukhara, which is widely recommended for vegetarians. The spiced tea is better and cheaper than at Silk Road Teahouse, which is frequented by droves of tourists.
-* Zaytoon restaurant is very good. It is located outside the touristic city center, but it is conveniently on the way to/from the train station (39.722227, 64.548614).
+* Zaytoon restaurant is very good, and has a great selection of Uzbek wines by the glass, which I've not encountered anywhere else in Uzbekistan. It is located outside the touristic city center, but it is conveniently on the way to/from the train station (39.722227, 64.548614).
 * If I had more time, I'd try Andara, and Chalet.
 
 **Notes:**
