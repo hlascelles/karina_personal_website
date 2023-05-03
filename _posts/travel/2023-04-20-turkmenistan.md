@@ -36,6 +36,7 @@ Once you are in the area, there are two more craters to see: the Mud crater (40.
 * Bring USD cash, as it won't be possible to use your bank cards in Turkmenistan.
 * Don't expect to find wifi in hotels, restaurants or indeed anywhere. Internet traffic is heavily monitored, many websites/apps are blocked, VPNs are likely not to work. I asked my guide to make a hotspot with his internet-connected mobile phone, which allowed me to check my emails and reply to some. I did not attempt to visit any websites or to buy my own sim card.
 * Food in Turkmenistan is not great and very expensive, but many places will have at least something vegetarian (maybe a lentil soup or dumplings/pies with pumpkin, spinach or potatoes). Imported stuff is super expensive. To give you a vague idea - a dinner for one without alcohol can easily be 60 USD or more, and I paid 17 USD for 1 litre of imported vegan milk.
+* My standard EU charger worked everywhere in Turkmenistan.
 
 **My experience at Shavat (41.773659, 60.059283) border on the way in:**
 * Upon leaving Uzbekistan, I was not allowed to walk to the Turkmen side of the border (2km), as it is now mandatory to take the bus. It costs 5 TMT in cash - about 2 USD, but they won't take USD cash. I managed to negotiate paying in UZS. Prior to that I visited seven different banks in Nukus, and from that experience I believe there is no way to buy TMT in Uzbekistan.

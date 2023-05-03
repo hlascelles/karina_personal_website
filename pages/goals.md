@@ -43,4 +43,4 @@ widgets:
 ---
 
 <br/>
-{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
