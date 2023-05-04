@@ -8,10 +8,10 @@ categories:
 widgets:
 
 - url:
-  image: graffiti-2019-2-berlin-min.jpg
+  image: graffiti-2019-2-berlin-min.jpg #copy
   title: Berlin, Germany
 - url:
-  image: graffiti-2022-7-london-min.jpg
+  image: graffiti-2022-7-london-min.jpg #copy
   title: London, UK
 - url:
   image: graffiti-2023-2-london-min.jpg
@@ -21,7 +21,7 @@ widgets:
   image: graffiti-2023-1-montevideo-min.jpg
   title: Montevideo, Uruguay
 - url:
-  image: graffiti-2022-8-toulouse-min.jpg
+  image: graffiti-2022-8-toulouse-min.jpg #copy
   title: Toulouse, France
 - url:
   image: graffiti-2022-18-birmingham-min.jpg
@@ -199,5 +199,14 @@ widgets:
   title: Tokyo, Japan
 ---
 
-<br/>
+I visit art museums and galleries only after I'm reasonably sure that I found most of the noteworthy street art (graffiti) in the city I am in. 
+What I like most about street art is:
+* It tells me about the current situation, revealing what's on people's minds. The art is alive and relevant, and the artist is probably still alive too. For me, this is in stark contrast to paintings in museums, many of which feel dusty and a bit dead.
+* Street art is very fragile. It is so naked and easy to destroy, that its mere existence is a proof of respect for the artist and/or this particular work. Money cannot buy this respect.
+* Street art is for everyone. There is no charge to see it. It brightens up neighbourhoods and people's commutes. 
+
+My favourite destinations for street art are Mexico, Colombia, UK (London and Birmingham), Sofia and Istanbul. If you know what my next destination should be, [please let me know](mailto:hello@karina.io).
+
+Here are some examples of street art that stood out to me due to (1) the originality of the idea, (2) the interesting technique, (3) the emotional response I got from it, (4) the creative way in which it is incorporated into the environment, or simply because of its (5) beauty:
+
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}

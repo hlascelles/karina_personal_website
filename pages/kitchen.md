@@ -7,9 +7,9 @@ widgets:
 - url: /kitchen/pulses/
   image: food-pulses.jpg
   title: <a href="/kitchen/pulses/" target="_self">Dishes with pulses</a>
-- url: /kitchen/nuts-seeds/
-  image: food-nuts-seeds.jpg
-  title: <a href="/kitchen/nuts-seeds/" target="_self">Nuts and seeds</a>
+- url: /kitchen/nuts/
+  image: food-nuts.jpg
+  title: <a href="/kitchen/nuts/" target="_self">Nuts and seeds</a>
 - url: /kitchen/mushrooms/
   image: food-mushrooms.jpg
   title: <a href="/kitchen/mushrooms/" target="_self">Mushrooms</a>
@@ -37,9 +37,9 @@ widgets:
 - url: /kitchen/warm-salads/
   image: food-warm-salads.jpg
   title: <a href="/kitchen/warm-salads/" target="_self">Warm salads</a>
-- url: /kitchen/salad/
-  image: food-salad.jpg
-  title: <a href="/kitchen/salad/" target="_self">Cold salads</a>
+- url: /kitchen/salads/
+  image: food-salads.jpg
+  title: <a href="/kitchen/salads/" target="_self">Cold salads</a>
 - url: /kitchen/cheese/
   image: food-cheese.jpg
   title: <a href="/kitchen/cheese/" target="_self">Cheesy stuff</a>
@@ -52,7 +52,7 @@ widgets:
   title: <a href="/kitchen/vegan/" target="_self">Accidentally vegan</a>
 - url: /kitchen/hiking/
   image: food-hiking.jpg
-  title: <a href="/kitchen/cheese/" target="_self">Hiking/airport food</a>
+  title: <a href="/kitchen/hiking/" target="_self">Hiking/airport food</a>
 
 - url: /kitchen/cake/
   image: food-cake.jpg
@@ -66,10 +66,18 @@ widgets:
 ---
 
 All recipe websites I've come across have one thing in common - they are made by people who love to cook. 
-Here I made a list of my favourite recipes to share with people like me, who don't like cooking. 
-The recipe instructions are optimised for speed and using less items you'll need to wash later. 
-All amounts are in grams, even for liquids, so you can add everything into a container on the scales, without using any measuring devices. 
-No photos included because it doesn't matter how it looks like; the goal is to make nutritious and satisfying meals. 
-You still won't love cooking, but you'll love the food you make and how it makes you feel. 
+I don't. 
+I want a high return on investment - maximum amount of flavour and nutritional benefit for minimum amount of effort and/or time. 
+
+I made this online collection of my favourite recipes to address 3 of my pain points:
+* The daily question of what's for lunch and what's for dinner? 
+I'd rather be working, running or planning my travels than thinking about what to cook. 
+Having this online collection arranged by nutritional value (nudging me to eat different pulses, grains, nuts and mushrooms and reminding me of recipes for whatever vegetable is currently in season) makes it easy to pick something I could make for the next meal. 
+* If I'm heading home and I'm hungry, I want to shop on the way instead of first consulting my cookbook at home. 
+I copy-paste the ingredient list from here, tick off the items I know I have in my kitchen, and done!
+* I optimise recipes for speed and for using less items that I'll need to wash later; I convert all amounts into grams, even for liquids, so I can add everything into a container on the scales, without dirtying any measuring devices. 
+I don't want to follow a recipe from another website (made by somebody who loves to cook) and re-optimise it every time. 
+
+If you find this online collection useful, please [send me one high-return-on-investment recipe](mailto:hello@karina.io) as a token of gratitude!
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}

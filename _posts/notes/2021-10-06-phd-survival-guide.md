@@ -4,7 +4,7 @@ title: "PhD survival guide"
 header: no
 image:
     title: main-phd.jpg
-the_date: 6 Oct 2021
+the_date: 4 May 2023
 show_meta: true
 categories:
     - notes
@@ -33,6 +33,8 @@ This sense of importance will be the driving factor that will motivate you every
 Explore your PhD options widely in terms of academic areas (and geographical ones too). 
 If you find a particular area of research important (and hopefully interesting too) and you are motivated to learn, you'll be able to make a valuable scientific contribution even if you have no prior training in that specific area. 
 On a selfish level, it also adds value to your PhD as you'll essentially get a free Masters degree in a new subject or two.
+
+**May 2023 update:** A book called [Towards a Global Core Value System in Doctoral Education](https://www.uclpress.co.uk/products/176624) was published in 2022 (with open-access PDF). If I was about to start my PhD I would probably want to read it. And if it's good, I'd make my supervisor read it too.
 
 <a name="start"></a>
 # Starting a PhD
@@ -188,7 +190,7 @@ Your future will be as amazing as you'll make it.
 There is nothing you have to do, you are free to go and chase your dreams.
 
 <!-- Click [here][9] for more unconventional career advice.  -->
-If you'd like to discuss anything mentioned here, or if you think I can help you to make the most of your PhD, please do [get in touch][10].
+If you'd like to discuss anything mentioned here, or if you think I can help you to make the most of your PhD, please do [get in touch](mailto:hello@karina.io).
 
 
 [1]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
@@ -200,6 +202,5 @@ If you'd like to discuss anything mentioned here, or if you think I can help you
 [7]: https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/
 [8]: https://observablehq.com/@mbostock/methods-of-comparison-compared
 [9]: /notes/career-advice/
-[10]: mailto:hello@karina.io
 [11]: https://www.nature.com/articles/d41586-021-02696-z
 [12]: https://www.nature.com/articles/nmeth.4300
