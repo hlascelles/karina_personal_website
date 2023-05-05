@@ -9,3 +9,4 @@ categories:
 
 * [Mushroom pasta](/kitchen/mushroom-pasta/)
 * [Mushroom, lentil and barley ragu](/kitchen/mushroom-lentil-barley-ragu/)
+* [Green or red Thai curry](/kitchen/thai-curry/)
