@@ -12,14 +12,14 @@ I very roughly divided London into 22 parts and listed my favourite things to do
 
 <a name="battersea"></a> 
 
-### Battersea 
+### 1. Battersea 
 
 * One of the new neighbourhoods in London. See the Battersea Power Station that has been renovated into a shopping mall and [flats](https://propertylistings.ft.com/propertynews/london/7002-for-their-interiors-inspiration-battersea-power-stations-residential-architects-turned-to-the-buildings-original-role.html), exciting architecture of the surrounding residential buildings, 
 Battersea Park, etc.
 
 <a name="brixton"></a> 
 
-### Brixton 
+### 2. Brixton 
 
 * Brixton Windmill - an unexpected thing to see in London.
 * Ghost Whale - craft beer shop.
@@ -29,47 +29,47 @@ Battersea Park, etc.
 
 <a name="camden"></a> 
 
-### Camden 
+### 3. Camden 
 
 * Regent's Park. Don't miss Queen Mary's Rose Gardens.
 * Primrose Hill - a perfect spot for a picnic and/or sunset watching.
 
 <a name="canary-wharf"></a> 
 
-### Canary Wharf 
+### 4. Canary Wharf 
 
 * Exciting [architecture](https://www.ft.com/content/54faa76a-a61d-4d3c-b9a9-76eb6f92a79a).
 * [Events in Canary Wharf](https://canarywharf.com/whats-on/) - Winter Lights in January, Summer Lights in August, etc.
 
 <a name="dalston"></a>
 
-### Dalston  
+### 5. Dalston  
 
 * Ridley Road Market (not Sundays) - nothing like the Broadway Market.
 * Dalston Eastern Curve Garden.
 
-**Food:**
+**Food and drink:**
 * Berber & Q Grill House - Middle Eastern food.
 * Little Duck The Picklery - modern European.
 * The Dusty Knuckle Bakery - the best pastries ever.
-* Andu Ethiopian - vegan restaurant.
+* Andu Ethiopian - vegan restaurant. Loads of vegan options.
 
 <a name="east-ham"></a> 
 
-### East Ham 
+### 6. East Ham 
 
 * South Indian neighbourhood. Visit London Sri Mahalakshmi Temple, eat South Indian food, Indian grocery shopping.
 
 <a name="greenwich"></a> 
 
-### Greenwich
+### 7. Greenwich
 
 * Royal Observatory Greenwich (not free).
 * The area around North Greenwich Station is architecturally exciting - Design District Canteen, The Tide, Olympian Way and many more architectural gems.
 
 <a name="hackney"></a> 
 
-### Hackney 
+### 8. Hackney 
 
 * Broadway Market (Saturdays).
 * Netil Market.
@@ -92,17 +92,17 @@ Battersea Park, etc.
 
 <a name="hampstead-heath"></a> 
 
-### Hampstead Heath 
+### 9. Hampstead Heath 
 
 * Huge Hampstead Heath park, extending into Highgate Wood in the North and Golders Hill Park in the West.
 * [Parliament Hill Farmers' Market](https://www.lfm.org.uk/markets/parliament-hill/) (Saturdays).
 
-**Food:**
+**Food and drink:**
 * Karma Bread Bakehouse - pastries.
 
 <a name="islington"></a>
 
-### Islington  
+### 10. Islington  
 
 * Regent's Canal. From Angel station it goes East to Victoria Park. From there you can continue North to Olympic Park or South to Limehouse. From Olympic Park you can continue North along the River Lee or South to Royal Observatory Greenwich (crossing under the Thames via Greenwich Foot Tunnel). It is excellent for running and all-day walks.
 * [Union Chapel](https://unionchapel.org.uk/whats-on) - a beautiful venue hosting different types of events.
@@ -113,7 +113,7 @@ Battersea Park, etc.
 * Neals Yard Dairy - cheese shop.
 
 **Food:**
-* Tofu Vegan Islington - best vegan Chinese restaurant in London. They've now opened several other locations too.
+* Tofu Vegan Islington - awesome vegan Chinese restaurant. They've now opened several other locations too.
 * Berber & Q Shawarma Bar - Middle Eastern food, same people as Berber & Q Grill House.
 * Cafe Tiffin - North Indian.
 * Westerns Laundry - European.
@@ -130,7 +130,7 @@ Battersea Park, etc.
 
 <a name="kensington"></a> 
 
-### Kensington 
+### 11. Kensington 
 
 * [Natural History Museum](https://www.nhm.ac.uk/visit/whats-on.html) and their [Lates](https://www.nhm.ac.uk/events/lates.html).
 * [Science Museum](https://www.sciencemuseum.org.uk/see-and-do) and their [Lates](https://www.sciencemuseum.org.uk/see-and-do/lates).
@@ -138,9 +138,9 @@ Battersea Park, etc.
 
 <a name="kings-cross"></a> 
 
-### King's Cross 
+### 12. King's Cross 
 
-* Known as the [Knowledge Quarter](https://www.knowledgequarter.london/) - The British Library, The British Museum, The Wellcome Trust, The Alan Turing Institute, Francis Crick Institute, UCL (University College London, SOAS (School of Oriental and African Studies), Royal College of Physicians, Google, Springer Nature, The Guardian (and many more) are all located here.
+* Known as the [Knowledge Quarter](https://www.knowledgequarter.london/) - The British Library, The British Museum, The Wellcome Trust, The Alan Turing Institute, Francis Crick Institute, UCL, SOAS, Royal College of Physicians, Google, Springer Nature, The Guardian (and many more) are all located here.
 * [King's Cross Visitor Centre](https://www.kingscross.co.uk/visitor-centre) is a great place to start. The model of the neighbourhood gives you an overview of what there is to explore.
 * Explore Pancras Square, Granary Square, Lewis Cubitt Square, Gasholder Park, Coal Drops Yard, etc.
 * Regent's Canal. It goes West past Wembley, and you can follow it all the way to Slough or Kew Bridge. It is excellent for running and all-day walks.
@@ -151,14 +151,14 @@ Battersea Park, etc.
 * [The Rooftop at The Standard](https://www.standardhotels.com/london/features/the-rooftop-bar-standard-london) - overpriced drinks are totally worth it on a warm sunny evening, as this bar has a unique view of the beautiful St Pancras Station.
 * [Crypt Gallery](http://cryptgallery.org/) - an atmospheric gallery worth visiting, no matter what the exhibition is.
 
-**Food:**
+**Food and drink:**
 * Dishoom King's Cross - North Indian food. I'm not sure why there is so much hype about this restaurant chain, but this specific location is truly special - a warehouse where goods and spices arrived from Bombay in the 1930s.
-* Merkato - Ethiopian.
+* Merkato - Ethiopian. Loads of vegan options.
 * Indian Lounge - not the best food, but super convenient location and no booking required.
 
 <a name="liverpool-street"></a> 
 
-### Liverpool Street 
+### 13. Liverpool Street 
 
 * [Sculpture in the city](https://www.sculptureinthecity.org.uk/) - an annual outdoor sculpture exhibition, new sculptures every June.
 * St Dunstan in the East Church Garden - a beautiful old church with no roof.
@@ -175,37 +175,40 @@ Battersea Park, etc.
 
 <a name="london-bridge"></a> 
 
-### London Bridge 
+### 14. London Bridge 
 
 * [Tate Modern](https://www.tate.org.uk/visit/tate-modern) and their [Lates](https://www.tate.org.uk/whats-on/tate-modern/tate-modern-lates). Worth a visit even if you don't like modern art, as it is located in the former Bankside Power Station, which operated until 1981.
 * [National Theatre Archive](https://www.nationaltheatre.org.uk/about-the-national-theatre/archive) - here you can watch recordings of all London theater productions that are no longer showing on stage, for free. Booking required.
 
+**Food and drink:**
+* Tatale - contemporary Pan-African. Set menu with a vegan option.
+
 <a name="peckham"></a> 
 
-### Peckham 
+### 15. Peckham 
 
-**Food:**
+**Food and drink:**
 * Persepolis - vegetarian Persian food. The Feast menu is packed with flavours.
 
 <a name="richmond"></a> 
 
-### Richmond 
+### 16. Richmond 
 
 * [Kew Gardens](https://www.kew.org/kew-gardens/whats-on) - one of the best botanical gardens in the world. Arrive at the opening time, as one day is not enough to see everything. Don't miss [Marianne North Gallery](https://www.youtube.com/watch?v=_nALt1P7UtU), Shirley Sherwood Gallery, [Agius Evolution Garden](https://www.kew.org/read-and-watch/11-things-about-evolution-garden), Alpine House (especially in April-May), [the giant waterlily](https://www.kew.org/read-and-watch/new-giant-waterlily-victoria-boliviana-discovered-at-kew) in the Waterlily House.
 * Isabella Plantation in Richmond Park - visit in late April/early May to catch rhododendrons in bloom (explore all 3 ponds). Also find the deer with huge antlers in Richmond Park.
 
-**Food:**
+**Food and drink:**
 * Petersham Nurseries Café - a wonderful place to stop for a tea and a cake in a plant-filled glasshouse.
 
 <a name="rotherhithe"></a> 
 
-### Rotherhithe
+### 17. Rotherhithe
 
 * [The Midnight Apothecary](https://www.themidnightapothecary.co.uk/) cocktail bar. Entry fee includes a tour of the Brunel Museum.
 
 <a name="shoreditch"></a>
 
-### Shoreditch  
+### 18. Shoreditch  
 
 * Street art around Shoreditch. See guides by [Caroline and Neil](https://www.cktravels.com/shoreditch-street-art-london-guide-map/), [Rose](https://www.wheregoesrose.com/shoreditch-street-art/), [Inspiring City](https://inspiringcity.com/2020/07/23/a-street-art-map-of-shoreditch-and-brick-lane/) and [Wayfaring Views](https://wayfaringviews.com/see-shoreditch-street-art-get-your-london-with-edge/). Look out for works by [Dan Kitchener](https://www.dankitchener.com/).
 * Columbia Road Flower Market (Sundays).
@@ -214,11 +217,11 @@ Battersea Park, etc.
 * Lounge Bohemia
 * Nightjar
 * Happiness Forgets
-* Looking Glass Cocktail Club
+* Looking Glass Cocktail Club. The cool bar is behind the mirror.
 
 <a name="soho"></a> 
 
-### Soho 
+### 19. Soho 
 
 * [Sir John Soane's Museum](https://www.soane.org/) -  the house of one of the greatest English architects, kept as it was at the time of his death in 1837. It displays his collection of antiquities, furniture, sculptures, architectural models and paintings. It is full of curiosities and surprises.
 * [Grant Museum of Zoology](https://www.ucl.ac.uk/culture/grant-museum-zoology) - a small space densely packed with skeletons.
@@ -234,7 +237,7 @@ Battersea Park, etc.
 
 **Food and drink:**
 * Kricket Soho - modern Indian.
-* Akoko - West African.
+* Akoko - West African. Tasting menu with a vegan option.
 * NOPI - by Ottolenghi.
 * Tendril - a naughty vegan restaurant (with a bit of cheese). Both tasting menu and à la carte.
 * Chettinad Restaurant - not amazing, but I've not yet found a better place.
@@ -246,31 +249,31 @@ Battersea Park, etc.
 
 <a name="stoke-newington"></a> 
 
-### Stoke Newington 
+### 20. Stoke Newington 
 
 * Clissold Park is lovely.
 * Abney Park cemetery is beautiful.
 * La Fromagerie - cheese shop.
 
 **Food and drink:**
-* Laza Eritrean Ethiopian Restaurant - daily homemade injera, wonderful owner.
+* Laza Eritrean Ethiopian Restaurant - daily homemade injera, wonderful owner. Loads of vegan options.
 * Romeo & Giulietta Artisan Gelateria.
 
 <a name="walthamstow"></a> 
 
-### Walthamstow 
+### 21. Walthamstow 
 
 * God's Own Junkyard - a paradise of neon signs. Around it there are several breweries and Mother's Ruin Gin Palace (gin-centric cocktail bar).
 * Markfield Beam Engine and Museum - the engine is a great thing to see, especially if you can catch it in [operation](https://www.mbeam.org/visit).
 * Lloyd Park is great on a sunny day.
 * Clapton Craft - craft beer shop.
 
-**Food:**
+**Food and drink:**
 * Chuku's (Nigerian Tapas) - loads of vegan options.
 
 <a name="wembley"></a> 
 
-### Wembley 
+### 22. Wembley 
 
 * BAPS Shri Swaminarayan Mandir London - Hindu temple made from marble and wood.
 * Shri Sanatan Hindu Mandir - Hindu temple made from limestone.

@@ -17,6 +17,7 @@ Once you are in the area, there are two more craters to see: the Mud crater (40.
 
 ### <a name="ashgabat"></a> 2. Ashgabat
 * To see Ashgabat without being on a tour, follow [Esther's blog](https://www.golivegotravel.nl/en/asia-en/turkmenistan-ashgabat-things-to-do/). Don't miss the Arçabil şaýoly - the street lined with ministries, embassies, UN offices and monuments. And Ruhnama Monument (37.888238, 58.379083) - is this the world's one and only monument to a book?
+* See Ashgabat at night. During the day the city is white - white marble buildings and all the cars are white too (it is illegal to drive a dark car through the city). But at night...you have to see it to believe it.
 * My impression of Ashgabat changed profoundly after visiting Berkarar Shopping Mall (37.893995, 58.369733; without a guide). Seeing locals playing VR games, kids riding the London double-decker bus and expats buying fancy pastries (12 USD each), was a big change from being shown around the completely empty parts of the city.
 * Things to see around Ashgabat include Turkmenbashy Ruhy Mosque (38.017872, 58.252794), Gokdepe Fortress (38.169691, 57.966739), Old Nissa (37.951435, 58.211426). Old Nissa is impressive if you get to see pictures of what it is believed to have looked like. Unfortunately The Guy who knew everything about Old Nissa died in 2019 and nobody has followed in his footsteps yet. If you are looking for a PhD topic - this is a cool one.
 

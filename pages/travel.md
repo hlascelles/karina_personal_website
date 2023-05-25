@@ -78,12 +78,12 @@ widgets:
 - url:
   image: country-india.jpg
   title: 22. India
-- url:
-  image: country-italy.jpg
-  title: 23. Italy
 - url: /travel/ireland/
   image: country-ireland.jpg
-  title: <a href="/travel/ireland/" target="_self">24. Ireland</a> 
+  title: <a href="/travel/ireland/" target="_self">23. Ireland</a> 
+- url:
+  image: country-italy.jpg
+  title: 24. Italy
 - url:
   image: city-riga.jpg
   title: 25. Latvia
@@ -158,13 +158,13 @@ widgets:
   title: <a href="/travel/turkmenistan/" target="_self">48. Turkmenistan</a> 
 - url: /travel/uk/
   image: country-uk.jpg
-  title: <a href="/travel/uk/" target="_self">49. United Kingdom</a>
-- url: /travel/uruguay/
-  image: city-montevideo.jpg
-  title: <a href="/travel/uruguay/" target="_self">50. Uruguay</a>
+  title: <a href="/travel/uk/" target="_self">49. UK</a>
 - url:
   image: country-usa.jpg
-  title: 51. USA
+  title: 50. USA
+- url: /travel/uruguay/
+  image: city-montevideo.jpg
+  title: <a href="/travel/uruguay/" target="_self">51. Uruguay</a>
 - url: /travel/uzbekistan/
   image: country-uzbekistan.jpg
   title: <a href="/travel/uzbekistan/" target="_self">52. Uzbekistan</a> 
