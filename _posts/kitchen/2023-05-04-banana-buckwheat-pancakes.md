@@ -14,15 +14,17 @@ categories:
 * 1 teaspoon cinnamon
 * 1/4 teaspoon salt
 <nbsp></nbsp>
+* 30g butter
 * 2 very ripe bananas
-* 1 teaspoon vanilla extract
 * 200g milk
+* 1/2 teaspoon vanilla extract
 
 **Methods:**
 
+* Melt the butter and let it cool down a bit.
 * Mix all the dry ingredients (flour, ground seeds, baking powder, cinnamon and salt).
 * Mash bananas with a fork.
-* Add bananas to the flour mixture, mix until combined. Add milk and vanilla extract, and mix until combined.
+* Add bananas to the flour mixture, mix until combined. Add milk, melted butter and vanilla extract, and mix until combined.
 * Spoon small dollops of batter on a hot non-stick pan. They will expand, so do keep them small and spaced out. Flip as soon as the bottom sides are brown.
 
 **Inspired by:** [Pick Up Limes](https://www.pickuplimes.com/recipe/fabulously-healthy-buckwheat-pancakes-185)

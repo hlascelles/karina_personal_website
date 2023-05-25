@@ -7,9 +7,9 @@ widgets:
 - url: /kitchen/pulses/
   image: food-pulses.jpg
   title: <a href="/kitchen/pulses/" target="_self">Dishes with pulses</a>
-- url: /kitchen/nuts/
-  image: food-nuts.jpg
-  title: <a href="/kitchen/nuts/" target="_self">Nuts and seeds</a>
+- url: /kitchen/seeds/
+  image: food-seeds.jpg
+  title: <a href="/kitchen/seeds/" target="_self">Nuts and seeds</a>
 - url: /kitchen/mushrooms/
   image: food-mushrooms.jpg
   title: <a href="/kitchen/mushrooms/" target="_self">Mushrooms</a>
