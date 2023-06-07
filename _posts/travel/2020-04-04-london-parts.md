@@ -53,6 +53,7 @@ Battersea Park, etc.
 * Little Duck The Picklery - modern European.
 * The Dusty Knuckle Bakery - the best pastries ever.
 * Andu Ethiopian - vegan restaurant. Loads of vegan options.
+* MAP Maison - cocktails are not memorable, but their whiskey collection is impressive and they do tastings.
 
 <a name="east-ham"></a> 
 
@@ -118,7 +119,7 @@ Battersea Park, etc.
 * Cafe Tiffin - North Indian.
 * Westerns Laundry - European.
 * Ottolenghi (Islington) - by Ottolenghi.
-* [Towpath](https://www.towpathlondon.com/) - awesome outdoor restaurant on the canal, perfect for lunch or a dinner or warm summer evening.
+* [Towpath](https://www.towpathlondon.com/) - awesome outdoor restaurant on the canal in Islington, perfect for lunch or a dinner on a warm summer evening.
 * Zia Lucia Islington - great pizzas, including their famous charcoal crust.
 * Frequency Coffee Angel - coffee and cinnamon rolls.
 * Jolene Colebrooke Row - sourdough and pastries.
@@ -147,12 +148,12 @@ Battersea Park, etc.
 * Keystone Crescent (51.531825, -0.120135) - a charming bit of old London. 
 * [Wellcome Collection](https://wellcomecollection.org/)
 * [Canopy market](https://www.realfoodfestival.sites.k-hosting.co.uk/our_work/canopy-market/) (Fri-Sun) and [Real Food Market](https://www.realfoodfestival.sites.k-hosting.co.uk/our_work/real-food-market/) (Tue-Fri). Pastries and sourdough from [Little Bread Pedlar](https://www.lbpedlar.com/) are to die for.
-* Mestizo - Mexican grocery shop.
+* Mestizo - awesome Mexican grocery shop near King's Cross. Their restaurant next door has an authentic menu (in writing), but the food lacks flavour and quality.
 * [The Rooftop at The Standard](https://www.standardhotels.com/london/features/the-rooftop-bar-standard-london) - overpriced drinks are totally worth it on a warm sunny evening, as this bar has a unique view of the beautiful St Pancras Station.
 * [Crypt Gallery](http://cryptgallery.org/) - an atmospheric gallery worth visiting, no matter what the exhibition is.
 
 **Food and drink:**
-* Dishoom King's Cross - North Indian food. I'm not sure why there is so much hype about this restaurant chain, but this specific location is truly special - a warehouse where goods and spices arrived from Bombay in the 1930s.
+* Dishoom King's Cross. I'm not sure why there is so much hype about this North Indian restaurant chain, but this specific location is truly special - a warehouse where goods and spices arrived from Bombay in the 1930s.
 * Merkato - Ethiopian. Loads of vegan options.
 * Indian Lounge - not the best food, but super convenient location and no booking required.
 
@@ -160,13 +161,16 @@ Battersea Park, etc.
 
 ### 13. Liverpool Street 
 
-* [Sculpture in the city](https://www.sculptureinthecity.org.uk/) - an annual outdoor sculpture exhibition, new sculptures every June.
-* St Dunstan in the East Church Garden - a beautiful old church with no roof.
 * For a breathtaking view of the city, book a table for breakfast at [Sky Pod Bar](https://skygarden.london/restaurants/sky-pod-bar/).
-* [London Mithraeum](https://www.londonmithraeum.com/) - archeological remains of a Roman temple, 3rd century AD. Booking required.
-* The Barbican Estate - one of the largest examples of Brutalist style architecture. It represents an utopian ideal for inner-city living. Have fun exploring. For example, try to find St Giles Cripplegate.
+* Sculptures: [Sculpture in the city](https://www.sculptureinthecity.org.uk/) - an annual outdoor sculpture exhibition, new sculptures every June; [Our Herd of Hope](https://www.sheldrickwildlifetrust.org/herd-of-hope) - a family of 21 life-sized bronze elephant statues around 1 Bishops Square; etc.
 * Walk from Liverpool Street station to Farringdon station underground following [this guide](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html).
-* Don't miss [Our Herd of Hope](https://www.sheldrickwildlifetrust.org/herd-of-hope) - a family of 21 life-sized bronze elephant statues around 1 Bishops Square.
+
+**Architecture:**
+* This area has a lot of remarkable modern buildings. Don't miss the [Richard Rogers' inside-out building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/).
+* The Barbican Estate - one of the largest examples of Brutalist style architecture. It represents an utopian ideal for inner-city living. Have fun exploring. For example, try to find St Giles Cripplegate.
+* St Dunstan in the East Church Garden - a beautiful old church with no roof.
+* [London Mithraeum](https://www.londonmithraeum.com/) - archeological remains of a Roman temple, 3rd century AD. Booking required.
+
 
 **Food and drink:**
 * Bubala Spitalfields - one of the tastiest tasting menus. Middle Eastern food. I left feeling that I should have paid more given how much I loved it.
@@ -228,7 +232,7 @@ Battersea Park, etc.
 * [The British Museum](https://www.britishmuseum.org/exhibitions-events) and their [Lates](https://www.britishmuseum.org/visit/late-opening-on-fridays).
 * [The National Gallery](https://www.nationalgallery.org.uk/whats-on).
 * [Mall galleries](https://www.mallgalleries.org.uk/whats-on/exhibitions) - exciting temporary painting and photo exhibitions.
-* [Fitzrovia Chapel](https://www.fitzroviachapel.org/) - once the chapel of the Middlesex Hospital and now beautifully preserved and restored, is a stunning hidden gem. Open on Wednesdays.
+* [Fitzrovia Chapel](https://www.fitzroviachapel.org/) - once the chapel of the Middlesex Hospital and now beautifully preserved and restored, is a stunning hidden gem. Open on Wednesdays. Don't miss "The one and the many" sculpture by [Peter Randall-Page](https://www.peterrandall-page.com/sculpture-map/) just outside the chapel.
 * Stroll past numerous [private art galleries](https://londongalleryweekend.art/map/). 
 * The campus of London School of Economics and Political Science (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc.
 * [Twinings - The Strand](https://www.atlasobscura.com/places/twinings-tea-shop) tea shop in a historic building. Get any of their teas (even the most expensive one) in a takeaway cup for cheap.
@@ -240,12 +244,13 @@ Battersea Park, etc.
 * Akoko - West African. Tasting menu with a vegan option.
 * NOPI - by Ottolenghi.
 * Tendril - a naughty vegan restaurant (with a bit of cheese). Both tasting menu and à la carte.
-* Chettinad Restaurant - not amazing, but I've not yet found a better place.
+* Chettinad Restaurant - South Indian food. Not amazing, but I've not yet found a better place.
 * Udderlicious - gelato.
 * La Gelatiera - gelato.
 * Below Stone Nest - not what you'd expect in Soho. Go for a drink, go early and prepare to be surprised.
 * Attendant Coffee Roasters - an awesome [underground-restroom-turned-coffee-bar](https://www.atlasobscura.com/places/the-attendant-fitzrovia) at Victorian-era urinals.
 * Bar Termini - a place to get a negroni.
+* Mercato Mayfair - a food court in an old church. Totally worth it for the architecture, not the food.
 
 <a name="stoke-newington"></a> 
 
@@ -270,6 +275,7 @@ Battersea Park, etc.
 
 **Food and drink:**
 * Chuku's (Nigerian Tapas) - loads of vegan options.
+* [supperclub.tube](https://supperclub.tube/) - Latin American inspired tasting menu. A unique experience of dining on a 1967 Victoria Line tube carriage.
 
 <a name="wembley"></a> 
 
