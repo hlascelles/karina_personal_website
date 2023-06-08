@@ -106,6 +106,7 @@ Battersea Park, etc.
 ### 10. Islington  
 
 * Regent's Canal. From Angel station it goes East to Victoria Park. From there you can continue North to Olympic Park or South to Limehouse. From Olympic Park you can continue North along the River Lee or South to Royal Observatory Greenwich (crossing under the Thames via Greenwich Foot Tunnel). It is excellent for running and all-day walks.
+* Don't miss the [Antepavilion's](https://www.antepavilion.org/) [Sharks!](https://goo.gl/maps/KW6meaFjbhmEEm2w8) visible from the Regent's Canal, in the water or on the roof. They are [a big deal](https://youtu.be/_8xhdL8BPvU).
 * [Union Chapel](https://unionchapel.org.uk/whats-on) - a beautiful venue hosting different types of events.
 * New River Path - a narrow 1k long park with loads of interesting plants and birds. From (51.541842, -0.097758) to (51.547047, -0.092159). And from there it is a lovely walk to Clissold Park.
 * Exmouth Market - a wonderful place to hangout on a warm evening. Includes gems like Berber & Q Shawarma Bar. Or hangout in the morning - there are numerous options for coffee and pastries.
@@ -192,7 +193,7 @@ Battersea Park, etc.
 ### 15. Peckham 
 
 **Food and drink:**
-* Persepolis - vegetarian Persian food. The Feast menu is packed with flavours.
+* Persepolis - Persian vegetarian restaurant. The Feast menu is packed with flavours.
 
 <a name="richmond"></a> 
 
@@ -235,12 +236,13 @@ Battersea Park, etc.
 * [Fitzrovia Chapel](https://www.fitzroviachapel.org/) - once the chapel of the Middlesex Hospital and now beautifully preserved and restored, is a stunning hidden gem. Open on Wednesdays. Don't miss "The one and the many" sculpture by [Peter Randall-Page](https://www.peterrandall-page.com/sculpture-map/) just outside the chapel.
 * Stroll past numerous [private art galleries](https://londongalleryweekend.art/map/). 
 * The campus of London School of Economics and Political Science (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc.
+* Gerrard Street - the heart of London's Chinatown.
 * [Twinings - The Strand](https://www.atlasobscura.com/places/twinings-tea-shop) tea shop in a historic building. Get any of their teas (even the most expensive one) in a takeaway cup for cheap.
-* Ellis Brigham - best outdoor clothing shop ever, super knowledgeable stuff. 
-* VIVOBAREFOOT - barefoot shoe shop.
+* Shopping: Ellis Brigham (the best outdoor clothing shop ever with super knowledgeable stuff), VIVOBAREFOOT (barefoot shoes), The Ordinary DECIEM ([magical moisturizer](https://theordinary.com/en-gb/natural-moisturizing-factors-ha-moisturizer-100435.html)), etc.
 
 **Food and drink:**
 * Kricket Soho - modern Indian.
+* Gauthier - French tasting menu with meat stews, steaks, cheesy pasta, etc. But 100% vegan.
 * Akoko - West African. Tasting menu with a vegan option.
 * NOPI - by Ottolenghi.
 * Tendril - a naughty vegan restaurant (with a bit of cheese). Both tasting menu and à la carte.
