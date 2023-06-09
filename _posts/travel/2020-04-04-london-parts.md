@@ -115,7 +115,8 @@ Battersea Park, etc.
 * Neals Yard Dairy - cheese shop.
 
 **Food:**
-* Tofu Vegan Islington - awesome vegan Chinese restaurant. They've now opened several other locations too.
+* Tofu Vegan Islington - vegan Chinese. They've now opened several other locations too.
+* Jam Delish - vegan Caribbean. 
 * Berber & Q Shawarma Bar - Middle Eastern food, same people as Berber & Q Grill House.
 * Cafe Tiffin - North Indian.
 * Westerns Laundry - European.
@@ -175,6 +176,8 @@ Battersea Park, etc.
 
 **Food and drink:**
 * Bubala Spitalfields - one of the tastiest tasting menus. Middle Eastern food. I left feeling that I should have paid more given how much I loved it.
+* Dosa World - authentic South Indian food.
+* La Fauxmagerie - London's first vegan cheese shop.
 * The Gobpsy - cocktails (Tue-Fri only; beneath a barber shop).
 * City of London Distillery & Bar - gin-centric cocktails.
 
@@ -242,11 +245,11 @@ Battersea Park, etc.
 
 **Food and drink:**
 * Kricket Soho - modern Indian.
-* Gauthier - French tasting menu with meat stews, steaks, cheesy pasta, etc. But 100% vegan.
+* Gauthier - French tasting menu with steak, meat stews, cheesy pasta, etc. 100% vegan. Their 3D printed plant-protein steak is disturbingly animal-like.
 * Akoko - West African. Tasting menu with a vegan option.
 * NOPI - by Ottolenghi.
 * Tendril - a naughty vegan restaurant (with a bit of cheese). Both tasting menu and à la carte.
-* Chettinad Restaurant - South Indian food. Not amazing, but I've not yet found a better place.
+* Chettinad Restaurant - ok South Indian food.
 * Udderlicious - gelato.
 * La Gelatiera - gelato.
 * Below Stone Nest - not what you'd expect in Soho. Go for a drink, go early and prepare to be surprised.
