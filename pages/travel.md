@@ -63,9 +63,9 @@ widgets:
 - url:
   image: country-georgia.jpg
   title: 17. Georgia
-- url:
+- url: /travel/germany/
   image: country-germany.jpg
-  title: 18. Germany
+  title: <a href="/travel/germany/" target="_self">18. Germany</a>
 - url:
   image: country-greece.jpg
   title: 19. Greece
