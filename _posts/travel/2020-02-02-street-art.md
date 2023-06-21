@@ -8,21 +8,51 @@ categories:
 widgets:
 
 - url:
-  image: graffiti-2019-2-berlin-min.jpg #copy
+  image: graffiti-2023-11-london-min.jpg
+  title: London, UK
+- url:
+  image: graffiti-2023-10-berlin-min.jpg
   title: Berlin, Germany
 - url:
-  image: graffiti-2022-7-london-min.jpg #copy
-  title: London, UK
+  image: graffiti-2019-10-bogota-min.jpg #copy
+  title: Bogotá, Colombia
+
+- url:
+  image: graffiti-2023-9-berlin-min.jpg
+  title: Berlin, Germany
+- url:
+  image: graffiti-2022-5-sofia-min.jpg #copy
+  title: Sofia, Bulgaria
+- url:
+  image: graffiti-2018-1-tokyo-min.jpg #copy
+  title: Tokyo, Japan
+
+- url:
+  image: graffiti-2023-8-berlin-min.jpg
+  title: Berlin, Germany
+- url:
+  image: graffiti-2023-5-berlin-min.jpg
+  title: Berlin, Germany
+- url:
+  image: graffiti-2023-4-berlin-min.jpg
+  title: Berlin, Germany
+
+- url:
+  image: graffiti-2023-7-berlin-min.jpg
+  title: Berlin, Germany
+- url:
+  image: graffiti-2023-6-berlin-min.jpg
+  title: Berlin, Germany
 - url:
   image: graffiti-2023-2-london-min.jpg
   title: London, UK
 
 - url:
+  image: graffiti-2023-3-berlin-min.jpg
+  title: Berlin, Germany
+- url:
   image: graffiti-2023-1-montevideo-min.jpg
   title: Montevideo, Uruguay
-- url:
-  image: graffiti-2022-8-toulouse-min.jpg #copy
-  title: Toulouse, France
 - url:
   image: graffiti-2022-18-birmingham-min.jpg
   title: Birmingham, UK
@@ -198,6 +228,8 @@ widgets:
   image: graffiti-2018-1-tokyo-min.jpg
   title: Tokyo, Japan
 ---
+
+<!-- make size x900 -->
 
 I visit art museums and galleries only after I'm reasonably sure that I found most of the noteworthy street art (graffiti) in the city I am in. 
 What I like most about street art is:
