@@ -21,7 +21,7 @@ categories:
 **Methods:**
 
 * Grate all the potatoes. 
-* Place a new empty bowl onto a kitchen scale. Transfer grated potatoes into a new bowl by hand, squeezing juice out of each handful. You must have a dry looking pile of potatoes in the new bowl. Note how many grams of dry potatoes you have.
+* Place an empty bowl onto a kitchen scale. Transfer grated potatoes into a new bowl by hand, squeezing juice out of each handful. You must have a dry looking pile of potatoes in the new bowl. Note how many grams of dry potatoes you have.
 * Finely chop an onion and add to the potatoes. (Onions prevent potatoes from browning, so try to do this quickly.)
 * Add 4% of flour by weight (4g of flour for every 100g of potatoes). Season with freshly ground black pepper. Mix by hand.
 * Pre-heat a non-stick pan with olive oil.
