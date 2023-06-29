@@ -18,14 +18,14 @@ widgets:
   title: Bogotá, Colombia
 
 - url:
+  image: graffiti-2023-12-london-min.jpg
+  title: London, UK
+- url:
   image: graffiti-2023-9-berlin-min.jpg
   title: Berlin, Germany
 - url:
   image: graffiti-2022-5-sofia-min.jpg #copy
   title: Sofia, Bulgaria
-- url:
-  image: graffiti-2018-1-tokyo-min.jpg #copy
-  title: Tokyo, Japan
 
 - url:
   image: graffiti-2023-8-berlin-min.jpg
