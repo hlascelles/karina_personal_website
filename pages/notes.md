@@ -1,9 +1,7 @@
 ---
 layout: kz-page
-title:
+title: ""
 permalink: "/notes/"
-meta_description:
-teaser: 
 header: no
 widgets:
 - url: /travel/street-art/
@@ -25,9 +23,3 @@ widgets:
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}
-
-<!-- 
-- url:
-  image: main-run.jpg
-  title: What I've learnt while trying to run 21km in less than 100 minutes
--->
