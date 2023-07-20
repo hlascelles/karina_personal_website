@@ -6,16 +6,15 @@ show_meta: false
 categories:
   - travel
 widgets:
-
+- url:
+  image: graffiti-2023-13-london-min.jpg
+  title: London, UK
 - url:
   image: graffiti-2023-11-london-min.jpg
   title: London, UK
 - url:
   image: graffiti-2023-10-berlin-min.jpg
   title: Berlin, Germany
-- url:
-  image: graffiti-2019-10-bogota-min.jpg #copy
-  title: Bogotá, Colombia
 
 - url:
   image: graffiti-2023-12-london-min.jpg
