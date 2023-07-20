@@ -3,7 +3,7 @@ layout: kz-page
 subheadline: 
 categories:
     - rubbish-stories
-title: A landfill in Joburg
+title: Devland landfill in Joburg
 header: no
 widgets:
 - image: rubbish-joburg-landfill1.jpg
