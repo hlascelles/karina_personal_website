@@ -33,6 +33,7 @@ Battersea Park, etc.
 
 * Regent's Park. Don't miss Queen Mary's Rose Gardens.
 * Primrose Hill - a perfect spot for a picnic and/or sunset watching.
+* Carreras Cigarette Factory - art-deco building with [Egyptian cats](https://livinglondonhistory.com/surprising-places-to-see-ancient-egypt-in-london/) guarding the entrance.
 
 <a name="canary-wharf"></a> 
 
@@ -118,6 +119,7 @@ Battersea Park, etc.
 * Regent's Canal. From Angel station it goes East to Victoria Park. From there you can continue North to Olympic Park or South to Limehouse. From Olympic Park you can continue North along the River Lee or South to Royal Observatory Greenwich (crossing under the Thames via Greenwich Foot Tunnel). It is excellent for running and all-day walks.
 * Don't miss the [Antepavilion's](https://www.antepavilion.org/) [Sharks!](https://goo.gl/maps/KW6meaFjbhmEEm2w8) visible from the Regent's Canal, in the water or on the roof. They are [a big deal](https://youtu.be/_8xhdL8BPvU).
 * [Union Chapel](https://unionchapel.org.uk/whats-on) - a beautiful venue hosting different types of events.
+* Richmond Avenue - many of the houses on this residential street are guarded by mini [sphinxes and obelisks](https://livinglondonhistory.com/surprising-places-to-see-ancient-egypt-in-london/) that were installed in 1841 at the height of Egypt-mania. 
 * New River Path - a narrow 1k long park with loads of interesting plants and birds. From (51.541842, -0.097758) to (51.547047, -0.092159). And from there it is a lovely walk to Clissold Park.
 * Exmouth Market - a wonderful place to hangout on a warm evening. Includes gems like Berber & Q Shawarma Bar. Or hangout in the morning - there are numerous options for coffee and pastries.
 * Camden Passage - a charming bit of old London.
@@ -145,8 +147,8 @@ Battersea Park, etc.
 
 ### 12. Kensington 
 
-* [Natural History Museum](https://www.nhm.ac.uk/visit/whats-on.html) and their [Lates](https://www.nhm.ac.uk/events/lates.html).
-* [Science Museum](https://www.sciencemuseum.org.uk/see-and-do) and their [Lates](https://www.sciencemuseum.org.uk/see-and-do/lates).
+* [Natural History Museum](https://www.nhm.ac.uk/visit/whats-on.html) and their [Lates](https://www.nhm.ac.uk/events/lates.html). Booking required.
+* [Science Museum](https://www.sciencemuseum.org.uk/see-and-do) and their [Lates](https://www.sciencemuseum.org.uk/see-and-do/lates). Booking required.
 * [Victoria and Albert Museum](https://www.vam.ac.uk/whatson) and their [Lates](https://www.vam.ac.uk/info/friday-late).
 
 <a name="kings-cross"></a> 
@@ -155,7 +157,7 @@ Battersea Park, etc.
 
 * Known as the [Knowledge Quarter](https://www.knowledgequarter.london/) - The British Library, The British Museum, The Wellcome Trust, The Alan Turing Institute, Francis Crick Institute, UCL, SOAS, Royal College of Physicians, Google, Springer Nature, The Guardian (and many more) are all located here.
 * [King's Cross Visitor Centre](https://www.kingscross.co.uk/visitor-centre) is a great place to start. The model of the neighbourhood gives you an overview of what there is to explore.
-* Explore Pancras Square, Granary Square, Lewis Cubitt Square, Gasholder Park, Coal Drops Yard, etc.
+* Explore Pancras Square, Granary Square, Lewis Cubitt Square, Gasholder Park, Coal Drops Yard, etc. Follow Jack's [self-guided tour of the area](https://livinglondonhistory.com/the-hidden-history-of-kings-cross-a-walk/).
 * Regent's Canal. It goes West past Wembley, and you can follow it all the way to Slough or Kew Bridge. It is excellent for running and all-day walks.
 * Keystone Crescent (51.531825, -0.120135) - a charming bit of old London. 
 * [Wellcome Collection](https://wellcomecollection.org/)
@@ -174,6 +176,8 @@ Battersea Park, etc.
 ### 14. Liverpool Street 
 
 * For a breathtaking view of the city, book a table for breakfast at [Sky Pod Bar](https://skygarden.london/restaurants/sky-pod-bar/).
+* [Guildhall Art Gallery](https://www.thecityofldn.com/directory/guildhall-art-gallery/) - London's Roman Amphitheatre, permanent and temporary exhibitions. Booking recommended.
+* [London Mithraeum](https://www.londonmithraeum.com/) - archeological remains of a Roman temple, 3rd century AD. Booking required.
 * Sculptures: [Sculpture in the city](https://www.sculptureinthecity.org.uk/) - an annual outdoor sculpture exhibition, new sculptures every June; [Our Herd of Hope](https://www.sheldrickwildlifetrust.org/herd-of-hope) - a family of 21 life-sized bronze elephant statues around 1 Bishops Square; etc.
 * Walk from Liverpool Street station to Farringdon station underground following [this guide](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html).
 * The area around Old Street Station, nicknamed "Silicon Roundabout", has a fun origin story that [started with a throwaway joke in 2008 and became UK government's policy in 2010](https://www.wired.co.uk/article/silicon-roundabout-tech-city-property).
@@ -182,8 +186,6 @@ Battersea Park, etc.
 * This area has a lot of remarkable modern buildings. Don't miss the [Richard Rogers' inside-out building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/).
 * The Barbican Estate - one of the largest examples of Brutalist style architecture. It represents an utopian ideal for inner-city living. Have fun exploring. For example, try to find St Giles Cripplegate.
 * St Dunstan in the East Church Garden - a beautiful old church with no roof.
-* [London Mithraeum](https://www.londonmithraeum.com/) - archeological remains of a Roman temple, 3rd century AD. Booking required.
-
 
 **Food and drink:**
 * Bubala Spitalfields - one of the tastiest tasting menus. Middle Eastern food. I left feeling that I should have paid more given how much I loved it.
@@ -197,9 +199,11 @@ Battersea Park, etc.
 ### 15. London Bridge 
 
 * [Tate Modern](https://www.tate.org.uk/visit/tate-modern) and their [Lates](https://www.tate.org.uk/whats-on/tate-modern/tate-modern-lates). Worth a visit even if you don't like modern art, as it is located in the former Bankside Power Station, which operated until 1981.
+* There are numerous small galleries in the area; my favourites include White Cube Bermondsey and London Glassblowing.
 * [National Theatre Archive](https://www.nationaltheatre.org.uk/about-the-national-theatre/archive) - here you can watch recordings of all London theater productions that are no longer showing on stage, for free. Booking required.
 
 **Food and drink:**
+* Rambutan - incredible Sri Lankan food.
 * Tatale - contemporary Pan-African. Set menu with a vegan option.
 
 <a name="peckham"></a> 
@@ -249,6 +253,7 @@ Battersea Park, etc.
 * Stroll past numerous [private art galleries](https://londongalleryweekend.art/map/). 
 * The campus of London School of Economics and Political Science (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc.
 * Gerrard Street - the heart of London's Chinatown.
+* Follow Jack's [self-guided tour along the Thames](https://livinglondonhistory.com/beasts-on-the-banks-a-walk-along-the-thames/). And don't miss the Cleopatra’s Needle.
 * [Twinings - The Strand](https://www.atlasobscura.com/places/twinings-tea-shop) tea shop in a historic building. Get any of their teas (even the most expensive one) in a takeaway cup for cheap.
 * Shopping: Ellis Brigham (the best outdoor clothing shop ever with super knowledgeable stuff), VIVOBAREFOOT (barefoot shoes), The Ordinary DECIEM ([magical moisturizer](https://theordinary.com/en-gb/natural-moisturizing-factors-ha-moisturizer-100435.html)), etc.
 * [The Spaces In-Between](https://goo.gl/maps/kf7ojJTdzkxDXCEy6) - outdoor exhibition just outside Tottenham Court Road station, best enjoyed after sunset.
@@ -273,7 +278,7 @@ Battersea Park, etc.
 ### 21. Stoke Newington 
 
 * Clissold Park is lovely.
-* Abney Park cemetery is beautiful.
+* Abney Park Cemetery Trust -  a beautiful cemetery, especially wonderful for a stroll on a hot summer day as it stays cool.
 * La Fromagerie - cheese shop.
 
 **Food and drink:**
