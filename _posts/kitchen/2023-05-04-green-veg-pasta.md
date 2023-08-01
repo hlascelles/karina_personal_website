@@ -17,7 +17,7 @@ categories:
 * 1 teaspoon freshly ground black pepper
 * 1 lemon
 <nbsp></nbsp>
-* courgette
+* 1 courgette
 * 160g frozen broad beans
 * asparagus
 * 200g pasta
@@ -32,10 +32,10 @@ categories:
 * Once the asparagus is done and out, drop the broad beans into the boiling water. Boil them for 2-4 minutes until nice and tender.
 * Put the frozen peas into a large bowl and drain the broad beans over this bowl. 
 * Start boiling the pasta in a pot of salty water.
-* Meanwhile, zest the lemon. Grate some parmesan.
+* Meanwhile, zest the lemon and grate some Parmesan.
 * Make the pesto: Drain the now defrosted peas. Roughly chop the spinach, mint and garlic, and add them to the peas. Add olive oil, salt and pepper. Add the juice of half a lemon.
 * Hand blender the pesto. Taste to adjust acidity with more lemon juice.
 * Once the pasta is ready, drain it and add it to the pesto. Mix well. Add courgettes, broad beans and asparagus; and mix again.
-* Serve topped with lemon zest and parmesan.
+* Serve topped with lemon zest and Parmesan.
 
 **Inspired by:** [Veggie Desserts](https://veggiedesserts.com/roasted-vegetable-sandwich/)

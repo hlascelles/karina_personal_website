@@ -11,7 +11,7 @@ categories:
 * olive oil
 * butter
 * 400g various mushrooms
-* several garlic cloves
+* 4 garlic cloves
 * black pepper
 * 125g Mascarpone cheese
 * 75g Parmesan-style cheese
@@ -26,8 +26,8 @@ categories:
 
 * Chop all mushrooms finely.
 * Preheat the pan, add a generous splash of olive oil and a blob of butter, and let the butter melt. Start frying the mushrooms.
-* Start boiling the pasta. Salt the pasta water until salty.
-* While tossing the mushrooms to brown them on all sides, grate Parmesan coarsely and chop the parsley.
+* Start boiling the pasta in salty water.
+* Meanwhile, grate Parmesan coarsely and chop the parsley.
 * When the mushrooms are almost ready, use a garlic press to add garlic cloves directly into the mushrooms. Season with freshly ground black pepper.
 * When pasta is almost ready, take mushrooms off the heat and immediately add Mascarpone cheese and a bit of salty pasta water. Stir well and add more pasta water as required. Stir in grated Parmesan.
 * Drain the pasta and add it to the mushrooms along with parsley. Zest a lemon.

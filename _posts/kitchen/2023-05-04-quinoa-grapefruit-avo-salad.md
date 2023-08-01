@@ -9,8 +9,8 @@ categories:
 **Ingredients:**
 
 * Quinoa
-* Grapefruit
-* Avocado
+* 1 grapefruit
+* 1 avocado
 * Olive oil
 
 **Methods:**

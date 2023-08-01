@@ -16,6 +16,6 @@ categories:
 
 **Methods:**
 
-* Warm up the chickpeas (from frozen or from a can).
-* Cut cucumbers and feta into bite size pieces.
-* Mix everything, dress with olive oil and season with za'atar.
+* Warm up the chickpeas (from frozen or from a can) in a microwave.
+* Cut cucumbers/tomatoes and feta into bite size pieces.
+* Mix everything, dress with olive oil and za'atar.

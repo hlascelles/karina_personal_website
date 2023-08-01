@@ -9,7 +9,7 @@ categories:
 **Ingredients:**
 
 * 250g carrots (2 or 3)
-* 300g onions (2 or 4)
+* 300g onions (3 or 4)
 * 300g oyster mushrooms
 * 350g tomatoes (3 or 4)
 * 4 big garlic cloves
@@ -26,7 +26,7 @@ categories:
 * 160g coconut cream
 * 180g green lentils
 * 100g pearl barley
-* freshly ground black pepper
+* black pepper
 <nbsp></nbsp>
 * polenta
 

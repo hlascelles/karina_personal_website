@@ -15,11 +15,11 @@ categories:
 * 100g tahini
 * 20g nutritional yeast
 * 30g garlic
-* a tablespoon of cracked black pepper
+* 5g black pepper
 <nbsp></nbsp>
 * 1 red onion
 * 1 red bell pepper
-* 8 halfs of sun dried tomatoes (jarred in oil)
+* 8 halfs of sun dried tomatoes in oil
 * 3 teaspoons of capers
 * 200g of goat feta
 <nbsp></nbsp>

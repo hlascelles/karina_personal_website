@@ -9,7 +9,7 @@ categories:
 **Ingredients:**
 
 * 100g buckwheat flour
-* 1/4 teaspoon of salt
+* 0.25 teaspoon of salt
 <nbsp></nbsp>
 * 30g butter
 * 1 egg
@@ -30,4 +30,4 @@ categories:
 * While frying the crepes, blanch asparagus and thinly cut bell pepper and onion.
 * Once all the crepes are ready, put one of them on the pan, add cheese and allow it to melt a tiny bit. Transfer to a plate, top with blanched asparagus, bell pepper and onion. Drizzle with balsamic vinegar.
 
-**Notes:** They are equally good as a dessert. 
+**Notes:** They are equally good as a dessert, served with honey and cocoa nibs. 
