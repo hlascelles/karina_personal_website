@@ -32,7 +32,7 @@ categories:
 * Meanwhile, finely chop onions, ginger and tomatoes.
 * Once okra is no longer slimy, set it aside.
 * To the same, now empty, pan add more oil and cumin seeds. 
-* Once the cumin seeds start to splutter, add onions and saute until turning golden but not yet brown.
+* Once the cumin seeds start to sputter, add onions and saute until turning golden but not yet brown.
 * Add finely chopped ginger, and use a garlic press to add garlic cloves directly into the pan. Saute until smells really good.
 * Add finely chopped tomatoes and salt. Saute until tomatoes change colour and turn mushy. 
 * Add dry spices (garam masala, ground coriander, chilli powder, ground turmeric), mix them in well. Saute until it smells really good.
