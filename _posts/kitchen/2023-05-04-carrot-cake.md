@@ -11,7 +11,7 @@ categories:
 * 260g carrots
 * 4 oranges
 * 100g walnuts
-* 230g dark muscovado sugar (+70g later)
+* 230g dark Muscovado sugar (+70g later)
 * 230g flour
 * 4 teaspoons baking powder
 * 2 teaspoons cinnamon

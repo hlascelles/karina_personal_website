@@ -124,7 +124,8 @@ Battersea Park, etc.
 * Exmouth Market - a wonderful place to hangout on a warm evening. Includes gems like Berber & Q Shawarma Bar. Or hangout in the morning - there are numerous options for coffee and pastries.
 * Camden Passage - a charming bit of old London.
 * [Farmers' Market](https://www.lfm.org.uk/markets/islington/) at Chapel Market (Sundays).
-* Neals Yard Dairy - cheese shop.
+* Neals Yard Dairy - an excellent shop of British and Irish cheeses.
+* [Get Stuffed](https://www.thegetstuffed.co.uk/) - taxidermy shop fun to explore from the outside.
 
 **Food:**
 * Tofu Vegan Islington - vegan Chinese. They've now opened several other locations too.
