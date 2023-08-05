@@ -13,7 +13,7 @@ categories:
 * 1/4 teaspoon salt
 * 1/2 teaspoon baking powder
 * 1/4 teaspoon baking soda
-* 1 tablespoon dark Muscovado sugar
+* 3 teaspoons dark Muscovado sugar
 <nbsp></nbsp>
 * 20g butter
 * 160g buttermilk/kefir

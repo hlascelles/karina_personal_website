@@ -10,7 +10,7 @@ categories:
 
 * 400g rhubarb
 * 75g sugar
-* 3 tablespoons of port-style wine
+* 9 teaspoons of port-style wine
 * 75g flour
 * 75g oats
 * 50g sugar

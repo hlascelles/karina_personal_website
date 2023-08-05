@@ -86,7 +86,8 @@ Battersea Park, etc.
 * Victoria Park - a lovely park; the drinking fountains (just outside Bonner Gate, on the island with Victoria Park Chinese Pagoda, etc.) make it great for running.
 
 **Food:**
-* EDIT - hyper seasonal, low impact restaurant.
+* Nest - tasting menu that celebrates British vegetables. The menu is vegetarian during their [vegetable season](https://www.nestfood.co.uk/menu) (usually in the summer), during their other seasons (chicken, lamb, game) asking to arrange a vegetarian option is just being a pain for them. But things might change. Modern European.
+* EDIT - hyper seasonal, low impact restaurant. Modern European.
 * Silo London - zero-waste restaurant with a great tasting menu. They mill their own flour and make their own butter. They aim to eliminate food waste, so expect ice cream made from leftover sourdough bread. Modern European.
 
 **Pastries:**

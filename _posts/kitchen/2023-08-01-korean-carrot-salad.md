@@ -12,13 +12,13 @@ categories:
 * sunflower oil
 * 1 red onion (about 80g)
 * 20g garlic cloves
-* 2 tablespoons white vinegar
+* 6 teaspoons white vinegar
 <nbsp></nbsp>
 * 1 teaspoon coriander powder
 * 1 teaspoon smoked paprika powder
 * 0.5 teaspoon Kashmiri chilli powder
 * 0.5 teaspoon salt
-* 1 tablespoon sugar
+* 3 teaspoons sugar
 * 2g of black pepper
 
 

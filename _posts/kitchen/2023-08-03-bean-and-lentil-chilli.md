@@ -15,16 +15,16 @@ categories:
 * 30g of dried ancho chillies
 * 20g garlic
 * 20g tomato paste
-* 1 tablespoon Kashmiri chili powder
-* 1 tablespoon smoked paprika
-* 1 tablespoon cumin powder
-* 1 tablespoon cocoa powder
+* 3 teaspoons Kashmiri chili powder
+* 3 teaspoons smoked paprika
+* 3 teaspoons cumin powder
+* 3 teaspoons cocoa powder
 * 600g tomatoes
 * 400g can of tomatoes
 * 100g red lentils
 * 100g corn kernels (fresh or frozen)
 * 200g mix of pre-cooked black beans and red kidney beans 
-* 1 tablespoon tamari soy sauce
+* 3 teaspoons tamari soy sauce
 <nbsp></nbsp>
 * rice
 * parsley

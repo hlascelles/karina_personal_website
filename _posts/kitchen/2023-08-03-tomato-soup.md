@@ -14,7 +14,7 @@ categories:
 * 4 garlic cloves
 * black pepper
 * 0.25 teaspoon salt
-* 1 tablespoon dark Muscovado sugar
+* 3 teaspoons dark Muscovado sugar
 * 240g dry white wine
 <nbsp></nbsp>
 * fresh herbs (thyme, oregano, marjoram, basil)

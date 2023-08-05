@@ -11,7 +11,7 @@ categories:
 * 200g flour
 * 2 teaspoons baking powder
 * 1/2 teaspoon baking soda
-* 1 tablespoon sugar
+* 3 teaspoons sugar
 * 1/4 teaspoon salt
 <nbsp></nbsp>
 * 30g butter

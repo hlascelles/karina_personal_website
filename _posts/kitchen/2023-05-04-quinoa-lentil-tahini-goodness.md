@@ -15,7 +15,7 @@ categories:
 * 100g tahini
 * 20g nutritional yeast
 * 30g garlic
-* 5g black pepper
+* 3 teaspoons black pepper
 <nbsp></nbsp>
 * 1 red onion
 * 1 red bell pepper
@@ -29,7 +29,7 @@ categories:
 **Methods:**
 
 * Start boiling lentils and quinoa in separate pots.
-* To make the sauce: squeeze the lemon juice, add tahini and nutritional yeast, add crushed garlic, and a tablespoon of freshly ground black pepper.
+* To make the sauce: squeeze the lemon juice, add tahini and nutritional yeast, add crushed garlic and black pepper.
 * Finely chop the onion. Pre-heat a large pan and start sauteing the onions.
 * Finely chop the bell pepper and add it to the pan.
 * Chop sun dried tomatoes and add them to the pan. Add the capers too.

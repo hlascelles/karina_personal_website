@@ -191,4 +191,3 @@ I'm so not done with Tashkent; my to-visit list is still long:
 * NazzAR app - a free augmented reality audio guide for many tourist sites. Worked well for me.
 * Many post boxes in Uzbekistan are no longer in use, so bring your postcards to the post office.
 * My standard EU charger worked everywhere in Uzbekistan and Karakalpakstan.
-* For me Uzbekistan was a burner phone destination.

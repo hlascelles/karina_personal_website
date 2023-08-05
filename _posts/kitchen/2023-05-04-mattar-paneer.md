@@ -11,7 +11,7 @@ categories:
 * 1 red onion
 * 3 garlic cloves
 * a small piece of ginger
-* 2 tablespoons garam masala
+* 6 teaspoons garam masala
 * 1.5 teaspoon Kashmiri chilli powder
 * 1 teaspoon freshly ground black pepper
 * 1 teaspoon salt
@@ -21,9 +21,9 @@ categories:
 * 0.5 teaspoon ground cloves
 <nbsp></nbsp>
 * coconut oil
-* 1 tablespoon tomato paste
+* 3 teaspoons tomato paste
 * 400g can of tomatoes
-* 2 tablespoon jaggery (or any unrefined sugar)
+* 6 teaspoons jaggery (or any unrefined sugar)
 * 450g paneer
 * 300g frozen green peas
 * 150g cream

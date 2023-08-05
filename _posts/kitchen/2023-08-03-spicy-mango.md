@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Sweet and spicy mango
+title: Spicy, sweet and sour mango
 header: no
 categories:
     - kitchen

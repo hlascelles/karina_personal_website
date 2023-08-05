@@ -19,7 +19,7 @@ categories:
 * 2 garlic cloves
 * 5 sundried tomatoes in oil (about 50g)
 * fresh rosemary and/or thyme (4 sprigs total)
-* 2 tablespoons tomato paste
+* 6 teaspoons tomato paste
 * 225g risotto rice
 * 125g red wine
 * 20g butter
