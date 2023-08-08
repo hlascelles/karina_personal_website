@@ -149,9 +149,13 @@ Battersea Park, etc.
 
 ### 12. Kensington 
 
-* [Natural History Museum](https://www.nhm.ac.uk/visit/whats-on.html) and their [Lates](https://www.nhm.ac.uk/events/lates.html). Booking required.
-* [Science Museum](https://www.sciencemuseum.org.uk/see-and-do) and their [Lates](https://www.sciencemuseum.org.uk/see-and-do/lates). Booking required.
+* [Natural History Museum](https://www.nhm.ac.uk/visit/whats-on.html) and their [Lates](https://www.nhm.ac.uk/events/lates.html). Book free tickets in advance both for day-time visits and Lates.
+* [Science Museum](https://www.sciencemuseum.org.uk/see-and-do) and their [Lates](https://www.sciencemuseum.org.uk/see-and-do/lates). Book free tickets in advance both for day-time visits and Lates.
 * [Victoria and Albert Museum](https://www.vam.ac.uk/whatson) and their [Lates](https://www.vam.ac.uk/info/friday-late).
+* [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) - two building on either side of the Serpentine Bridge.
+
+**Food:**
+* Ice Cream Project - unique flavours of ketchup, pickles, soya sauce, etc. Gimmicky but good fun anyway. If you are around, don't miss the distinctive architecture of St Columba's Church Of Scotland.
 
 <a name="kings-cross"></a> 
 
@@ -162,7 +166,7 @@ Battersea Park, etc.
 * Explore Pancras Square, Granary Square, Lewis Cubitt Square, Gasholder Park, Coal Drops Yard, etc. Follow Jack's [self-guided tour of the area](https://livinglondonhistory.com/the-hidden-history-of-kings-cross-a-walk/).
 * Regent's Canal. It goes West past Wembley, and you can follow it all the way to Slough or Kew Bridge. It is excellent for running and all-day walks.
 * Keystone Crescent (51.531825, -0.120135) - a charming bit of old London. 
-* [Wellcome Collection](https://wellcomecollection.org/)
+* [Wellcome Collection](https://wellcomecollection.org/whats-on)
 * [Canopy market](https://www.realfoodfestival.sites.k-hosting.co.uk/our_work/canopy-market/) (Fri-Sun) and [Real Food Market](https://www.realfoodfestival.sites.k-hosting.co.uk/our_work/real-food-market/) (Tue-Fri). Pastries and sourdough from [Little Bread Pedlar](https://www.lbpedlar.com/) are to die for.
 * Mestizo - awesome Mexican grocery shop near King's Cross. Their restaurant next door has an authentic menu (in writing), but the food lacks flavour and quality.
 * [The Rooftop at The Standard](https://www.standardhotels.com/london/features/the-rooftop-bar-standard-london) - overpriced drinks are totally worth it on a warm sunny evening, as this bar has a unique view of the beautiful St Pancras Station.
