@@ -24,7 +24,7 @@ categories:
 
 **Methods:**
 
-* Preheat the oven to 180C. Grease an 18cm loose-bottomed round cake tin.
+* Preheat the oven to 180C. Grease an 23cm loose-bottomed round cake tin.
 * Grate the carrots, grate zest from 2 oranges, chop the walnuts. Put these and 230g of muscovado sugar into a large bowl.
 * In a different bowl mix flour, baking powder and spices (cinnamon, ginger, nutmeg and cloves).
 * Lightly beat the eggs, combine with oil.

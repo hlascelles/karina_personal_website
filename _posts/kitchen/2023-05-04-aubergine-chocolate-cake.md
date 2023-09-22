@@ -19,7 +19,7 @@ categories:
 **Methods:**
 
 * Pierce the aubergines with a fork and steam them until soft. Let them cool down.
-* Preheat the oven to 180C. Grease an 18cm loose-bottomed round cake tin.
+* Preheat the oven to 180C. Grease an 23cm loose-bottomed round cake tin.
 * Melt the butter, gently mix in the chocolate until completely melted. Let the mixture cool down.
 * Hand blender peeled steamed aubergines into a paste.
 * Beat the eggs and sugar until pale and fluffy.
