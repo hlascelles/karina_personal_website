@@ -7,37 +7,37 @@ categories:
   - travel
 widgets:
 - url:
+  image: graffiti-2023-12-london-min.jpg
+  title: London, UK
+- url:
+  image: graffiti-2020-1-london-min.jpg #copy
+  title: London, UK
+- url:
+  image: graffiti-2021-10-istanbul-min.jpg #copy
+  title: Istanbul, Turkey
+
+- url:
+  image: graffiti-2023-14-tallinn-min.jpg
+  title: Tallinn, Estonia
+- url:
   image: graffiti-2023-13-london-min.jpg
   title: London, UK
 - url:
   image: graffiti-2023-11-london-min.jpg
   title: London, UK
-- url:
-  image: graffiti-2023-10-berlin-min.jpg
-  title: Berlin, Germany
 
-- url:
-  image: graffiti-2023-12-london-min.jpg
-  title: London, UK
 - url:
   image: graffiti-2023-9-berlin-min.jpg
   title: Berlin, Germany
 - url:
-  image: graffiti-2022-5-sofia-min.jpg #copy
-  title: Sofia, Bulgaria
-
-- url:
   image: graffiti-2023-8-berlin-min.jpg
-  title: Berlin, Germany
-- url:
-  image: graffiti-2023-5-berlin-min.jpg
   title: Berlin, Germany
 - url:
   image: graffiti-2023-4-berlin-min.jpg
   title: Berlin, Germany
 
 - url:
-  image: graffiti-2023-7-berlin-min.jpg
+  image: graffiti-2023-10-berlin-min.jpg
   title: Berlin, Germany
 - url:
   image: graffiti-2023-6-berlin-min.jpg
@@ -47,14 +47,14 @@ widgets:
   title: London, UK
 
 - url:
+  image: graffiti-2023-5-berlin-min.jpg
+  title: Berlin, Germany
+- url:
   image: graffiti-2023-3-berlin-min.jpg
   title: Berlin, Germany
 - url:
   image: graffiti-2023-1-montevideo-min.jpg
   title: Montevideo, Uruguay
-- url:
-  image: graffiti-2022-18-birmingham-min.jpg
-  title: Birmingham, UK
 
 - url:
   image: graffiti-2022-23-ba-min.jpg
@@ -75,6 +75,15 @@ widgets:
 - url:
   image: graffiti-2022-17-birmingham-min.jpg
   title: Birmingham, UK
+- url:
+  image: graffiti-2022-18-birmingham-min.jpg
+  title: Birmingham, UK
+- url:
+  image: graffiti-2022-13-london-min.jpg
+  title: London, UK
+- url:
+  image: graffiti-2022-11-toulouse-min.jpg
+  title: Toulouse, France
 
 - url:
   image: graffiti-2022-15-london-min.jpg
@@ -83,27 +92,17 @@ widgets:
   image: graffiti-2022-14-london-min.jpg
   title: London, UK
 - url:
-  image: graffiti-2022-12-toulouse-min.jpg
+  image: graffiti-2022-10-toulouse-min.jpg
   title: Toulouse, France
 
-- url:
-  image: graffiti-2022-13-london-min.jpg
-  title: London, UK
-- url:
-  image: graffiti-2022-11-toulouse-min.jpg
-  title: Toulouse, France
 - url:
   image: graffiti-2022-8-toulouse-min.jpg
   title: Toulouse, France
-
 - url:
   image: graffiti-2022-6-plovdiv-min.jpg
   title: Plovdiv, Bulgaria
 - url:
   image: graffiti-2022-5-sofia-min.jpg
-  title: Sofia, Bulgaria
-- url:
-  image: graffiti-2022-4-sofia-min.jpg
   title: Sofia, Bulgaria
 ---
 
