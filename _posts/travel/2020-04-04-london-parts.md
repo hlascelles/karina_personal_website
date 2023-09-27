@@ -8,7 +8,7 @@ categories:
 
 ---
 
-I very roughly divided London into 25 parts and listed my favourite things to do, see and eat in each of them: [Battersea](/travel/london-parts/#battersea), [Brixton](/travel/london-parts/#brixton), [Camden](/travel/london-parts/#camden), [Canary Wharf](/travel/london-parts/#canary-wharf), [Dalston](/travel/london-parts/#dalston), [East Ham](/travel/london-parts/#east-ham), [Elephant and Castle](/travel/london-parts/#elephant-and-castle) [Finchley](/travel/london-parts/#finchley), [Greenwich](/travel/london-parts/#greenwich), [Hackney](/travel/london-parts/#hackney), [Hampstead Heath](/travel/london-parts/#hampstead-heath), [Islington](/travel/london-parts/#islington), [Kensington](/travel/london-parts/#kensington), [King’s Cross](/travel/london-parts/#kings-cross), [Liverpool Street](/travel/london-parts/#liverpool-street), [London Bridge](/travel/london-parts/#london-bridge), [Peckham](/travel/london-parts/#peckham), [Richmond](/travel/london-parts/#richmond), [Rotherhithe](/travel/london-parts/#rotherhithe), [Shoreditch](/travel/london-parts/#shoreditch), [Soho](/travel/london-parts/#soho), [Stoke Newington](/travel/london-parts/#stoke-newington), [Walthamstow](/travel/london-parts/#walthamstow), [Wembley](/travel/london-parts/#wembley), [Westminster](/travel/london-parts/#westminster).
+I very roughly divided London into 25 parts and listed my favourite things to do, see and eat in each of them: [Battersea](/travel/london-parts/#battersea), [Brixton](/travel/london-parts/#brixton), [Camden](/travel/london-parts/#camden), [Canary Wharf](/travel/london-parts/#canary-wharf), [Dalston](/travel/london-parts/#dalston), [East Ham](/travel/london-parts/#east-ham), [Elephant and Castle](/travel/london-parts/#elephant-and-castle), [Finchley](/travel/london-parts/#finchley), [Greenwich](/travel/london-parts/#greenwich), [Hackney](/travel/london-parts/#hackney), [Hampstead Heath](/travel/london-parts/#hampstead-heath), [Islington](/travel/london-parts/#islington), [Kensington](/travel/london-parts/#kensington), [King’s Cross](/travel/london-parts/#kings-cross), [Liverpool Street](/travel/london-parts/#liverpool-street), [London Bridge](/travel/london-parts/#london-bridge), [Peckham](/travel/london-parts/#peckham), [Richmond](/travel/london-parts/#richmond), [Rotherhithe](/travel/london-parts/#rotherhithe), [Shoreditch](/travel/london-parts/#shoreditch), [Soho](/travel/london-parts/#soho), [Stoke Newington](/travel/london-parts/#stoke-newington), [Walthamstow](/travel/london-parts/#walthamstow), [Wembley](/travel/london-parts/#wembley), [Westminster](/travel/london-parts/#westminster).
 
 <a name="battersea"></a> 
 
@@ -113,6 +113,7 @@ Battersea Park, etc.
 
 * Regent's Canal. From Angel station it goes East to Victoria Park. From there you can continue North to Olympic Park or South to Limehouse. From Olympic Park you can continue North along the River Lee or South to Royal Observatory Greenwich (crossing under the Thames via Greenwich Foot Tunnel). It is excellent for running and all-day walks.
 * Don't miss the [Antepavilion's](https://www.antepavilion.org/) [Sharks!](https://goo.gl/maps/KW6meaFjbhmEEm2w8) visible from the Regent's Canal, in the water or on the roof. They are [a big deal](https://youtu.be/_8xhdL8BPvU).
+* Upper street is a delightful place for a strol. Islington Square is an exciting new area created around the renovated 1990s General Post Office sorting depo. 
 * [Union Chapel](https://unionchapel.org.uk/whats-on) - a beautiful venue hosting different types of events.
 * Richmond Avenue - many of the houses on this residential street are guarded by mini [sphinxes and obelisks](https://livinglondonhistory.com/surprising-places-to-see-ancient-egypt-in-london/) that were installed in 1841 at the height of Egypt-mania. 
 * New River Path - a narrow 1k long park with loads of interesting plants and birds. From (51.541842, -0.097758) to (51.547047, -0.092159). And from there it is a lovely walk to Clissold Park.
@@ -120,6 +121,7 @@ Battersea Park, etc.
 * Camden Passage - a charming bit of old London.
 * [Farmers' Market](https://www.lfm.org.uk/markets/islington/) at Chapel Market (Sundays).
 * Neals Yard Dairy - an excellent shop of British and Irish cheeses.
+* Provisions Holloway - a Frech deli, good cheese.
 * [Get Stuffed](https://www.thegetstuffed.co.uk/) - taxidermy shop fun to explore from the outside.
 
 **Food:**
@@ -281,7 +283,7 @@ Battersea Park, etc.
 
 * Clissold Park is lovely.
 * Abney Park Cemetery Trust -  a beautiful cemetery, especially wonderful for a stroll on a hot summer day as it stays cool.
-* La Fromagerie - cheese shop.
+* La Fromagerie - an awesome cheese shop.
 * Parkland Walk that connects Finsbury Park and Highgate Wood is a lovely running route. 
 
 **Food and drink:**
