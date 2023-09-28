@@ -7,14 +7,14 @@ categories:
   - travel
 widgets:
 - url:
+  image: graffiti-2023-15-london.jpg
+  title: London, UK
+- url:
   image: graffiti-2023-12-london-min.jpg
   title: London, UK
 - url:
   image: graffiti-2020-1-london-min.jpg #copy
   title: London, UK
-- url:
-  image: graffiti-2021-10-istanbul-min.jpg #copy
-  title: Istanbul, Turkey
 
 - url:
   image: graffiti-2023-14-tallinn-min.jpg
