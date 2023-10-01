@@ -8,22 +8,22 @@ categories:
 
 **Ingredients:**
 
-
 * 1 red onion (about 80g)
 * 3 garlic cloves (about 10g)
 * a small piece of ginger (about 20g)
 * green chillies
+<nbsp></nbsp>
 * 2 teaspoon garam masala
-* 0.25 teaspoon Kashmiri chilli powder
+* 1 teaspoon cumin powder
 * 0.5 teaspoon salt
-* 1 teaspoon ground cumin
-* 0.25 teaspoon ground turmeric
+* 0.25 teaspoon Kashmiri chilli powder
+* 0.25 teaspoon turmeric powder
 <nbsp></nbsp>
 * 750g spinach
 * coconut oil
 * 1 tomato (about 300g)
 * 450g paneer
-* 50g single cream
+* 50g double cream
 <nbsp></nbsp>
 * wholegrain rice
 

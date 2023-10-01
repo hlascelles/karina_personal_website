@@ -12,9 +12,9 @@ categories:
 * 30g lemongrass
 * 30g shallots
 * 30g garlic
-* 2 teaspoons ground cumin
-* 2 teaspoons ground coriander
-* 1 teaspoons ground turmeric
+* 2 teaspoons cumin powder
+* 2 teaspoons coriander powder
+* 1 teaspoons turmeric powder
 * 1 teaspoons salt
 * 2 limes
 <nbsp></nbsp>
@@ -25,7 +25,7 @@ categories:
 * some green chillies<br/>
 **or make it red:**
 * 60g red bell pepper 
-* 2 teaspoons ground black pepper
+* 5g black pepper (about 2 teaspoons)
 * some red chillies
 * 20g thai basil (+5g for serving)
 <nbsp></nbsp>

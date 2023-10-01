@@ -19,7 +19,7 @@ categories:
 * 1 teaspoon smoked paprika powder
 * 0.5 teaspoon Kashmiri chilli powder
 * 0.5 teaspoon salt
-* black pepper (about 1 teaspoon)
+* 3g black pepper (about 1 teaspoon)
 
 
 

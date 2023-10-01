@@ -13,7 +13,7 @@ categories:
 * a small piece of ginger
 * 6 teaspoons garam masala
 * 1.5 teaspoon Kashmiri chilli powder
-* 1 teaspoon freshly ground black pepper
+* 2g black pepper (about 1 teaspoon)
 * 1 teaspoon salt
 * 1 teaspoon ground cumin
 * 1 teaspoon ground turmeric

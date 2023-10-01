@@ -7,8 +7,17 @@ categories:
     - kitchen
 ---
 
-* [Mushroom pasta](/kitchen/mushroom-pasta/)
-* [Mushroom, lentil and barley ragu](/kitchen/mushroom-lentil-barley-ragu/)
-* [Mushroom soup](/kitchen/mushroom-soup/)
+**Heartwarming curries:**
 * [Green or red Thai curry](/kitchen/thai-curry/)
+
+**Pancakes and fritters:**
 * [Winter polenta pancakes](/kitchen/polenta-pancakes-winter/)
+
+**Pasta and risotto:**
+* [Mushroom pasta](/kitchen/mushroom-pasta/)
+
+**Soups:**
+* [Mushroom soup](/kitchen/mushroom-soup/)
+
+**Savoury bakes:**
+* [Mushroom, lentil and barley ragu](/kitchen/mushroom-lentil-barley-ragu/)

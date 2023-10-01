@@ -13,8 +13,8 @@ categories:
 * 4g mint leaves
 * 1 garlic clove
 * 60g olive oil
-* 1/4 teaspoon salt
-* 1 teaspoon freshly ground black pepper
+* 0.25 teaspoon salt
+* 2g black pepper (about 1 teaspoon)
 * 1 lemon
 <nbsp></nbsp>
 * 1 courgette

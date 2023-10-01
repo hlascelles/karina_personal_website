@@ -15,7 +15,7 @@ categories:
 * 100g tahini
 * 20g nutritional yeast
 * 30g garlic
-* 3 teaspoons black pepper
+* 7g black pepper (about 3 teaspoons)
 <nbsp></nbsp>
 * 1 red onion
 * 1 red bell pepper

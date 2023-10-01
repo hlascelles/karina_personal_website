@@ -16,7 +16,7 @@ categories:
 <nbsp></nbsp>
 * 130g dark bitter chocolate (vegan, 70% +)
 * about 480g of very ripe peeled bananas (3-5 bananas)
-* 70g sunflower/canola oil
+* 80g sunflower/canola oil
 * 170g sugar
 
 **Methods:**
