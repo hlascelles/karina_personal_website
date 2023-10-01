@@ -7,6 +7,9 @@ categories:
     - kitchen
 ---
 
+**Creative dishes:**
+* [Spicy mushrooms with bean mash](/kitchen/mushrooms-bean-mash/)
+
 **Heartwarming curries:**
 * [Green or red Thai curry](/kitchen/thai-curry/)
 

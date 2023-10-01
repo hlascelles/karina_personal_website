@@ -9,7 +9,7 @@ categories:
 **Ingredients:**
 
 * 230g butter 
-* 330g dark chocolate 
+* 330g dark 70%+ chocolate 
 <nbsp></nbsp>
 * 6 eggs
 <nbsp></nbsp>
