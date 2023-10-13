@@ -90,7 +90,6 @@ Battersea Park, etc.
 * Victoria Park - great place for running (drinking fountains located just outside Bonner Gate, on the island with Victoria Park Chinese Pagoda, etc.) and pastries (Pavilion Cafe by the lake).
 
 **Food:**
-* Nest - tasting menu that celebrates British vegetables. The menu is vegetarian during their [vegetable season](https://www.nestfood.co.uk/menu) (usually in the summer), during their other seasons (chicken, lamb, game) asking to arrange a vegetarian option is just being a pain for them. But things might change. Modern European.
 * EDIT - hyper seasonal, low impact restaurant. Modern European.
 * Silo London - zero-waste restaurant with a great tasting menu. They mill their own flour and make their own butter. They aim to eliminate food waste, so expect ice cream made from leftover sourdough bread. Modern European.
 
@@ -123,6 +122,7 @@ Battersea Park, etc.
 * Neals Yard Dairy - an excellent shop of British and Irish cheeses.
 * Provisions Holloway - a Frech deli, good cheese.
 * [Get Stuffed](https://www.thegetstuffed.co.uk/) - taxidermy shop fun to explore from the outside.
+* Katsute 100 - a perfect place for a non-alcoholic drinks meeting in the evening.
 
 **Food:**
 * Tofu Vegan Islington - vegan Chinese. They've now opened several other locations too.
@@ -174,7 +174,7 @@ Battersea Park, etc.
 
 ### 15. Liverpool Street 
 
-* For a breathtaking view of the city, book a table for breakfast at [Sky Pod Bar](https://skygarden.london/restaurants/sky-pod-bar/).
+* [Horizon 22](https://horizon22.co.uk/) - London's highest observation deck (58th floor). Free, booking required. If there are no tickets available, try booking a table for breakfast at [Sky Pod Bar](https://skygarden.london/restaurants/sky-pod-bar/).
 * [Guildhall Art Gallery](https://www.thecityofldn.com/directory/guildhall-art-gallery/) - London's Roman Amphitheatre, permanent and temporary exhibitions. Booking recommended.
 * [London Mithraeum](https://www.londonmithraeum.com/) - archeological remains of a Roman temple, 3rd century AD. Free, booking required.
 * Sculptures: [Sculpture in the city](https://www.sculptureinthecity.org.uk/) - an annual outdoor sculpture exhibition, new sculptures every June; [Our Herd of Hope](https://www.sheldrickwildlifetrust.org/herd-of-hope) - a family of 21 life-sized bronze elephant statues around 1 Bishops Square; etc.
@@ -191,7 +191,7 @@ Battersea Park, etc.
 * Paternoster Square, including Temple Bar London - a renovated (and relocated) City of London gateway from the 1600s. There used to be 10 of them (Aldgate, Moorgate, etc.), this is the only one that survived.
 
 **Food and drink:**
-* Bubala Spitalfields - one of the tastiest tasting menus. Middle Eastern food. I left feeling that I should have paid more given how much I loved it.
+* Bubala Spitalfields - one of the tastiest tasting menus, Middle Eastern. Vegan or vegetarian. I left feeling that I should have paid more given how much I loved it.
 * Dosa World - authentic South Indian food.
 
 **Cocktails:** The Gobpsy (Tue-Fri only; beneath a barber shop), City of London Distillery & Bar (gin-centric cocktails).
@@ -220,7 +220,7 @@ Battersea Park, etc.
 
 ### 18. Richmond 
 
-* [Kew Gardens](https://www.kew.org/kew-gardens/whats-on) - one of the best botanical gardens in the world. Arrive at the opening time, as one day is not enough to see everything. Don't miss [Marianne North Gallery](https://www.youtube.com/watch?v=_nALt1P7UtU), Shirley Sherwood Gallery, [Agius Evolution Garden](https://www.kew.org/read-and-watch/11-things-about-evolution-garden), Alpine House (especially in April-May), [the giant waterlily](https://www.kew.org/read-and-watch/new-giant-waterlily-victoria-boliviana-discovered-at-kew) in the Waterlily House.
+* * [Kew Gardens](https://www.kew.org/kew-gardens/whats-on) - one of the best botanical gardens in the world. Arrive at the opening time, as one day is not enough to see everything. Download a free map (or pick up a free paper copy at the entrance) to orient yourself. Check the schedule of free walking tours at the information desk inside the main gift shop; there is usually a tour at 12:30 showcasing the most exciting seasonal stuff. Art galleries - [Marianne North Gallery](https://www.youtube.com/watch?v=_nALt1P7UtU) (permanent exhibition) and Shirley Sherwood Gallery (temporary exhibitions) - are a must. If the area is not rented out for an event, check out the Cambridge Cottage and Duke's Garden in front of it. Keep an eye out for events happening after 19:00 - spending time at Kew in the dark is truly magical.
 * Isabella Plantation in Richmond Park - visit in late April/early May to catch rhododendrons in bloom (explore all 3 ponds). Also find the deer with huge antlers in Richmond Park.
 
 **Food and drink:**
@@ -238,6 +238,10 @@ Battersea Park, etc.
 
 * Street art around Shoreditch. See guides by [Caroline and Neil](https://www.cktravels.com/shoreditch-street-art-london-guide-map/), [Rose](https://www.wheregoesrose.com/shoreditch-street-art/), [Inspiring City](https://inspiringcity.com/2020/07/23/a-street-art-map-of-shoreditch-and-brick-lane/) and [Wayfaring Views](https://wayfaringviews.com/see-shoreditch-street-art-get-your-london-with-edge/). Look out for works by [Dan Kitchener](https://www.dankitchener.com/).
 * Columbia Road Flower Market (Sundays).
+* [Photobookcafe](https://www.photobookcafe.co.uk/) - a perfect place for a non-alcoholic drinks meeting in the evening.
+
+**Food:**
+* Nest - tasting menu that celebrates British vegetables. The menu is vegetarian during their [vegetable season](https://www.nestfood.co.uk/menu) (usually in the summer), during their other seasons (chicken, lamb, game) asking to arrange a vegetarian option is just being a pain for them. But things might change. Modern European.
 
 **Pastries:** Jack Garcia Coffee.
 

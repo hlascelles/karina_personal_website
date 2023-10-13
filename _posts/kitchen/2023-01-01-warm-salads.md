@@ -7,5 +7,6 @@ categories:
     - kitchen
 ---
 
+* [Superpower salad](/kitchen/superpower-salad/)
 * [Squash and pomegranate salad](/kitchen/squash-pomegranate-salad/)
 * [Chickpea and feta salad](/kitchen/chickpea-feta-salad/)
