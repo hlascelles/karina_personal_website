@@ -25,4 +25,4 @@ categories:
 * Cut cucumbers into cubes.
 * Spread the sauce into individual small serving plates. Top each plate with cucumber and Nigella seeds.
 
-**Inspired by** [Flavour](https://www.penguin.co.uk/books/111/1116203/ottolenghi-flavour/9781785038938.html) cookbook by Yotam Ottolenghi
+**Inspired by:** [Flavour](https://www.penguin.co.uk/books/111/1116203/ottolenghi-flavour/9781785038938.html) cookbook by Yotam Ottolenghi
