@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * 120g lemon juice (about 2 lemons)
 * 100g tahini
-* 20g nutritional yeast
+* 20g nutritional yeast flakes
 * 30g garlic
 * 7g black pepper (about 3 teaspoons)
 <nbsp></nbsp>
