@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Cucumber tahini salad
+title: Cucumber and tahini salad
 header: no
 categories:
     - kitchen
