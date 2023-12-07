@@ -7,14 +7,25 @@ categories:
   - travel
 widgets:
 - url:
+  image: graffiti-2023-19-bangkok.jpg
+  title: Bangkok, Thailand
+- url:
+  image: graffiti-2023-17-kaohsiung.jpg
+  title: Kaohsiung, Taiwan
+- url:
+  image: graffiti-2023-16-taipei.jpg
+  title: Taipei, Taiwan
+
+- url:
+  image: graffiti-2023-18-bangkok.jpg
+  title: Bangkok, Thailand
+- url:
   image: graffiti-2023-15-london.jpg
   title: London, UK
 - url:
   image: graffiti-2023-12-london-min.jpg
   title: London, UK
-- url:
-  image: graffiti-2020-1-london-min.jpg #copy
-  title: London, UK
+
 
 - url:
   image: graffiti-2023-14-tallinn-min.jpg
@@ -106,7 +117,7 @@ widgets:
   title: Sofia, Bulgaria
 ---
 
-<!-- make size x900 -->
+<!-- convert -resize x900 t.jpg tt.jpg -->
 
 I visit art museums and galleries only after I'm reasonably sure that I found most of the noteworthy street art (graffiti) in the city I am in. 
 What I like most about street art is:

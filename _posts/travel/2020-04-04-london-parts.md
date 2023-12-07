@@ -183,7 +183,7 @@ Battersea Park, etc.
 * La Fauxmagerie - London's first vegan cheese shop.
 
 **Architecture:**
-* This area has a lot of remarkable modern buildings: [Richard Rogers' inside-out Lloyd's building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/), 120 Fenchurch street (see huge screens showing art), etc.
+* This area has a lot of remarkable modern buildings: [Richard Rogers' inside-out Lloyd's building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/), The Broadgate Tower (a [raft building above rail tracks](https://en.wikiarquitectura.com/building/201-bishopsgate-the-broadgate-tower/)), 120 Fenchurch street (see huge screens showing art videos), etc.
 * And a lot of remarkable old buildings: St Dunstan in the East Church Garden (beautiful old church with no roof), [the Victorian Bath House](https://cammhooper.com/venues/victorian-bath-house-london/), Leadenhall Market, etc.
 * The Barbican Estate - one of the largest examples of Brutalist style architecture. It represents an utopian ideal for inner-city living. Have fun exploring. For example, try to find St Giles Cripplegate.
 * Don't miss the great view of Liverpool Street Station from the Exchange Square.
@@ -220,7 +220,7 @@ Battersea Park, etc.
 
 ### 18. Richmond 
 
-* * [Kew Gardens](https://www.kew.org/kew-gardens/whats-on) - one of the best botanical gardens in the world. Arrive at the opening time, as one day is not enough to see everything. Download a free map (or pick up a free paper copy at the entrance) to orient yourself. Check the schedule of free walking tours at the information desk inside the main gift shop; there is usually a tour at 12:30 showcasing the most exciting seasonal stuff. Art galleries - [Marianne North Gallery](https://www.youtube.com/watch?v=_nALt1P7UtU) (permanent exhibition) and Shirley Sherwood Gallery (temporary exhibitions) - are a must. If the area is not rented out for an event, check out the Cambridge Cottage and Duke's Garden in front of it. Keep an eye out for events happening after 19:00 - spending time at Kew in the dark is truly magical.
+* [Kew Gardens](https://www.kew.org/kew-gardens/whats-on) - one of the best botanical gardens in the world. Arrive at the opening time, as one day is not enough to see everything. Download a free map (or pick up a free paper copy at the entrance) to orient yourself. Check the schedule of free walking tours at the information desk inside the main gift shop; there is usually a tour at 12:30 showcasing the most exciting seasonal stuff. Art galleries - [Marianne North Gallery](https://www.youtube.com/watch?v=_nALt1P7UtU) (permanent exhibition) and Shirley Sherwood Gallery (temporary exhibitions) - are a must. If the area is not rented out for an event, check out the Cambridge Cottage and Duke's Garden in front of it. Keep an eye out for events happening after 19:00 - spending time at Kew in the dark is truly magical.
 * Isabella Plantation in Richmond Park - visit in late April/early May to catch rhododendrons in bloom (explore all 3 ponds). Also find the deer with huge antlers in Richmond Park.
 
 **Food and drink:**
