@@ -7,6 +7,16 @@ categories:
   - travel
 widgets:
 - url:
+  image: graffiti-2024-01-sydney.jpg
+  title: Sydney, Australia
+- url:
+  image: graffiti-2023-21-mumbai.jpg
+  title: Mumbai, India
+- url:
+  image: graffiti-2023-20-bangkok.jpg
+  title: Bangkok, Thailand
+
+- url:
   image: graffiti-2023-19-bangkok.jpg
   title: Bangkok, Thailand
 - url:
@@ -25,7 +35,6 @@ widgets:
 - url:
   image: graffiti-2023-12-london-min.jpg
   title: London, UK
-
 
 - url:
   image: graffiti-2023-14-tallinn-min.jpg
@@ -76,45 +85,6 @@ widgets:
 - url:
   image: graffiti-2022-21-birmingham-min.jpg
   title: Birmingham, UK
-
-- url:
-  image: graffiti-2022-20-birmingham-min.jpg
-  title: Birmingham, UK
-- url:
-  image: graffiti-2022-19-birmingham-min.jpg
-  title: Birmingham, UK
-- url:
-  image: graffiti-2022-17-birmingham-min.jpg
-  title: Birmingham, UK
-- url:
-  image: graffiti-2022-18-birmingham-min.jpg
-  title: Birmingham, UK
-- url:
-  image: graffiti-2022-13-london-min.jpg
-  title: London, UK
-- url:
-  image: graffiti-2022-11-toulouse-min.jpg
-  title: Toulouse, France
-
-- url:
-  image: graffiti-2022-15-london-min.jpg
-  title: London, UK
-- url:
-  image: graffiti-2022-14-london-min.jpg
-  title: London, UK
-- url:
-  image: graffiti-2022-10-toulouse-min.jpg
-  title: Toulouse, France
-
-- url:
-  image: graffiti-2022-8-toulouse-min.jpg
-  title: Toulouse, France
-- url:
-  image: graffiti-2022-6-plovdiv-min.jpg
-  title: Plovdiv, Bulgaria
-- url:
-  image: graffiti-2022-5-sofia-min.jpg
-  title: Sofia, Bulgaria
 ---
 
 <!-- convert -resize x900 t.jpg tt.jpg -->
