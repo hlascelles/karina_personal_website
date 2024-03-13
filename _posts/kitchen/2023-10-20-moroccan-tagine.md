@@ -11,7 +11,7 @@ categories:
 * 1-2 onions (about 150g)
 * 5 garlic cloves (about 30g)
 * a small piece of ginger (about 40g)
-* 3 teaspoons ras-el-hanout spice mix
+* 3 teaspoons Ras El Hanout spice mix
 * 1 teaspoon salt
 <nbsp></nbsp>
 * olive oil
