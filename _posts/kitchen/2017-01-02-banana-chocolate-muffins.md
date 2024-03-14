@@ -10,9 +10,9 @@ categories:
 
 * 280g flour
 * 60g oats
-* 3/4 teaspoons baking soda
-* 3/4 teaspoons baking powder
-* 1/2 teaspoon salt
+* 0.5 teaspoons baking soda
+* 1 teaspoon baking powder
+* 0.5 teaspoon salt
 <nbsp></nbsp>
 * 130g dark bitter chocolate (vegan, 70% +)
 * about 480g of very ripe peeled bananas (3-5 bananas)

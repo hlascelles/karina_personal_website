@@ -8,13 +8,13 @@ categories:
 
 **Ingredients:**
 
-* Pasta
+* 150g Pasta
 * Salt
 <nbsp></nbsp>
-* Almonds
-* Fresh garlic
-* Sundried tomatoes (jarred in oil)
-* Olive oil
+* 50g almonds
+* 15g garlic cloves
+* 70g sundried tomatoes (jarred in oil)
+* 30g olive oil
 
 **Methods:**
 

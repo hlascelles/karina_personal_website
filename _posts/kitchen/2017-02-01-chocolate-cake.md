@@ -30,7 +30,7 @@ categories:
 * Into the yolks, add buttermilk, sugar, cornstarch, salt, vanilla, coffee and melted chocolate. Mix well.
 * Whip egg whites to soft peaks.
 * Fold whipped egg whites into the cake mix. 
-* Transfer into the greased cake tin and bake for about 50min at 130C. When you take it out of the oven, it should still be slightly jiggly in the center.
+* Transfer into the greased cake tin and bake for about 40min at 130C. When you take it out of the oven, it should still be slightly jiggly in the center.
 * Toast hazelnuts in the oven at 180C.
 * Refrigerate the cake overnight. Then serve with hazelnuts.
 

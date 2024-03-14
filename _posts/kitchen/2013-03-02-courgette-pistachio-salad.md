@@ -10,7 +10,7 @@ categories:
 
 * courgettes - fresh, firm, young and thin; but not baby courgettes
 * pistachios
-* watercress leaves or other tender greens
+* watercress
 <nbsp></nbsp>
 * 1 lemon
 * olive oil
