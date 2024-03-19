@@ -12,7 +12,7 @@ categories:
 * 50g butter
 * 300g dark chocolate
 * 30g cacao powder + more for coating
-* 80g rum
+* 80g dark rum
 
 **Methods:**
 

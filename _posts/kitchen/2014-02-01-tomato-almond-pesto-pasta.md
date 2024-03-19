@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Red garlic and almond pesto pasta
+title: Sundried tomato and almond pesto pasta
 header: no
 categories:
     - kitchen
@@ -8,13 +8,13 @@ categories:
 
 **Ingredients:**
 
-* 150g Pasta
-* Salt
+* 280g pasta
+* salt
 <nbsp></nbsp>
-* 50g almonds
-* 15g garlic cloves
-* 70g sundried tomatoes (jarred in oil)
-* 30g olive oil
+* 140g sundried tomatoes (jarred in oil)
+* 100g almonds
+* 20g garlic cloves
+* 60g olive oil
 
 **Methods:**
 

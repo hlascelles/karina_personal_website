@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Indian okra curry (Bhindi masala)
+title: Bhindi masala (Indian okra curry)
 header: no
 categories:
     - kitchen
