@@ -95,7 +95,7 @@ What I like most about street art is:
 * Street art is very fragile. It is so naked and easy to destroy, that its mere existence is a proof of respect for the artist and/or this particular work. Money cannot buy this respect.
 * Street art is for everyone. There is no charge to see it. It brightens up neighbourhoods and people's commutes. 
 
-My favourite destinations for street art are Mexico, Colombia, UK (London and Birmingham), Sofia and Istanbul. If you know what my next destination should be, [please let me know](mailto:hello@karina.io).
+My favourite destinations for street art are Berlin, Sydney, Sofia, Istanbul, London, Birmingham and the whole of Mexico and Colombia. If you know what my next destination should be, [please let me know](mailto:hello@karina.io).
 
 Here are some examples of street art that stood out to me due to (1) the originality of the idea, (2) the interesting technique, (3) the emotional response I got from it, (4) the creative way in which it is incorporated into the environment, or simply because of its (5) beauty:
 

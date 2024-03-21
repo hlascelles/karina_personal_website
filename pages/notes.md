@@ -16,9 +16,6 @@ widgets:
 - url: /notes/phd-survival-guide/
   image: main-phd.jpg
   title: <a href="/notes/phd-survival-guide/" target="_self">PhD survival guide</a>
-- url: /notes/working-with-me/
-  image: main-working-with-me.jpg
-  title: <a href="/notes/working-with-me/" target="_self">Working with me</a>
 
 ---
 
