@@ -104,7 +104,7 @@ To visit Khiva's architectural gems, you must buy a ticket (valid for two consec
 * Shayhantaur Memorial Complex is worth a visit, including Sheikh Hovendi at-Tahur Mausoleum.
 * Tashkent City Park and buildings surrounding it is the newest neighbourhood of Tashkent. It was interesting to see it and infer the direction in which the city is developing.
 
-I'm so not done with Tashkent; my to-visit list is still long:
+Still on my to-visit list:
 * Tashkent Television Tower (passport required to visit)
 * Railway Museum
 * Mosques (Minor mosque, Rakat Jami Mosque)

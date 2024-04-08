@@ -8,7 +8,7 @@ widgets:
 - url:
   image: main-run.jpg
   title: Run 21km in less than 100 minutes
-  dates: Since Jan 2023
+  dates: Since Nov 2022
   text: "I've already learnt a lot from running. First, what gets measured influences our goal setting. I don't actually want to run 21km in less than 100 minutes, I want to be fit and have strong legs, but I can't measure that as easily as the number of minutes. Second, recovery (what happens between runs) matters no less than running itself, which got me thinking about how my off-work time influences my work. I wonder what else I'll learn on this journey."
 
 - url: https://samudra.world/

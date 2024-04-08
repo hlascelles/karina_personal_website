@@ -34,3 +34,5 @@ categories:
 * Once it smells really good, add beetroots, turmeric powder, salt and coconut with the soaking liquid. Add 100g of water. Reduce the heat and cook under a lid.
 * Once the beetroot is tender, evaporate any excess water.
 * Serve with rice and yoghurt.
+
+**Notes:** works equally well with carrots or sturdy cabbage instead of beetroots.

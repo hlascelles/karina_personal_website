@@ -30,7 +30,7 @@ categories:
 * Meanwhile, grate Parmesan coarsely and chop the parsley.
 * When the mushrooms are golden on most side, use a garlic press to add garlic cloves directly into the mushrooms. Season with freshly ground black pepper.
 * When pasta is almost ready, take mushrooms off the heat and immediately add Mascarpone cheese and a bit of salty pasta water. Stir well and add more pasta water as required. Stir in grated Parmesan.
-* Drain the pasta and add it to the mushrooms along with parsley. Zest a lemon.
-* Serve sprinkled with lemon zest.
+* Drain the pasta and add it to the mushrooms along with parsley. Mix everythiing together.
+* Zest a lemon. Serve pasta sprinkled with lemon zest.
 
 **Inspired by:** [EtFoodVoyage](https://www.etfoodvoyage.com/truffle-mushroom-mascarpone-pasta-recipe/)

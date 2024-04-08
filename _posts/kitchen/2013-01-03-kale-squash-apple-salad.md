@@ -27,7 +27,7 @@ categories:
 * Peel the butternut squash, chop it into cubes, coat them in olive oil. Bake until tender and starting to char on the corners, about 40min.
 * Meanwhile, remove the stems from the kale. Wash and dry the kale. Chop it into bite size pieces.
 * Make the dressing - place olive oil, vinegar, mustard and salt in a small glass jar. Close the lid and shake violently.
-* Combine the kale with the dressing, massage it well.
+* Mix the kale with the dressing by hand, massage it well.
 * Peel the apples, chop them into cubes.
 * Pre-heat a large frying pan with some olive oil. Add in the apple cubes and let them fry until they turn golden brown. Stir and repeat a couple of times until you have many brown sides and the apples are tender.
 * Meanwhile, toast pumpkin seeds in a small clean frying pan.
