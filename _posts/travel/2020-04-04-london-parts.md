@@ -203,10 +203,14 @@ Battersea Park, etc.
 * [Tate Modern](https://www.tate.org.uk/visit/tate-modern) and their [Lates](https://www.tate.org.uk/whats-on/tate-modern/tate-modern-lates). Worth a visit even if you don't like modern art, as it is located in the former Bankside Power Station, which operated until 1981.
 * There are numerous small galleries in the area; my favourites include White Cube Bermondsey and London Glassblowing.
 * [National Theatre Archive](https://www.nationaltheatre.org.uk/about-the-national-theatre/archive) - here you can watch recordings of all London theater productions that are no longer showing on stage, for free. Booking required.
+* [Hayward Gallery](https://www.southbankcentre.co.uk/venues/hayward-gallery) - temporary exhibitions, often good ones. Not free.
+* The Graffiti Tunnel - street art around the Waterloo station.
 
 **Food and drink:**
 * Rambutan - incredible Sri Lankan food.
 * Tatale - contemporary Pan-African. Set menu with a vegan option.
+* Café Pedlar with pastries from [Little Bread Pedlar](https://www.lbpedlar.com/). 
+* Lyaness - cocktails.
 
 <a name="peckham"></a> 
 
