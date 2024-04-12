@@ -34,4 +34,6 @@ categories:
 * Toast hazelnuts in the oven at 180C.
 * Refrigerate the cake overnight. Then serve with hazelnuts.
 
+**Notes:** I keep small slices of this cake in my fridge; eating them straight out of the freezer instantly satisfies chocolate, cake and ice cream cravings.
+
 **Inspired by:** [Brian Lagerstrom](https://youtu.be/5bp2XJn5AQs)
