@@ -143,7 +143,7 @@ Battersea Park, etc.
 
 ### 13. Kensington 
 
-* [Natural History Museum](https://www.nhm.ac.uk/visit/whats-on.html) and their [Lates](https://www.nhm.ac.uk/events/lates.html). Book free tickets in advance both for day-time visits and Lates.
+* [Natural History Museum](https://www.nhm.ac.uk/visit/whats-on.html) and their [Lates](https://www.nhm.ac.uk/visit/whats-on.html). Book free tickets in advance both for day-time visits and Lates.
 * [Science Museum](https://www.sciencemuseum.org.uk/see-and-do) and their [Lates](https://www.sciencemuseum.org.uk/see-and-do/lates). Book free tickets in advance both for day-time visits and Lates.
 * [Victoria and Albert Museum](https://www.vam.ac.uk/whatson) and their [Lates](https://www.vam.ac.uk/info/friday-late).
 * [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) - two building on either side of the Serpentine Bridge.
@@ -326,6 +326,6 @@ Battersea Park, etc.
 * Westminster Cathedral - an architectural gem that should be much more famous.
 * Churchill War Rooms (not free).
 * [The National Gallery](https://www.nationalgallery.org.uk/whats-on).
-* [Mall galleries](https://www.mallgalleries.org.uk/whats-on/exhibitions) - exciting temporary painting and photo exhibitions.
+* [Mall galleries](https://www.mallgalleries.org.uk/exhibitions-events?conditions%5B%5D=&page=1) - exciting temporary painting and photo exhibitions.
 * 55 Broadway - a magnificent building housing St. James' Park station.
 * Onion Garden - an unlikely place.

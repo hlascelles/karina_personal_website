@@ -7,6 +7,16 @@ categories:
   - travel
 widgets:
 - url:
+  image: graffiti-2024-02-cyprus.jpg
+  title: Limassol, Cyprus
+- url:
+  image: graffiti-2022-14-london-min.jpg
+  title: London, UK #copy
+- url:
+  image: graffiti-2022-2-sofia-min.jpg
+  title: Sofia, Bulgaria #copy
+
+- url:
   image: graffiti-2024-01-sydney.jpg
   title: Sydney, Australia
 - url:
