@@ -133,10 +133,9 @@ Battersea Park, etc.
 * Ottolenghi (Islington) - by Ottolenghi.
 * [Towpath](https://www.towpathlondon.com/) - awesome outdoor restaurant on the canal in Islington, perfect for lunch or a dinner on a warm summer evening.
 * Zia Lucia Islington - great pizzas, including their famous charcoal crust.
-* Frequency Coffee Angel - coffee and cinnamon rolls.
-* Jolene Colebrooke Row - sourdough and pastries.
 * Udderlicious - gelato.
 
+**Pastries:** Pophams, Jolene Colebrooke Row, Frequency Coffee Angel, Sourdough Sophia.
 **Cocktails:** Little Bat, The Rabbits Hole (worth it for the location - a renovated public bathroom, not the cocktails).
 
 <a name="kensington"></a> 
@@ -156,7 +155,7 @@ Battersea Park, etc.
 
 * Known as the [Knowledge Quarter](https://www.knowledgequarter.london/) - The British Library, The British Museum, The Wellcome Trust, The Alan Turing Institute, Francis Crick Institute, UCL, SOAS, Royal College of Physicians, Google, Springer Nature, The Guardian (and many more) are all located here.
 * [King's Cross Visitor Centre](https://www.kingscross.co.uk/visitor-centre) is a great place to start. The model of the neighbourhood gives you an overview of what there is to explore.
-* Explore Pancras Square, Granary Square, Lewis Cubitt Square, Gasholder Park, Coal Drops Yard, St Pancras Station, etc. Follow Jack's [self-guided tour of the area](https://livinglondonhistory.com/the-hidden-history-of-kings-cross-a-walk/).
+* Explore Pancras Square, Granary Square, Lewis Cubitt Square, community garden (51.538009, -0.124362), Gasholder Park, Coal Drops Yard (read about its history here (51.535522, -0.126936) and definitely visit the Samsung store on the top floor - it is very architecturally exciting), St Pancras Station, etc. Follow Jack's [self-guided tour of the area](https://livinglondonhistory.com/the-hidden-history-of-kings-cross-a-walk/). Use this (51.533144, -0.124917) metro entrance to discover a cool light tunnel.
 * Regent's Canal. It goes west past Wembley, and you can follow it all the way to Slough or Kew Bridge. It is excellent for running and all-day walks.
 * Keystone Crescent (51.531825, -0.120135) - a charming bit of old London. 
 * [Wellcome Collection](https://wellcomecollection.org/whats-on)
