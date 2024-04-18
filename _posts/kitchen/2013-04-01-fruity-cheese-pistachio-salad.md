@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * 1 peach
 * Strawberries
-* Rocket (Arugula)
+* arugula
 <nbsp></nbsp>
 * 20g olive oil
 * 15g red wine vinegar
@@ -23,7 +23,7 @@ categories:
 
 * Lightly toast the pistachios in a small clean pan.
 * Make the dressing - place olive oil, vinegar and mustard in a small glass jar. Close the lid and shake violently.
-* Chop peach and strawberries into bite size pieces. Place in a bowl and mix with the dressing. Add rocket and combine gently.
+* Chop peach and strawberries into bite size pieces. Place in a bowl and mix with the dressing. Add arugula and combine gently.
 * Chop the toasted pistachios into small pieces. Place them in a small bowl. 
 * Cut the goat cheese into bite size pieces. Dunk each piece into the pistachio bowl to coat it.
 * Serve the salad in individual plates topped with goat cheese balls.

@@ -12,12 +12,12 @@ categories:
 * 6 teaspoons ground seeds (flaxseeds, chia seeds, sunflower, pumpkin)
 * 1 teaspoon baking powder
 * 1 teaspoon cinnamon
-* 1/4 teaspoon salt
+* 0.25 teaspoon salt
 <nbsp></nbsp>
 * 30g butter
 * 2 very ripe bananas
 * 200g milk
-* 1/2 teaspoon vanilla extract
+* 0.5 teaspoon vanilla extract
 
 **Methods:**
 

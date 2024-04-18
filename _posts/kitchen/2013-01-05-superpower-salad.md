@@ -12,7 +12,7 @@ categories:
 * Green beans
 * Asparagus
 * Cherry tomatoes
-* Rocket (Arugula)
+* arugula
 * Avocado
 * Olive oil
 * Balsamic vinegar
@@ -21,5 +21,5 @@ categories:
 
 * Cut broccoli and beans into bite size pieces. Steam them until tender.
 * Meanwhile, blanch the asparagus.
-* Halve the cherry tomatoes. Chop rocket, avocados and asparagus into bite size pieces.
+* Halve the cherry tomatoes. Chop arugula, avocados and asparagus into bite size pieces.
 * Mix everything and dress with olive oil and balsamic vinegar.

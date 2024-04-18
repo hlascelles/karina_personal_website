@@ -13,7 +13,7 @@ categories:
 * 1/2 teaspoon salt
 * 1/2 teaspoon baking powder
 * 1/4 teaspoon baking soda
-* 3 teaspoons dark Muscovado sugar
+* 1 teaspoon sugar
 <nbsp></nbsp>
 * 20g butter
 * 1 egg
