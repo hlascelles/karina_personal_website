@@ -23,4 +23,6 @@ categories:
 * Stir in the salt. If you get any lumps, place it back over low heat until everything melts again. 
 * Let it cool completely. Then taste and adjust the salt. Keep in a jar in the fridge.
 
+**Notes:** serve as a dip for oven roasted walnuts.
+
 **Inspired by:** [Helen Rennie](https://youtu.be/g3eDJSqpI_0)

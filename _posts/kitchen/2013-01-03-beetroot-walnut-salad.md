@@ -11,7 +11,7 @@ categories:
 * 3 beetroots
 * olive oil
 * 100g walnuts
-* 2 grapefruits
+* 2 [grapefruits](https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix)
 * black pepper
 * arugula (or other salad leaves)
 <nbsp></nbsp>

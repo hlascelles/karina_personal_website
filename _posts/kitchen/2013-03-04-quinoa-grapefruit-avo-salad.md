@@ -9,7 +9,7 @@ categories:
 **Ingredients:**
 
 * Quinoa
-* 1 grapefruit
+* 1 [grapefruit](https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix)
 * 1 avocado
 * Olive oil
 

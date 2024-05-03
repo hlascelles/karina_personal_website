@@ -12,8 +12,8 @@ categories:
 * 1 teaspoon chilli flakes
 * 2 cloves of garlic
 <nbsp></nbsp>
-* broccolini
-* 700g white pre-cooked beans (white kidney beans, butter beans, etc.)
+* 300g broccolini
+* 500g pre-cooked white beans (white kidney beans, butter beans, etc.)
 * 1 lemon
 * 0.25 teaspoon salt
 
