@@ -59,13 +59,16 @@ Battersea Park, etc.
 
 ### 6. East Ham 
 
-* South Indian neighbourhood. Visit London Sri Mahalakshmi Temple, eat South Indian food, Indian grocery shopping.
+* London Sri Mahalakshmi Temple - South Indian temple.
 
 <a name="elephant-and-castle"></a> 
 
 ### 7. Elephant and Castle
 
 * Newport Street Gallery - a large space with temporary art exhibitions. Free.
+
+**Food and drink:**
+* Kachori - great North Indian.
 
 <a name="finchley"></a> 
 
@@ -112,7 +115,7 @@ Battersea Park, etc.
 
 * Regent's Canal. From Angel station it goes East to Victoria Park. From there you can continue North to Olympic Park or South to Limehouse. From Olympic Park you can continue North along the River Lee or South to Royal Observatory Greenwich (crossing under the Thames via Greenwich Foot Tunnel). It is excellent for running and all-day walks.
 * Don't miss the [Antepavilion's](https://www.antepavilion.org/) [Sharks!](https://goo.gl/maps/KW6meaFjbhmEEm2w8) visible from the Regent's Canal, in the water or on the roof. They are [a big deal](https://youtu.be/_8xhdL8BPvU).
-* Upper street is a delightful place for a strol. Islington Square is an exciting new area created around the renovated 1990s General Post Office sorting depo. 
+* Upper street is a delightful place for a stroll. Islington Square is an exciting new area created around the renovated 1990s General Post Office sorting depo. 
 * [Union Chapel](https://unionchapel.org.uk/whats-on) - a beautiful venue hosting different types of events.
 * Richmond Avenue - many of the houses on this residential street are guarded by mini [sphinxes and obelisks](https://livinglondonhistory.com/surprising-places-to-see-ancient-egypt-in-london/) that were installed in 1841 at the height of Egypt-mania. 
 * New River Path - a narrow 1k long park with loads of interesting plants and birds. From (51.541842, -0.097758) to (51.547047, -0.092159). And from there it is a lovely walk to Clissold Park.
@@ -136,6 +139,7 @@ Battersea Park, etc.
 * Udderlicious - gelato.
 
 **Pastries:** Pophams, Jolene Colebrooke Row, Frequency Coffee Angel, Sourdough Sophia.
+
 **Cocktails:** Little Bat, The Rabbits Hole (worth it for the location - a renovated public bathroom, not the cocktails).
 
 <a name="kensington"></a> 
@@ -145,9 +149,15 @@ Battersea Park, etc.
 * [Natural History Museum](https://www.nhm.ac.uk/visit/whats-on.html) and their [Lates](https://www.nhm.ac.uk/visit/whats-on.html). Book free tickets in advance both for day-time visits and Lates.
 * [Science Museum](https://www.sciencemuseum.org.uk/see-and-do) and their [Lates](https://www.sciencemuseum.org.uk/see-and-do/lates). Book free tickets in advance both for day-time visits and Lates.
 * [Victoria and Albert Museum](https://www.vam.ac.uk/whatson) and their [Lates](https://www.vam.ac.uk/info/friday-late).
+* [Saatchi Gallery](https://www.saatchigallery.com/whats-on) - free and not free temporary exhibitions, often good ones.
+* [the Design Museum](https://designmuseum.org/exhibitions) - not free temporary exhibitions, often good ones.
 * [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) - two building on either side of the Serpentine Bridge.
 * Hyde park.
 * St Columba's Church Of Scotland - very distinctive architecture.
+* [Roca London Gallery](http://www.rocalondongallery.com/activities-exhibitions) - archetecturally interesting place, great to visit when there is a free exhibition.
+
+**Food:**
+* Mali Vegan Thai - great Thai food.
 
 <a name="kings-cross"></a> 
 
@@ -187,7 +197,7 @@ Battersea Park, etc.
 * The Barbican Estate - one of the largest examples of Brutalist style architecture. It represents an utopian ideal for inner-city living. Have fun exploring. For example, try to find St Giles Cripplegate.
 * Don't miss the great view of Liverpool Street Station from the Exchange Square.
 * St Paul's cathedral.
-* Paternoster Square, including Temple Bar London - a renovated (and relocated) City of London gateway from the 1600s. There used to be 10 of them (Aldgate, Moorgate, etc.), this is the only one that survived.
+* Paternoster Square, including Temple Bar London - a renovated (and relocated) City of London gateway from the 1600s. There used to be 10 of them (Aldgate, Moorgate, etc.), this is the only one that survived. And don't miss the Christchurch Greyfriars Church Garden - a garden in the ruins of an 18th-century church bombed during WWII.
 
 **Food and drink:**
 * Bubala Spitalfields - one of the tastiest tasting menus, Middle Eastern. Vegan or vegetarian. I left feeling that I should have paid more given how much I loved it.
@@ -263,12 +273,12 @@ Battersea Park, etc.
 * The campus of London School of Economics and Political Science (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc.
 * Gerrard Street - the heart of London's Chinatown.
 * Follow Jack's [self-guided tour along the Thames](https://livinglondonhistory.com/beasts-on-the-banks-a-walk-along-the-thames/). And don't miss the Cleopatra’s Needle.
+* WatchHouse Somerset House - a great place for coffee and pastry with a great view of beautiful Somerset House.
 * [Twinings - The Strand](https://www.atlasobscura.com/places/twinings-tea-shop) tea shop in a historic building. Get any of their teas (even the most expensive one) in a takeaway cup for cheap.
 * Shopping: Ellis Brigham (the best outdoor clothing shop ever with super knowledgeable stuff), VIVOBAREFOOT (barefoot shoes), The Ordinary DECIEM ([magical moisturizer](https://theordinary.com/en-gb/natural-moisturizing-factors-ha-moisturizer-100435.html)), etc.
 * [The Spaces In-Between](https://goo.gl/maps/kf7ojJTdzkxDXCEy6) - huge screens showing art, just outside Tottenham Court Road station.
 
 **Food and drink:**
-* [Outcrop x AngloThai popup at 180 Strand](https://www.outcrop.social/#food) - this is likely short-term, so it's now or never.
 * Kricket Soho - modern Indian.
 * Gauthier - French tasting menu with steak, meat stews, cheesy pasta, etc. 100% vegan. Their 3D printed plant-protein steak is disturbingly animal-like.
 * Akoko - West African. Tasting menu with a vegan option.
@@ -280,7 +290,7 @@ Battersea Park, etc.
 * Below Stone Nest - not what you'd expect in Soho. Go for a drink, go early and prepare to be surprised.
 * Attendant Coffee Roasters - an awesome [underground-restroom-turned-coffee-bar](https://www.atlasobscura.com/places/the-attendant-fitzrovia) at Victorian-era urinals.
 * Mercato Mayfair - a food court in an old church. Totally worth it for the architecture, not the food.
-* Chettinad Restaurant - ok South Indian food.
+* Chettinad Restaurant - South Indian food.
 
 **Cocktails:** Bar Termini (a place to get a properly Italian negroni).
 
@@ -316,7 +326,6 @@ Battersea Park, etc.
 
 * BAPS Shri Swaminarayan Mandir London - Hindu temple made from marble and wood.
 * Shri Sanatan Hindu Mandir - Hindu temple made from limestone.
-* Shops with all sorts of items from India.
 
 **Food and drink:**
 * Vasanta Bhavan Wembley - authentic South Indian.
@@ -326,7 +335,7 @@ Battersea Park, etc.
 ### 25. Westminster 
 
 * Parliament Square Garden from which Big Ben, Palace of Westminster and Westminster Abbey can be observed. 
-* Westminster Cathedral - an architectural gem that should be much more famous.
+* Westminster Cathedral - an architectural gem that should be much more famous. Their handy [online calendar](https://westminstercathedral.org.uk/spiritual-life/mass-and-offices/) allows you to pick a time to visit that doesn't clash with religious services.
 * Churchill War Rooms (not free).
 * [The National Gallery](https://www.nationalgallery.org.uk/whats-on).
 * [Mall galleries](https://www.mallgalleries.org.uk/exhibitions-events?conditions%5B%5D=&page=1) - exciting temporary painting and photo exhibitions.
