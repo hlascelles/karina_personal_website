@@ -93,7 +93,7 @@ Battersea Park, etc.
 * Victoria Park - great place for running (drinking fountains located just outside Bonner Gate, on the island with Victoria Park Chinese Pagoda, etc.) and pastries (Pavilion Cafe by the lake).
 
 **Food:**
-* EDIT - hyper seasonal, low impact restaurant. Modern European.
+* [EDIT](https://www.edit.london/) in Hackney - vegan restaurant, local and seasonal, low on waste and environmental impact. Modern European.
 * Silo London - zero-waste restaurant with a great tasting menu. They mill their own flour and make their own butter. They aim to eliminate food waste, so expect ice cream made from leftover sourdough bread. Modern European.
 
 **Pastries:** Pophams London Fields, Forno, E5 Bakehouse, The Snapery East, Pavilion Bakery, Yeast Bakery.
@@ -153,7 +153,7 @@ Battersea Park, etc.
 * [the Design Museum](https://designmuseum.org/exhibitions) - not free temporary exhibitions, often good ones.
 * [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) - two building on either side of the Serpentine Bridge.
 * Hyde park.
-* St Columba's Church Of Scotland - very distinctive architecture.
+* Some architectural gems: 15 Gloucester Road, St Columba's Church Of Scotland.
 * [Roca London Gallery](http://www.rocalondongallery.com/activities-exhibitions) - archetecturally interesting place, great to visit when there is a free exhibition.
 
 **Food:**
@@ -306,7 +306,6 @@ Battersea Park, etc.
 **Food and drink:**
 * Laza Eritrean Ethiopian Restaurant - daily homemade injera, wonderful owner. Loads of vegan options.
 * Romeo & Giulietta Artisan Gelateria - gelato.
-* Plant Club - gluten free, vegan friendly Italian restaurant and pizzeria (I've not tried it myself).
 
 <a name="walthamstow"></a> 
 
