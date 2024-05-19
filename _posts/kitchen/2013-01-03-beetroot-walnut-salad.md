@@ -13,7 +13,7 @@ categories:
 * 100g walnuts
 * 2 [grapefruits](https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix)
 * black pepper
-* arugula (or other salad leaves)
+* arugula (rocket) (or other salad leaves)
 <nbsp></nbsp>
 * 15g olive oil
 * 0.5 tablespoon Dijon mustard
