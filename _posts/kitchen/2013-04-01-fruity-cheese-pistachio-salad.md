@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * 1 peach
 * Strawberries
-* arugula
+* arugula (rocket)
 <nbsp></nbsp>
 * 20g olive oil
 * 15g red wine vinegar
