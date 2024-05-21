@@ -1,6 +1,11 @@
 source 'https://rubygems.org'
 
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "faraday-retry"
 gem 'jekyll'
+gem "jekyll-sass-converter", "2.1.0"
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
