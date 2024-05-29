@@ -22,6 +22,7 @@ categories:
 * 1/4 teaspoon ground turmeric
 <nbsp></nbsp>
 * wholegrain rice
+* yoghurt
 
 **Methods:**
 
@@ -39,6 +40,6 @@ categories:
 * Add a splash of water to bring out the flavour of the spices. 
 * Once most of the water has evaporated, transfer to a saucepan. Taste to adjust salt and spiciness levels.
 * Stir in okra, put on the lid and cook on low heat until you start smelling the okra. Check that the okra is tender.
-* Serve with rice.
+* Serve with rice and yoghurt.
 
 **Inspired by:** [Indian Healthy Recipes](https://www.indianhealthyrecipes.com/bhindi-masala-recipe/)

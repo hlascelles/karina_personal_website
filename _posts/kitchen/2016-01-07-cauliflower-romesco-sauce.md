@@ -8,7 +8,7 @@ categories:
 
 **Ingredients:**
 
-* 3 red bell pepper
+* 3 red sweet pointed pepper
 * 50g almonds
 * 130g roasted buckwheat grain
 * 1 cauliflower
@@ -24,15 +24,15 @@ categories:
 **Methods:**
 
 * Preheat the oven to 200C.
-* Cut each bell pepper into 3 or 4 flat sides, depending on their shapes. Place them near the top of the oven, turn on the broiler and bake until the skins turn inedibly black.
+* Cut red peppers in half (or into 3 or 4 flat sides if using bell peppers). Place them near the top of the oven, turn on the broiler and bake until the skins turn black.
 * Toast the almonds in the oven on a separate tray.
 * Start boiling the buckwheat in cold water.
 * Cut the cauliflower into large florets. Then cut each floret in half to maximize the flat surface area.
 * Lightly cover the bottom of a large frying pan with olive oil and arrange the cauliflower cut side down. Fry on high heat until they turn golden brown on one side. Flip them, loosely cover with a lid (allowing steam to escape) and turn off the heat. Let them steam until tender.
-* Once the bell pepper skin looks inedibly black, remove the peppers from the oven, place them in a bowl and cover with a plate/lid to steam their skins off. 
+* Once the red pepper skin looks black, remove the peppers from the oven, place them in a bowl and cover with a plate/lid to steam their skins off. 
 * In a bowl place roughly chopped red onion, almonds, garlic, olive oil, vinegar, chilli/paprika powder and salt.
-* Remove most of the skins from the bell peppers. It should be super easy, apart from the fact that they are a bit too warm to touch.
-* Add about 200g of roasted bell peppers into the bowl with other sauce ingredients. Handblender everything into a sauce.
+* Remove most of the skins from the red peppers. It should be super easy, apart from the fact that they are a bit too warm to touch.
+* Add about 200g of roasted red peppers into the bowl with other sauce ingredients. Handblender everything into a sauce.
 * Serve the sauce topped with cauliflower, and buckwheat on the side.
 
 **Inspired by:** [Helen Rennie](https://youtu.be/vEqjGsGWXwk)

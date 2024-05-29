@@ -8,6 +8,15 @@ categories:
 
 **Ingredients:**
 
+* 20g butter
+* red onion
+* red wine vinegar
+* mozzarella
+<nbsp></nbsp>
+* avocados
+* limes
+* 1 teaspoon ground white pepper
+<nbsp></nbsp>
 * 70g polenta
 * 65g flour
 * 1/2 teaspoon salt
@@ -15,17 +24,10 @@ categories:
 * 1/4 teaspoon baking soda
 * 1 teaspoon sugar
 <nbsp></nbsp>
-* 20g butter
-* 1 egg
 * 160g buttermilk/kefir
+* 1 egg
 * 70g corn kernels (fresh or frozen)
 <nbsp></nbsp>
-* onions
-* red wine vinegar
-* mozzarella
-* avocados
-* limes
-* 1 teaspoon ground white pepper
 * tomatoes
 * mint
 * olive oil
@@ -33,7 +35,7 @@ categories:
 **Methods:**
 
 * Melt the butter and let it cool down a bit.
-* Finely slice the onions and put them into a bowl with red wine vinegar to macerate.
+* Finely slice the onion and put them into a bowl with red wine vinegar to macerate.
 * Shred the mozzarella.
 * Make the guacamole: smash the avocadoes, add freshly squeezed lime juice and white pepper powder.
 * Mix all the dry ingredients for the pancakes (polenta, flour, salt, baking powder, baking soda and sugar).

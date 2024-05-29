@@ -13,16 +13,16 @@ categories:
 * watercress
 <nbsp></nbsp>
 * 1 lemon
-* olive oil
-* Dijon mustard
-* salt
+* 30g olive oil
+* 0.5 tablespoon Dijon mustard
+* 0.25 teaspoon salt
 
 **Methods:**
 * First assess your courgets, as they stay raw in this recipe. Cut one of them into thin ribbons using a vegetable peeler. If it tastes bitter, cook something else. 
 * Toast pistachios in a small clean frying pan.
 * Cut the courgettes into thin ribbons using a vegetable peeler.
 * Zest a lemon.
-* In a small glass jar combine lemon zest, freshly squeezed lemon juice, olive oil, Dijon mustard and salt. Close and shake it vigorously into a dressing. 
+* In a small glass jar combine lemon zest, 30g of lemon juice, olive oil, Dijon mustard and salt. Close and shake it vigorously into a dressing. 
 * Mix courgettes with pistachios, watercress leaves and the dressing.
 
 **Inspired by:** [Coal Office](https://coaloffice.com/) restaurant in London, UK.

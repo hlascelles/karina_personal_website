@@ -21,7 +21,7 @@ categories:
 * 30g corn starch
 * 1 teaspoon salt
 * 125g sour cream
-* 1 lemon
+* 1 lemon (40g of juice and zest)
 * 1 teaspoon vanilla extract
 * 7 eggs (5 whole and 2 yolks)
 <nbsp></nbsp>
@@ -47,7 +47,7 @@ categories:
 * Once the crust is ready, take it out of the oven. Keep the oven at 160C.
 * Chop the plums into halves and remove the stones. Arrange the plum halves in a lasagna tray, add whole spices.
 * Place cream cheese, goat cheese, 240g sugar, corn starch and 1 teaspoon salt into a large bowl. Mix with a mixer until very very well combined.
-* Add sour cream, lemon juice (about 40g), lemon zest and vanilla. Mix with a mixer until well combined.
+* Add sour cream, 40g of lemon juice, lemon zest and vanilla. Mix with a mixer until well combined.
 * Add yolks, one at a time, mixing in each one very well with a mixer.
 * Add egg whites, a bit at a time, mixing in each bit with a mixer until just combined. If overmixed, egg whites will make the cheesecake rise fast once placed in the hot oven and then it will deflate and crack. 
 * Pour the mixture into the now fully cooled crust. 

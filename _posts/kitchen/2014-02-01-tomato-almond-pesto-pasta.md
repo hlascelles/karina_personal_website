@@ -20,7 +20,6 @@ categories:
 
 * Start boiling the pasta in a pot of salty water.
 * Roughly chop the almonds, garlic and sundried tomatoes. Add olive oil. Hand blender the pesto.
-* Once the pasta is ready, drain it over a mug (to reserve some pasta water) and mix it with the pesto.
-* Add a bit of pasta water if needed to reach a pesto-like consistency.
+* Once the pasta is ready, place a mug in the sink before draining the pasta (to reserve some pasta water, in case it will be needed to reach a pesto-like consistency) and mix it with the pesto.
 
 **Inspired by:** Pesto alla Trapanese in Italy.

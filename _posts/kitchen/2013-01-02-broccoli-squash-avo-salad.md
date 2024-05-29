@@ -26,7 +26,7 @@ categories:
 
 * Preheat the oven to 200C.
 * Peel the butternut squash, chop it into small cubes, coat them in olive oil. Bake until tender and starting to char on the corners.
-* Meanwhile, in a bowl place an avocado, roughly chopped garlic clove, zest of 1 lemon, juice of half a lemon (about 30g), olive oil (30g), salt and black pepper. Handblender everything into a dressing.
+* Meanwhile, in a bowl place an avocado, roughly chopped garlic clove, zest of 1 lemon, 30g of lemon juice, 30g of olive oil, salt and black pepper. Handblender everything into a dressing.
 * Toast almond flakes in a small pan.
 * Thinly slice red chillies and place them into a small bowl.
 * Chop broccoli into bite size pieces. Steam them until tender.

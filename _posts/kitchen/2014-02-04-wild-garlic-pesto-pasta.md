@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * 50g pine nuts
 * 130g wild garlic leaves
-* 60g Parmesan-style cheese
+* 60g Parmesan cheese
 * 60g olive oil
 * 1 lemon
 <nbsp></nbsp>
@@ -24,6 +24,6 @@ categories:
 * Start boiling the pasta in a pot of salty water.
 * Toast pine nuts in a small clean frying pan.
 * Roughly chop the wild garlic leaves. Grate the Parmesan. Zest the lemon.
-* In a bowl, combine wild garlic leaves, Parmesan, lemon zest, olive oil and toasted pine nuts. Add a splash of lemon juice. Hand blender the pesto. Taste to adjust acidity with more lemon juice.
-* Once the pasta is ready, drain it over a mug (to reserve some pasta water) and mix it with the pesto. Add a bit of pasta water if needed to reach a pesto-like consistency.
+* In a bowl, combine wild garlic leaves, Parmesan, lemon zest, olive oil and toasted pine nuts. Add 10g of lemon juice. Hand blender the pesto. Taste and adjust acidity (lemon juice).
+* Once the pasta is ready, place a mug in the sink before draining the pasta (to reserve some pasta water, in case it will be needed to reach a pesto-like consistency) and mix it with the pesto.
 * Serve topped with a chunk of mozzarella or a ball of burrata.

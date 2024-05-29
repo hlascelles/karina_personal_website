@@ -33,13 +33,13 @@ categories:
 **Methods:**
 
 * Start boiling the rice.
+* Open a can of tomatoes. If they are not already finely chopped, handblender them. 
 * Very roughly chop onions, garlic and ginger. No need to peel the ginger.
-* Place them into a bowl and add all the dry spices (garam masala, chilli, black pepper, salt, cumin, turmeric, cinnamon and cloves). Hand blender this into paste.
-* In a heavy bottom pot, heat a bit of coconut oil. Add the curry paste and fry for a couple of minutes, until it smells really good. 
-* Meanwhile, quickly handblender the contents of the tomato can, if it is not already in the pulp format.
-* Add tomato paste to the pot and stir for 1min. Add the contents of the tomato can. Refill the can with water and add it in. Add in jaggery. Cook for about 20min.
+* Place them into a bowl and add all the dry spices (garam masala, chilli, black pepper, salt, cumin, turmeric, cinnamon and cloves). Hand blender everything into a paste.
+* In a heavy bottom pot, heat a bit of coconut oil. Add the curry paste and fry for a couple of minutes, stirring constantly, until it smells really good. Add tomato paste and cook for another minute, stirring constantly.
+* Add the tomato can. Refill the can with water and add it in. Add in jaggery. Cook for about 20min.
 * Meanwhile, heat a non-stick pan with coconut oil. Cube the paneer and fry it until golden on most sides.
-* Taste the curry - make sure there is no hint of raw onions or raw tomatoes. Adjust salt, acidity, spice and sweetness levels by adding salt, some acidity, chilli powder and jaggery respectively.
+* Taste the curry and adjust for salt, spice (chilli powder) and sweetness (jaggery).
 * Once it tastes good, add paneer and frozen peas and wait for the temperature to come back up.
 * Add cream and wait for the temperature to come back up.
 * Serve with rice.

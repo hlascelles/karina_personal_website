@@ -50,7 +50,7 @@ Battersea Park, etc.
 * Casa Fofó - sourdough-themed tasting menu focussed on being seasonal and local.
 * Berber & Q Grill House - Middle Eastern food.
 * Little Duck The Picklery - modern European.
-* Andu Ethiopian - vegan restaurant. Loads of vegan options.
+* Andu Ethiopian - vegan.
 * MAP Maison - cocktails are not memorable, but their whiskey collection is impressive and they do tastings.
 
 **Pastries:** The Dusty Knuckle Bakery.
@@ -151,8 +151,7 @@ Battersea Park, etc.
 * [Victoria and Albert Museum](https://www.vam.ac.uk/whatson) and their [Lates](https://www.vam.ac.uk/info/friday-late).
 * [Saatchi Gallery](https://www.saatchigallery.com/whats-on) - free and not free temporary exhibitions, often good ones.
 * [the Design Museum](https://designmuseum.org/exhibitions) - not free temporary exhibitions, often good ones.
-* [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) - two building on either side of the Serpentine Bridge.
-* Hyde park.
+* Hyde park. [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) - two building on either side of the Serpentine Bridge.
 * Some architectural gems: 15 Gloucester Road, St Columba's Church Of Scotland.
 * [Roca London Gallery](http://www.rocalondongallery.com/activities-exhibitions) - archetecturally interesting place, great to visit when there is a free exhibition.
 
@@ -170,7 +169,7 @@ Battersea Park, etc.
 * Keystone Crescent (51.531825, -0.120135) - a charming bit of old London. 
 * [Wellcome Collection](https://wellcomecollection.org/whats-on)
 * [Canopy market](https://www.realfoodfestival.sites.k-hosting.co.uk/our_work/canopy-market/) (Fri-Sun) and [Real Food Market](https://www.realfoodfestival.sites.k-hosting.co.uk/our_work/real-food-market/) (Tue-Fri). Pastries and sourdough from [Little Bread Pedlar](https://www.lbpedlar.com/) are great.
-* Mestizo - awesome Mexican grocery shop near King's Cross. Their restaurant next door has an authentic menu (in writing), but the food lacks flavour and quality.
+* Mestizo - Mexican grocery shop near King's Cross. Their restaurant next door has an authentic menu (in writing), but the food lacks flavour and quality.
 * [The Rooftop at The Standard](https://www.standardhotels.com/london/features/the-rooftop-bar-standard-london) - overpriced drinks are totally worth it on a warm sunny evening, as this bar has a unique view of the beautiful St Pancras Station.
 * [Crypt Gallery](http://cryptgallery.org/) - an atmospheric gallery worth visiting, no matter what the exhibition is.
 
@@ -280,7 +279,6 @@ Battersea Park, etc.
 
 **Food and drink:**
 * Kricket Soho - modern Indian.
-* Gauthier - French tasting menu with steak, meat stews, cheesy pasta, etc. 100% vegan. Their 3D printed plant-protein steak is disturbingly animal-like.
 * Akoko - West African. Tasting menu with a vegan option.
 * NOPI - by Ottolenghi.
 * Tendril - a naughty vegan restaurant (with a bit of cheese). Both tasting menu and à la carte.

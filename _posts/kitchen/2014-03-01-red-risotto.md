@@ -12,14 +12,15 @@ categories:
 * 1 courgette (about 250g)
 * cherry tomatoes (about 450g)
 * olive oil
-* salt
+* 0.25 teaspoon salt
 * black pepper
 <nbsp></nbsp>
 * 1 large red onion
 * 2 garlic cloves
 * 5 sundried tomatoes in oil (about 50g)
-* fresh rosemary and/or thyme (4 sprigs total)
+* 4 sprigs of fresh rosemary and/or thyme
 * 6 teaspoons tomato paste
+* 0.5 teaspoon salt
 * 225g risotto rice
 * 125g red wine
 * 20g butter
@@ -33,7 +34,7 @@ categories:
 * Heat some olive oil in a heavy bottom pot. Add chopped onions. Reduce the heat and cook until soft and translucent, about 12min.
 * Finely chop sundried tomatoes and fresh herbs. 
 * Use the garlic press to add garlic directly into the pot. Stir.
-* Once you can smell the garlic, add sundried tomatoes and fresh herbs to the top together with tomato paste and some salt. Cook for another 5min.
+* Once you can smell the garlic, add sundried tomatoes and fresh herbs to the pot together with tomato paste and 0.5 teaspoon salt. Cook for another 5min.
 * Meanwhile boil the kettle.
 * Add the rice to the pot and stir it around for 1min.
 * Increase the heat. Pour in the wine and let the rice absorb it. 

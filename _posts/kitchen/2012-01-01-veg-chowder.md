@@ -31,6 +31,6 @@ categories:
 * After 5 minutes add the cauliflower and courgette.
 * Finely slice some red chillies and add them in.
 * Once potatoes are tender, spoon 25% of the soup into a bowl, seeking out potatoes and chillies, and avoiding courgettes.
-* Handblender the contents of the bowl and reunite it with the rest of the soup. 
+* Handblender the contents of the bowl and reunite it with the rest of the soup. Add 20g of lemon juice.
 * Taste and adjust the salt and acidity (lemon juice) levels.
 * Serve topped with black pepper.
