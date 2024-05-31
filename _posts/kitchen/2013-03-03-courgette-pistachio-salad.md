@@ -14,7 +14,7 @@ categories:
 <nbsp></nbsp>
 * 1 lemon
 * 30g olive oil
-* 0.5 tablespoon Dijon mustard
+* 10g Dijon mustard (about 1.5 teaspoons)
 * 0.25 teaspoon salt
 
 **Methods:**

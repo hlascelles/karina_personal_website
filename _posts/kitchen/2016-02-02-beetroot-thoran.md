@@ -9,7 +9,7 @@ categories:
 **Ingredients:**
 
 * coconut oil
-* 1 teaspoon mustard seeds
+* 1 teaspoon black mustard seeds
 * 30g white urad dal (split)
 * 1 red onion
 * 2 green chillies

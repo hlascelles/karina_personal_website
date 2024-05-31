@@ -16,7 +16,7 @@ categories:
 * 170g Gruyère cheese (or Emmental)
 * 400g cherry tomatoes
 * salt
-* black pepper
+* 10 twists of black pepper
 <nbsp></nbsp>
 * green beans
 
@@ -26,7 +26,7 @@ categories:
 * For the tart you'll need about 350g of room temperature caramelised onions - measure out this amount and cool them (for example by spreading on a cold plate).
 * Preheat the oven to 200C.
 * Grate the cheese. 
-* Half enough cherry tomatoes to cover the whole area of your tart pan (mine is about 25cm in diameter). Mix them in a bowl with olive oil, salt and cracked black pepper.
+* Half enough cherry tomatoes to cover the whole area of your tart pan (mine is about 25cm in diameter). Mix them in a bowl with olive oil, salt and black pepper.
 * Cover the tart pan with the sheet of puff pastry. Trim the overhangs. 
 * Cover the bottom of the tart with the onions, then cheese, then cut-side up tomatoes.
 * Bake for about 30min until the pastry sides look golden, the cheese is melted and the tomatoes look roasted. I usually turn on the broiler after the first 20min.

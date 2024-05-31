@@ -15,12 +15,12 @@ categories:
 <nbsp></nbsp>
 * 60g walnuts
 * 10g red onion
-* 10g Dijon mustard
+* 10g Dijon mustard (about 1.5 teaspoons)
 * 20g red wine vinegar
 * 20g olive oil
 * 30g water
 * 0.25 teaspoon salt
-* 0.25 teaspoon black pepper
+* 20 twists of black pepper
 
 **Methods:**
 

@@ -25,7 +25,7 @@ categories:
 * some green chillies<br/>
 **or make it red:**
 * 60g red bell pepper 
-* 5g black pepper (about 2 teaspoons)
+* 60 twists of black pepper (about 2 teaspoons)
 * some red chillies
 * 20g thai basil (+5g for serving)
 <nbsp></nbsp>

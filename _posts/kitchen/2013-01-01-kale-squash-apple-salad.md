@@ -8,13 +8,13 @@ categories:
 
 **Ingredients:**
 
-* 1 butternut squash
+* 1 smallest butternut squash
 * olive oil
 <nbsp></nbsp>
-* 600g Lacinato kale, or any flat leaf variety
+* 200g Lacinato kale, or any flat leaf variety
 * 30g olive oil
 * 15g balsamic vinegar
-* 0.5 tablespoon Dijon mustard
+* 10g Dijon mustard (about 1.5 teaspoons)
 * 0.25 teaspoon salt
 <nbsp></nbsp>
 * 2 cooking apples (Bramley or similar)

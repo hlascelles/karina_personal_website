@@ -19,7 +19,7 @@ categories:
 * 1 teaspoon smoked paprika powder
 * 0.5 teaspoon Kashmiri chilli powder
 * 0.5 teaspoon salt
-* 3g black pepper (about 1 teaspoon)
+* 30 twists of black pepper (about 1 teaspoon)
 
 
 
@@ -27,7 +27,7 @@ categories:
 * Shred the carrots with a Julienne peeler.
 * Finely chop the onion. Peel the garlic.
 * Heat the oil in a small pan. When hot, add onions and cook them on high heat until they turn golden.
-* Meanwhile, prepare the spice mix - coriander, paprika, chilli, salt, sugar and freshly cracked black pepper.
+* Meanwhile, prepare the spice mix - coriander, paprika, chilli, salt, sugar and black pepper.
 * Once the onions start to turn golden, use the garlic press to add garlic directly into the pan.
 * Once you can smell the garlic, add the spice mix and stir. Take off the heat.
 * Pour the hot contents of the pan over carrots. Add the vinegar. Mix with a spoon. Once the carrots have cooled down the oil, use your hands to give them a very good massage. 

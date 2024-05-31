@@ -19,7 +19,7 @@ categories:
 <nbsp></nbsp>
 * yoghurt
 * garlic
-* black pepper
+* 10 twists of black pepper
 <nbsp></nbsp>
 * baby potatoes
 

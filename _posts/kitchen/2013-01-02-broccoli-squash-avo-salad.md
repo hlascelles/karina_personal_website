@@ -16,7 +16,7 @@ categories:
 * 1 lemon
 * 30g olive oil
 * 0.25 teaspoon salt
-* 1 teaspoon black pepper
+* 30 twists of black pepper (about 1 teaspoon)
 <nbsp></nbsp>
 * 30g almond flakes
 * 2 red chillies

@@ -12,7 +12,7 @@ categories:
 * olive oil
 * 4-8 shallots
 * 4 garlic cloves
-* black pepper
+* 10 twists of black pepper
 * 0.25 teaspoon salt
 * 3 teaspoons dark Muscovado sugar
 * 240g dry white wine

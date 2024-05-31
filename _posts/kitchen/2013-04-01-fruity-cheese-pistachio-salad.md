@@ -17,7 +17,7 @@ categories:
 <nbsp></nbsp>
 * 20g olive oil
 * 15g red wine vinegar
-* 0.5 tablespoon Dijon mustard
+* 10g Dijon mustard (about 1.5 teaspoons)
 
 **Methods:**
 

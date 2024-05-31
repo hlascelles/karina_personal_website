@@ -12,7 +12,7 @@ categories:
 * 0.25 teaspoon salt
 * 1 small onion
 * flour
-* black pepper
+* 10 twists of black pepper
 <nbsp></nbsp>
 * yoghurt
 * garlic

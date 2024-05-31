@@ -15,7 +15,7 @@ categories:
 * 50g hazelnuts
 * 50g cheddar cheese
 * salt
-* black pepper
+* 10 twists of black pepper
 
 
 **Methods:**
@@ -23,6 +23,6 @@ categories:
 * Toast the hazelnuts in 200C oven.
 * Finely slice red onion and runner beans.
 * Pre-heat the pan with some olive oil until very hot. Fry onions and runner beans, stirring frequently, until tender, for about 4 minutes. 
-* Toss with toasted hazelnuts, crumbled cheddar cheese, salt, pepper and more olive oil if needed.
+* Toss with toasted hazelnuts, crumbled cheddar cheese, salt, black pepper and more olive oil if needed.
 
 **Inspired by:** [BBC Good Food](https://www.bbcgoodfood.com/recipes/quick-fried-runner-beans-cheddar-hazelnuts)

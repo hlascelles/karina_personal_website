@@ -14,7 +14,7 @@ categories:
 <nbsp></nbsp>
 * olive oil
 * various mushrooms
-* black pepper
+* 20 twists of black pepper
 * mozzarella
 * 20g butter
 <nbsp></nbsp>
@@ -33,7 +33,7 @@ categories:
 
 * Preheat the oven to 180C.
 * Place tomatoes onto a baking tray - leave small ones whole and cut the bigger ones to match the size. Peel a whole garlic bulb and add whole cloves to the tomatoes. Add salt and olive oil, mix everything and arrange into a single layer. Bake in the oven until tomato skins just start to blacken.
-* Heat olive oil in a large frying pan. Chop mushrooms and fry until golden on all sides. Season with black pepper.
+* Heat olive oil in a large frying pan. Chop mushrooms and fry until golden on all sides. Add black pepper.
 * Shred the mozzarella. 
 * Melt the butter and let it cool down a bit.
 * Mix all the dry ingredients for the pancakes (polenta, flour, salt, baking powder, baking soda and sugar).

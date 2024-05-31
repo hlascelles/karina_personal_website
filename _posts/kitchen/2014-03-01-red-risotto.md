@@ -13,7 +13,7 @@ categories:
 * cherry tomatoes (about 450g)
 * olive oil
 * 0.25 teaspoon salt
-* black pepper
+* 20 twists of black pepper
 <nbsp></nbsp>
 * 1 large red onion
 * 2 garlic cloves

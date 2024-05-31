@@ -26,7 +26,7 @@ categories:
 * 160g coconut cream
 * 180g green lentils
 * 100g pearl barley
-* black pepper
+* 30 twists of black pepper (about 1 teaspoon)
 <nbsp></nbsp>
 * polenta
 
@@ -40,7 +40,7 @@ categories:
 * Bake for 40 minutes, stirring halfway through.
 * Meanwhile, soak the dried mushrooms in 1 litre of boiling water (we will use this water). Mix red wine and coconut cream.
 * Once the 40 minutes are almost up, pick out the now soaked mushrooms and chop them.
-* Remove the tray from the oven to add lentils, barley and soaked mushrooms. Pour over the red wine and coconut cream mixture. Add a very generous grind of black pepper. Mix everything.
+* Remove the tray from the oven to add lentils, barley and soaked mushrooms. Pour over the red wine and coconut cream mixture. Add black pepper. Mix everything.
 * Add dried mushroom soaking liquid. Add more water if there is space left in the tray.
 * Cover the tray tightly with aluminum foil, and return it to the oven.
 * Decrease the oven temperature to 180C. Bake for another 40 minutes. Check halfway through and add more water if needed.

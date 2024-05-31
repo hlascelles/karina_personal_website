@@ -16,7 +16,7 @@ categories:
 * 80g yoghurt
 * 1 lime
 * 0.25 teaspoon salt
-* black pepper
+* 10 twists of black pepper
 <nbsp></nbsp>
 * 40g red onion
 * 20g parsley

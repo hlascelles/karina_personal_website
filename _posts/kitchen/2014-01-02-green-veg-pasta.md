@@ -14,7 +14,7 @@ categories:
 * 1 garlic clove
 * 60g olive oil
 * 0.25 teaspoon salt
-* 2g black pepper (about 1 teaspoon)
+* 30 twists of black pepper (about 1 teaspoon)
 * 1 lemon
 <nbsp></nbsp>
 * 1 courgette
@@ -33,10 +33,12 @@ categories:
 * Put the frozen peas into a large bowl and drain the broad beans over this bowl. 
 * Start boiling the pasta in a pot of salty water.
 * Meanwhile, zest the lemon and grate some Parmesan. Chop the asparagus into bite-size pieces. 
-* Make the pesto: Drain the now defrosted peas. Roughly chop the spinach, mint and garlic, and add them to the peas. Add olive oil, salt, pepper and 20g of lemon juice.
+* Make the pesto: Drain the now defrosted peas. Roughly chop the spinach, mint and garlic, and add them to the peas. Add olive oil, salt, black pepper and 20g of lemon juice.
 * Hand blender the pesto. Taste to adjust acidity (lemon juice).
 * Once the pasta is ready, place a mug in the sink before draining the pasta (to reserve some pasta water, in case it will be needed to reach a pesto-like consistency) and mix it with the pesto.
 * Add courgettes, broad beans and asparagus, and mix again.
 * Serve topped with lemon zest and Parmesan.
 
-**Inspired by:** [Veggie Desserts](https://veggiedesserts.com/roasted-vegetable-sandwich/)
+**Note:** this is also a great way to use up a lot of asparagus or several courgettes, instead of using both vegetables.
+
+**Inspired by:** [Veggie Desserts](https://veggiedesserts.com/roasted-vegetable-sandwich/). 

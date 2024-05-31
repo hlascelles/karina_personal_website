@@ -15,7 +15,7 @@ categories:
 * 100g tahini
 * 20g nutritional yeast flakes
 * 30g garlic
-* 7g black pepper (about 3 teaspoons)
+* 90 twists of black pepper (about 3 teaspoon)
 <nbsp></nbsp>
 * olive oil
 * 1 red onion
