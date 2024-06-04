@@ -9,6 +9,7 @@ categories:
 **Ingredients:**
 
 * 400g rhubarb
+* 150g strawberries (optional)
 * 75g sugar
 * 9 teaspoons of port-style wine
 * 75g flour
