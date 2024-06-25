@@ -18,7 +18,7 @@ categories:
 * olive oil
 <nbsp></nbsp>
 * yoghurt
-* garlic
+* 10g garlic (about 2 cloves)
 * 10 twists of black pepper
 <nbsp></nbsp>
 * baby potatoes

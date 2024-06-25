@@ -10,7 +10,7 @@ categories:
 
 * 1 red onion
 * 1 green chilli
-* 2 garlic cloves
+* 10g garlic (about 2 cloves)
 * a small piece of ginger
 * 1 teaspoon cumin powder
 * 1 teaspoon coriander powder

@@ -12,7 +12,7 @@ categories:
 * olive oil
 <nbsp></nbsp>
 * 1 avocado
-* 1 garlic clove
+* 5g garlic (about 1 clove)
 * 1 lemon
 * 30g olive oil
 * 0.25 teaspoon salt

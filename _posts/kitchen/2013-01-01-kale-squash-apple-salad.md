@@ -25,7 +25,7 @@ categories:
 
 * Preheat the oven to 200C.
 * Peel the butternut squash, chop it into cubes, coat them in olive oil. Bake until tender and starting to char on the corners, about 40min.
-* Meanwhile, remove the stems from the kale. Wash and dry the kale. Chop it into bite size pieces.
+* Meanwhile, remove the stems from the kale. Wash and dry the kale, and chop it finely.
 * Make the dressing - place olive oil, vinegar, mustard and salt in a small glass jar. Close the lid and shake violently.
 * Mix the kale with the dressing by hand, massage it well.
 * Peel the apples, chop them into cubes.

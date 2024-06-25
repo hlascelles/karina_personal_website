@@ -9,7 +9,7 @@ categories:
 **Ingredients:**
 
 * 1 red onion
-* 3 garlic cloves
+* 15g garlic (about 3 cloves)
 * a small piece of ginger
 * 6 teaspoons garam masala
 * 1.5 teaspoon Kashmiri chilli powder
@@ -24,9 +24,9 @@ categories:
 * 3 teaspoons tomato paste
 * 400g can of tomatoes
 * 6 teaspoons jaggery (or any unrefined sugar)
-* 450g paneer
-* 300g frozen green peas
-* 150g cream
+* 650g paneer
+* 325g frozen green peas
+* 100g cream
 <nbsp></nbsp>
 * wholegrain rice
 
@@ -39,7 +39,7 @@ categories:
 * In a heavy bottom pot, heat a bit of coconut oil. Add the curry paste and fry for a couple of minutes, stirring constantly, until it smells really good. Add tomato paste and cook for another minute, stirring constantly.
 * Add the tomato can. Refill the can with water and add it in. Add in jaggery. Cook for about 20min.
 * Meanwhile, heat a non-stick pan with coconut oil. Cube the paneer and fry it until golden on most sides.
-* Taste the curry and adjust for salt, spice (chilli powder) and sweetness (jaggery).
+* Taste and adjust salt, spiciness (chilli powder) and sweetness (jaggery).
 * Once it tastes good, add paneer and frozen peas and wait for the temperature to come back up.
 * Add cream and wait for the temperature to come back up.
 * Serve with rice.

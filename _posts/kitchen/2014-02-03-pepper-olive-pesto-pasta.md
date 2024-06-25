@@ -8,7 +8,7 @@ categories:
 
 **Ingredients:**
 
-* 2 red sweet pointed pepper
+* 2 red Romano peppers
 * 300g pasta
 * salt
 <nbsp></nbsp>

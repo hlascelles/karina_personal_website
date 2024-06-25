@@ -14,7 +14,7 @@ categories:
 * 1 red onion
 * 2 green chillies
 * a sprig of curry leaves
-* 2 garlic cloves
+* 10g garlic (about 2 cloves)
 * 2 beetroots (about 300g)
 * 0.25 teaspoon turmeric powder
 * 0.25 teaspoon salt

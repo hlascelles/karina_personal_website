@@ -11,7 +11,7 @@ categories:
 * 300g carrots
 * 30g sunflower oil
 * 1 red onion (about 80g)
-* 20g garlic cloves
+* 20g garlic (about 4 cloves)
 * 6 teaspoons white vinegar
 <nbsp></nbsp>
 * 15g sugar (3 teaspoons)

@@ -10,8 +10,8 @@ categories:
 
 * 1kg tomatoes (cherry or other good ones)
 * olive oil
-* 4-8 shallots
-* 4 garlic cloves
+* 1 red onion
+* 20g garlic (about 4 cloves)
 * 10 twists of black pepper
 * 0.25 teaspoon salt
 * 3 teaspoons dark Muscovado sugar
@@ -26,8 +26,8 @@ categories:
 * Preheat the oven to 190C.
 * Place tomatoes onto a baking tray - leave small ones whole and cut the bigger ones to match the size. Coat them in olive oil and sprinkle with salt. Bake for 30min.
 * Clean up the kitchen for 15min.
-* Finely dice shallots and garlic. 
-* In a heavy bottom pot, heat a bit of olive oil. Saute shallots and garlic over medium heat until translucent, about 10min. Add black pepper, salt and sugar, and caramelise slightly. Deglaze with white wine.
+* Finely dice onion and garlic. 
+* In a heavy bottom pot, heat a bit of olive oil. Saute onion and garlic over medium heat until translucent, about 10min. Add black pepper, salt and sugar, and caramelise slightly. Deglaze with white wine.
 * Add the contents of the baking tray (tomatoes and all the juices) and bring to the boil. Let it simmer under a lid for 20min.
 * Meanwhile finely chop fresh herbs.
 * Handblender the soup until silky smooth.

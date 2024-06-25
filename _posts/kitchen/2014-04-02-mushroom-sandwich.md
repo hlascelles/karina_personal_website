@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * olive oil
 * various mushrooms
-* garlic
+* 20g garlic (about 4 cloves)
 * 20 twists of black pepper
 <nbsp></nbsp>
 * sourdough bread

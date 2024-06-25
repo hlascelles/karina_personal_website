@@ -15,7 +15,7 @@ categories:
 * 10 twists of black pepper
 <nbsp></nbsp>
 * yoghurt
-* garlic
+* 10g garlic (about 2 cloves)
 * fresh herbs (dill, parsley, mint)
 * feta
 
@@ -28,4 +28,4 @@ categories:
 * Heat olive oil in a large non-stick pan. 
 * Scatter the potato mixture over the pan and use a flipper to flatten it into one big pancake. Flip it once it looks lightly brown on the bottom.
 * While frying the pancake, put yoghurt into a small bowl. Very roughly chop garlic and herbs, add them to the youghurt and handblender it into a smooth sauce. Crumble in the feta. 
-* Serve the pancakes with yoghurt dip.
+* Serve the pancakes with the yoghurt dip.

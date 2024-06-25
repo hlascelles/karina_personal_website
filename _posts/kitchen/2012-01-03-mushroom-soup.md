@@ -17,7 +17,7 @@ categories:
 * 0.25 teaspoon salt + more for frying
 * black pepper
 * 500g various fresh mushrooms 
-* 5 garlic cloves
+* 20g garlic (about 4 cloves)
 * 200g cream 
 <nbsp></nbsp>
 * fresh herbs (thyme, parsley, tarragon)

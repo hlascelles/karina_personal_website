@@ -13,7 +13,7 @@ categories:
 * 20g mirin
 * 20g rice vinegar
 * 20g lime juice
-* 10g garlic cloves
+* 10g garlic (about 2 cloves)
 * 0.5 teaspoon Kashmiri chilli powder
 <nbsp></nbsp>
 * small flavourful cucumbers
@@ -21,7 +21,7 @@ categories:
 
 **Methods:**
 
-* In a bowl, mix tahini, soy sauce, mirin, rice vinegar and chilli powder. Squeeze in lime juice. Add garlic through a garlic press. Mix everything into a smooth sauce (it will look wrong at first, but just keep mixing).
+* In a bowl, mix tahini, soy sauce, mirin, rice vinegar and chilli powder. Squeeze in lime juice. Add garlic through the garlic press. Mix everything into a smooth sauce (it will look wrong at first, but just keep mixing).
 * Cut cucumbers into cubes.
 * Spread the sauce into individual small serving plates. Top each plate with cucumber and Nigella seeds.
 

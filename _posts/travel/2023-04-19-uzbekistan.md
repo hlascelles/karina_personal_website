@@ -65,7 +65,7 @@ To visit Khiva's architectural gems, you must buy a ticket (valid for two consec
 ### 3. [Karakalpakstan](https://en.wikipedia.org/wiki/Karakalpakstan)
 
 **3.1 A trip to the Aral sea is likely to include:**
-* Mizdakhan Necropolis. Don't miss the underground part of the Mazlumkhan Sulyu Mausoleum (42.402689, 59.388248), Mazar of Shamun Nabi (the tomb of the person who was so kind that by now everyone believes he was very tall; 42.401527, 59.388839), Khalifa Yerezhep Madrassah.
+* Mizdakhan Necropolis. Don't miss the underground part of the Mazlumkhan Sulyu Mausoleum (42.402689, 59.388248), Mazar of Shamun Nabi (another very long tomb, this time because the person was so kind that everyone believes he was very tall; 42.401527, 59.388839), Khalifa Yerezhep Madrassah.
 * Ship Graveyard in Muynak (43.788711, 59.034174). These ships used to be wild, but now they are all here, which makes it more convenient but less fun. The Museum of Aral Sea History tells the story of the ecological disaster that happened here. Formerly the fourth largest lake in the world, the Aral sea is disappearing because the rivers that used to feed into it were diverted for cotton irrigation. Locals told me that another reason for diverting the rivers was the fact that extracting gas deposits located underneath the Aral sea is much cheaper when it's dry. Do your own reading.
 * Viewpoint from the Ustyurt Plateau (44.085611, 58.36458).
 * Aral Canyon viewpoint (44.156379, 58.377036).

@@ -12,7 +12,7 @@ categories:
 * olive oil
 <nbsp></nbsp>
 * almond flakes
-* Parmesan-style cheese
+* Parmesan cheese
 * 1 lemon
 * Balsamic vinegar
 * Milled seeds (flaxseeds, sunflower, pumkin, hemp, chia, etc.)

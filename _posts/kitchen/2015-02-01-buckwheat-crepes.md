@@ -16,7 +16,7 @@ categories:
 * 330g milk
 <nbsp></nbsp>
 * asparagus
-* red sweet pointed pepper
+* red Romano pepper
 * red onion
 * creamy soft cheese (e.g. Saint-Félicien)
 * balsamic vinegar

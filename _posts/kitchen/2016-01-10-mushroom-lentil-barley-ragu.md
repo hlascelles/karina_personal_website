@@ -12,7 +12,7 @@ categories:
 * 300g onions (3 or 4)
 * 300g oyster mushrooms
 * 350g tomatoes (3 or 4)
-* 4 big garlic cloves
+* 30g garlic (about 6 cloves)
 <nbsp></nbsp>
 * 100g olive oil
 * 70g miso paste

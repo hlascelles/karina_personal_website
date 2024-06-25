@@ -27,7 +27,7 @@ categories:
 * 0.5 teaspoon coriander powder
 * 0.25 teaspoon salt
 * 20g herbs (parsley and mint)
-* 1 garlic clove (about 5g)
+* 15g garlic (about 1 clove)
 * 1 green chilli
 <nbsp></nbsp>
 * sunflower oil (or other neutral oil)

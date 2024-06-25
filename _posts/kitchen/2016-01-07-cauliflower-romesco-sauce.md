@@ -8,14 +8,14 @@ categories:
 
 **Ingredients:**
 
-* 3 red sweet pointed pepper
+* 3 red Romano peppers
 * 50g almonds
 * 130g roasted buckwheat grain
 * 1 cauliflower
 * olive oil
 <nbsp></nbsp>
 * 10g red onion
-* 1 garlic clove (about 10g)
+* 10g garlic (about 2 cloves)
 * 25g olive oil
 * 25g red wine vinegar
 * 1 teaspoon Chipotle chilli powder (or a mix of smoked paprika and Kashmiri chilli powder)

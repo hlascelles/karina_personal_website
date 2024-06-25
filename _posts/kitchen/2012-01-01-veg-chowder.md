@@ -10,7 +10,7 @@ categories:
 
 * olive oil
 * 1 onion
-* 3 cloves garlic
+* 20g garlic (about 4 cloves)
 * 230g brussels sprouts 
 * 400g can coconut cream
 * 6 teaspoons nutritional yeast flakes
@@ -32,5 +32,5 @@ categories:
 * Finely slice some red chillies and add them in.
 * Once potatoes are tender, spoon 25% of the soup into a bowl, seeking out potatoes and chillies, and avoiding courgettes.
 * Handblender the contents of the bowl and reunite it with the rest of the soup. Add 20g of lemon juice.
-* Taste and adjust the salt and acidity (lemon juice) levels.
+* Taste and adjust salt, acidity (lemon juice) and spiciness (chilli powder).
 * Serve topped with black pepper.

@@ -33,7 +33,7 @@ categories:
 
 * Preheat the oven to 200C.
 * Slice the squash, chop cauliflower into large florets, cut the onions into halves or quarters depending on their size.
-* In a shallow bowl mix olive oil, berbere spice and salt. Prepare baking sheets covered with baking paper.
+* Prepare baking sheets covered with baking paper. In a shallow bowl mix olive oil, berbere spice and salt. 
 * Coat all veggies in spiced oil and arrange them in a single layer on the baking sheets. Clean the oily bowl with chickpeas and add them to the baking sheet.
 * Bake in the oven until everything is tender and starting to turn dark brown, about 30min. 
 * Open the coconut can and separate the creamy bit from the watery bit - 120g of creamy stuff goes into a bowl, the remaining 280g goes into a large pot. 

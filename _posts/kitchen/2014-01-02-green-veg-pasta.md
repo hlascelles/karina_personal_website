@@ -11,7 +11,7 @@ categories:
 * 150g frozen peas
 * 50g fresh spinach
 * 4g mint leaves
-* 1 garlic clove
+* 5g garlic (about 1 clove)
 * 60g olive oil
 * 0.25 teaspoon salt
 * 30 twists of black pepper (about 1 teaspoon)
@@ -21,7 +21,7 @@ categories:
 * 160g frozen broad beans
 * asparagus
 * 200g pasta
-* Parmesan-style cheese
+* Parmesan cheese
 
 
 **Methods:**
@@ -34,7 +34,7 @@ categories:
 * Start boiling the pasta in a pot of salty water.
 * Meanwhile, zest the lemon and grate some Parmesan. Chop the asparagus into bite-size pieces. 
 * Make the pesto: Drain the now defrosted peas. Roughly chop the spinach, mint and garlic, and add them to the peas. Add olive oil, salt, black pepper and 20g of lemon juice.
-* Hand blender the pesto. Taste to adjust acidity (lemon juice).
+* Hand blender the pesto. Taste and adjust salt and acidity (lemon juice).
 * Once the pasta is ready, place a mug in the sink before draining the pasta (to reserve some pasta water, in case it will be needed to reach a pesto-like consistency) and mix it with the pesto.
 * Add courgettes, broad beans and asparagus, and mix again.
 * Serve topped with lemon zest and Parmesan.

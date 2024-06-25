@@ -63,7 +63,7 @@ widgets:
   image: graffiti-2023-8-berlin-min.jpg
   title: Berlin, Germany
 - url:
-  image: graffiti-2023-4-berlin-min.jpg
+  image: graffiti-2023-3-berlin-min.jpg
   title: Berlin, Germany
 
 - url:
@@ -80,7 +80,7 @@ widgets:
   image: graffiti-2023-5-berlin-min.jpg
   title: Berlin, Germany
 - url:
-  image: graffiti-2023-3-berlin-min.jpg
+  image: graffiti-2023-4-berlin-min.jpg
   title: Berlin, Germany
 - url:
   image: graffiti-2023-1-montevideo-min.jpg

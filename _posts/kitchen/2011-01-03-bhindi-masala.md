@@ -13,7 +13,7 @@ categories:
 * 1 teaspoon cumin seeds
 * 1-2 onions
 * a small piece of ginger
-* 2 garlic cloves
+* 10g garlic (about 2 cloves)
 * 2-4 tomatoes
 * 1/2 teaspoon salt
 * 1 teaspoon garam masala
@@ -38,7 +38,7 @@ categories:
 * Add finely chopped tomatoes and salt. Saute until tomatoes change colour and turn mushy. 
 * Add dry spices (garam masala, ground coriander, chilli powder, ground turmeric), mix them in well. Saute until it smells really good.
 * Add a splash of water to bring out the flavour of the spices. 
-* Once most of the water has evaporated, transfer to a saucepan. Taste to adjust salt and spiciness levels.
+* Once most of the water has evaporated, transfer to a saucepan. Taste and adjust salt and spiciness (chilli powder).
 * Stir in okra, put on the lid and cook on low heat until you start smelling the okra. Check that the okra is tender.
 * Serve with rice and yoghurt.
 

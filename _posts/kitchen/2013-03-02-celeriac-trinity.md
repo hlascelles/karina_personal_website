@@ -14,10 +14,8 @@ categories:
 * olive oil
 * 10 twists of black pepper
 * 0.25 teaspoon salt
-<nbsp></nbsp>
 * 1 lemon
-* sugar
 
 **Methods:**
-* Grate about equal amounts of celeriac root, carrot and apple. Place them in a bowl, add olive oil, black pepper and salt. Mix everything together by hand, massage it well.
+* Grate about equal amounts of celeriac root, carrot and apple. Place them in a bowl, add olive oil, juice of half a lemon, black pepper and salt. Mix everything together by hand, massage it well.
 * Taste and adjust salt, acidity (lemon juice) and sweetness (sugar).

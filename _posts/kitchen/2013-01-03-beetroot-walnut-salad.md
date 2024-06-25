@@ -22,7 +22,7 @@ categories:
 **Methods:**
 
 * Preheat the oven to 200C.
-* Chop the beatroots into bite-size cubes, coat them in olive oil. Bake until tender and starting to char on the corners, about 40min.
+* Chop the beatroots into bite-size cubes, coat them in olive oil. Bake until tender and starting to char on the corners, about 30min.
 * Place the walnuts on a separate tray and toast them in the oven until they start to turn golden, about 10min.
 * Meanwhile, remove segments from the grapefruits and break them up into bite size pieces. Place the grapefruit pieces into a large bowl and the resulting grapefruit juice into a small glass jar.
 * Make the dressing - add the olive oil, mustard and salt into the glass jar with the juice. Close the lid and shake violently. If your grapefruits didn't release any juice, use some vinegar instead.

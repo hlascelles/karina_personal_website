@@ -10,7 +10,7 @@ categories:
 
 * 400g corn kernels (frozen or fresh)
 * olive oil
-* 2 garlic cloves
+* 10g garlic (about 2 cloves)
 * 0.25 teaspoon Kashmiri chilli powder
 <nbsp></nbsp>
 * 80g yoghurt

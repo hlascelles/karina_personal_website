@@ -11,10 +11,10 @@ categories:
 * olive oil
 * butter
 * 400g various mushrooms
-* 4 garlic cloves
+* 20g garlic (about 4 cloves)
 * 20 twists of black pepper
 * 125g Mascarpone cheese
-* 75g Parmesan-style cheese
+* 75g Parmesan cheese
 * 1 lemon (zest only)
 * small bunch of parsley
 <nbsp></nbsp>

@@ -14,12 +14,12 @@ categories:
 * 120g lemon juice (about 3 lemons)
 * 100g tahini
 * 20g nutritional yeast flakes
-* 30g garlic
+* 30g garlic (about 6 cloves)
 * 90 twists of black pepper (about 3 teaspoon)
 <nbsp></nbsp>
 * olive oil
 * 1 red onion
-* 1 red sweet pointed pepper
+* 1 red Romano pepper
 * 8 halfs of sun dried tomatoes in oil
 * 3 teaspoons of capers
 * 200g of goat feta

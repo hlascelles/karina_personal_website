@@ -16,7 +16,7 @@ categories:
 * 20 twists of black pepper
 <nbsp></nbsp>
 * 1 large red onion
-* 2 garlic cloves
+* 15g garlic (about 3 cloves)
 * 5 sundried tomatoes in oil (about 50g)
 * 4 sprigs of fresh rosemary and/or thyme
 * 6 teaspoons tomato paste
@@ -24,7 +24,7 @@ categories:
 * 225g risotto rice
 * 125g red wine
 * 20g butter
-* Parmesan-style cheese
+* Parmesan cheese
 * pine nuts
 
 **Methods:**
@@ -40,7 +40,7 @@ categories:
 * Increase the heat. Pour in the wine and let the rice absorb it. 
 * Keep adding warm water from the kettle, about 120ml at a time, until the rice is almost ready.
 * Meanwhile toast pine nuts in a small clean frying pan. Grate some Parmesan.
-* Take the veggies out of the oven (if the timing worked out, they had about 40min in the oven) and add them into the pot with all of their juices. Stir to combine. Check salt levels.
+* Take the veggies out of the oven (if the timing worked out, they had about 40min in the oven) and add them into the pot with all of their juices. Stir to combine. Taste and adjust salt.
 * Once the rice is ready (add more water if needed), take the pot off the heat. Cut the butter into cubes and stir it in. 
 * Serve topped with black pepper, Parmesan and pine nuts.
 

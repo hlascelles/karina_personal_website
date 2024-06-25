@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * 140g sundried tomatoes (jarred in oil)
 * 100g almonds
-* 20g garlic cloves
+* 20g garlic (about 4 cloves)
 * 60g olive oil
 
 **Methods:**

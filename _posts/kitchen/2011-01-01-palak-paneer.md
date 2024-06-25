@@ -11,7 +11,7 @@ categories:
 * wholegrain rice
 <nbsp></nbsp>
 * 1 red onion (about 80g)
-* 3 garlic cloves (about 10g)
+* 15g garlic (about 3 cloves)
 * a piece of ginger (about 20g)
 * green chillies
 * 2 teaspoon garam masala
@@ -36,5 +36,5 @@ categories:
 * Prepare a pot of salted boiling water and a bowl of ice water. Blanch the spinach in boiling water and immediately transfer it into the ice water (to preserve its vibrant colour).
 * Heat a non-stick pan with coconut oil. Cube the paneer and fry it until golden on most sides.
 * Meanwhile, drain and handblender the spinach. Add it to the pot and wait for the temperature to come back up.
-* Add cream and wait for the temperature to come back up. Taste and adjust for salt and spice levels.
+* Add cream and wait for the temperature to come back up. Taste and adjust salt and spiciness (chilli powder).
 * Mix in the paneer cubes. Serve with rice.
