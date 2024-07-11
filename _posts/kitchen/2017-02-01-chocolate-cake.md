@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * 6 eggs
 <nbsp></nbsp>
-* 60g buttermilk / kefir
+* 60g kefir (buttermilk)
 * 185g  sugar
 * 4 teaspoons cornstarch (about 10g)
 * 0.75 teaspoons salt 
@@ -27,7 +27,7 @@ categories:
 * Preheat the oven to 130C. Grease a 23cm loose-bottomed round cake tin with butter.
 * In a saucepan over medium heat, add butter cut into chunks and chocolate broken into squares. Stir frequently until fully melted, and remove from heat.
 * Separate egg whites from egg yolks into two large bowls.
-* Into the yolks, add buttermilk, sugar, cornstarch, salt, vanilla, coffee and melted chocolate. Mix well.
+* Into the yolks, add kefir, sugar, cornstarch, salt, vanilla, coffee and melted chocolate. Mix well.
 * Whip egg whites to soft peaks.
 * Fold whipped egg whites into the cake mix. 
 * Transfer into the greased cake tin and bake for about 40min at 130C. When you take it out of the oven, it should still be slightly jiggly in the center.
@@ -37,3 +37,5 @@ categories:
 **Notes:** I keep small slices of this cake in my freezer; eating them straight out of the freezer (with hazelnuts) instantly satisfies chocolate, cake and ice cream cravings.
 
 **Inspired by:** [Brian Lagerstrom](https://youtu.be/5bp2XJn5AQs)
+
+This recipe superseded my previous favourite - [aubergine chocolate cake](/kitchen/aubergine-chocolate-cake/). The main difference is that aubergines and almond flour are replaced with kefir. 

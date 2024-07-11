@@ -16,7 +16,7 @@ categories:
 * 3 eggs
 * 200g sugar
 <nbsp></nbsp>
-* 150g ground almonds
+* 150g almond flour
 * 60-90g cacao powder
 * 0.75 teaspoons salt 
 

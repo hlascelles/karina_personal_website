@@ -12,7 +12,7 @@ categories:
 * 270g pasta
 * salt
 <nbsp></nbsp>
-* 70g parsley
+* 70g parsley (with all the stems)
 * 30g red onion
 * 30g olive oil
 * 30g lemon juice

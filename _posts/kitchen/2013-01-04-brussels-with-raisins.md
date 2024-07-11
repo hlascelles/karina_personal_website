@@ -14,7 +14,7 @@ categories:
 * 20g golden raisins
 * distilled vinegar (or the cheapest one you've got)
 * 20g red onion
-* 20g parsley
+* 20g parsley (with all the stems)
 * 20g balsamic vinegar
 
 **Methods:**

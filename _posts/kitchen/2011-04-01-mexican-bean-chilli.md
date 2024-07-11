@@ -45,3 +45,7 @@ categories:
 * Serve with rice and zingy avocado, sprinkled with parsley.
 
 **Inspired by:** [Brian Lagerstrom](https://youtu.be/wtS8PTaedzA)
+
+**Notes:** The zingy avocado fulfils the creaminess and acidity roles that would otherwise be filled with Mexican crema and cheese. 
+
+**Notes:** The recipe requires a mix of several fresh, dried and powdered chillies. For less ingredients, try only fresh peppers and a jar of chipotle in adobo.

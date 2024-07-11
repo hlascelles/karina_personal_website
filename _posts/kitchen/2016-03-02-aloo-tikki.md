@@ -27,13 +27,13 @@ categories:
 * 0.5 teaspoon coriander powder
 * 0.25 teaspoon salt
 * 20g herbs (parsley and mint)
-* 15g garlic (about 1 clove)
+* 5g garlic (about 1 clove)
 * 1 green chilli
 <nbsp></nbsp>
 * sunflower oil (or other neutral oil)
 * 100g cooked chickpeas
-* 0.5 tablespoon garam masala
-* 0.5 tablespoon green mango powder (or lime powder)
+* 1 teaspoon garam masala
+* 1 teaspoon green mango powder (or lime powder)
 
 **Methods:**
 * Start boiling the potatoes.

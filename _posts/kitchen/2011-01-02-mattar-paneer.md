@@ -8,9 +8,9 @@ categories:
 
 **Ingredients:**
 
-* 1 red onion
-* 15g garlic (about 3 cloves)
-* a small piece of ginger
+* 60g red onion
+* 20g ginger
+* 20g garlic (about 4 cloves)
 * 6 teaspoons garam masala
 * 1.5 teaspoon Kashmiri chilli powder
 * 30 twists of black pepper (about 1 teaspoon)

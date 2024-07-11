@@ -10,7 +10,7 @@ categories:
 
 * 3 courgettes (about 600g)
 * 1 small onion
-* 70g fresh herbs (parsley, dill, mint)
+* 70g fresh herbs (parsley and dill with all the stems, mint)
 * flour
 * 2 teaspoons coriander powder
 * 1 teaspoon Kashmiri chilli powder

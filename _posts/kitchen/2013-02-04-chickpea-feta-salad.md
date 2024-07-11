@@ -12,7 +12,7 @@ categories:
 * Cucumbers or cherry tomatoes (or both)
 * Feta
 * Olive oil
-* Zaatar spice
+* Zaatar spice mix
 
 **Methods:**
 

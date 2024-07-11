@@ -13,6 +13,7 @@ categories:
 * 1 butternut squash
 * Rose harissa
 * Olive oil
+* Zaatar spice mix
 <nbsp></nbsp>
 * 200g Lacinato kale, or any flat leaf variety
 * 30g olive oil
@@ -28,6 +29,7 @@ categories:
 * Meanwhile, remove the stems from the kale. Wash and dry the kale, and chop it finely.
 * Make the dressing - place olive oil, vinegar, mustard and salt in a small glass jar. Close the lid and shake violently.
 * Mix the kale with the dressing by hand, massage it well.
+* Mix the cooked farro with a bit of olive oil and zaatar.
 * Serve Buddha bowl style - farro, spicy oven baked butternut squash (or other starchy vegetable), dressed kale and mozzarella.
 
 **Notes:** Farro is the grains of hulled wheat, that is a type of wheat that cannot be threshed. Three most popular species are emmer (Triticum dicoccum), einkorn (Triticum monococcum) and spelt (Triticum spelta).

@@ -8,23 +8,23 @@ categories:
 
 **Ingredients:**
 
-* wholegrain rice
-<nbsp></nbsp>
-* 1 red onion (about 80g)
-* 15g garlic (about 3 cloves)
-* a piece of ginger (about 20g)
-* green chillies
+* 60g red onion
+* 20g ginger
+* 20g garlic (about 4 cloves)
+* some green chillies (depending how spicy they are)
 * 2 teaspoon garam masala
 * 1 teaspoon cumin powder
 * 0.5 teaspoon salt
 * 0.25 teaspoon Kashmiri chilli powder
 * 0.25 teaspoon turmeric powder
 <nbsp></nbsp>
-* 1 tomato (about 300g)
 * coconut oil
+* 200g tomatoes
 * 450g paneer
 * 750g spinach
 * 50g double cream
+<nbsp></nbsp>
+* wholegrain rice
 
 **Methods:**
 

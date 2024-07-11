@@ -16,7 +16,7 @@ categories:
 <nbsp></nbsp>
 * yoghurt
 * 10g garlic (about 2 cloves)
-* fresh herbs (dill, parsley, mint)
+* fresh herbs (parsley and dill with all the stems, mint)
 * feta
 
 **Methods:**
