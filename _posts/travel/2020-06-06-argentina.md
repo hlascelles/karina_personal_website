@@ -107,7 +107,7 @@ While hiking from El Chaltén allows you to see glaciers from afar, at this nati
 * Check events at La Rural - they usually have a lot of cool stuff going on.
 
 **3.2 Palermo Hollywood**  
-* Alchemy - the best ice cream shop ever! The menu looks like a bar menu (rum, Baileys, Cynar, Pina colada, etc.) mixed with other surprise flavours (beetroot, avocado, blue cheese, etc.).
+* Alchemy is in my top two best ice cream places in the world (the other one is Piet Artisans of Flavour in The Hague). The menu looks like a bar menu (rum, Baileys, Cynar, Pina colada, etc.) mixed with other surprise flavours (beetroot, avocado, blue cheese, etc.).
 * Cang Tin - great vietnamese restaurant with great vegetarian options.
 * Crizia Restaurante - seafood restaurant with an aspiration to maybe develop a vegetarian tasting menu too. For now they have at least one good vegetarian starter+main combo, and the seafood tasting menu is available only if you have no vegetarians in the group.
 * Mumbai Indian Food is ok.

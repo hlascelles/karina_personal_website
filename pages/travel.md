@@ -120,9 +120,9 @@ widgets:
 - url:
   image: country-morocco.jpg
   title: 35. Morocco
-- url:
+- url: /travel/netherlands/
   image: country-netherlands.jpg
-  title: 36. Netherlands
+  title: <a href="/travel/netherlands/" target="_self">36. Netherlands</a>
 - url:
   image: country-north_macedonia.jpg
   title: 37. North Macedonia
