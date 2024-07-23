@@ -4,42 +4,43 @@ title: Recipes for those who don't like to cook
 permalink: "/kitchen/"
 header: no
 widgets:
-- url: /kitchen/curry/
-  image: food-curry.jpg
-  title: <a href="/kitchen/curry/" target="_self">Heartwarming stuff&colon;<br> curries</a>
-- url: /kitchen/liquid/
-  image: food-liquid.jpg
-  title: <a href="/kitchen/liquid/" target="_self">Liquid stuff&colon;<br> smoothies, soups</a>
+
 - url: /kitchen/salads/
   image: food-salads.jpg
-  title: <a href="/kitchen/salads/" target="_self">Mix of stuff&colon;<br> warm and cold salads</a>
-
-- url: /kitchen/carbs/
-  image: food-carbs.jpg
-  title: <a href="/kitchen/carbs/" target="_self">Carby stuff&colon;<br> pasta, risotto, bread</a>
-- url: /kitchen/fried/
-  image: food-fried.jpg
-  title: <a href="/kitchen/fried/" target="_self">Fried stuff&colon;<br> pancakes, fritters</a>
+  title: <a href="/kitchen/salads/" target="_self">Light bites&colon;<br>starters, salads</a>
 - url: /kitchen/random/
   image: food-random.jpg
-  title: <a href="/kitchen/random/" target="_self">Random stuff&colon;<br> restaurant inspired</a>
+  title: <a href="/kitchen/random/" target="_self">Substantial bites&colon;<br>random mains</a>
+- url: /kitchen/curry/
+  image: food-curry.jpg
+  title: <a href="/kitchen/curry/" target="_self">Heartwarming stuff&colon;<br>curries, stews</a>
+
+- url: /kitchen/liquid/
+  image: food-liquid.jpg
+  title: <a href="/kitchen/liquid/" target="_self">Liquid stuff&colon;<br>soups, smoothies</a>
+- url: /kitchen/carbs/
+  image: food-carbs.jpg
+  title: <a href="/kitchen/carbs/" target="_self">Carby stuff&colon;<br>pasta, sandwiches</a>
+- url: /kitchen/fried/
+  image: food-fried.jpg
+  title: <a href="/kitchen/fried/" target="_self">Fried stuff&colon;<br>pancakes, fritters</a>
 
 - url: /kitchen/vegan/
   image: food-vegan.jpg
-  title: <a href="/kitchen/vegan/" target="_self">By ingredients&colon;<br> accidentally vegan</a>
+  title: <a href="/kitchen/vegan/" target="_self">By ingredients&colon;<br>accidentally vegan</a>
 - url: /kitchen/seasonal/
   image: food-seasonal.jpg
-  title: <a href="/kitchen/seasonal/" target="_self">By ingredients&colon;<br> fresh produce</a>
+  title: <a href="/kitchen/seasonal/" target="_self">By ingredients&colon;<br>fresh produce</a>
 - url: /kitchen/pantry/
   image: food-pantry.jpg
-  title: <a href="/kitchen/pantry/" target="_self">By ingredients&colon;<br> pantry items</a>
+  title: <a href="/kitchen/pantry/" target="_self">By ingredients&colon;<br>pantry items</a>
 
 - url: /kitchen/cake/
   image: food-cake.jpg
-  title: <a href="/kitchen/cake/" target="_self">Sweet stuff&colon;<br> baked goods</a>
+  title: <a href="/kitchen/cake/" target="_self">Sweet stuff&colon;<br>baked goods</a>
 - url: /kitchen/sweet/
   image: food-sweet.jpg
-  title: <a href="/kitchen/sweet/" target="_self">Sweet stuff&colon;<br> desserts without oven</a>
+  title: <a href="/kitchen/sweet/" target="_self">Sweet stuff&colon;<br>desserts without oven</a>
 ---
 
 All recipe websites I've come across have one thing in common - they are made by people who love to cook. 

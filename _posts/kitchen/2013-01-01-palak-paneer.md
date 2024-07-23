@@ -14,8 +14,7 @@ categories:
 * some green chillies (depending how spicy they are)
 * 2 teaspoon garam masala
 * 1 teaspoon cumin powder
-* 0.5 teaspoon salt
-* 0.25 teaspoon Kashmiri chilli powder
+* 1 teaspoon salt
 * 0.25 teaspoon turmeric powder
 <nbsp></nbsp>
 * coconut oil
@@ -36,5 +35,5 @@ categories:
 * Prepare a pot of salted boiling water and a bowl of ice water. Blanch the spinach in boiling water and immediately transfer it into the ice water (to preserve its vibrant colour).
 * Heat a non-stick pan with coconut oil. Cube the paneer and fry it until golden on most sides.
 * Meanwhile, drain and handblender the spinach. Add it to the pot and wait for the temperature to come back up.
-* Add cream and wait for the temperature to come back up. Taste and adjust salt and spiciness (chilli powder).
+* Add cream and wait for the temperature to come back up. Taste and adjust salt and spiciness (Kashmiri chilli powder).
 * Mix in the paneer cubes. Serve with rice.

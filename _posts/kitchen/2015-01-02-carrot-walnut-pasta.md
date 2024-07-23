@@ -22,7 +22,7 @@ categories:
 * 1.5 teaspoon of chipotle chilli powder (or a mix of smoked paprika and Kashmiri chilli powders)
 * 0.25 teaspoon salt
 <nbsp></nbsp>
-* Pecorino cheese
+* 100g Pecorino cheese
 * parsley
 * 30g butter
 
