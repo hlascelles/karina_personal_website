@@ -74,7 +74,7 @@ Battersea Park, etc.
 
 ### 8. Finchley
 
-* Royal Air Force Museum London (not free).
+* Royal Air Force (RAF) Museum London. Book free tickets in advance.
 
 <a name="greenwich"></a> 
 
