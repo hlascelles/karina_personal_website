@@ -166,7 +166,7 @@ widgets:
   image: city-taipei.jpg
   title: 50. Taiwan
 - url:
-  image: country-thailand.jpg
+  image: city-bangkok.jpg
   title: 51. Thailand
 - url: /travel/turkey/
   image: country-turkey.jpg

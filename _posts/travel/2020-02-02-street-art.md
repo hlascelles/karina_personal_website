@@ -7,6 +7,16 @@ categories:
   - travel
 widgets:
 - url:
+  image: graffiti-2024-03-hague.jpg
+  title: Hague, Netherlands
+- url:
+  image: graffiti-2022-13-london-min.jpg
+  title: London, UK #copy
+- url:
+  image: graffiti-2018-1-tokyo-min.jpg
+  title: Tokyo, Japan #copy
+
+- url:
   image: graffiti-2024-02-cyprus.jpg
   title: Limassol, Cyprus
 - url:
