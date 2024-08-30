@@ -17,9 +17,9 @@ categories:
 * 100g feta cheese
 * olive oil
 <nbsp></nbsp>
-* yoghurt
-* 10g garlic (about 2 cloves)
+* 100g yoghurt
 * 10 twists of black pepper
+* 10g garlic (about 2 cloves)
 <nbsp></nbsp>
 * baby potatoes
 
@@ -33,7 +33,7 @@ categories:
 * Add chopped onion, herbs, coriander, chilli powder and salt to the courgettes. Mix well. Crumble in the feta and mix it in gently.
 * Pre-heat a non-stick pan with olive oil.
 * Use a wooden spoon to scoop the courgette mixture into the frying pan, flattening a little once in the pan. Flip them once they look golden brown on the bottom. The fritters will be tasty, no matter how they look. Transfer to a plate covered with a paper towel to drain any excess oil.
-* While frying the fritters, put some yogurt into a small bowl. Use a garlic press to add garlic cloves directly into the yoghurt. Season with freshly ground black pepper.
+* While frying the fritters, make the yoghurt dip - mix the youghurt with black pepper and garlic added through a garlic press.
 * Serve fritters with boiled baby potatoes and a yoghurt dip.
 
 **Inspired by:** [Vidar Bergum](https://vidarbergum.com/recipe/mucver-turkish-courgette-zucchini-fritters/)

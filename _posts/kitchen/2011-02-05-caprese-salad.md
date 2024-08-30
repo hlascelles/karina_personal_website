@@ -8,7 +8,7 @@ categories:
 
 **Ingredients:**
 
-* good tomatoes
+* heirloom tomatoes
 * mozzarella
 * basil
 <nbsp></nbsp>

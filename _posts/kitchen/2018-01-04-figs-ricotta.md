@@ -10,7 +10,7 @@ categories:
 
 * figs
 * ricotta or fresh goat cheese
-* good balsamic vinegar
+* balsamic vinegar
 
 **Methods:**
 

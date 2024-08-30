@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Broccolini with bean mash
+title: Broccoli with bean mash
 header: no
 categories:
     - kitchen
@@ -12,7 +12,7 @@ categories:
 * 1 teaspoon of chilli (chipotle chilli powder, chilli flakes, etc.)
 * 30g garlic (about 6 cloves)
 <nbsp></nbsp>
-* 400g broccoli (purple tenderstem is better)
+* 400g broccoli (tenderstem are best, especially purple ones)
 * 400g pre-cooked white beans (white kidney beans, butter beans, etc.)
 * 0.25 teaspoon salt
 * 40g lemon juice

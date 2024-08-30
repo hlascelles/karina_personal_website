@@ -35,7 +35,7 @@ categories:
 **Methods:**
 
 * Start boiling the rice.
-* Pre-heat the oven to 200C.
+* Pre-heat the oven to 180C.
 * Cut the aubergine into large cubes. On a baking tray lined with baking paper, toss the aubergine cubes with a bit of coconut oil. Spread them into a single layer and bake in the oven until golden brown.
 * In a separate tray, toast the cashews until they start to turn golden. Don't forget to take them out of the oven before the aubergines are ready.
 * Make the curry paste. Finely chop the lemongrass. Very roughly chop ginger (no need to peel it), red onion, garlic, Romano pepper and chillies. Place all of them in a bowl. Add zest of 2 limes and all the spices (cumin, coriander, turmeric, salt, chilli powder, black pepper). Handblender everything into a paste.

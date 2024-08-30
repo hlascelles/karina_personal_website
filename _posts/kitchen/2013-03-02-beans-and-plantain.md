@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Quick beans and plantain
+title: Beans'n'plantain
 header: no
 categories:
     - kitchen
@@ -8,20 +8,24 @@ categories:
 
 **Ingredients:**
 
-* 1 plantain
-* olive oil
-* 1 lime
-* any pre-cooked beans
+* 40g red onion
+* 30g tomato paste
+* 20g garlic
+* 0.5 teaspoon Chipotle chilli powder (or any spicy and/or smmoky chilli powder)
+* 200g tomatoes
 <nbsp></nbsp>
-* tomatoes
-* 1 red onion
-* a piece of ginger
-* red chillies
+* coconut oil
+* 2 plantains
+* 400g any pre-cooked beans
+* 1 lime
+* 0.25 teaspoons cinnamon
 
 **Methods:**
 
-* Heat olive oil in a pan. Cut plantain into coins. Fry them on both sides until golden.
-* Meanwhile, very roughly chop tomatoes, onions, ginger and chillies. Handblender them into a sauce.
-* In a pot combine the sauce with beans (frozen or from a can) and let it cook for a bit.
-* Place fried plantain onto a paper towel to remove excess oil. In a bowl combine plantain with a juice of one lime and mix well.
-* Serve plantain with beans in a fresh spicy sauce. The ginger and onion still taste raw - that's the idea.
+* Very roughly chop the red onion. Handblender it together with tomato paste, garlic and chilli powder into a paste.
+* Finely chop the tomatoes.
+* In a heavy bottom pot, heat a bit of coconut oil. Add the curry paste and fry for a couple of minutes, until it smells really good. Once it starts sticking to the bottom of the pot, add the tomato. Let it simmer on low heat.
+* Heat some coconut oil in a large pan. Cut plantain into coins and fry them on both sides until golden.
+* Prepare the beans (defrost or drain from the cans) and add them to the curry pot.
+* In a large bowl mix the juice of a lime with cinnamon. Once the plantains are ready, add them in and mix until they absorb all the juice.
+* Serve the beans with plantain.

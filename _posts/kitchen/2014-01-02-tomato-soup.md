@@ -8,7 +8,7 @@ categories:
 
 **Ingredients:**
 
-* 1kg tomatoes (cherry or other good ones)
+* 1kg tomatoes
 * olive oil
 * 1 red onion
 * 20g garlic (about 4 cloves)
