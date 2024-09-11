@@ -21,7 +21,7 @@ categories:
 
 **Notes:**
 * Excellent Indonesian and Surinamese restaurants are not to be missed.
-* Public transport in the city is "tap in and out", no need to buy anything in advance.
+* Public transport in the city works with bank card-based contactless payments (tap in and out), no need to buy anything in advance. 
 
 ## Notes:
 * Trainline app is a convenient way to plan train journeys.
