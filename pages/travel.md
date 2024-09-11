@@ -51,9 +51,9 @@ widgets:
 - url:
   image: country-croatia.jpg
   title: 13. Croatia
-- url:
+- url: /travel/cyprus/
   image: country-cyprus.jpg
-  title: 14. Cyprus
+  title: <a href="/travel/cyprus/" target="_self">14. Cyprus</a>
 - url:
   image: country-denmark.jpg
   title: 15. Denmark
