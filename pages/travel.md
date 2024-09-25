@@ -18,9 +18,9 @@ widgets:
 - url: /travel/argentina/
   image: country-argentina.jpg
   title: <a href="/travel/argentina/" target="_self">3. Argentina</a>
-- url:
-  image: city-sydney.jpg
-  title: 4. Australia
+- url: /travel/australia/
+  image: country-australia.jpg
+  title: <a href="/travel/australia/" target="_self">4. Australia</a>
 - url:
   image: city-vienna.jpg
   title: 5. Austria
