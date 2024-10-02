@@ -78,9 +78,9 @@ widgets:
 - url:
   image: country-greece.jpg
   title: 22. Greece
-- url:
+- url: /travel/hawaii/
   image: country-hawaii.jpg
-  title: Hawaii
+  title: <a href="/travel/hawaii/" target="_self">Hawaii</a>
 - url:
   image: city-budapest.jpg
   title: 23. Hungary
@@ -177,9 +177,9 @@ widgets:
 - url: /travel/uk/
   image: country-uk.jpg
   title: <a href="/travel/uk/" target="_self">54. UK</a>
-- url:
+- url: /travel/hawaii/
   image: country-usa.jpg
-  title: 55. USA
+  title: <a href="/travel/hawaii/" target="_self">55. USA</a>
 - url: /travel/uruguay/
   image: city-montevideo.jpg
   title: <a href="/travel/uruguay/" target="_self">56. Uruguay</a>
