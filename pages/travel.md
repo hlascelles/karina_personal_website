@@ -162,9 +162,9 @@ widgets:
 - url:
   image: country-switzerland.jpg
   title: 49. Switzerland
-- url:
+- url: /travel/taiwan/
   image: city-taipei.jpg
-  title: 50. Taiwan
+  title: <a href="/travel/taiwan/" target="_self">50. Taiwan</a>
 - url: /travel/thailand/
   image: city-bangkok.jpg
   title: <a href="/travel/thailand/" target="_self">51. Thailand</a>
