@@ -6,15 +6,16 @@ show_meta: false
 categories:
   - travel
 widgets:
+
+- url:
+  image: graffiti-2024-05-london.jpg
+  title: London, UK
 - url:
   image: graffiti-2024-04-antwerp.jpg
   title: Antwerp, Belgium
 - url:
   image: graffiti-2024-03-hague.jpg
   title: Hague, Netherlands
-- url:
-  image: graffiti-2018-1-tokyo-min.jpg
-  title: Tokyo, Japan #copy
 
 - url:
   image: graffiti-2024-02-cyprus.jpg
