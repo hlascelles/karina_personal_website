@@ -12,8 +12,9 @@ categories:
 ### 1. Volcano-land around Leon
 * [Cerro Negro Volcano](https://connect.garmin.com/modern/activity/17545361115)&#9733; and [Volcan del Hoyo](https://connect.garmin.com/modern/activity/17547588700). Both hikes start from the park ranger station (12.494515, -86.702534). You need a 4x4 car to reach the station. A popular tour is to hike Cerro Negro in the morning, then hike up Volcan del Hoyo and camp there, and return the next day via Laguna de Asososca (El Tigre) where you can swim. Unexpectedly, I hiked both volcanoes in one day due to bad weather that prevented camping. Having done that, I now know what my perfect tour would be and I'm sure it can be requested: Early start, hike Volcan del Hoyo first, have packed lunch at the station, then hike Cerro Negro and watch the sunset from there. On top of Volcan del Hoyo you can see the famous small crater (12.486394, -86.667473), the big sulfur vent (12.487295, -86.665045) and the big old crater (12.489126, -86.665305). Cerro Negro is the youngest volcano, and hence the most volcanoey in the whole of Nicaragua. The hike is through beautiful lava fields, until the crater view at (12.507823, -86.703288); you are allowed to come back the same way, but it is encouraged to take the fast straight route down which will get a lot of tiny sharp rocks into your shoes. Must bring spare socks.
 * Telica Volcano&#9733;. It would be a long hike, so I took a sunset tour in a 4x4 car that brings you to (12.616787, -86.839548) for a [short hike to the crater](https://connect.garmin.com/modern/activity/17540379565). Sometimes you can see lava glow after sunset.
-* Cosigüina Volcano - still on my wishlist. See [official information](https://vianica.com/attraction/52/cosiguina-volcano) and an [informative blog](https://travelwiththesmile.com/blog/hiking-volcan-cosiguina-in-potosi-nicaragua/). Apart from the trails (two?) that lead to the top of the volcano, there is also [Los Humedales Trail](https://vianica.com/activitydetails/54/hiking-through-the-wetlands) through the wetlands not to be missed.
-* San Cristobal Volcano - still on my wishlist.
+* Cosigüina Volcano - on my wishlist. See [official information](https://vianica.com/attraction/52/cosiguina-volcano) and an [informative blog](https://travelwiththesmile.com/blog/hiking-volcan-cosiguina-in-potosi-nicaragua/). Apart from the trails (two?) that lead to the top of the volcano, there is also [Los Humedales Trail](https://vianica.com/activitydetails/54/hiking-through-the-wetlands) through the wetlands not to be missed.
+* San Cristobal Volcano - on my wishlist.
+* Momotombo Volcano - on my wishlist.
 
 
 
@@ -40,7 +41,7 @@ categories:
 ### 4. Reserva Natural Isla Juan Venado &#9733;
 * I went on a two hour birdwatching tour in a small boat, the starting point was a short walk from Barca de Oro hotel in Las Peñitas. The starting time will depend on the tides. I saw a great variety of bird species and a huge number of birds in total. I later found out that it is possible to organise longer tours that go deeper into the protected area and reach breading grounds with even more birds and even greater diversity of species, so I shall return.
 * It is also possible to participate in the release of baby sea turtles on the beach in the afternoon (November to January). I'm not sure if it is a harmful or a beneficial activity from the environmental point of view, do your own research.
-* I was glad we did not stay in Las Peñitas. The place had a desolate vibe and the locals were the least friendly compared to all the other places I've visited in Nicaragua.
+* I was glad I didn't stay in Las Peñitas. The place had a desolate vibe and the locals were the least friendly compared to all the other places I've visited in Nicaragua.
 
 
 
@@ -69,7 +70,7 @@ categories:
 
 
 
-### Still on my wishlist:
+### On my wishlist:
 * Corn Islands
 * Stilt houses of [Miskito Cays](https://vianica.com/go/specials/24-miskito-cays-nicaragua.html)
 * [Peñas Blancas Massif Natural Reserve](https://vianica.com/attraction/125/penas-blancas-massif-natural-reserve)
@@ -80,11 +81,10 @@ categories:
 
 
 ### Notes:
-* All of our tours (volcanoes Cerro Negro, del Hoyo and Telica and birdwatching in Juan Venado) were organised by Glauco elperezoso.nicaragua@gmail.com from [El Perezoso](https://vianica.com/touroperator/88/el-perezoso-agencia-de-turismo-responsable). I highly recommend them.
-* Best time to visit: The dry season is November to May, the slightly wet is May to August, the very wet is September and October. Locals told me that October is the worst time to visit. December to February is particularly good for sunrise and sunset watching on volcanoes around Leon, as the sky is typically clear. But December to February is the worst time to visit Ometepe island, as the lake gets rough and the ferries are frequently cancelled.
+* All of my tours (volcanoes Cerro Negro, del Hoyo and Telica and birdwatching in Juan Venado) were organised by Glauco Sponza elperezoso.nicaragua@gmail.com from [El Perezoso](https://vianica.com/touroperator/88/el-perezoso-agencia-de-turismo-responsable), based in Leon. I highly recommend them.
+* Best time to visit: The dry season is November to April, the slightly wet is May to August, the very wet is September and October. Locals told me that October is the worst time to visit. December to February is particularly good for sunrise and sunset watching on volcanoes around Leon, as the sky is typically clear. But December to February is the worst time to visit Ometepe island, as the lake gets rough and the ferries are frequently cancelled.
 * I bought Claro sim card at the airport, and I had connection most of the time. Be specific about what package you want to buy - I was offered a package with data and calls for 30 days, but they didn't mention that you can only call other Claro numbers and only for the first 7 days. The data will continue working in neighbouring countries, but the calls won't. Locals told me that Tigo sim cards are a decent competitor to Claro.
 * I found [Kelly's](https://thewanderingblonde.com/category/central-america/nicaragua/) and [Freya's](https://thesandyfeet.com/places/north-south-america/nicaragua/) blogs really useful.
 * La Colonia was my favourite chain of supermarkets where I did all my grocery shopping. They have shops in Leon and in and around Managua.
-* You might need USD cash to enter the country, so keep it handy.
-* Most places, from national parks to restaurants, will take both córdoba (NIO) and USD. You can get by by paying in USD and getting change in córdobas, thus having some córdobas for places that prefer it. 
+* You might need USD cash to enter the country, so keep it handy. Most places, from national parks to restaurants, will take both córdoba (NIO) and USD. I did one cash withdrawal from an ATM and then subsisted on paying in USD (where it is welcome) and getting change in córdobas (for using in places that prefer it).
 * My USA plugs worked everywhere.
