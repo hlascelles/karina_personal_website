@@ -90,9 +90,9 @@ widgets:
 - url:
   image: country-japan.jpg
   title: 25. Japan
-- url:
+- url: /travel/india/
   image: country-india.jpg
-  title: 26. India
+  title: <a href="/travel/india/" target="_self">26. India</a>
 - url: /travel/ireland/
   image: country-ireland.jpg
   title: <a href="/travel/ireland/" target="_self">27. Ireland</a> 
