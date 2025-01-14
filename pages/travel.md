@@ -174,24 +174,27 @@ widgets:
 - url: /travel/thailand/
   image: city-bangkok.jpg
   title: <a href="/travel/thailand/" target="_self">53. Thailand</a>
+- url: /travel/tunisia/
+  image: country-tunisia.jpg
+  title: <a href="/travel/tunisia/" target="_self">54. Tunisia</a>
 - url: /travel/turkey/
   image: country-turkey.jpg
-  title: <a href="/travel/turkey/" target="_self">54. Turkey</a> 
+  title: <a href="/travel/turkey/" target="_self">55. Turkey</a> 
 - url: /travel/turkmenistan/
   image: country-turkmenistan.jpg
-  title: <a href="/travel/turkmenistan/" target="_self">55. Turkmenistan</a> 
+  title: <a href="/travel/turkmenistan/" target="_self">56. Turkmenistan</a> 
 - url: /travel/uk/
   image: country-uk.jpg
-  title: <a href="/travel/uk/" target="_self">56. UK</a>
+  title: <a href="/travel/uk/" target="_self">57. UK</a>
 - url: /travel/hawaii/
   image: country-usa.jpg
-  title: <a href="/travel/hawaii/" target="_self">57. USA</a>
+  title: <a href="/travel/hawaii/" target="_self">58. USA</a>
 - url: /travel/uruguay/
   image: city-montevideo.jpg
-  title: <a href="/travel/uruguay/" target="_self">58. Uruguay</a>
+  title: <a href="/travel/uruguay/" target="_self">59. Uruguay</a>
 - url: /travel/uzbekistan/
   image: country-uzbekistan.jpg
-  title: <a href="/travel/uzbekistan/" target="_self">59. Uzbekistan</a> 
+  title: <a href="/travel/uzbekistan/" target="_self">60. Uzbekistan</a> 
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
