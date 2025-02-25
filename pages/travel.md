@@ -57,9 +57,9 @@ widgets:
 - url:
   image: country-denmark.jpg
   title: 15. Denmark
-- url:
+- url: /travel/egypt/
   image: country-egypt.jpg
-  title: 16. Egypt
+  title:  <a href="/travel/egypt/" target="_self">16. Egypt</a>
 - url: /travel/el-salvador/
   image: country-el-salvador.jpg
   title: <a href="/travel/el-salvador/" target="_self">17. El Salvador</a>
@@ -78,9 +78,9 @@ widgets:
 - url: /travel/germany/
   image: country-germany.jpg
   title: <a href="/travel/germany/" target="_self">22. Germany</a>
-- url:
+- url: /travel/greece/
   image: country-greece.jpg
-  title: 23. Greece
+  title: <a href="/travel/greece/" target="_self">23. Greece</a>
 - url: /travel/hawaii/
   image: country-hawaii.jpg
   title: <a href="/travel/hawaii/" target="_self">Hawaii</a>
