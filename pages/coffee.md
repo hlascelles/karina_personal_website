@@ -8,8 +8,8 @@ header: no
 
 ### 10min walk radius:
 * Commons at Old Street Works. Single origin beans, <span style="color:#38B000">current Milky Way is great.</span>
-* Kiss the Hippo. Single origin beans, currently? No loo.
-* Compane.
+* Kiss the Hippo. Single origin beans, <span style="color:#84A98C">currently?</span> No loo.
+* Compane. No loo. 
 <nbsp></nbsp>
 * The Neva London?
 * Rose & Rose?
@@ -17,9 +17,9 @@ header: no
 
 ### Food Bazaar direction:
 * Morr. Single origin beans, <span style="color:#38B000">current Milky Cake is great.</span>
-* Pophams. Outdoor seating.
+* Pophams. Great coffee. Outdoor seating.
 <nbsp></nbsp>
-* Profile Coffee? Single origin beans?
+* Profile Coffee? <span style="color:#84A98C">Single origin beans?</span>
 * Fink's Gillespie?
 * Brood Roastery by coffee & kindness?
 * Holloway Model Bakery?
@@ -51,8 +51,8 @@ header: no
 * Yeast Bakery?
 
 ### Shoreditch:
-* Lift Coffee Shoreditch. Single origin beans, current Volcan Azul Caturra is ok.
-* Origin Coffee (Charlotte Road). Single origin beans, current Pathfinder is ok.
+* Lift Coffee Shoreditch. Single origin beans, <span style="color:#84A98C">current Volcan Azul Caturra is ok.</span> 
+* Origin Coffee (Charlotte Road). Single origin beans, <span style="color:#84A98C">current Pathfinder is ok.</span>
 * Rise & Bloom Shoreditch. Outdoor seating. Mediocre coffee.
 <nbsp></nbsp>
 * Photobookcafe? Outdoor seating.
