@@ -4,7 +4,7 @@ title: "PhD survival guide"
 header: no
 image:
     title: main-phd.jpg
-the_date: 4 May 2023
+the_date: May 2023
 show_meta: true
 categories:
     - notes

@@ -59,6 +59,6 @@ I copy-paste the ingredient list from here into my shopping list, tick off the i
 I convert all amounts into grams, even for liquids, so I can add everything into a container on the scales, without dirtying any measuring devices. 
 I don't want to re-optimise a recipe from another website every time I decide to make it. 
 
-If you find this online collection useful, please [send me one high-return-on-investment recipe](mailto:hello@karina.io) as a token of gratitude!
+If you find this online collection useful, please [send me a high-return-on-investment recipe](mailto:hello@karina.io) as a token of gratitude!
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
