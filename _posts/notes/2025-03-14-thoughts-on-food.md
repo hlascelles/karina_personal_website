@@ -46,36 +46,35 @@ Whole nuts, peanut butter and tahini are 15-24% protein, but I usually don't con
 Pumpkin seeds (30% protein) and nutritional yeast flakes (47% protein) I eat in even smaller amounts, but I should keep adding them to any dish that can take them.
 
 **Fibre**  
-Unlike protein, you can't really eat too much fibre, so I'm just trying to eat as much of it as possible. 
+Fibre comes from plants. 
+The less processed they are, the more fibre you'll get. 
+Think fruits instead of fruit juice, salads with whole grains instead of with pasta or bread (flour-based products), whole tomatoes cooked into a sauce instead of sauce from a jar. 
+Unlike protein, you can't really eat too much fibre, so there is no need to count - just try to eat as much of it as possible. 
 
+**Micronutrients**  
+Our bodies need a lot of different micros.
+The most fun strategy for getting enough of all of them is eating a diverse diet. 
+Before refrigiration and supermarkets, diversity was enforced by seasons. 
+Nowdays, living in a big city, I have no concept of when courgettes are in season - they are always on a supermarket shelve. 
+And I know what to do with them - I might eat them fresh in a salad, cook them into a risotto, a soup or a Thai curry, or eat them fried in a sandwich or fried into fritters. 
+Instead of getting radishes for my salad, asparagus for risotto, beetroot for soup, pumpkin for Thai curry and mushrooms for sandwisches, courgette is my lazy default. 
+Having healthy defaults is good; buying courgettes every time I'm too tired to be creative is better than ordering a pizza.
+But when I can, I try to cook with plants I'm less familiar with - celeriac, fennel, okra, radicchio, etc.
+Luckily there is no shortage of online recipes, and with image recognition even not knowing the name of the vegetable is no longer an exuse.
 
+I'm mindful of fake diversity. 
+Bulgur, couscous, farro, freekeh, fregola, orzo, pasta, polenta, semolina, spelt and sourdough bread - sounds like a diverse list of ingredients, but these are all types of wheat and products made from wheat flour. 
+Edamame beans, tofu, tempeh and vegan "chicken" pieces all come from soya plants. 
+Breakfast options might include pastries, butter and jam on toast, crepes, pancakes and waffles - all permutations of wheat flour, sugar and butter. 
+Wheat tortillas, meat, bell peppers and cheese can be made into a dozen Mexican dishes - keep tortillas flat for tlayudas, empalmes (two tlayudas on top of each other) and sincronizadas (empalmes with bigger tortillas), fold tortillas in half for tacos and quesadilla (tacos with more cheese), roll up tortillas into enchiladas, flautas (fried enchiladas) and burritos (bigger tortillas), or cut tortillas into triangles for chilaquiles, etc.
+Instead of focusing on the names of the dishes, I try to focus on the diversity of ingredients first and then combine them into dishes, traditional or experimental.
 
-
-
-<!---
-
-
-fibre sources - fruit, veg, legums, whole grain, nuts and other seeds.
-removing the skin from fruit or the pulp from fruit juice lowers fiber.
-avoid red lentils - green ones are same but with a coat. and white pepper.
-
-
-
-
-
-
-## Micros - Diversity, not just courget all the time.
-
-avoid fake diversity - couscous, orzo - just wheat flour; not like faro. use new grains.
-Farro
-Spelt
-Bulgur:
-Couscous: 
-
-
-
--->
-
+Avoiding food waste, both in my kitchen and before the products get to my kitchen, is another great strategy for hitting targets for my micros. 
+I don't peal fruits and vegetables unless absolutely necessary - there are a lot of good micros in the skins. 
+Unpeeled ginger is great in a curry paste and unpeeled kiwi is great in a fruit salad, though many of my friends had to lead by example before I tried the latter. 
+I recently discovered how much I like carrot leave pesto and sautéed beetroot leaves, so I try to get into a habit of looking for recipes online before binning plant body parts that I don't know how to use. 
+Since there is an infinite number of online recipes to choose from, I avoid recipes that call for red lentils (peeled green lentils), white rice (wholegrain rice with the bran coating removed), white pepper (peeled black peppercorns), etc. 
+It took energy to produce these skins and bran coatings, they contain a lot of micros, and it takes energy to remove them, so I'd rather eat them.
 
 
 
@@ -143,7 +142,7 @@ best part of daily dozen - no space for other things.
 
 
 
-### Goal #3 - let food makes me happy
+### Goal #3 - make food that makes me happy
 
 <!---
  
@@ -162,7 +161,6 @@ Not tastes, but sensations - temperature, pungency, astringency, spicyness.
 pungent ingredients: raw garlic, raw onion, Ginger, Mustard.
 
 
-Flavour density - hyper-flavourful sauce with bland potato mash. 
 
 Apart from 5 flavours, everything else is aroma. and texture.
 
@@ -173,8 +171,14 @@ Both a big bowl of cream soup and a protein shake are texturaly boriing. Good fo
 Everything has a texture, so the key to good cooking is providing texture contrast in a dish. 
 I thought I don't care about textures, until I tried meal-replacement drinks and Taiwanese slimy food.
 
+what's in ingredients + Browning, mallard, caramelisation
 
 ### veg and vegan
+
+Omit, substitute or...fond those 3 words
+
+Aubergine instead of meat, has no protein, but bean mash does.
+
 I make great vegan food, because I'm not vegan.
 
 fats! 
@@ -205,6 +209,7 @@ veg burger - we first destroy textures by chopping everything and then look for 
 
 The flavour density of the dish. Big stake goes well with spicy rhubarb sauce.
 
+Flavour density - hyper-flavourful sauce with bland potato mash. 
 
 
 
