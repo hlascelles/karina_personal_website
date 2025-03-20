@@ -31,13 +31,23 @@ Once you are in the area, there are two more craters to see: the Mud crater (40.
 * Sha Tugy (41.836933, 59.963991) - in the evenings this is the biggest party in town.
 * Dashoguz Central Farmers Market (41.847619, 59.966642) - a busy place that will give you an idea how locals live. If it is spring, try hunting for [sumalak](https://www.atlasobscura.com/foods/sumalak-iran-pudding).
 
+### On my wishlist:
+* [Yangykala Canyon](https://koryogroup.com/travel-guide/yangykala-canyon-turkmenistan-travel-guide).
+* Garabogazköl Basin.
+* Taking a ferry from Turkmenbashi to Azerbaijan, as described by [Caravanistan](https://caravanistan.com/transport/caspian-sea-ferry/) and by [Lisa](https://lisagermany.com/turkmenistan-azerbaijan-caspian-sea/).
+* [Ancient Merv](https://koryogroup.com/travel-guide/ancient-merv-turkmenistan-travel-guide).
+* Köw Ata Underground Lake.
+* Altyn Asyr Bazar in Ashgabat.
+
+
 ## Notes:
 * There are two options for visiting Turkmenistan. The first is to pay a tour agency for a tour and for arranging a visa support for you (to get a Tourist Visa on arrival). This is what I did. The visa support will be emailed to you, print it out to show it at the border. My only regret is not checking carefully the locations of the hotels included in the tour - make sure that you stay close to restaurants/shops so you can go out without needing a car.
 * The second option is to apply for a Transit Visa. This is probably much more fun, but I don't know how it works. 
 * Bring USD cash, as it won't be possible to use your bank cards in Turkmenistan.
-* Don't expect to find wifi in hotels, restaurants or indeed anywhere. Internet traffic is heavily monitored, many websites/apps are blocked, VPNs are likely not to work. I asked my guide to make a hotspot with his internet-connected mobile phone, which allowed me to check my emails and reply to some. I did not attempt to visit any websites or to buy my own sim card.
+* Don't expect to find wifi in hotels, restaurants or indeed anywhere. Internet traffic is heavily monitored, many websites/apps are blocked, VPNs are likely not to work. I asked my guide to make a hotspot with his internet-connected mobile phone, replying to emails worked and I didn't try anything else. I did not attempt to visit any websites or to buy my own sim card.
 * Food in Turkmenistan is not great and very expensive, but many places will have at least something vegetarian (maybe a lentil soup or dumplings/pies with pumpkin, spinach or potatoes). Imported stuff is super expensive. To give you a vague idea - a dinner for one without alcohol can easily be 60 USD or more, and I paid 17 USD for 1 litre of imported vegan milk.
 * My standard EU charger worked everywhere in Turkmenistan.
+* Despite having to be accompanied by a guide at all times, you can see a lot by throwing your guide off script. I told my guide I can't afford the restaurants he picked for us, and demanded "working-class" restaurants - that took me to parts of Ashgabat that not many have seen. After one dinner I "remembered" that we have no drinking water left and begged him to find us a shop open late at night to buy some - that resulted in an exciting trip through a residential area where local teenagers and drunks hang out in a late-night liquor store.
 
 **My experience at Shavat (41.773659, 60.059283) border on the way in:**
 * Upon leaving Uzbekistan, I was not allowed to walk to the Turkmen side of the border (2km), as it is now mandatory to take the bus. It costs 5 TMT in cash - about 2 USD, but they won't take USD cash. I managed to negotiate paying in UZS. Prior to that I visited seven different banks in Nukus, and from that experience I believe there is no way to buy TMT in Uzbekistan.

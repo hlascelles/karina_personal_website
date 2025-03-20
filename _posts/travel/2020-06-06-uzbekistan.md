@@ -100,7 +100,7 @@ To visit Khiva's architectural gems, you must buy a ticket (valid for two consec
 **4.2 Different parts of Tashkent to explore**
 * To explore old Tashkent I followed [this Caravanistan map](https://caravanistan.com/uzbekistan/center/tashkent/walking-old-tashkent/) through Chigatay Graveyard, along the Kolkouz canal, into the Hazrati Imam complex, inside the Chorsu bazaar, and beyond.
 * To explore central Tashkent I followed [this Caravanistan map](https://caravanistan.com/uzbekistan/center/tashkent/walk-centre/). Pedestrianised Sailgokh Street is clearly a place to be on a warm summer night.
-* Metro stations in Tashkent are beautiful and it is now even allowed to take photos of them. Follow [this guide](https://adventuresoflilnicki.com/tashkent-metro-uzbekistan/) to explore them. Some of the best ones are Mustaqillik Maydoni, Alisher Navoi, Kosmonavtlar. 
+* Metro stations in Tashkent are beautiful and it is now even allowed to take photos of them. Follow [this guide](https://adventuresoflilnicki.com/tashkent-metro-uzbekistan/) to explore them. Some of the best ones are Mustaqillik Maydoni, Alisher Navoi, Kosmonavtlar and Paxtakor. 
 * Shayhantaur Memorial Complex is worth a visit, including Sheikh Hovendi at-Tahur Mausoleum.
 * Tashkent City Park and buildings surrounding it is the newest neighbourhood of Tashkent. It was interesting to see it and infer the direction in which the city is developing.
 

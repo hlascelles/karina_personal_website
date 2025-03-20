@@ -58,7 +58,7 @@ categories:
 * Old Art School / Art School Ruins &#9733; - as described [here](https://everythingelsalvador.com/what-to-do-santa-ana-el-salvador/), it is the most photogenic place in the whole city and must not be missed. I believe it was not allowed to visit without prior arrangement when I was there, but I arrived early and asked the guard really nicely and he let me in. By the time I was leaving, there were 5 guards at the entrance and no way I could have negotiated a way in. From here you can explore Parque Colon (a busy market place) and head east along Calle José Mariano Méndez Poniente (a market street, beautiful Capilla Sagrado Corazón de Jesús and Beats Coffee cafe) or 11 Calle Poniente (that is visibly a red-light district even early in the morning).
 * The main square with Catedral de Nuestra Señora Santa Ana, National Theatre of Santa Ana and Santa Ana Municipal Hall. It is lit up beautifully in the evenings.
 * UNASA Human Anatomy Museum - it is not big, but I love how they strive to be a place for interactive learning, how they push the boundary of what a museum could be. Free. Ring the doorbell and the door will open.
-* If you have more time, there are hikes up small hills in this direction (13.993301, -89.538482) and there are more pretty churches to be found.
+* If you have more time, there are more pretty churches to be found and there are hikes around Cerro Tecana (13.993301, -89.538482). 
 * Food: Comedor y Pupuseria Claudia - great pupusas, but I've only seen tourists there. Pupusería La Ceiba is the local favourite, but since everyone is a regular the menu is in Spanish only and very hard to read, you are expected to know what you want. Pirómano coffee (two locations) - great coffee. Taquería La Chismosa - mexican food, their El Salvador-style horchata de morro drink is particularly good, freshly made with morro seeds and peanuts.
 
 
@@ -72,6 +72,7 @@ categories:
 
 
 ### Notes:
+* In general, it is not allowed to hike without a guide.
 * All of my tours (National Parks Montecristo and El Imposible) were organised by Rex Cárcamo tourguides.elsalvador@gmail.com +50378956749 from [Tour Guides El Salvador](https://sites.google.com/view/tourguideselsalvador/inicio), based in Santa Ana city. I highly recommend them.
 * It is possible to participate in the release of baby sea turtles on San Blas Beach (November to January). I'm not sure if it is a harmful or a beneficial activity from the environmental point of view, do your own research. Sea Turtle Conservation Association (ACOTOMSAB) +50372554302.
 * To be informed about national park closures due to bad weather follow Ministerio de Medio Ambiente on social media. Local guides seem to get their updates from ministry's Facebook account.

@@ -80,7 +80,22 @@ It took energy to produce these skins and bran coatings, they contain a lot of m
 
 ### Goal #2 - avoid food that is bad for me
 
+
+
+
 <!---
+
+
+Building flavour vs components
+Leftovers for breakfast
+
+
+
+
+
+
+
+
 
 read ingredient list (to avoid buying sugar-based sauces and to get recipe ideas) and be suspicious of things that taste horrible at wrong temperature or next day (warm beer, cold pizza, yesterdays whipped cream). why I sold my ice cream maker - can't taste sweet in cold.
 
