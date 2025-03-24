@@ -25,7 +25,7 @@ header: no
 * High Ground?
 * Sourdough Sophia?
 * The French Market Finsbury Park?
-* <span style="color:#AEAEAE">No: Southpaw Coffee (mediocre coffee, no loo, wobbly bench), Trade (bad), Devotion Coffee Angel (bad), 13th Floor Coffee Highbury Fields (bad), Good Manners (bad, no loo), Redemption Roasters (bad), Brood (bad).</span>
+* <span style="color:#AEAEAE">No: Southpaw Coffee (mediocre coffee, no loo, wobbly bench), Trade (bad), Devotion Coffee Angel (bad), 13th Floor Coffee Highbury Fields (bad), Good Manners (bad, no loo), Redemption Roasters (bad), Brood (bad), Rugged Bunch (bad).</span>
 
 ### Dalston:
 * The Dusty Knuckle Bakery. Outdoor seating.
@@ -50,7 +50,7 @@ header: no
 
 ### Shoreditch:
 * Lift Coffee Shoreditch. Single origin beans, <span style="color:#38B000">current Volcan Azul Typica is great. Also try 24AW.</span> 
-* Origin Coffee (Charlotte Road). Single origin beans, <span style="color:#84A98C">current Pathfinder is ok.</span>
+* Origin Coffee (Charlotte Road). Single origin beans, <span style="color:#84A98C">current Caxambu is ok, check back after Apr 6th.</span>
 * Rise & Bloom Shoreditch. Outdoor seating. Mediocre coffee.
 <nbsp></nbsp>
 * Photobookcafe? Outdoor seating.

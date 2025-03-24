@@ -157,6 +157,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Don't miss the [Antepavilion's](https://www.antepavilion.org/) [Sharks!](https://goo.gl/maps/KW6meaFjbhmEEm2w8) visible from the Regent's Canal, in the water or on the roof. They are [a big deal](https://youtu.be/_8xhdL8BPvU).
 * Camden Passage - a charming bit of old London, especially lively on weekends.
 * Upper street is a delightful place for a stroll. Islington Square is an new area created around the renovated 1990s General Post Office sorting depo. 
+* [Victoria Miro](https://www.victoria-miro.com/plan-your-visit/) - a lovely art gallery. Don't miss Gallery II accesible through the canal-side garden.
 * [Union Chapel](https://unionchapel.org.uk/whats-on) - a beautiful venue hosting different types of events.
 * [Get Stuffed](https://www.thegetstuffed.co.uk/) - taxidermy shop fun to explore from the outside.
 * Richmond Avenue - houses on this residential street, between (51.538689, -0.111474) and (51.538698, -0.113564), are guarded by mini [sphinxes and obelisks](https://livinglondonhistory.com/surprising-places-to-see-ancient-egypt-in-london/) that were installed in 1841 at the height of Egypt-mania. For another example of Egypt-mania, see Gracepoint (161-169 Essex Road).
@@ -237,6 +238,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Columbia Road Flower Market on Sundays. For the full experience, also visit Hackney City Farm nearby.
 * Walk from Liverpool Street station to Farringdon station underground following [this guide](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html).
 * The area around Old Street Station, nicknamed the "Silicon Roundabout", has a fun origin story that started with a [throwaway joke in 2008](https://www.wired.co.uk/article/silicon-roundabout-tech-city-property) and became UK government's policy in 2010. [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) hosts many events for developers.
+* Redchurch Street - a trendy area, great for a stroll on a weekend or a warm evening.
 * Monument to the Great Fire of London.
 * St. Katherine’s Docks.
 * Bank of England Museum - a chance to hold a bar of gold.
@@ -252,9 +254,10 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Exchange Square for a great view of Liverpool Street Station, Aldgate Square has a great fountain, Finsbury Circus Garden has pretty buildings around it.
 
 **Food:**
-* For amazing coffee, ask for frequently changing guest single origin beans at Kiss the Hippo, Origin Coffee (Charlotte Road), Lift Coffee Shoreditch, Commons at Old Street Works.
+* For amazing coffee, ask for frequently changing guest single origin beans at Lift Coffee Shoreditch, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road).
 * Spitalfields area is becoming a vegan destination: Bubala (vegan or vegetarian tasting menu, I've been many times and it never disappoints, and they have other locations too), Tofu Vegan (several locations), etc.
 * Nest - great tasting menu with a focus on seasonal and local. They no longer offer vegetarian menu.
+* Sen Viet Vegan Restaurant - vegan Vietnamese food.
 * [Photobookcafe](https://www.photobookcafe.co.uk/) and Barbican Kitchen - two places perfect for a non-alcoholic drinks meeting in the evening.
 * This is the destination for cocktail bars in London: Lounge Bohemia, Nightjar, Happiness Forgets, Looking Glass Cocktail Club (the cool bar is behind the mirror), The Gobpsy (Tue-Fri only; beneath a barber shop), City of London Distillery & Bar (gin-centric cocktails).
 
@@ -298,7 +301,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [Sir John Soane's Museum](https://www.soane.org/) - the house of one of the greatest English architects; expect antiquities, sculptures, paintings and curiosities.
 * [Hunterian Museum](https://hunterianmuseum.org/) - the specimen collection of the 18th century surgeon anatomist John Hunter. Book free tickets in advance.
 * [Grant Museum of Zoology](https://www.ucl.ac.uk/culture/grant-museum-zoology) - a small space densely packed with skeletons.
-* [The National Gallery](https://www.nationalgallery.org.uk/whats-on). Book free tickets in advance.
+* [The National Gallery](https://www.nationalgallery.org.uk/whats-on). Book free tickets in advance. Since you are here, cross the road to see what's on in the [Canada Gallery](https://culturecanada.co.uk/canada-gallery/).
 * [Mall galleries](https://www.mallgalleries.org.uk/exhibitions-events) - exciting temporary exhibitions, often free. Wildlife Artist of the Year is my favourite.
 * [The Architecture Gallery at RIBA](https://www.architecture.com/explore-architecture/exhibitions) often has great exhibitions.
 * Stroll past numerous [private art galleries](https://londongalleryweekend.art/map/). My favourite ones to visit include White Cube Mason’s Yard, Waddington Custot, Phillips London at 30 Berkeley Square (glass walls makes it fun to visit even when it is closed), Saatchi Yates (also enough windows to warrant a visit when it is closed), [Unit](https://unitlondon.com/).
@@ -338,6 +341,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 **Food:**
 * Rambutan - Sri Lankan.
 * Kachori - North Indian.
+* Plants of Roselyn - vegan Thai.
 * [Little Bread Pedlar](https://www.lbpedlar.com/) - several locations. Café Pedlar is good.
 * [The Midnight Apothecary](https://www.themidnightapothecary.co.uk/) cocktail bar. Entry fee includes a tour of the Brunel Museum.
 
@@ -349,9 +353,13 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Epping Forest makes a great day out.
 * God's Own Junkyard - a paradise of neon signs. Around it there are several breweries and Mother's Ruin Gin Palace (gin-centric cocktail bar).
 * Markfield Beam Engine and Museum - the engine is a great thing to see, especially if you can catch it in [operation](https://www.mbeam.org/visit).
-* Chuku's - Nigerian tapas, many vegan options.
+
+**Food:**
+* [SlowBurn](https://www.slowburn.london/) - seasonal vegetable-centric menu, many vegan options.
+* [Long & Short](https://longshortlondon.com/) - probably my favourite coffee place in London. 
 * [supperclub.tube](https://supperclub.tube/) - Latin American inspired tasting menu. A unique experience of dining on a 1967 Victoria Line tube carriage.
-* [Beaten by a Whisker](https://www.beatenbyawhisker.com/) - "incidentally vegan" bakery.
+* Chuku's - Nigerian tapas, many vegan options.
+* [Beaten by a Whisker](https://www.beatenbyawhisker.com/) - bakery, incidentally vegan. Nearby vegan chicken shop - [Chickenish](https://www.chickenish.com/).
 
 
 
