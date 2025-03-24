@@ -88,9 +88,10 @@ It took energy to produce these skins and bran coatings, they contain a lot of m
 
 Building flavour vs components
 Leftovers for breakfast
+Glutamates - soy sauce, miso, nutri yeast, aged cheese, Vegemite, Tomato paste
+As a scientist, it tastes the same, not how you plate it. But it does taste different, coffee example. vegan suvlaki looks like god food, so put it onto a skewer.
 
-
-
+what I should not eat. what instead? and what to do about wanting it?
 
 
 
