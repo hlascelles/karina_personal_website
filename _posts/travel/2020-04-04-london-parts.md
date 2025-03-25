@@ -76,6 +76,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 * Exciting [architecture](https://www.ft.com/content/54faa76a-a61d-4d3c-b9a9-76eb6f92a79a).
 * Crossrail Place Roof Garden.
+* [Trinity Buoy Wharf](https://www.trinitybuoywharf.com/) - a fun space with artists' studios and galleries, and a lighthouse. Layers Bakery is on my wishlist.
 * [The Canary Wharf Winter Lights Festival](https://canarywharf.com/whats-on/) in **January** (evenings).
 * Kricket (Soho and Canary Wharf) - modern North Indian.
 
@@ -185,12 +186,12 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Architecture (including postcard classics): Parliament Square Garden with views of Big Ben, Palace of Westminster and Westminster Abbey, [beautiful mews](https://secretldn.com/prettiest-mews-london/), Marble Arch and Wellington Arch, Royal Albert Hall, 15 Gloucester Road, St Columba's Church Of Scotland, etc.
 * 55 Broadway - London’s first skyscraper, an art-deco "cathedral to modernity" completed in 1929. 
 * Book a tour to see the inside of the [Big Ben Tower](https://www.parliament.uk/visiting/visiting-and-tours/big-ben-tour/) way in advance. It is not cheap, but very much worth it. Arrive early for an airport-style security check. For me, nothing compares to the thrill of seeing London through the clock face of Big Ben, but objectively [Palace of Westminster Audio Tour](https://tickets.parliament.uk/content/ticket-options) is also great. Audio Tour is great, it is cheaper than a Guided Tour, and it has no time limit so you can spend many hours exploring.
-* Westminster Cathedral - an architectural gem that should be much more famous. Their handy [online calendar](https://westminstercathedral.org.uk/spiritual-life/mass-and-offices/) allows you to pick a time to visit that doesn't clash with religious services.
+* Westminster Cathedral - an architectural gem that should be much more famous. Their handy [online calendar](https://westminstercathedral.org.uk/spiritual-life/mass-divine-office/) allows you to pick a time to visit that doesn't clash with religious services.
 * London's beautiful parks - St James's Park, Green Park, Hyde Park. Hyde Park Rose Garden when roses are in bloom, St James's Park for daffodils in spring. Don't miss the [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) in Hyde park - two building on either side of the Serpentine Bridge.
 * [Japan House London](https://www.japanhouselondon.uk/whats-on/) - free exhibitions and events.
 * Onion Garden - an unlikely place to stumble upon.
 * [Nick Hornby sculpture](https://www.nickhornby.com/exhibitions/55-public-commission-power-over-others-is-weakness-disguised-orchard-place-the-broadway-westminster-sw1h-0bg/) on Orchard Place (51.498454, -0.132962).
-* [Roca London Gallery](http://www.rocalondongallery.com/activities-exhibitions) - architecturally interesting place (a bathroom shop), great to visit when there is a free exhibition.
+* [Roca London Gallery](https://www.rocalondongallery.com/storefronts) - architecturally interesting place (a bathroom shop), great to visit when there is a free exhibition.
 * Westminster Station is really pretty inside.
 * [Connaught Village](https://connaught-village.co.uk/) (51.514446, -0.166526) is a nice area for a stroll. Chelsea Common is another one.
 
@@ -213,7 +214,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 ### 13. King's Cross 
 
 * Known as the [Knowledge Quarter](https://www.knowledgequarter.london/) - the location of British Library, Wellcome Trust, Alan Turing Institute, Francis Crick Institute, Google and DeepMind, Nature publishing, The Guardian, Astrazeneca, and many more.
-* Architecture gems include Gasholder Park, Coal Drops Yard (read about its history here (51.535522, -0.126936) and visit architecturally exciting Samsung store on the top floor), Granary Square, Lewis Cubitt Square, community garden (51.538009, -0.124362), Pancras Square, St Pancras Station, the [light tunnel](https://www.kingscross.co.uk/kings-cross-tunnel) (51.533144, -0.124917), etc. [King's Cross Visitor Centre](https://www.kingscross.co.uk/visitor-centre) is a great place to start; the model of the neighbourhood gives you an overview of what there is to explore. Jack has a great post about [this area](https://livinglondonhistory.com/the-hidden-history-of-kings-cross-a-walk/).
+* Architecture gems include Gasholder Park, Coal Drops Yard (read about its history here (51.535522, -0.126936) and visit architecturally exciting Samsung store on the top floor), Granary Square, Lewis Cubitt Square, community garden (51.538009, -0.124362), Pancras Square, St Pancras Station, the [light tunnel](https://www.kingscross.co.uk/kings-cross-tunnel) (51.533144, -0.124917), etc. [King's Cross Visitor Centre](https://www.kingscross.co.uk/kings-cross-welcome-hub) is a great place to start; the model of the neighbourhood gives you an overview of what there is to explore. Jack has a great post about [this area](https://livinglondonhistory.com/the-hidden-history-of-kings-cross-a-walk/).
 * [Wellcome Collection](https://wellcomecollection.org/whats-on).
 * Regent's Canal. From King's Cross it goes west past Wembley, and you can follow it all the way to Slough or Kew Bridge. 
 * Keystone Crescent (51.531825, -0.120135) - a charming bit of old London. 
@@ -233,7 +234,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [Horizon 22](https://horizon22.co.uk/) - London's highest observation deck (58th floor). Book free tickets in advance, bring binoculars. If no tickets available, try [The Lookout](https://www.8bishopsgate.com/lookout) or [Sky Garden](https://skygarden.london/). There is really no need to pay for The View from The Shard or London Eye.
 * [London Mithraeum](https://www.londonmithraeum.com/) - archaeological remains of a Roman temple, 3rd century AD. Book free tickets in advance. For completeness, also visit London's Roman Amphitheatre inside Guildhall Art Gallery.
 * [Guildhall Art Gallery](https://www.thecityofldn.com/directory/guildhall-art-gallery/) - art collection and London's Roman Amphitheatre. Book free tickets in advance.
-* Sculptures: [Sculpture in the city](https://www.sculptureinthecity.org.uk/) - an annual outdoor sculpture exhibition, new sculptures every June; [Our Herd of Hope](https://www.sheldrickwildlifetrust.org/herd-of-hope) - a family of 21 life-sized bronze elephant statues around 1 Bishops Square; a sculpture by [Yayoi Kusama](https://www.davidzwirner.com/artists/yayoi-kusama) in front of Liverpool Street Station (51.517648, -0.083399); etc.
+* Sculptures: [Sculpture in the city](https://www.sculptureinthecity.org.uk/) - an annual outdoor sculpture exhibition, new sculptures every June; [Our Herd of Hope](https://www.theherdofhope.com) - a family of 21 life-sized bronze elephant statues around 1 Bishops Square; a sculpture by [Yayoi Kusama](https://www.davidzwirner.com/artists/yayoi-kusama) in front of Liverpool Street Station (51.517648, -0.083399); etc.
 * Street art around Shoreditch - Brick lane, Grey Eagle Graffiti wall, Whitecross street and much more.
 * Columbia Road Flower Market on Sundays. For the full experience, also visit Hackney City Farm nearby.
 * Walk from Liverpool Street station to Farringdon station underground following [this guide](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html).
@@ -318,7 +319,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Attendant Coffee Roasters - an awesome [underground-restroom-turned-coffee-bar](https://www.atlasobscura.com/places/the-attendant-fitzrovia) in Victorian-era urinals.
 * WatchHouse Somerset House - a great place for a tea and a pastry with a great view of beautiful Somerset House.
 * Gelato: Gelupo, La Gelatiera, Udderlicious.
-* [Twinings The Strand](https://www.atlasobscura.com/places/twinings-tea-shop) tea shop in a historic building. Get any of their teas (even the most expensive one) in a takeaway cup for cheap. Alternatively, try Algerian Coffee Stores (they also do takeaway drinks).
+* [Twinings The Strand](https://www.atlasobscura.com/places/twinings-tea-shop) tea shop in a historic building, as British as it gets. There is a single price for a takeaway tea, which is a great way to try their most expensive teas. For the opposite of British experience, try Algerian Coffee Stores.
 * Wulf & Lamb - here you can try vegan [Redefine Meat](https://www.redefinemeat.com/uk/).
 * Club Mexicana Soho - vegan Mexican.
 * Below Stone Nest - not what you'd expect in Soho. Go for a drink, go early and prepare to be surprised.

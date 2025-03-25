@@ -68,13 +68,10 @@ header: no
 
 ### Clerkenwell:
 * Colonna & Small's?
-* Sofu Coffee?
 * Snoozzze Coffee?
 * Saint Espresso - Angel House?
-* Goswell Road Coffee? 
-* Briki?
 * Mouse Tail Coffee Farringdon?
-* <span style="color:#AEAEAE">No: The Ethiopian Coffee Company (bad).</span>
+* <span style="color:#AEAEAE">No: The Ethiopian Coffee Company (bad), Sofu Coffee (no loo, but bad smells).</span>
 
 <!---
 
