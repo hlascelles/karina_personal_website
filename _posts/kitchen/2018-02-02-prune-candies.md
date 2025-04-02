@@ -10,7 +10,7 @@ categories:
 
 * prunes
 * dark rum
-* dark chocolate (vegan, 70% +)
+* dark >70% chocolate (vegan)
 
 **Methods:**
 
@@ -18,4 +18,4 @@ categories:
 * Once the prunes are ready, cover something flat that fits into your fridge (a chopping board or a plate) with baking paper.
 * Finely grate 25% of the chocolate. Break the remaining chocolate into small pieces and microwave it on low power, stirring frequently, until just melted. Temper it by stirring in the grated chocolate, as explained by [Dan Souza](https://youtu.be/WV_FT9ACA4U?t=344).
 * Use a toothpick to pick out a prune from the rum jar, dip it into the chocolate until covered on all sides and gently land it on the baking paper. Repeat for all prunes.
-* Refrigerate until the chocolate has completely hardened. Transfer into a closed container, keep in the fridge.
+* Refrigerate until the chocolate has completely hardened. Transfer into a closed container, store in the fridge.

@@ -12,7 +12,7 @@ categories:
 * 1 small red onion
 * 200g runner beans
 <nbsp></nbsp>
-* 50g hazelnuts
+* 25g hazelnuts
 * 50g cheddar cheese
 * salt
 * 10 twists of black pepper

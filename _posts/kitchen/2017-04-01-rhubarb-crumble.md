@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Rhubarb (or whatever is in season) crumble
+title: Rhubarb crumble
 header: no
 categories:
     - kitchen
@@ -9,14 +9,14 @@ categories:
 **Ingredients:**
 
 * 400g rhubarb
-* 150g strawberries (optional)
 * 75g sugar
-* 9 teaspoons of Port wine
+* 40g Port wine
+<nbsp></nbsp>
 * 75g flour
 * 75g oats
 * 50g sugar
-* 1/4 teaspoon of salt
-* 100g cold butter
+* 0.5 teaspoon salt
+* 100g butter (cold)
 * almond flakes
 <nbsp></nbsp>
 * plain ice cream
@@ -31,4 +31,4 @@ categories:
 * Bake for 15 min, then scatter almond flakes on top and continue baking for another 15 min (until the rhubarb is tender and the top is crisp and golden).
 * Serve immediately, with a scoop of plain ice cream.
 
-**Notes:** Works equally well with peaches or plums.
+**Notes:** This recipe also works with peaches or thatever is in season.

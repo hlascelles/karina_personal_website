@@ -8,20 +8,22 @@ categories:
 
 **Ingredients:**
 
+* 12 paper muffin cases
+<nbsp></nbsp>
 * 280g flour
 * 60g oats
 * 0.5 teaspoons baking soda
 * 1 teaspoon baking powder
 * 0.5 teaspoon salt
 <nbsp></nbsp>
-* 130g dark bitter chocolate (vegan, 70% +)
-* about 480g of very ripe peeled bananas (3-5 bananas)
+* 130g dark >70% chocolate (vegan)
+* 480g very ripe peeled bananas (3-5 bananas)
 * 80g sunflower/canola oil
 * 170g sugar
 
 **Methods:**
 
-* Preheat the oven to 190C. Line the muffin tin with paper liners.
+* Preheat the oven to 190C. Put the paper muffin cases into the 12 cup muffin tray.
 * Combine flour, oats, baking soda, baking powder and salt.
 * Chop the chocolate into small cubes.
 * Mash bananas with a fork (if they are too hard to do this easily, they won't make good muffins).

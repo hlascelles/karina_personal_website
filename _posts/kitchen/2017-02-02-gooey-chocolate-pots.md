@@ -9,12 +9,12 @@ categories:
 **Ingredients:**
 
 * 115g butter
-* 170g dark bitter chocolate (70% +)
+* 170g dark >70% chocolate
 * 3 eggs (2 whole and 1 yolk)
 * 115g sugar
 * 35g flour
 * 30g cacao powder
-* 1/4 teaspoon salt
+* 0.25 teaspoon salt
 <nbsp></nbsp>
 * raspberries
 * plain ice cream

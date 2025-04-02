@@ -40,7 +40,7 @@ widgets:
   title: <a href="/kitchen/cake/" target="_self">Sweet stuff&colon;<br>baked goods</a>
 - url: /kitchen/sweet/
   image: food-sweet.jpg
-  title: <a href="/kitchen/sweet/" target="_self">Sweet stuff&colon;<br>desserts without oven</a>
+  title: <a href="/kitchen/sweet/" target="_self">Sweet stuff&colon;<br>fruity and/or sugary</a>
 ---
 
 All recipe websites I've come across have one thing in common - they are made by people who love to cook. 

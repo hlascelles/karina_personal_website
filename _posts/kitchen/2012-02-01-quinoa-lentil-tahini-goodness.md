@@ -22,7 +22,7 @@ categories:
 * 1 red Romano pepper
 * 8 halfs of sun dried tomatoes in oil
 * 3 teaspoons of capers
-* 200g of goat feta
+* 100g of goat feta
 <nbsp></nbsp>
 * cherry tomatoes
 * herbs (parsley, mint)

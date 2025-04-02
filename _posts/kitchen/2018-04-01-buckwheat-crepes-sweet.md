@@ -10,7 +10,6 @@ categories:
 
 * 100g buckwheat flour
 * 0.25 teaspoon of salt
-<nbsp></nbsp>
 * 30g butter
 * 1 egg
 * 330g milk

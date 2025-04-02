@@ -6,16 +6,19 @@ meta_description:
 header: no
 ---
 
-* Commons at Old Street Works. Single origin beans, <span style="color:#38B000">current Milky Way is great.</span>
-* Kiss the Hippo. Single origin beans, <span style="color:#84A98C">currently?</span> No loo.
-* Compane. No loo. 
+Favourite roasters: DAK Amsterdam (Coco Bongo, Tropic Electric, Milky Cake). <br/><br/>
+
+
+* Commons at Old Street Works. Now serving <span style="color:#38B000"> Milky Way by Coborn (great). Also try regular.</span>
+* Kiss the Hippo. Now serving <span style="color:#84A98C">Leonid Ramirez EF2 by Kiss the Hippo (good). Also try regular.</span> No loo.
 <nbsp></nbsp>
+* Compane. No loo. 
 * The Neva London?
 * Rose & Rose?
 * Frequency?
 
 ### Bazaar:
-* Morr. Single origin beans, <span style="color:#38B000">current Milky Cake is great.</span>
+* Morr. Now serving <span style="color:#38B000">Coco Bongo by DAK Amsterdam (great).</span>
 * Pophams. Great coffee. Outdoor seating.
 <nbsp></nbsp>
 * Profile Coffee? <span style="color:#84A98C">Single origin beans?</span>
@@ -28,7 +31,7 @@ header: no
 * <span style="color:#AEAEAE">No: Southpaw Coffee (mediocre coffee, no loo, wobbly bench), Trade (bad), Devotion Coffee Angel (bad), 13th Floor Coffee Highbury Fields (bad), Good Manners (bad, no loo), Redemption Roasters (bad), Brood (bad), Rugged Bunch (bad).</span>
 
 ### Dalston:
-* The Dusty Knuckle Bakery. Outdoor seating.
+* Lodestar Coffee. Now serving <span style="color:#84A98C">POP (peachy) by People Possession (ok). Also try regular.</span>
 <nbsp></nbsp>
 * Jolene Bakery & Restaurant?
 * Luminary Bakery?
@@ -39,19 +42,18 @@ header: no
 
 ### Canal:
 * Day Trip. Outdoor seating. Order Flat White.
+<nbsp></nbsp>
 * Forno.
 * Bobo & Wild Shoreditch. Outdoor seating. Order Flat White.
-<nbsp></nbsp>
-* Batch Baby?
 * De Beauvoir Deli Cafe?
 * Climpson & Sons Café?
 * % Arabica London Broadway Market?
 * Yeast Bakery?
+* <span style="color:#AEAEAE">No: Batch Baby (too milky).</span>
 
 ### Shoreditch:
-* Lift Coffee Shoreditch. Single origin beans, <span style="color:#38B000">current Volcan Azul Typica is great. Also try 24AW.</span> 
-* Origin Coffee (Charlotte Road). Single origin beans, <span style="color:#84A98C">current Caxambu is ok, check back after Apr 6th.</span>
-* Rise & Bloom Shoreditch. Outdoor seating. Mediocre coffee.
+* Lift Coffee Shoreditch. Now serving <span style="color:#38B000">Volcan Azul Typica by ? (great). Also try regular - 24AW.</span> 
+* Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">Caxambu (ok), check back after Apr 6th. Also try regular.</span>
 <nbsp></nbsp>
 * Photobookcafe? Outdoor seating.
 * Coffee Matters?
@@ -64,14 +66,19 @@ header: no
 * Breidbakers?
 * Hermanos Colombian Coffee Roasters?
 * Jack Garcia Coffee?
-* <span style="color:#AEAEAE">No: Attendant Coffee Roasters Shoreditch (bad), Ozone Coffee Shoreditch (bad).</span>
+* <span style="color:#AEAEAE">No: Attendant Coffee Roasters Shoreditch (bad), Ozone Coffee Shoreditch (bad), Rise & Bloom (mediocra coffee).</span>
 
 ### Clerkenwell:
+* Snoozzze Coffee. Now serving <span style="color:#38B000">Substance by Plot Roasting (great but very acidic). Also try their regular.</span>
+<nbsp></nbsp>
 * Colonna & Small's?
-* Snoozzze Coffee?
 * Saint Espresso - Angel House?
 * Mouse Tail Coffee Farringdon?
 * <span style="color:#AEAEAE">No: The Ethiopian Coffee Company (bad), Sofu Coffee (no loo, but bad smells).</span>
+
+### Other:
+* Long & Short.
+* Nostos Coffee.
 
 <!---
 

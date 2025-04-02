@@ -15,7 +15,7 @@ categories:
 * 110g coconut oil at fridge temperature
 <nbsp></nbsp>
 * 400g coconut cream
-* 180g dark 70%+ chocolate 
+* 180g dark >70% chocolate 
 * cacao nibs
 
 **Methods:**

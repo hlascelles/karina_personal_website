@@ -9,10 +9,10 @@ categories:
 **Ingredients:**
 
 * 160g cashews
-* 200g Medjool dates
+* 200g dates
 * 0.25 teaspoon salt
-<nbsp></nbsp>
 * 30g pistachios
+<nbsp></nbsp>
 * 3 egg yolks
 * 84g butter
 * 5 [grapefruits](https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix)

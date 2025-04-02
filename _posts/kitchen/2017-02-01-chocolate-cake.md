@@ -9,15 +9,14 @@ categories:
 **Ingredients:**
 
 * 230g butter 
-* 330g dark 70%+ chocolate 
+* 330g dark >70% chocolate 
 <nbsp></nbsp>
 * 6 eggs
-<nbsp></nbsp>
 * 60g kefir (buttermilk)
 * 185g  sugar
 * 4 teaspoons cornstarch (about 10g)
 * 0.75 teaspoons salt 
-* 2 teaspoons vanilla extract (10g)
+* 10g vanilla extract
 * 1 tablespoon instant coffee (about 5g)
 <nbsp></nbsp>
 * hazelnuts

@@ -13,10 +13,10 @@ categories:
 * 100g white granulated sugar
 * 1 teaspoon salt
 * 2 teaspoons vanilla extract
-* 2 eggs (1 egg and 1 yolk)
+* 2 eggs (1 whole and 1 yolk)
 * 250g flour
 * 1/2 teaspoon baking soda
-* 215g chocolate chips
+* 215g dark >70% chocolate chips
 
 **Methods:**
 

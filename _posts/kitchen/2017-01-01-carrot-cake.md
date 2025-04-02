@@ -11,22 +11,28 @@ categories:
 * 260g carrots
 * 4 oranges
 * 100g walnuts
-* 230g dark Muscovado sugar (+70g later)
+* 230g dark Muscovado sugar 
 * 230g flour
 * 4 teaspoons baking powder
 * 2 teaspoons cinnamon
-* 1 teaspoon ground ginger
-* 1/2 teaspoon ground nutmeg
-* 1/2 teaspoon ground cloves
+* 1 teaspoon ginger powder
+* 0.5 teaspoon salt
+* 0.5 teaspoon clove powder
+* 0.5 teaspoon freshly ground nutmeg
 * 3 eggs
 * 145g vegetable oil
+<nbsp></nbsp>
+* 70g dark Muscovado sugar 
 * 280g full-fat cream cheese
+
+
+(+70g later)
 
 **Methods:**
 
 * Preheat the oven to 180C. Grease an 23cm loose-bottomed round cake tin.
 * Grate the carrots, grate zest from 2 oranges, chop the walnuts. Put these and 230g of muscovado sugar into a large bowl.
-* In a different bowl mix flour, baking powder and spices (cinnamon, ginger, nutmeg and cloves).
+* In a different bowl mix flour, baking powder, salt and spices (cinnamon, ginger, cloves and nutmeg).
 * Lightly beat the eggs, combine with oil.
 * Add flour mix to the carrot mix and stir until well combined. Add the egg mixture and stir until well combined.  
 * Pour into the cake tin and bake in the oven for 35-60 minutes, until a skewer comes out clean.

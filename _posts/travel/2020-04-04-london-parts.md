@@ -47,7 +47,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 * One of the new neighbourhoods in London. See the Battersea Power Station that has been renovated into a shopping mall and [flats](https://propertylistings.ft.com/propertynews/london/7002-for-their-interiors-inspiration-battersea-power-stations-residential-architects-turned-to-the-buildings-original-role.html), and exciting architecture of the surrounding residential buildings.
 * Battersea Park and Albert Bridge (lit up beautifully at night).
-
+* Coffee: Nostos Coffee.
 
 
 <a name="brixton"></a>
@@ -86,10 +86,10 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 ### 6. Dalston  
 
 * Green spaces - Clissold Park, Abney Park Cemetery Trust (a beautiful cemetery, especially wonderful for a stroll on a hot summer day as it stays cool), New River Path (a narrow 1km park from (51.541842, -0.097758) to (51.547047, -0.092159)), Dalston Eastern Curve Garden.
-* De Beauvoir Town - lovely pedestrian streets between De Beauvoir Square and De Beauvoir Deli. Batch Baby is a coffee shop with great vibes.
+* De Beauvoir Town - lovely pedestrian streets between De Beauvoir Square and De Beauvoir Deli.
 
 **Food:**
-* Day Trip - great coffe in a lovely residential setting. For cortado order Flat White.
+* Coffee: Day Trip (in a lovely residential setting, for cortado order Flat White).
 * Berber & Q Grill House - Middle-eastern flavours. Their Berber & Q Shawarma Bar in Islington is also good.
 * Oi Vita Pizzeria - awesome pizza, many vegan options.
 * Ethiopian food (many vegan options) - Laza Eritrean Ethiopian Restaurant and Andu Ethiopian.
@@ -112,15 +112,15 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [Queen's House](https://www.rmg.co.uk/queens-house) - maritime paintings. Book free tickets in advance.
 * [Painted Hall of the Old Royal Naval College](https://ornc.org/) - the Sistine Chapel of England. Ask for free audio guide - it is great. Cheap tickets on first Sunday of every month.
 * [National Maritime Museum](https://www.rmg.co.uk/national-maritime-museum) - free until summer 2025. Book free tickets in advance. "Astronomy Photographer of the Year" is always great.
-* Royal Observatory Greenwich (not free). Do walk to it via Prime Meridian Walk, even if you are not planning to buy a ticket. You'll cross the Prime Meridian on your walk and you'll be treated to amazing views of London from the top of the hill.
+* Royal Observatory Greenwich (not free). Do walk to it via Prime Meridian Walk, even if you are not planning to buy a ticket. You'll cross the Prime Meridian on your walk and you'll be treated to an amazing views of London from the top of the hill. Though my favourite view of old architecture framing the new is from (51.482388, -0.0048).
 * Take a ferry (not free) to/from Woolwich Royal Arsenal ferry terminal to pass through the Thames Barrier (51.496888, 0.037287). On the way you'll see Tate and Lyle sugar factory, The O2 arena, etc. Around Woolwich, ViB Bar Bao Bun Bar has great food.
 * [Crossness Pumping Station](https://crossness.org.uk/) steaming days - an opportunity to visit [Cathedral of Sewage from Victorian era](https://livinglondonhistory.com/crossness-londons-amazing-cathedral-of-sewage/). This one is still on my wishlist. I visited [Abbey Mills Pumping station](https://www.e7-nowandthen.org/2016/10/a-nod-at-our-neighbours-abbey-mills.html) (which is similar, but rarely possible to visit) and it blew my mind. 
 * [Greenwich Peninsula's Art Trail](https://www.greenwichpeninsula.co.uk/whats-here/art-trail).
 * Greenwich Foot Tunnel is an exciting way to cross the Thames river on foot.
 
 **Food:**
+* Coffee: 15grams Coffee House.
 * Eat Vietnam Bar B Grill 1 - great Vietnamese food.
-* 15grams Coffee House has great coffee.
 
 
 
@@ -135,6 +135,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * London Sri Mahalakshmi Temple (South Indian) in East Ham (especially worth seeing if you've not yet been to India).
 
 **Food:**
+* Coffee: Lodestar Coffee.
 * Pastries: Forno, Pophams (several locations), Pavilion Bakery (several locations), E5 Bakehouse, The Snapery East, Yeast Bakery.
 * Casa Fofó - tasting menu with a focus on local and seasonal. Vegetarian option available.
 * [EDIT](https://www.edit.london/) - vegan restaurant with a focus on local and seasonal; low on waste and environmental impact.
@@ -164,17 +165,17 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Richmond Avenue - houses on this residential street, between (51.538689, -0.111474) and (51.538698, -0.113564), are guarded by mini [sphinxes and obelisks](https://livinglondonhistory.com/surprising-places-to-see-ancient-egypt-in-london/) that were installed in 1841 at the height of Egypt-mania. For another example of Egypt-mania, see Gracepoint (161-169 Essex Road).
 * Exmouth Market - a wonderful place to hangout on a warm evening.
 * Neal's Yard Dairy - an excellent shop of British and Irish cheeses. Several locations, this is the most non-touristy.
+* [The London Archives](https://www.thelondonarchives.org/whats-on) - if you are around on Wednesday evening, pop in for a free exhibition about something London history related. Go one floor up to leave your bag and coat in the locker, then one more floor up for the exhibitions (there is a lot to discover, do ask the person at the desk where to look).
 
 **Food:**
-* For amazing coffee, ask for frequently changing guest single origin beans at Morr (geek level coffee making). Pophams Bakery also has great coffee.
+* Coffee: Morr, Day Trip.
 * Tofu Vegan - vegan Chinese. Several locations.
 * Jam Delish - vegan Caribbean. 
 * Berber & Q Shawarma Bar - Middle-eastern flavours. Their Berber & Q Grill House in Dalston is also good.
 * Zia Lucia - Italian pizzas, including their famous charcoal crust. Several locations.
 * Afghan Kitchen - amazing food. I'd go there every week, but the menu has not changed in the past 10 years.
 * [Towpath](https://www.towpathlondon.com/) - lovely outdoor restaurant on the canal in Islington, perfect for lunch or a dinner on a warm summer evening.
-* Cafe Tiffin - North Indian.
-* Pastries: Pophams (several locations), Jolene (several locations).
+* Pastries: Pophams (several locations, also has great coffee), Jolene (several locations).
 * Udderlicious for gelato (several locations).
 * Katsute 100 - a perfect place for a non-alcoholic drinks meeting in the evening.
 
@@ -183,10 +184,11 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 <a name="kensington"></a>
 ### 12. Kensington 
 
-* Architecture (including postcard classics): Parliament Square Garden with views of Big Ben, Palace of Westminster and Westminster Abbey, [beautiful mews](https://secretldn.com/prettiest-mews-london/), Marble Arch and Wellington Arch, Royal Albert Hall, 15 Gloucester Road, St Columba's Church Of Scotland, etc.
+* Architecture (including postcard classics): Parliament Square Garden with views of Big Ben, Palace of Westminster and Westminster Abbey; United Nations Green surrounded by different architectural styles, [beautiful mews](https://secretldn.com/prettiest-mews-london/), Marble Arch and Wellington Arch, Royal Albert Hall, 15 Gloucester Road, St Columba's Church Of Scotland, etc.
 * 55 Broadway - London’s first skyscraper, an art-deco "cathedral to modernity" completed in 1929. 
 * Book a tour to see the inside of the [Big Ben Tower](https://www.parliament.uk/visiting/visiting-and-tours/big-ben-tour/) way in advance. It is not cheap, but very much worth it. Arrive early for an airport-style security check. For me, nothing compares to the thrill of seeing London through the clock face of Big Ben, but objectively [Palace of Westminster Audio Tour](https://tickets.parliament.uk/content/ticket-options) is also great. Audio Tour is great, it is cheaper than a Guided Tour, and it has no time limit so you can spend many hours exploring.
 * Westminster Cathedral - an architectural gem that should be much more famous. Their handy [online calendar](https://westminstercathedral.org.uk/spiritual-life/mass-divine-office/) allows you to pick a time to visit that doesn't clash with religious services.
+* [Supreme Court](https://www.supremecourt.uk/visit-the-court/plan-your-visit) - a beautiful building, small exhibitions and a chance to attend a court hearing. Free.
 * London's beautiful parks - St James's Park, Green Park, Hyde Park. Hyde Park Rose Garden when roses are in bloom, St James's Park for daffodils in spring. Don't miss the [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) in Hyde park - two building on either side of the Serpentine Bridge.
 * [Japan House London](https://www.japanhouselondon.uk/whats-on/) - free exhibitions and events.
 * Onion Garden - an unlikely place to stumble upon.
@@ -204,6 +206,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Temporary (not free) exhibitions at [Saatchi Gallery](https://www.saatchigallery.com/whats-on) and [the Design Museum](https://designmuseum.org/exhibitions).
 
 **Food:**
+* Coffee: Nostos Coffee, Lift Coffee.
 * Mali Vegan Thai - vegan Thai.
 * Chai Guys Bakehouse - awesome pastries. Last time I checked they served vegan chai but had no vegan pastries.
 * Gelato: Oddono's (several locations).
@@ -242,7 +245,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Redchurch Street - a trendy area, great for a stroll on a weekend or a warm evening.
 * Monument to the Great Fire of London.
 * St. Katherine’s Docks.
-* Bank of England Museum - a chance to hold a bar of gold.
+* Bank of England Museum - a chance to hold a gold bar.
 * Bike Shed Moto Co. - is an interesting place, especially if you like motorbikes.
 * Smithfield Market - meat night market open from midnight until 7am. Architecturally interesting even when the market is closed. If you still need dinner and it is already 6am, around here there is a lot of 24 hour activity, people having their morning coffee at midnight and dining at 6am.
 
@@ -255,7 +258,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Exchange Square for a great view of Liverpool Street Station, Aldgate Square has a great fountain, Finsbury Circus Garden has pretty buildings around it.
 
 **Food:**
-* For amazing coffee, ask for frequently changing guest single origin beans at Lift Coffee Shoreditch, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road).
+* Coffee: Lift Coffee, Snoozzze Coffee, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road).
 * Spitalfields area is becoming a vegan destination: Bubala (vegan or vegetarian tasting menu, I've been many times and it never disappoints, and they have other locations too), Tofu Vegan (several locations), etc.
 * Nest - great tasting menu with a focus on seasonal and local. They no longer offer vegetarian menu.
 * Sen Viet Vegan Restaurant - vegan Vietnamese food.
@@ -280,6 +283,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * London Wetland Centre is a lot of fun. Bring binoculars.
 
 **Food and drink:**
+* Coffee: Kiss the Hippo.
 * Petersham Nurseries Café - a wonderful place to stop for a tea and a cake in a plant-filled glasshouse.
 * Kaffee Limited - Viennese cafe with awesome pastries and cakes.
 
@@ -308,6 +312,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Stroll past numerous [private art galleries](https://londongalleryweekend.art/map/). My favourite ones to visit include White Cube Mason’s Yard, Waddington Custot, Phillips London at 30 Berkeley Square (glass walls makes it fun to visit even when it is closed), Saatchi Yates (also enough windows to warrant a visit when it is closed), [Unit](https://unitlondon.com/).
 
 **Food:**
+* Coffee: Kiss the Hippo (many locations).
 * Akoko - modern West African. Tasting menu with a vegan option.
 * NOPI - by [Yotam Ottolenghi](https://ottolenghi.co.uk/).
 * Kricket (Soho and Canary Wharf) - modern North Indian.
@@ -356,8 +361,8 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Markfield Beam Engine and Museum - the engine is a great thing to see, especially if you can catch it in [operation](https://www.mbeam.org/visit).
 
 **Food:**
+* Coffee: [Long & Short](https://longshortlondon.com/).
 * [SlowBurn](https://www.slowburn.london/) - seasonal vegetable-centric menu, many vegan options.
-* [Long & Short](https://longshortlondon.com/) - probably my favourite coffee place in London. 
 * [supperclub.tube](https://supperclub.tube/) - Latin American inspired tasting menu. A unique experience of dining on a 1967 Victoria Line tube carriage.
 * Chuku's - Nigerian tapas, many vegan options.
 * [Beaten by a Whisker](https://www.beatenbyawhisker.com/) - bakery, incidentally vegan. Nearby vegan chicken shop - [Chickenish](https://www.chickenish.com/).

@@ -9,7 +9,7 @@ categories:
 **Ingredients:**
 
 * 130g buckwheat flour
-* 6 teaspoons ground seeds (flaxseeds, chia seeds, sunflower, pumpkin)
+* 6 teaspoons ground seeds (sunflower, pumpkin, flax and chia)
 * 1 teaspoon baking powder
 * 1 teaspoon cinnamon
 * 0.25 teaspoon salt
