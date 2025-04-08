@@ -11,7 +11,7 @@ categories:
 * 1 smallest butternut squash
 * olive oil
 <nbsp></nbsp>
-* 200g Lacinato kale, or any flat leaf variety
+* 200g Lacinato kale (Cavolo nero)
 * 30g olive oil
 * 15g balsamic vinegar
 * 10g Dijon mustard (about 1.5 teaspoons)

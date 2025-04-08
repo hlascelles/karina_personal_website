@@ -33,8 +33,6 @@ categories:
 * Toast hazelnuts in the oven at 180C.
 * Refrigerate the cake overnight. Then serve with hazelnuts.
 
-**Notes:** I keep small slices of this cake in my freezer; eating them straight out of the freezer (with hazelnuts) instantly satisfies chocolate, cake and ice cream cravings.
-
 **Inspired by:** [Brian Lagerstrom](https://youtu.be/5bp2XJn5AQs)
 
-This recipe superseded my previous favourite - [aubergine chocolate cake](/kitchen/aubergine-chocolate-cake/). The main difference is that aubergines and almond flour are replaced with kefir. 
+**Notes:** I keep small slices of this cake in my freezer; so I can defrost them one at a time when needed. 

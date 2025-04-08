@@ -27,4 +27,6 @@ categories:
 * Pour the buttermilk blend into the dry ingredients and give it 10 stirs to combine. Slowly stream in the melted butter, mixing it in with another 10 stirs. Be careful not to overmix the batter; it should remain lumpy!
 * Spoon small dollops of batter on a hot non-stick pan. They will expand, so do keep them small and spaced out. Flip as soon as the bottom sides are golden brown, while the tops are still liquid.
 
+**Notes:** Serve with fruits and berries, nut butters, cacao nibs and dairy (yoghurt, ricotta, cottage cheese). I much prefer juiciness of fruits, bitterness of cacao nibs and creaminess of dairy to bland sweetness of syrups or honey.
+
 **Inspired by:** [Brian Lagerstrom](https://youtu.be/4QcK3MXl9sg)

@@ -258,7 +258,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Exchange Square for a great view of Liverpool Street Station, Aldgate Square has a great fountain, Finsbury Circus Garden has pretty buildings around it.
 
 **Food:**
-* Coffee: Lift Coffee, Snoozzze Coffee, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road).
+* Coffee: Lift Coffee, Snoozzze Coffee, Colonna & Small's, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road), High Grade Coffee.
 * Spitalfields area is becoming a vegan destination: Bubala (vegan or vegetarian tasting menu, I've been many times and it never disappoints, and they have other locations too), Tofu Vegan (several locations), etc.
 * Nest - great tasting menu with a focus on seasonal and local. They no longer offer vegetarian menu.
 * Sen Viet Vegan Restaurant - vegan Vietnamese food.

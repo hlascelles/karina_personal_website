@@ -47,3 +47,5 @@ categories:
 * Taste to adjust salt, spiciness (chilli powder), acidity (lime juice) and sweetness (unrefined sugar).
 * Stir in half of the basil.
 * Serve with rice, sprinkled with remaining basil and with lime wedgies on the side.
+
+**Note:** Pineapples ripen only while being attached to the plant (they are non-climacteric), and once harvested, they stop the ripening process. So the freshest pineappple is always best, and don't try to ripen it at home.

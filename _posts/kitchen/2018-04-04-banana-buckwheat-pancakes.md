@@ -27,4 +27,6 @@ categories:
 * Add bananas to the flour mixture, mix until combined. Add milk, melted butter and vanilla extract, and mix until combined.
 * Spoon small dollops of batter on a hot non-stick pan. They will expand, so do keep them small and spaced out. Flip as soon as the bottom sides are brown.
 
+**Notes:** Serve with fruits and berries, nut butters, cacao nibs and dairy (yoghurt, ricotta, cottage cheese). I much prefer juiciness of fruits, bitterness of cacao nibs and creaminess of dairy to bland sweetness of syrups or honey.
+
 **Inspired by:** [Pick Up Limes](https://www.pickuplimes.com/recipe/fabulously-healthy-buckwheat-pancakes-185)

@@ -19,8 +19,8 @@ categories:
 <nbsp></nbsp>
 * coconut oil
 * 200g tomatoes
-* 450g paneer
-* 750g spinach
+* 650g paneer
+* 800g spinach
 * 50g double cream
 <nbsp></nbsp>
 * wholegrain rice

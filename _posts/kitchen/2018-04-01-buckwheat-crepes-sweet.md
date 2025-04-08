@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Sweet buckwheat crepes
+title: Buckwheat crepes
 header: no
 categories:
     - kitchen
