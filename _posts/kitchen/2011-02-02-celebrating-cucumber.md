@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Cucumber and tahini salad
+title: Celebrating a good cucumber
 header: no
 categories:
     - kitchen

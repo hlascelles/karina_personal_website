@@ -10,7 +10,7 @@ categories:
 
 * courgettes - fresh, firm, young and thin; but not baby courgettes
 * pistachios
-* watercress
+* delicate cruciferous greens (rocket/arugula or watercress)
 <nbsp></nbsp>
 * 1 lemon
 * 30g olive oil
@@ -23,6 +23,6 @@ categories:
 * Cut the courgettes into thin ribbons using a vegetable peeler.
 * Zest a lemon.
 * In a small glass jar combine lemon zest, 30g of lemon juice, olive oil, Dijon mustard and salt. Close and shake it vigorously into a dressing. 
-* Mix courgettes with pistachios, watercress leaves and the dressing.
+* Mix courgettes with pistachios, cruciferous greens and the dressing.
 
 **Inspired by:** [Coal Office](https://coaloffice.com/) restaurant in London, UK.

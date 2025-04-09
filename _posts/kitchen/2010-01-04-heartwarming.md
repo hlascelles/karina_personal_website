@@ -10,7 +10,6 @@ categories:
 **Indian flavours:**
 * [Palak paneer](/kitchen/palak-paneer/)
 * [Mattar paneer](/kitchen/mattar-paneer/)
-* [Bhindi masala (okra)](/kitchen/bhindi-masala/)
 
 **Thai flavours:**
 * [Mushroom and pumpkin red Thai curry](/kitchen/red-thai-curry/)

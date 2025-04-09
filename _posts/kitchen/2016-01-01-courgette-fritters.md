@@ -14,6 +14,7 @@ categories:
 * flour
 * 2 teaspoons coriander powder
 * 1 teaspoon Kashmiri chilli powder
+* 0.25 teaspoon salt
 * 100g feta cheese
 * olive oil
 <nbsp></nbsp>
@@ -28,7 +29,7 @@ categories:
 * Start boiling baby potatoes.
 * Grate the courgettes and place them in a bowl.
 * Finely chop the onion and herbs.
-* Place a new large bowl onto a kitchen scale. Transfer grated courgettes into a new bowl by hand, squeezing juice out of each handful. You must have a dry looking pile of courgettes in the new bowl. Note how many grams of dry courgettes you have.
+* Place a new large bowl onto a kitchen scale. Transfer grated courgettes into a new bowl by hand, squeezing juice out of each handful. You must have a dry looking pile of courgettes in the new bowl. Note how many grams of dry courgettes you have. Separately, add a pinch of salt to the resulting courgette juice and enjoy the drink.
 * Add 10% of flour by weight (10g of flour for every 100g of courgettes). 
 * Add chopped onion, herbs, coriander, chilli powder and salt to the courgettes. Mix well. Crumble in the feta and mix it in gently.
 * Pre-heat a non-stick pan with olive oil.

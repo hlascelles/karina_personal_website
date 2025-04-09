@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Red ratatouille risotto
+title: Red wine risotto
 header: no
 categories:
     - kitchen
@@ -30,8 +30,8 @@ categories:
 **Methods:**
 * Preheat the oven to 180C.
 * Cut the aubergine and the courgette into large chunks. In a baking tray combine that with cherry tomatoes, some olive oil, salt and black pepper. Spread veggies into a single layer and bake in the oven for about 40min.
-* Finely chop the onion.
-* Heat some olive oil in a heavy bottom pot. Add chopped onions. Reduce the heat and cook until soft and translucent, about 12min.
+* Dice the onion.
+* Heat some olive oil in a heavy bottom pot. Add the onions. Reduce the heat and cook until soft and translucent, about 12min.
 * Finely chop sundried tomatoes and fresh herbs. 
 * Use the garlic press to add garlic directly into the pot. Stir.
 * Once you can smell the garlic, add sundried tomatoes and fresh herbs to the pot together with tomato paste and 0.5 teaspoon salt. Cook for another 5min.

@@ -26,3 +26,5 @@ categories:
 * In the meantime, roughly chop the red onion and place it into a bowl along with sunflower seeds, olive oil (25g), mirin, tamari soy sauce, chilli powder and 80g of water. Handblender everything into a sauce.
 * Once the cabbage has softened, drain or evaporate all the water from the pan. Add olive oil in between the wedges and lift them slightly one by one to let the oil underneath. Fry until the edges of the cabbage start to char. Flip the wedges and wait for the other side to start charring.
 * To serve, spread sunflower sauce on the plates and top it with cabbage wedges.
+
+**Notes:** This recipe uses reverse sear technique, as described by [Lan Lam](https://youtu.be/JURWfebevjc). 

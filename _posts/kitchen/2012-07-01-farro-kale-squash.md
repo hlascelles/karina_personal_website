@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Farro, kale and squash bowl
+title: Farro, kale, squash
 header: no
 categories:
     - kitchen

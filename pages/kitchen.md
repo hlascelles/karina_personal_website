@@ -15,9 +15,9 @@ widgets:
   image: food-big.jpg
   title: <a href="/kitchen/big/" target="_self">Big plates</a>
 
-- url: /kitchen/curry/
-  image: food-curry.jpg
-  title: <a href="/kitchen/curry/" target="_self">Heartwarming stuff</a>
+- url: /kitchen/heartwarming/
+  image: food-heartwarming.jpg
+  title: <a href="/kitchen/heartwarming/" target="_self">Heartwarming stuff</a>
 - url: /kitchen/carbs/
   image: food-carbs.jpg
   title: <a href="/kitchen/carbs/" target="_self">Carby stuff</a>

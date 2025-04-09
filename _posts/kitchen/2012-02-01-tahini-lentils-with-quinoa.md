@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Quinoa, lentil and tahini goodness
+title: Tahini lentils with quinoa
 header: no
 categories:
     - kitchen

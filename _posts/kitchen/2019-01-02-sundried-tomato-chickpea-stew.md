@@ -26,6 +26,8 @@ categories:
 * 400g can of coconut milk
 * 10g nutritional yeast flakes
 * 200g spinach
+<nbsp></nbsp>
+* pitas
 
 **Methods:**
 * Prepare the spice mix of smoked paprika, oregano, chilli, cinnamon, lime powder and salt.
@@ -39,5 +41,6 @@ categories:
 * Add the can of coconut milk and nutritional yeast flakes. Stir to combine and leave it simmering on low heat.
 * When almost ready to serve, stir in the spinach and let it whilt for 2 minutes.
 * Taste and adjust for salt and acidity (lime powder).
+* Serve with toasted pitas.
 
 **Inspired by:** [Allie](https://naturallieplantbased.com/marry-me-chickpeas/).

@@ -8,9 +8,9 @@ categories:
 
 **Ingredients:**
 
-* rye bread
+* dark rye bread
 * hummus
 * spicy Indian pickle (mango or lime)
 
 **Methods:**
-* Spread hummus on the rye bread. Top with a small amount of spicy Indian pickle.
+* Spread hummus on the rye bread. Top with spicy Indian pickle.

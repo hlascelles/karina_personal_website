@@ -11,7 +11,7 @@ categories:
 * 400g baby potatoes
 * 300g green beans
 * 200g cherry tomatoes
-* 60g arugula
+* 60g delicate cruciferous greens (rocket/arugula or watercress)
 <nbsp></nbsp>
 * 60g walnuts
 * 10g red onion
@@ -28,4 +28,4 @@ categories:
 * Start boiling baby potatoes. Add green beans to the same pot, and remember to get them out with tongs once they are ready. 
 * Prepare the dressing - handblender together roasted walnuts, roughly chopped red onion, mustard, vinegar, olive oil, water, salt and pepper.
 * Half or quarter tomatoes based on their size.
-* Chop potatoes and beans into bite size pieces. Mix them with the dressing. Add tomatoes and arugula and give it a final toss.
+* Chop potatoes and beans into bite size pieces. Mix them with the dressing. Add tomatoes and cruciferous greens, and give it a final toss.

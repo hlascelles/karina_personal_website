@@ -10,11 +10,48 @@ image:
 Favourite roasters: 
 * DAK Amsterdam (Coco Bongo, Tropic Electric, Milky Cake). <br/><br/>
 
-London roasteries to try: Scenery, 80 Stone Coffee Roasters, Coborn Coffee, Conscious, SEND Coffee, Assembly Coffee, Volcano Coffee Works, Press Coffee & Co, Old Spike Roastery, Catalyst, Caravan Coffee Roasters, Hej Coffee, Legs, Monmouth Coffee Company, Dark Arts Coffee, Rascal Coffee, Climpson & Sons, Mission Coffee Works, Bad Coffee, Saint Espresso / Saint Coffee Roasters, Hermanos Colombian Coffee Roasters, Square Mile Coffee Roasters, PLOT Roasting, Elsewhere Coffee, Ozone Coffee. <br/><br/>
+London roasteries to try: 
+15 grams, 
+80 Stone, 
+Assembly, 
+Bad (Nat Has Her Beans is meh), 
+Caravan, 
+Campbell&Syme, 
+Catalyst, 
+Climpson & Sons, 
+Coborn (Milky Way is great), 
+Colonna (Agualinda is ok), 
+Conscious, 
+Dark Arts, 
+Elsewhere, 
+Hej Coffee, 
+Hermanos Colombian, 
+High Grade, 
+Kiss the Hippo (Ethiopia Gerse is amazing), 
+Legs, 
+Long & Short, 
+Mission Coffee Works, 
+Monmouth, 
+Nostos, 
+Old Spike Roastery, 
+Origin, 
+Ozone, 
+Plot (Substance is acidic AF but great), 
+Press Coffee & Co, 
+Qima, 
+Rascal, 
+Saint Espresso, 
+Scenery, 
+Send, 
+Square Mile, 
+Volcano Coffee Works.
+<br/><br/>
+
+
 
 ### Bazaar:
 * Morr. Now serving <span style="color:#38B000">Coco Bongo by DAK Amsterdam (great).</span>
-* Pophams. Great coffee. Outdoor seating.
+* Pophams. Great coffee. They roast themselves at Ozone. Outdoor seating. 
 <nbsp></nbsp>
 * Fink's - try Scenery coffee.
 * Saltine - try Scenery coffee.
@@ -22,7 +59,6 @@ London roasteries to try: Scenery, 80 Stone Coffee Roasters, Coborn Coffee, Cons
 * Caravan Coffee Roasters and Brewbar?
 * High Ground?
 * Frequency?
-* <span style="color:#AEAEAE">No: Southpaw Coffee (mediocre, no loo, wobbly bench), serving Allpress (Compane, Neva), bad (Trade, Devotion Coffee, 13th Floor Coffee, Good Manners, Redemption Roasters, Brood, Rugged Bunch).</span>
 
 ### Dalston:
 * Lodestar Coffee. Now serving <span style="color:#84A98C">POP peachy by People Possession (ok). Also try regular.</span>
@@ -30,7 +66,7 @@ London roasteries to try: Scenery, 80 Stone Coffee Roasters, Coborn Coffee, Cons
 * Jolene Bakery & Restaurant?
 * Luminary Bakery?
 * Leigh's?
-* Brunswick East, Bakehouse?
+* Brunswick East Bakehouse?
 
 ### Canal:
 * Day Trip. Outdoor seating. Order Flat White.
@@ -41,10 +77,9 @@ London roasteries to try: Scenery, 80 Stone Coffee Roasters, Coborn Coffee, Cons
 * % Arabica London Broadway Market?
 * Paradox?
 * Yeast Bakery?
-* <span style="color:#AEAEAE">No: Batch Baby (too milky).</span>
 
 ### Shoreditch:
-* Commons at Old Street Works. Now serving <span style="color:#38B000"> Milky Way by Coborn (great). Also try regular.</span>
+* Commons at Old Street Works. Now serving <span style="color:#84A98C">Nat Has Her Beans by Bad (meh). Try Campbell&Syme.</span>
 * Kiss the Hippo. Now serving <span style="color:#84A98C">Leonid Ramirez EF2 by Kiss the Hippo (good). Also try regular.</span> No loo.
 <nbsp></nbsp>
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 (Typica) by Manhattan (bad). Also try regular - 24AW.</span> 
@@ -69,7 +104,6 @@ London roasteries to try: Scenery, 80 Stone Coffee Roasters, Coborn Coffee, Cons
 * Jack Garcia Coffee?
 * Ozone London Fields?
 * Common E2?
-* <span style="color:#AEAEAE">No: Attendant Coffee Roasters Shoreditch (bad), Ozone Coffee Shoreditch (bad), Rise & Bloom (mediocra).</span>
 
 ### Clerkenwell:
 * Snoozzze Coffee. Now serving <span style="color:#38B000">Substance by Plot Roasting (great but very acidic). Also try their regular.</span>
@@ -81,13 +115,12 @@ London roasteries to try: Scenery, 80 Stone Coffee Roasters, Coborn Coffee, Cons
 * Fred Coffee?
 * Mouse Tail Coffee Farringdon?
 * Rose & Rose?
-* <span style="color:#AEAEAE">No: The Ethiopian Coffee Company (bad), Sofu Coffee (no loo, but bad smells).</span>
 
 ### Other:
-* Long & Short.
-* Nostos Coffee.
-
-
+* Long & Short
+* Nostos Coffee
+* Qima
+* 15grams Coffee House
 
 ### Bean processing methods:
 

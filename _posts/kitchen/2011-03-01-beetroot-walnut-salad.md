@@ -13,7 +13,7 @@ categories:
 * 100g walnuts
 * 2 [grapefruits](https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix)
 * 20 twists of black pepper
-* arugula (rocket)
+* delicate cruciferous greens (rocket/arugula or watercress)
 <nbsp></nbsp>
 * 15g olive oil
 * 10g Dijon mustard (about 1.5 teaspoons)
@@ -28,6 +28,6 @@ categories:
 * Meanwhile, remove segments from the grapefruits and break them up into bite size pieces. 
 * Make the dressing - place olive oil, mustard, salt and vinegar into a small glass jar. Close the lid and shake violently. If your grapefruits released a lot of juice during prep, you can use 15g of the juice instead of vinegar.
 * Mix grapefruit segments with beetroot, walnuts, black pepper and the dressing.
-* Cover the bottoms of the individual plates with arugula and top with the salad.
+* Cover the bottoms of the individual plates with cruciferous greens and top with the salad.
 
 **Inspired by:** my travels in Georgia, where beetroots and walnuts were frequently on my plate.

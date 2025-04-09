@@ -11,7 +11,7 @@ categories:
 * 1 cauliflower
 * 2 red onions
 * olive oil
-* 130g roasted buckwheat grain
+* 150g roasted buckwheat grain
 <nbsp></nbsp>
 * 3 red Romano peppers
 * 60g almonds
