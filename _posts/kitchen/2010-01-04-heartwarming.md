@@ -11,20 +11,18 @@ categories:
 * [Palak paneer](/kitchen/palak-paneer/)
 * [Mattar paneer](/kitchen/mattar-paneer/)
 
-**Thai flavours:**
+**Asian flavours:**
 * [Mushroom and pumpkin red Thai curry](/kitchen/red-thai-curry/)
 * [Pineapple red Thai curry](/kitchen/pineapple-red-thai-curry/)
 
 **African flavours:**
 * [Moroccan tagine](/kitchen/moroccan-tagine/)
-* [Beans'n'plantain](/kitchen/beans-and-plantain/)
 
-**Mexican flavours:**
+**Latin American flavours:**
 * [Mexican bean chilli](/kitchen/mexican-bean-chilli/)
 
 **European flavours:**
 * [Sundried tomato chickpea stew](/kitchen/sundried-tomato-chickpea-stew/)
-* [Mushroom, lentil and barley ragu](/kitchen/mushroom-lentil-barley-ragu/)
 
 **Spice mixes:**
 

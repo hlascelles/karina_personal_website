@@ -168,7 +168,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [The London Archives](https://www.thelondonarchives.org/whats-on) - if you are around on Wednesday evening, pop in for a free exhibition about something London history related. Go one floor up to leave your bag and coat in the locker, then one more floor up for the exhibitions (there is a lot to discover, do ask the person at the desk where to look).
 
 **Food:**
-* Coffee: Morr, Day Trip.
+* Coffee: Morr.
 * Tofu Vegan - vegan Chinese. Several locations.
 * Jam Delish - vegan Caribbean. 
 * Berber & Q Shawarma Bar - Middle-eastern flavours. Their Berber & Q Grill House in Dalston is also good.

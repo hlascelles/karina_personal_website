@@ -61,7 +61,7 @@ Volcano Coffee Works.
 * Frequency?
 
 ### Dalston:
-* Lodestar Coffee. Now serving <span style="color:#84A98C">POP peachy by People Possession (ok). Also try regular.</span>
+* Lodestar Coffee. Now serving <span style="color:#84A98C">POP peachy by People Possession (ok) and something else (try).</span>
 <nbsp></nbsp>
 * Jolene Bakery & Restaurant?
 * Luminary Bakery?
@@ -69,7 +69,7 @@ Volcano Coffee Works.
 * Brunswick East Bakehouse?
 
 ### Canal:
-* Day Trip. Outdoor seating. Order Flat White.
+* Day Trip. Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">Peru San Ignacio by Lucid (good).</span>
 <nbsp></nbsp>
 * Bobo & Wild Shoreditch. Outdoor seating. Order Flat White, ask for single origin.
 * Forno.
@@ -79,12 +79,11 @@ Volcano Coffee Works.
 * Yeast Bakery?
 
 ### Shoreditch:
-* Commons at Old Street Works. Now serving <span style="color:#84A98C">Nat Has Her Beans by Bad (meh). Try Campbell&Syme.</span>
-* Kiss the Hippo. Now serving <span style="color:#84A98C">Leonid Ramirez EF2 by Kiss the Hippo (good). Also try regular.</span> No loo.
-<nbsp></nbsp>
-* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 (Typica) by Manhattan (bad). Also try regular - 24AW.</span> 
-* Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">Caxambu (ok), check back after Apr 6th. Also try regular.</span>
-* High Grade Coffee. Now serving <span style="color:#84A98C">Hanbury (meh) and Brick lane (try it).</span> Use the loo in Cafe 1001 next door.
+* Commons at Old Street Works. Now serving <span style="color:#84A98C">Nat Has Her Beans by Bad (meh) and Campbell&Syme (try).</span>
+* Kiss the Hippo. Now serving <span style="color:#84A98C">Leonid Ramirez EF2 by Kiss the Hippo (good) and sommething else (try).</span> No loo.
+* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
+* Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">Caxambu until April 6th (meh) and something else (try).</span>
+* High Grade Coffee. Now serving <span style="color:#84A98C">Hanbury (meh) and Brick lane (try).</span> Use the loo in Cafe 1001 next door.
 <nbsp></nbsp>
 * Cafe just East of Jolene Redchurch Street - try 80stone coffee.
 * Photobookcafe? Outdoor seating.
@@ -106,7 +105,7 @@ Volcano Coffee Works.
 * Common E2?
 
 ### Clerkenwell:
-* Snoozzze Coffee. Now serving <span style="color:#38B000">Substance by Plot Roasting (great but very acidic). Also try their regular.</span>
+* Snoozzze Coffee. Now serving <span style="color:#38B000">Substance by Plot Roasting (great but very acidic) and something else (try).</span>
 * Colonna & Small's. Black board menu changes twice a week, printed menu - every 3 months. Now serving <span style="color:#84A98C">Agualinda Colombia extended ferment (ok), Las Nubes Nicaragua washed (easy, I was told).</span>
 <nbsp></nbsp>
 * Prufrock Coffee?
