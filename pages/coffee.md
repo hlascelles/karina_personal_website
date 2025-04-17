@@ -8,7 +8,10 @@ image:
 ---
 
 Favourite roasters: 
-* DAK Amsterdam (Coco Bongo, Tropic Electric, Milky Cake). <br/><br/>
+* DAK Amsterdam (Coco Bongo, Tropic Electric, Milky Cake).
+* [Long & Short](https://longshortlondon.com/) (the defauls, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma)
+
+Favourite varieties: Chiroso, Sidra.
 
 London roasteries to try: 
 15 grams, 
@@ -20,10 +23,10 @@ Campbell&Syme,
 Catalyst, 
 Climpson & Sons, 
 Coborn (Milky Way is great), 
-Colonna (Agualinda is ok), 
 Conscious, 
 Dark Arts, 
 Elsewhere, 
+[Harmony](https://www.harmonycoffee.co.uk) (Duwancho is good), 
 Hej Coffee, 
 Hermanos Colombian, 
 High Grade, 
@@ -36,15 +39,16 @@ Nostos,
 Old Spike Roastery, 
 Origin, 
 Ozone, 
-Plot (Substance is acidic AF but great), 
+[Plot](https://plotroasting.com/) (Substance is acidic AF but great), 
 Press Coffee & Co, 
 Qima, 
 Rascal, 
-Saint Espresso, 
+Roasting Shed, 
 Scenery, 
 Send, 
 Square Mile, 
-Volcano Coffee Works.
+Volcano Coffee Works,
+Workshop Coffee.
 <br/><br/>
 
 
@@ -71,7 +75,6 @@ Volcano Coffee Works.
 ### Canal:
 * Day Trip. Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">Peru San Ignacio by Lucid (good).</span>
 <nbsp></nbsp>
-* Bobo & Wild Shoreditch. Outdoor seating. Order Flat White, ask for single origin.
 * Forno.
 * Climpson & Sons Café?
 * % Arabica London Broadway Market?
@@ -105,13 +108,11 @@ Volcano Coffee Works.
 * Common E2?
 
 ### Clerkenwell:
-* Snoozzze Coffee. Now serving <span style="color:#38B000">Substance by Plot Roasting (great but very acidic) and something else (try).</span>
-* Colonna & Small's. Black board menu changes twice a week, printed menu - every 3 months. Now serving <span style="color:#84A98C">Agualinda Colombia extended ferment (ok), Las Nubes Nicaragua washed (easy, I was told).</span>
+* Snoozzze Coffee. Now serving <span style="color:#38B000">Duwancho by Harmony (good) and Source by Plot (try).</span>
+* Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
 <nbsp></nbsp>
 * Prufrock Coffee?
 * Attendant Coffee Roasters?
-* Saint Espresso?
-* Fred Coffee?
 * Mouse Tail Coffee Farringdon?
 * Rose & Rose?
 

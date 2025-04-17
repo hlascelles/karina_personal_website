@@ -258,7 +258,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Exchange Square for a great view of Liverpool Street Station, Aldgate Square has a great fountain, Finsbury Circus Garden has pretty buildings around it.
 
 **Food:**
-* Coffee: Lift Coffee, Snoozzze Coffee, Colonna & Small's, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road), High Grade Coffee.
+* Coffee: Lift Coffee, Snoozzze Coffee, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road), High Grade Coffee, Colonna & Small's (also see their printed Freezer Reserve menu).
 * Spitalfields area is becoming a vegan destination: Bubala (vegan or vegetarian tasting menu, I've been many times and it never disappoints, and they have other locations too), Tofu Vegan (several locations), etc.
 * Nest - great tasting menu with a focus on seasonal and local. They no longer offer vegetarian menu.
 * Sen Viet Vegan Restaurant - vegan Vietnamese food.
@@ -361,8 +361,8 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Markfield Beam Engine and Museum - the engine is a great thing to see, especially if you can catch it in [operation](https://www.mbeam.org/visit).
 
 **Food:**
-* Coffee: [Long & Short](https://longshortlondon.com/).
-* [SlowBurn](https://www.slowburn.london/) - seasonal vegetable-centric menu, many vegan options.
+* [Long & Short](https://longshortlondon.com/) - the best place in London for a specialty cortado.
+* [SlowBurn](https://www.slowburn.london/) - seasonal vegetable-centric menu, many vegan options. One of my current favourites in London.
 * [supperclub.tube](https://supperclub.tube/) - Latin American inspired tasting menu. A unique experience of dining on a 1967 Victoria Line tube carriage.
 * Chuku's - Nigerian tapas, many vegan options.
 * [Beaten by a Whisker](https://www.beatenbyawhisker.com/) - bakery, incidentally vegan. Nearby vegan chicken shop - [Chickenish](https://www.chickenish.com/).
