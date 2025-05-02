@@ -7,22 +7,18 @@ image:
     title: main-coffee.jpg
 ---
 
-Favourite roasters: 
-* DAK Amsterdam (Coco Bongo, Tropic Electric, Milky Cake).
-* [Long & Short](https://longshortlondon.com/) (the defauls, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma)
-
 Favourite varieties: Chiroso, Sidra.
 
 London roasteries to try: 
 15 grams, 
 80 Stone, 
 Assembly, 
-Bad (Nat Has Her Beans is meh), 
+[Bad](https://drinkbadcoffee.com/) (Nat Has Her Beans is meh), 
 Caravan, 
-Campbell&Syme, 
+[Campbell&Syme](https://campbellandsyme.co.uk/) (For the people is good), 
 Catalyst, 
 Climpson & Sons, 
-Coborn (Milky Way is great), 
+[Coborn](https://www.coborncoffee.com/) (Milky Way is great), 
 Conscious, 
 Dark Arts, 
 Elsewhere, 
@@ -30,7 +26,7 @@ Elsewhere,
 Hej Coffee, 
 Hermanos Colombian, 
 High Grade, 
-Kiss the Hippo (Ethiopia Gerse is amazing), 
+[Kiss the Hippo](https://kissthehippo.com/) (Ethiopia Gerse is amazing), 
 Legs, 
 Long & Short, 
 Mission Coffee Works, 
@@ -44,7 +40,7 @@ Press Coffee & Co,
 Qima, 
 Rascal, 
 Roasting Shed, 
-Scenery, 
+[Scenery](https://scenery.coffee/) (Colourful is great), 
 Send, 
 Square Mile, 
 Volcano Coffee Works,
@@ -54,7 +50,7 @@ Workshop Coffee.
 
 
 ### Bazaar:
-* Morr. Now serving <span style="color:#38B000">Coco Bongo by DAK Amsterdam (great).</span>
+* Morr. Now serving <span style="color:#84A98C">Ethiopia by Friedhats (good).</span>
 * Pophams. Great coffee. They roast themselves at Ozone. Outdoor seating. 
 <nbsp></nbsp>
 * Fink's - try Scenery coffee.
@@ -82,7 +78,7 @@ Workshop Coffee.
 * Yeast Bakery?
 
 ### Shoreditch:
-* Commons at Old Street Works. Now serving <span style="color:#84A98C">Nat Has Her Beans by Bad (meh) and Campbell&Syme (try).</span>
+* Commons at Old Street Works. Now serving <span style="color:#84A98C">Nat Has Her Beans by Bad (meh) and For the people by Campbell&Syme (good).</span>
 * Kiss the Hippo. Now serving <span style="color:#84A98C">Leonid Ramirez EF2 by Kiss the Hippo (good) and sommething else (try).</span> No loo.
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
 * Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">Caxambu until April 6th (meh) and something else (try).</span>
@@ -117,10 +113,15 @@ Workshop Coffee.
 * Rose & Rose?
 
 ### Other:
-* Long & Short
+* Long & Short (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma)
+* Scenery (Colourful is great, Shyira bad for cortado)
 * Nostos Coffee
 * Qima
 * 15grams Coffee House
+
+Favourite roasters: 
+* DAK Amsterdam (Coco Bongo, Tropic Electric, Milky Cake).
+* [Long & Short](https://longshortlondon.com/) (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma)
 
 ### Bean processing methods:
 
