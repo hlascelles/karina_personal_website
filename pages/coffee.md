@@ -34,8 +34,7 @@ Monmouth,
 Nostos, 
 Old Spike Roastery, 
 Origin, 
-Ozone, 
-[Plot](https://plotroasting.com/) (Substance is acidic AF but great), 
+[Plot](https://plotroasting.com/) (Substance is acidic AF but great, Source is ok), 
 Press Coffee & Co, 
 Qima, 
 Rascal, 
@@ -70,20 +69,21 @@ Workshop Coffee.
 
 ### Canal:
 * Day Trip. Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">Peru San Ignacio by Lucid (good).</span>
+* Paradox Design + Coffee. Now serving <span style="color:#84A98C">Picasso (good) and Mocha mousse (meh) by DAK.</span> No loo.
 <nbsp></nbsp>
 * Forno.
 * Climpson & Sons Café?
 * % Arabica London Broadway Market?
-* Paradox?
 * Yeast Bakery?
 
 ### Shoreditch:
 * Commons at Old Street Works. Now serving <span style="color:#84A98C">Nat Has Her Beans by Bad (meh) and For the people by Campbell&Syme (good).</span>
 * Kiss the Hippo. Now serving <span style="color:#84A98C">Leonid Ramirez EF2 by Kiss the Hippo (good) and sommething else (try).</span> No loo.
-* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
 * Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">Caxambu until April 6th (meh) and something else (try).</span>
 * High Grade Coffee. Now serving <span style="color:#84A98C">Hanbury (meh) and Brick lane (try).</span> Use the loo in Cafe 1001 next door.
+* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
 <nbsp></nbsp>
+* Knees Up?
 * Cafe just East of Jolene Redchurch Street - try 80stone coffee.
 * Photobookcafe? Outdoor seating.
 * Nude coffee?
@@ -100,11 +100,10 @@ Workshop Coffee.
 * Breidbakers?
 * Hermanos Colombian Coffee Roasters?
 * Jack Garcia Coffee?
-* Ozone London Fields?
 * Common E2?
 
 ### Clerkenwell:
-* Snoozzze Coffee. Now serving <span style="color:#38B000">Duwancho by Harmony (good) and Source by Plot (try).</span>
+* Snoozzze Coffee. Now serving <span style="color:#38B000">Duwancho by Harmony (good) and Source by Plot (ok).</span>
 * Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
 <nbsp></nbsp>
 * Prufrock Coffee?

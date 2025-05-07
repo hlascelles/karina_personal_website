@@ -135,7 +135,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * London Sri Mahalakshmi Temple (South Indian) in East Ham (especially worth seeing if you've not yet been to India).
 
 **Food:**
-* Coffee: Lodestar Coffee.
+* Coffee: Lodestar Coffee, Paradox Design + Coffee (no toilet).
 * Pastries: Forno, Pophams (several locations), Pavilion Bakery (several locations), E5 Bakehouse, The Snapery East, Yeast Bakery.
 * Casa Fofó - tasting menu with a focus on local and seasonal. Vegetarian option available.
 * [EDIT](https://www.edit.london/) - vegan restaurant with a focus on local and seasonal; low on waste and environmental impact.
@@ -258,7 +258,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Exchange Square for a great view of Liverpool Street Station, Aldgate Square has a great fountain, Finsbury Circus Garden has pretty buildings around it.
 
 **Food:**
-* Coffee: Lift Coffee, Snoozzze Coffee, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road), High Grade Coffee, Colonna & Small's (also see their printed Freezer Reserve menu).
+* Coffee: Lift Coffee, Snoozzze Coffee, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road), High Grade Coffee (no toilet), Colonna & Small's (also see their printed Freezer Reserve menu).
 * Spitalfields area is becoming a vegan destination: Bubala (vegan or vegetarian tasting menu, I've been many times and it never disappoints, and they have other locations too), Tofu Vegan (several locations), etc.
 * Nest - great tasting menu with a focus on seasonal and local. They no longer offer vegetarian menu.
 * Sen Viet Vegan Restaurant - vegan Vietnamese food.
