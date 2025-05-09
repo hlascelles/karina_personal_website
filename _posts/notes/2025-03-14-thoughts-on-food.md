@@ -80,8 +80,37 @@ It took energy to produce these skins and bran coatings, they contain a lot of m
 
 ### Goal #2 - avoid food that is bad for me
 
+<!---
+NEW NEW NEW
 
 
+<nbsp></nbsp>
+
+rg -i "stem" * -g !'_site/**'
+
+For a good pesto, you'll have to fill in 7 roles:
+1. The body (juicy) - usually a herb (basil, parsley, mint), but could be anything (spinach, carrots, peas, sundried tomatoes, fried mushrooms, etc.)
+2. The body (dry) - walnuts, almonds, pine nuts, etc.
+3. Aromatics - garlic, onion, citrus zest, etc.
+4. Acidity - citrus juice, vinegar, etc.
+5. Umami - capers, yeast flakes, cheese, sundried tomatoes, fried mushrooms, etc.
+6. Saltiness - salt, salty cheese, soy sauce, miso, etc.
+7. Fat - usually olive oil.
+
+You can have more than one ingredient per role, and ingredients that fill more than one role (for example, wild garlic leaves are both the body and the aromatic, while sundried tomatoes are both the body and the umami).
+
+
+Buddha bowls:
+
+    1. Grain or a starchy vegetable - farro, quinoa, corn, black rice, etc.; or potatoes, sweet potatoes, butternut squash, plantain, etc.
+    2. Protein - beans, peas, chickpeas, lentils, tofu, etc.
+    3. Cooked veggies
+    4. Raw veggies
+    5. Toppings - toasted seeds or nuts, kimchi, some sauce.
+
+NEW NEW NEW
+
+-->
 
 <!---
 

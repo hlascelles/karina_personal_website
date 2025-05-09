@@ -128,14 +128,16 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 ### 9. Hackney 
 
 * On Saturdays - Broadway Market and Netil Market, followed by a picnic in London Fields.
+* On Sundays - Columbia Road Flower Market. For the full experience, also visit Hackney City Farm nearby.
 * Victoria Park is huge, and you can continue into Hackney Marshes and onwards along the River Lea.
 * [Olympic Park](https://www.bloomberg.com/features/2024-london-olympic-legacy/) - a new neighbourhood. This includes [East Bank](https://www.ucl.ac.uk/ucl-east/east-bank) - a new powerhouse for innovation, creativity and learning. UCL, University of Arts London, Victoria and Albert Museum, BBC Music and Sadler’s Wells Theatre all have a location here. 
+* Redchurch Street - a trendy area, great for a stroll on a weekend or a warm evening.
 * Street art around Hackney Wick.
 * Hackney Downs Park and the area around Hackney Downs Studios.
 * London Sri Mahalakshmi Temple (South Indian) in East Ham (especially worth seeing if you've not yet been to India).
 
 **Food:**
-* Coffee: Lodestar Coffee, Paradox Design + Coffee (no toilet).
+* Coffee: Knees Up, Lodestar Coffee, Paradox Design + Coffee (no toilet).
 * Pastries: Forno, Pophams (several locations), Pavilion Bakery (several locations), E5 Bakehouse, The Snapery East, Yeast Bakery.
 * Casa Fofó - tasting menu with a focus on local and seasonal. Vegetarian option available.
 * [EDIT](https://www.edit.london/) - vegan restaurant with a focus on local and seasonal; low on waste and environmental impact.
@@ -239,14 +241,11 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [Guildhall Art Gallery](https://www.thecityofldn.com/directory/guildhall-art-gallery/) - art collection and London's Roman Amphitheatre. Book free tickets in advance.
 * Sculptures: [Sculpture in the city](https://www.sculptureinthecity.org.uk/) - an annual outdoor sculpture exhibition, new sculptures every June; [Our Herd of Hope](https://www.theherdofhope.com) - a family of 21 life-sized bronze elephant statues around 1 Bishops Square; a sculpture by [Yayoi Kusama](https://www.davidzwirner.com/artists/yayoi-kusama) in front of Liverpool Street Station (51.517648, -0.083399); etc.
 * Street art around Shoreditch - Brick lane, Grey Eagle Graffiti wall, Whitecross street and much more.
-* Columbia Road Flower Market on Sundays. For the full experience, also visit Hackney City Farm nearby.
 * Walk from Liverpool Street station to Farringdon station underground following [this guide](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html).
 * The area around Old Street Station, nicknamed the "Silicon Roundabout", has a fun origin story that started with a [throwaway joke in 2008](https://www.wired.co.uk/article/silicon-roundabout-tech-city-property) and became UK government's policy in 2010. [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) hosts many events for developers.
-* Redchurch Street - a trendy area, great for a stroll on a weekend or a warm evening.
 * Monument to the Great Fire of London.
 * St. Katherine’s Docks.
 * Bank of England Museum - a chance to hold a gold bar.
-* Bike Shed Moto Co. - is an interesting place, especially if you like motorbikes.
 * Smithfield Market - meat night market open from midnight until 7am. Architecturally interesting even when the market is closed. If you still need dinner and it is already 6am, around here there is a lot of 24 hour activity, people having their morning coffee at midnight and dining at 6am.
 
 **Architecture:**
@@ -258,7 +257,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Exchange Square for a great view of Liverpool Street Station, Aldgate Square has a great fountain, Finsbury Circus Garden has pretty buildings around it.
 
 **Food:**
-* Coffee: Lift Coffee, Snoozzze Coffee, Kiss the Hippo, Commons at Old Street Works, Origin Coffee (Charlotte Road), High Grade Coffee (no toilet), Colonna & Small's (also see their printed Freezer Reserve menu).
+* Coffee: Lift Coffee, Snoozzze Coffee, Commons at Old Street Works, Origin Coffee (Charlotte Road), High Grade Coffee (no toilet), Colonna & Small's (also see their printed Freezer Reserve menu).
 * Spitalfields area is becoming a vegan destination: Bubala (vegan or vegetarian tasting menu, I've been many times and it never disappoints, and they have other locations too), Tofu Vegan (several locations), etc.
 * Nest - great tasting menu with a focus on seasonal and local. They no longer offer vegetarian menu.
 * Sen Viet Vegan Restaurant - vegan Vietnamese food.
@@ -312,7 +311,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Stroll past numerous [private art galleries](https://londongalleryweekend.art/map/). My favourite ones to visit include White Cube Mason’s Yard, Waddington Custot, Phillips London at 30 Berkeley Square (glass walls makes it fun to visit even when it is closed), Saatchi Yates (also enough windows to warrant a visit when it is closed), [Unit](https://unitlondon.com/).
 
 **Food:**
-* Coffee: Kiss the Hippo (many locations).
+* Coffee: Kiss the Hippo (several locations).
 * Akoko - modern West African. Tasting menu with a vegan option.
 * NOPI - by [Yotam Ottolenghi](https://ottolenghi.co.uk/).
 * Kricket (Soho and Canary Wharf) - modern North Indian.

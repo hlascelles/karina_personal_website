@@ -9,6 +9,8 @@ image:
 
 Favourite varieties: Chiroso, Sidra.
 
+Favourite roasters: [Long & Short](https://longshortlondon.com/) and [DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake).
+
 London roasteries to try: 
 15 grams, 
 80 Stone, 
@@ -19,7 +21,7 @@ Caravan,
 Catalyst, 
 Climpson & Sons, 
 [Coborn](https://www.coborncoffee.com/) (Milky Way is great), 
-Conscious, 
+[Conscious](https://www.consciousspeciality.com/) (Arcangel is great), 
 Dark Arts, 
 Elsewhere, 
 [Harmony](https://www.harmonycoffee.co.uk) (Duwancho is good), 
@@ -28,19 +30,21 @@ Hermanos Colombian,
 High Grade, 
 [Kiss the Hippo](https://kissthehippo.com/) (Ethiopia Gerse is amazing), 
 Legs, 
-Long & Short, 
+[Long & Short](https://longshortlondon.com/) (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
 Mission Coffee Works, 
 Monmouth, 
 Nostos, 
 Old Spike Roastery, 
 Origin, 
+Outpost (Sironko Uganda is ok), 
 [Plot](https://plotroasting.com/) (Substance is acidic AF but great, Source is ok), 
 Press Coffee & Co, 
 Qima, 
 Rascal, 
 Roasting Shed, 
-[Scenery](https://scenery.coffee/) (Colourful is great), 
+[Scenery](https://scenery.coffee/) (Colourful is great, Facility is great for the price), 
 Send, 
+Skylark, 
 Square Mile, 
 Volcano Coffee Works,
 Workshop Coffee.
@@ -51,10 +55,10 @@ Workshop Coffee.
 ### Bazaar:
 * Morr. Now serving <span style="color:#84A98C">Ethiopia by Friedhats (good).</span>
 * Pophams. Great coffee. They roast themselves at Ozone. Outdoor seating. 
+* Profile Coffee. Now serving <span style="color:#84A98C">Sironko by Outpost (ok) and Evanete Peres by Campbell&Syme (try), come back in late May for Skylark.</span>
 <nbsp></nbsp>
 * Fink's - try Scenery coffee.
 * Saltine - try Scenery coffee.
-* Profile Coffee? <span style="color:#84A98C">Single origin beans?</span>
 * Caravan Coffee Roasters and Brewbar?
 * High Ground?
 * Frequency?
@@ -69,6 +73,7 @@ Workshop Coffee.
 
 ### Canal:
 * Day Trip. Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">Peru San Ignacio by Lucid (good).</span>
+* Knees Up. Now serving <span style="color:#38B000">Arcangel by Conscious (great) and Facility by Scenery (good).</span>
 * Paradox Design + Coffee. Now serving <span style="color:#84A98C">Picasso (good) and Mocha mousse (meh) by DAK.</span> No loo.
 <nbsp></nbsp>
 * Forno.
@@ -78,12 +83,11 @@ Workshop Coffee.
 
 ### Shoreditch:
 * Commons at Old Street Works. Now serving <span style="color:#84A98C">Nat Has Her Beans by Bad (meh) and For the people by Campbell&Syme (good).</span>
-* Kiss the Hippo. Now serving <span style="color:#84A98C">Leonid Ramirez EF2 by Kiss the Hippo (good) and sommething else (try).</span> No loo.
-* Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">Caxambu until April 6th (meh) and something else (try).</span>
 * High Grade Coffee. Now serving <span style="color:#84A98C">Hanbury (meh) and Brick lane (try).</span> Use the loo in Cafe 1001 next door.
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
+* Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">? and something else (try).</span>
+* Kiss the Hippo. Now serving <span style="color:#84A98C">something Brazil (meh) and George Street Blend (try).</span> No loo.
 <nbsp></nbsp>
-* Knees Up?
 * Cafe just East of Jolene Redchurch Street - try 80stone coffee.
 * Photobookcafe? Outdoor seating.
 * Nude coffee?
@@ -118,9 +122,6 @@ Workshop Coffee.
 * Qima
 * 15grams Coffee House
 
-Favourite roasters: 
-* DAK Amsterdam (Coco Bongo, Tropic Electric, Milky Cake).
-* [Long & Short](https://longshortlondon.com/) (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma)
 
 ### Bean processing methods:
 
@@ -130,7 +131,7 @@ Favourite roasters:
 * Semi-washed - the beans are dried in mucilage for a bit, then mucilage is removed before it dries on, and the beans continue drying without it.
 * Washed / wet-process - beans are dried in parchment, without the cherry. This is the most common method.
 * Wet-hulled / Giling Basah - the parchment is removed before the last stage of the drying process. This process is a necessity in Indonesia's humid and rainy climate. This coffee has full body and no acidity. Bad coffee of this type is really bad.
-
+<nbsp></nbsp>
 * Carbonic Maceration - whole cherries fermented in anaerobic environment.
 * Anaerobic Fermentation - de-pulped beans fermented in anaerobic environment.
 * Lactic Process - the bacteria feed on mucilage sugars, generating a high concentration of lactic acid; after reaching the desired pH, the coffee is washed to stop the bacterial growth.
