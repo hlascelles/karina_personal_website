@@ -24,6 +24,7 @@ Climpson & Sons,
 [Conscious](https://www.consciousspeciality.com/) (Arcangel is great), 
 Dark Arts, 
 Elsewhere, 
+Fireheart (bad?), 
 [Harmony](https://www.harmonycoffee.co.uk) (Duwancho is good), 
 Hej Coffee, 
 Hermanos Colombian, 
@@ -39,7 +40,7 @@ Origin,
 Outpost (Sironko Uganda is ok), 
 [Plot](https://plotroasting.com/) (Substance is acidic AF but great, Source is ok), 
 Press Coffee & Co, 
-Qima, 
+Qima (Colombia La Palmera is good), 
 Rascal, 
 Roasting Shed, 
 [Scenery](https://scenery.coffee/) (Colourful is great, Facility is great for the price), 
@@ -72,7 +73,7 @@ Workshop Coffee.
 * Brunswick East Bakehouse?
 
 ### Canal:
-* Day Trip. Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">Peru San Ignacio by Lucid (good).</span>
+* Day Trip. Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">something by Manhattan (good) and something Brazilian (try).</span>
 * Knees Up. Now serving <span style="color:#38B000">Arcangel by Conscious (great) and Facility by Scenery (good).</span>
 * Paradox Design + Coffee. Now serving <span style="color:#84A98C">Picasso (good) and Mocha mousse (meh) by DAK.</span> No loo.
 <nbsp></nbsp>
@@ -107,7 +108,7 @@ Workshop Coffee.
 * Common E2?
 
 ### Clerkenwell:
-* Snoozzze Coffee. Now serving <span style="color:#38B000">Duwancho by Harmony (good) and Source by Plot (ok).</span>
+* Snoozzze Coffee. Now serving <span style="color:#38B000">Substance (good) and Source (ok) by Plot.</span>
 * Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
 <nbsp></nbsp>
 * Prufrock Coffee?

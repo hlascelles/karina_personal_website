@@ -25,7 +25,7 @@ widgets:
   image: city-vienna.jpg
   title: 5. Austria
 - url: /travel/azerbaijan/
-  image: city-generic.jpg
+  image: country-azerbaijan.jpg
   title: <a href="/travel/azerbaijan/" target="_self">6. Azerbaijan</a>
 - url: /travel/belgium/
   image: country-belgium.jpg
