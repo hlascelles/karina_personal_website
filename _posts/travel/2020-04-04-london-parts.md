@@ -168,6 +168,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Exmouth Market - a wonderful place to hangout on a warm evening.
 * Neal's Yard Dairy - an excellent shop of British and Irish cheeses. Several locations, this is the most non-touristy.
 * [The London Archives](https://www.thelondonarchives.org/whats-on) - if you are around on Wednesday evening, pop in for a free exhibition about something London history related. Go one floor up to leave your bag and coat in the locker, then one more floor up for the exhibitions (there is a lot to discover, do ask the person at the desk where to look).
+* To see some cool infrastructure, walk past Back Hill Substation (51.522829, -0.109378).
 
 **Food:**
 * Coffee: Morr.

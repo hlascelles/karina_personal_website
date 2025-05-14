@@ -11,7 +11,7 @@ Favourite varieties: Chiroso, Sidra.
 
 Favourite roasters: [Long & Short](https://longshortlondon.com/) and [DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake).
 
-London roasteries to try: 
+UK roasteries to try: 
 15 grams, 
 80 Stone, 
 Assembly, 
@@ -32,6 +32,7 @@ High Grade,
 [Kiss the Hippo](https://kissthehippo.com/) (Ethiopia Gerse is amazing), 
 Legs, 
 [Long & Short](https://longshortlondon.com/) (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
+[Lucid](https://www.lucidcoffeeroasters.com/),
 Mission Coffee Works, 
 Monmouth, 
 Nostos, 
@@ -83,7 +84,7 @@ Workshop Coffee.
 * Yeast Bakery?
 
 ### Shoreditch:
-* Commons at Old Street Works. Now serving <span style="color:#84A98C">Nat Has Her Beans by Bad (meh) and For the people by Campbell&Syme (good).</span>
+* Commons at Old Street Works. Now serving <span style="color:#84A98C">Red Devil by Red Bank (good) and For the people by Campbell&Syme (good).</span>
 * High Grade Coffee. Now serving <span style="color:#84A98C">Hanbury (meh) and Brick lane (try).</span> Use the loo in Cafe 1001 next door.
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
 * Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">? and something else (try).</span>
