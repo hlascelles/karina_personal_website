@@ -62,6 +62,7 @@ Workshop Coffee.
 * Fink's - try Scenery coffee.
 * Saltine - try Scenery coffee.
 * Caravan Coffee Roasters and Brewbar?
+* Superette (try Fireheart)?
 * High Ground?
 * Frequency?
 
@@ -106,7 +107,7 @@ Workshop Coffee.
 * Breidbakers?
 * Hermanos Colombian Coffee Roasters?
 * Jack Garcia Coffee?
-* Common E2?
+* Common E2 (try Fireheart)?
 
 ### Clerkenwell:
 * Snoozzze Coffee. Now serving <span style="color:#38B000">Substance (good) and Source (ok) by Plot.</span>
