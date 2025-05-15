@@ -9,7 +9,9 @@ image:
 
 Favourite varieties: Chiroso, Sidra.
 
-Favourite roasters: [Long & Short](https://longshortlondon.com/) and [DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake).
+Favourite roasters: 
+[Long & Short UK](https://longshortlondon.com/) (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
+[DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake).
 
 UK roasteries to try: 
 15 grams, 
@@ -31,18 +33,18 @@ Hermanos Colombian,
 High Grade, 
 [Kiss the Hippo](https://kissthehippo.com/) (Ethiopia Gerse is amazing), 
 Legs, 
-[Long & Short](https://longshortlondon.com/) (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
-[Lucid](https://www.lucidcoffeeroasters.com/),
+[Lucid](https://www.lucidcoffeeroasters.com/) (Peru San Ignacio is good),
 Mission Coffee Works, 
 Monmouth, 
 Nostos, 
 Old Spike Roastery, 
 Origin, 
-Outpost (Sironko Uganda is ok), 
+[Outpost](https://outpost.coffee/) (Sironko Uganda is ok), 
 [Plot](https://plotroasting.com/) (Substance is acidic AF but great, Source is ok), 
 Press Coffee & Co, 
-Qima (Colombia La Palmera is good), 
+[Qima](https://www.qimacoffee.com/) (Colombia La Palmera is good), 
 Rascal, 
+[Red Bank](https://redbankcoffee.com/) (Red Devil is ok), 
 Roasting Shed, 
 [Scenery](https://scenery.coffee/) (Colourful is great, Facility is great for the price), 
 Send, 
@@ -76,7 +78,7 @@ Workshop Coffee.
 
 ### Canal:
 * Day Trip. Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">something by Manhattan (good) and something Brazilian (try).</span>
-* Knees Up. Now serving <span style="color:#38B000">Arcangel by Conscious (great) and Facility by Scenery (good).</span>
+* Knees Up. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
 * Paradox Design + Coffee. Now serving <span style="color:#84A98C">Picasso (good) and Mocha mousse (meh) by DAK.</span> No loo.
 <nbsp></nbsp>
 * Forno.
@@ -85,7 +87,7 @@ Workshop Coffee.
 * Yeast Bakery?
 
 ### Shoreditch:
-* Commons at Old Street Works. Now serving <span style="color:#84A98C">Red Devil by Red Bank (good) and For the people by Campbell&Syme (good).</span>
+* Commons at Old Street Works. Now serving <span style="color:#84A98C">Red Devil by Red Bank (ok) and For the people by Campbell&Syme (good).</span>
 * High Grade Coffee. Now serving <span style="color:#84A98C">Hanbury (meh) and Brick lane (try).</span> Use the loo in Cafe 1001 next door.
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
 * Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">? and something else (try).</span>
