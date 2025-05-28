@@ -144,9 +144,9 @@ widgets:
 - url:
   image: country-panama.jpg
   title: 43. Panama
-- url:
-  image: city-warsaw.jpg
-  title: 44. Poland
+- url: /travel/poland/
+  image: country-poland.jpg
+  title: <a href="/travel/poland/" target="_self">44. Poland</a>
 - url:
   image: country-portugal.jpg
   title: 45. Portugal
