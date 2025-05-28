@@ -57,9 +57,9 @@ Workshop Coffee.
 
 
 ### Bazaar:
-* Morr. Now serving <span style="color:#84A98C">Ethiopia by Friedhats (good).</span>
+* <span style="color:#84A98C">Morr.</span> Now serving <span style="color:#84A98C">Kenya by Friedhats (meh).</span>
 * Pophams. Great coffee. They roast themselves at Ozone. Outdoor seating. 
-* Profile Coffee. Now serving <span style="color:#84A98C">Sironko by Outpost (ok) and Evanete Peres by Campbell&Syme (try), come back in late May for Skylark.</span>
+* Profile Coffee. Now serving <span style="color:#84A98C">Skylark (try) and La Cabra Daterra Brazil (meh).</span>
 <nbsp></nbsp>
 * Fink's - try Scenery coffee.
 * Saltine - try Scenery coffee.
@@ -77,8 +77,8 @@ Workshop Coffee.
 * Brunswick East Bakehouse?
 
 ### Canal:
-* Day Trip. Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">something by Manhattan (good) and something Brazilian (try).</span>
-* Knees Up. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
+* <span style="color:#84A98C">Day Trip.</span> Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">something by Manhattan (good) and something Brazilian (try).</span>
+* <span style="color:#84A98C">Knees Up (running).</span> Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
 * Paradox Design + Coffee. Now serving <span style="color:#84A98C">Picasso (good) and Mocha mousse (meh) by DAK.</span> No loo.
 <nbsp></nbsp>
 * Forno.
@@ -87,7 +87,7 @@ Workshop Coffee.
 * Yeast Bakery?
 
 ### Shoreditch:
-* Commons at Old Street Works. Now serving <span style="color:#84A98C">Red Devil by Red Bank (ok) and For the people by Campbell&Syme (good).</span>
+* <span style="color:#84A98C">Commons at Old Street Works.</span> Now serving <span style="color:#84A98C">Red Devil by Red Bank (ok) and For the people by Campbell&Syme (good).</span>
 * High Grade Coffee. Now serving <span style="color:#84A98C">Hanbury (meh) and Brick lane (try).</span> Use the loo in Cafe 1001 next door.
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
 * Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">? and something else (try).</span>
