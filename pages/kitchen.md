@@ -5,25 +5,25 @@ permalink: "/kitchen/"
 header: no
 widgets:
 
-- url: /kitchen/raw/
-  image: food-raw.jpg
-  title: <a href="/kitchen/raw/" target="_self">Raw fruits and veggies</a>
 - url: /kitchen/small/
   image: food-small.jpg
   title: <a href="/kitchen/small/" target="_self">Small plates</a>
 - url: /kitchen/big/
   image: food-big.jpg
   title: <a href="/kitchen/big/" target="_self">Big plates</a>
-
 - url: /kitchen/heartwarming/
   image: food-heartwarming.jpg
   title: <a href="/kitchen/heartwarming/" target="_self">Heartwarming stuff</a>
+
 - url: /kitchen/carbs/
   image: food-carbs.jpg
   title: <a href="/kitchen/carbs/" target="_self">Carby stuff</a>
 - url: /kitchen/fried/
   image: food-fried.jpg
   title: <a href="/kitchen/fried/" target="_self">Fried stuff</a>
+- url: /kitchen/raw/
+  image: food-raw.jpg
+  title: <a href="/kitchen/raw/" target="_self">Starter for a dessert</a>
 
 - url: /kitchen/vegan/
   image: food-vegan.jpg

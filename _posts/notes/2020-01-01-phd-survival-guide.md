@@ -4,7 +4,7 @@ title: "PhD survival guide"
 header: no
 image:
     title: main-phd.jpg
-the_date: May 2023
+the_date: Feb 2020
 show_meta: true
 categories:
     - notes
@@ -34,7 +34,7 @@ Explore your PhD options widely in terms of academic areas (and geographical one
 If you find a particular area of research important (and hopefully interesting too) and you are motivated to learn, you'll be able to make a valuable scientific contribution even if you have no prior training in that specific area. 
 On a selfish level, it also adds value to your PhD as you'll essentially get a free Masters degree in a new subject or two.
 
-**May 2023 update:** A book called [Towards a Global Core Value System in Doctoral Education](https://www.uclpress.co.uk/products/176624) was published in 2022 (with open-access PDF). If I was about to start my PhD I would probably want to read it. And if it's good, I'd make my supervisor read it too.
+**Nov 2022 update:** A book called [Towards a Global Core Value System in Doctoral Education](https://www.uclpress.co.uk/products/176624) was published in 2022 (with open-access PDF). If I was about to start my PhD I would probably want to read it. And if it's good, I'd make my supervisor read it too.
 
 <a name="start"></a>
 # Starting a PhD
