@@ -10,8 +10,9 @@ image:
 Favourite varieties: Chiroso, Sidra.
 
 Favourite roasters: 
-[Long & Short UK](https://longshortlondon.com/) (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
-[DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake).
+[Long & Short](https://longshortlondon.com/) UK (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
+[DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake),
+[Scenery](https://scenery.coffee/) UK (Colourful is great, Laga Lizu is great/good, Facility is great for the price, Shyira bad for cortado).
 
 UK roasteries to try: 
 15 grams, 
@@ -46,7 +47,6 @@ Press Coffee & Co,
 Rascal, 
 [Red Bank](https://redbankcoffee.com/) (Red Devil is ok), 
 Roasting Shed, 
-[Scenery](https://scenery.coffee/) (Colourful is great, Facility is great for the price), 
 Send, 
 Skylark, 
 Square Mile, 
@@ -54,78 +54,62 @@ Volcano Coffee Works,
 Workshop Coffee.
 <br/><br/>
 
-
-
-### Bazaar:
-* <span style="color:#84A98C">Morr.</span> Now serving <span style="color:#84A98C">Kenya by Friedhats (meh).</span>
-* Pophams. Great coffee. They roast themselves at Ozone. Outdoor seating. 
-* Profile Coffee. Now serving <span style="color:#84A98C">Skylark (try) and La Cabra Daterra Brazil (meh).</span>
-<nbsp></nbsp>
-* Fink's - try Scenery coffee.
-* Saltine - try Scenery coffee.
-* Caravan Coffee Roasters and Brewbar?
-* Superette (try Fireheart)?
-* High Ground?
-* Frequency?
-
-### Dalston:
+### Favourites:
+* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#84A98C">Ethiobian beans by Nomad (great) and something Brazilian (try).</span>
+* Commons at Old Street Works. Now serving <span style="color:#84A98C">Red Devil by Red Bank (great as flat white) and For the people by Campbell&Syme (good).</span>
+* Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
+* Scenery. Now serving <span style="color:#38B000">Colourful (great), Laga Lizu (good), something lemony (try).</span>
 * Lodestar Coffee. Now serving <span style="color:#84A98C">POP peachy by People Possession (ok) and something else (try).</span>
-<nbsp></nbsp>
-* Jolene Bakery & Restaurant?
-* Luminary Bakery?
-* Leigh's?
-* Brunswick East Bakehouse?
-
-### Canal:
-* <span style="color:#84A98C">Day Trip.</span> Outdoor seating. Order Flat White. Now serving <span style="color:#84A98C">something by Manhattan (good) and something Brazilian (try).</span>
-* <span style="color:#84A98C">Knees Up (running).</span> Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
-* Paradox Design + Coffee. Now serving <span style="color:#84A98C">Picasso (good) and Mocha mousse (meh) by DAK.</span> No loo.
-<nbsp></nbsp>
-* Forno.
-* Climpson & Sons Café?
-* % Arabica London Broadway Market?
-* Yeast Bakery?
-
-### Shoreditch:
-* <span style="color:#84A98C">Commons at Old Street Works.</span> Now serving <span style="color:#84A98C">Red Devil by Red Bank (ok) and For the people by Campbell&Syme (good).</span>
-* High Grade Coffee. Now serving <span style="color:#84A98C">Hanbury (meh) and Brick lane (try).</span> Use the loo in Cafe 1001 next door.
-* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Panama FST Lot 20 by Manhattan (bad) and 24AW (try).</span> 
-* Origin Coffee (Charlotte Road). Now serving <span style="color:#84A98C">? and something else (try).</span>
-* Kiss the Hippo. Now serving <span style="color:#84A98C">something Brazil (meh) and George Street Blend (try).</span> No loo.
-<nbsp></nbsp>
-* Cafe just East of Jolene Redchurch Street - try 80stone coffee.
-* Photobookcafe? Outdoor seating.
-* Nude coffee?
-* Coffee Matters?
-* Nepa?
-* Nagare?
-* Nkora Coffee Shoreditch?
-* Allpress?
-* Grind?
-* Oat?
-* Beans love Greens?
-* FWD:Coffee?
-* WatchHouse Spitalfields?
-* Breidbakers?
-* Hermanos Colombian Coffee Roasters?
-* Jack Garcia Coffee?
-* Common E2 (try Fireheart)?
-
-### Clerkenwell:
-* Snoozzze Coffee. Now serving <span style="color:#38B000">Substance (good) and Source (ok) by Plot.</span>
-* Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
-<nbsp></nbsp>
-* Prufrock Coffee?
-* Attendant Coffee Roasters?
-* Mouse Tail Coffee Farringdon?
-* Rose & Rose?
-
-### Other:
-* Long & Short (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma)
-* Scenery (Colourful is great, Shyira bad for cortado)
+* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Diima Banko Gotiti Ethiopia (good) and 24AW (try).</span> 
+* Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
+* Snoozzze Coffee. Now serving <span style="color:#84A98C">Substance (good) and Source (ok) by Plot.</span>
+* Long & Short Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
 * Nostos Coffee
 * Qima
-* 15grams Coffee House
+* Special Guests Coffee in Marylebone
+
+### Needful:
+* Pophams. Great coffee. They roast themselves at Ozone.
+* Kiss the Hippo.No loo. Now serving <span style="color:#84A98C">something Brazil (ok)</span> and George Street Blend (bad).
+
+### Give them another try:
+* Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).
+* Origin Coffee (Charlotte Road). Loo?
+* Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
+* High Grade Coffee.Use the loo in Cafe 1001 next door. Now serving Hanbury (meh) and Brick lane (try).
+
+### Try:
+* Caravan Coffee Roasters and Brewbar (with a friend)
+* Fink's - try Scenery coffee. (Bazaar)
+* Saltine - try Scenery coffee. (Bazaar)
+* Superette (try Fireheart)? (Bazaar)
+* Frequency? (Bazaar)
+* Jolene Bakery & Restaurant? (Dalston)
+* Luminary Bakery? (Dalston)
+* Leigh's? (Dalston)
+* Brunswick East Bakehouse? (Dalston)
+* Forno. (Canal)
+* Climpson & Sons Café? (Canal)
+* % Arabica London Broadway Market? (Canal)
+* Yeast Bakery? (Canal)
+* Photobookcafe? Outdoor seating. (Shoreditch)
+* Nude coffee? (Shoreditch)
+* Coffee Matters? (Shoreditch)
+* Nepa? (Shoreditch)
+* Nagare? (Shoreditch)
+* Nkora Coffee Shoreditch? (Shoreditch)
+* Grind? (Shoreditch)
+* FWD:Coffee? (Shoreditch)
+* WatchHouse Spitalfields? (Shoreditch)
+* Breidbakers? (Shoreditch)
+* Hermanos Colombian Coffee Roasters? (Shoreditch)
+* Jack Garcia Coffee? (Shoreditch)
+* Common E2 (try Fireheart)? (Shoreditch)
+* Prufrock Coffee? (Clerkenwell)
+* Attendant Coffee Roasters? (Clerkenwell)
+* Mouse Tail Coffee Farringdon? (Clerkenwell)
+* Rose & Rose? (Clerkenwell)
+
 
 
 ### Bean processing methods:
