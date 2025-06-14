@@ -296,7 +296,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Trafalgar Square, Piccadilly Circus, Seven Dials and Neal’s Yard.
 * Gerrard Street - the heart of London's Chinatown.
 * [Fitzrovia Chapel](https://www.fitzroviachapel.org/) - a hidden gem. Check [opening hours](https://www.fitzroviachapel.org/visit-us/#open). Don't miss "The one and the many" sculpture by [Peter Randall-Page](https://www.peterrandall-page.com/sculpture-map/) just outside the chapel. For more, visit Catholic Church of Saint James in Marylebone, St James's Piccadilly with a lovely small garden perfect for a picnic, etc.
-* Architecturally exciting campus of London School of Economics (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc.
+* Architecturally exciting campus of London School of Economics (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc. Also nearby Space House (51.514826, -0.119305) is very exciting.
 * Stroll through narrow pedestrian streets - Carnaby Street, South Molton Street and St Christopher's Place. Don't miss Liberty London - a wonderful mock Tudor building.
 * Victoria Embankment Gardens and Cleopatra's Needle.
 * St George's Church Bloomsbury has an awesome unicorn on its spire.

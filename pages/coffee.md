@@ -55,7 +55,7 @@ Workshop Coffee.
 <br/><br/>
 
 ### Favourites:
-* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#84A98C">Ethiobian beans by Nomad (great) and something Brazilian (try).</span>
+* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">Ethiobian beans by Nomad (great) and something Brazilian (try).</span>
 * Commons at Old Street Works. Now serving <span style="color:#84A98C">Red Devil by Red Bank (great as flat white) and For the people by Campbell&Syme (good).</span>
 * Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
 * Scenery. Now serving <span style="color:#38B000">Colourful (great), Laga Lizu (good), something lemony (try).</span>
@@ -63,10 +63,10 @@ Workshop Coffee.
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Diima Banko Gotiti Ethiopia (good) and 24AW (try).</span> 
 * Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
 * Snoozzze Coffee. Now serving <span style="color:#84A98C">Substance (good) and Source (ok) by Plot.</span>
-* Long & Short Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
-* Nostos Coffee
-* Qima
-* Special Guests Coffee in Marylebone
+* Long & Short. Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
+* Nostos Coffee.
+* Qima.
+* Special Guests Coffee in Marylebone.
 
 ### Needful:
 * Pophams. Great coffee. They roast themselves at Ozone.

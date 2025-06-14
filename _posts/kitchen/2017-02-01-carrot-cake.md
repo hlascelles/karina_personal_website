@@ -11,7 +11,7 @@ categories:
 * 260g carrots
 * 4 oranges
 * 100g walnuts
-* 230g dark Muscovado sugar 
+* 230g dark Muscovado sugar (+70g later)
 * 230g flour
 * 4 teaspoons baking powder
 * 2 teaspoons cinnamon
@@ -24,9 +24,6 @@ categories:
 <nbsp></nbsp>
 * 70g dark Muscovado sugar 
 * 280g full-fat cream cheese
-
-
-(+70g later)
 
 **Methods:**
 
