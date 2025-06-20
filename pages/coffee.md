@@ -55,7 +55,7 @@ Workshop Coffee.
 <br/><br/>
 
 ### Favourites:
-* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">Ethiobian beans by Nomad (great) and something Brazilian (try).</span>
+* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">natural Colombian by Netherlands (ok) and something Brazilian (try).</span>
 * Commons at Old Street Works. Now serving <span style="color:#84A98C">Red Devil by Red Bank (great as flat white) and For the people by Campbell&Syme (good).</span>
 * Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
 * Scenery. Now serving <span style="color:#38B000">Colourful (great), Laga Lizu (good), something lemony (try).</span>
@@ -79,37 +79,23 @@ Workshop Coffee.
 * High Grade Coffee.Use the loo in Cafe 1001 next door. Now serving Hanbury (meh) and Brick lane (try).
 
 ### Try:
+* Rose & Rose? (Clerkenwell)
+* Prufrock Coffee? (Clerkenwell)
+* Brewed Online?
 * Caravan Coffee Roasters and Brewbar (with a friend)
 * Fink's - try Scenery coffee. (Bazaar)
-* Saltine - try Scenery coffee. (Bazaar)
-* Superette (try Fireheart)? (Bazaar)
 * Frequency? (Bazaar)
 * Jolene Bakery & Restaurant? (Dalston)
-* Luminary Bakery? (Dalston)
-* Leigh's? (Dalston)
-* Brunswick East Bakehouse? (Dalston)
-* Forno. (Canal)
 * Climpson & Sons Café? (Canal)
 * % Arabica London Broadway Market? (Canal)
-* Yeast Bakery? (Canal)
-* Photobookcafe? Outdoor seating. (Shoreditch)
 * Nude coffee? (Shoreditch)
-* Coffee Matters? (Shoreditch)
-* Nepa? (Shoreditch)
-* Nagare? (Shoreditch)
-* Nkora Coffee Shoreditch? (Shoreditch)
-* Grind? (Shoreditch)
-* FWD:Coffee? (Shoreditch)
-* WatchHouse Spitalfields? (Shoreditch)
-* Breidbakers? (Shoreditch)
-* Hermanos Colombian Coffee Roasters? (Shoreditch)
-* Jack Garcia Coffee? (Shoreditch)
-* Common E2 (try Fireheart)? (Shoreditch)
-* Prufrock Coffee? (Clerkenwell)
 * Attendant Coffee Roasters? (Clerkenwell)
-* Mouse Tail Coffee Farringdon? (Clerkenwell)
-* Rose & Rose? (Clerkenwell)
-
+* WatchHouse Bishopsgate and/or WatchHouse Spitalfields?
+* HARÜ Coffee?
+* sevente?
+* Specialty Cafetiere?
+* La Maison Highbury?
+* Hagen Espresso Bar?
 
 
 ### Bean processing methods:

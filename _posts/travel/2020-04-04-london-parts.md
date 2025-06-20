@@ -251,7 +251,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 **Architecture:**
 * This area has a lot of remarkable modern buildings: [Richard Rogers' inside-out Lloyd's building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/), Broadgate Tower (a [raft building above rail tracks](https://en.wikiarquitectura.com/building/201-bishopsgate-the-broadgate-tower/)), The Gherkin, Broadgate Circle, 30 Cannon Street, 60 Queen Victoria Street, etc. [The Black & White Building](https://waughthistleton.com/black-white-building/) (51.526056, -0.079077) - the London's tallest (5 floors) fully engineered timber office building, designed to be almost completely demountable.
-* And a lot of remarkable old buildings: St Dunstan in the East Church Garden (beautiful old church with no roof), [the Victorian Bath House](https://cammhooper.com/venues/victorian-bath-house-london/), Leadenhall Market (Victorian indoor marketplace), 1 Moorgate Place (an old building with new extensions, see how the haircuts of the angels differ across parts of the building), awesome dragon on a church spire (51.513748, -0.093546), Gibson hall (51.514698, -0.083763), etc. 
+* And a lot of remarkable old buildings: St Dunstan in the East Church Garden (beautiful old church with no roof), [the Victorian Bath House](https://cammhooper.com/venues/victorian-bath-house-london/), Leadenhall Market (Victorian indoor marketplace), 1 Moorgate Place (an old building with new extensions, see how the haircuts of the angels differ across parts of the building), awesome dragon on a church spire (51.513748, -0.093546), Gibson hall (51.514698, -0.083763), Atlas House, etc. 
 * The Barbican Estate - one of the largest examples of Brutalist style architecture, representing an utopian ideal for inner-city living. Have fun exploring.
 * St Paul's cathedral, at least from the outside. Free to visit during [Easter](https://www.stpauls.co.uk/lent-holy-week-and-easter).
 * Paternoster Square, including Temple Bar London - a renovated (and relocated) City of London gateway from the 1600s. This is the only one that survived, but there used to be [9 of them](https://lostlcp.com/nine-gates-to-the-city/) and [it makes for a great walk](https://www.google.com/maps/d/viewer?hl=en&hl=en&ll=51.51632379171387%2C-0.06953716158106804&z=15&mid=1NtN3xUFCLmwuuvZEi9hPz6ZcZEc8qc_w). And don't miss the Christchurch Greyfriars Church Garden - a garden in the ruins of an 18th-century bombed out church.
@@ -284,7 +284,6 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * London Wetland Centre is a lot of fun. Bring binoculars.
 
 **Food and drink:**
-* Coffee: Kiss the Hippo.
 * Petersham Nurseries Café - a wonderful place to stop for a tea and a cake in a plant-filled glasshouse.
 * Kaffee Limited - Viennese cafe with awesome pastries and cakes.
 
