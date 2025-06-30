@@ -32,8 +32,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="acton"></a>
-### 1. Acton 
+### <a name="acton"></a> 1. Acton 
 
 * [London Transport Museum Depot](https://www.ltmuseum.co.uk/visit/museum-depot) open for pre-booked guided tours and open days.
 * Sabiib Somali Restaurant Acton - awesome Somali flavours.
@@ -42,16 +41,14 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="battersea"></a>
-### 2. Battersea 
+### <a name="battersea"></a> 2. Battersea 
 
 * One of the new neighbourhoods in London. See the Battersea Power Station that has been renovated into a shopping mall and [flats](https://propertylistings.ft.com/propertynews/london/7002-for-their-interiors-inspiration-battersea-power-stations-residential-architects-turned-to-the-buildings-original-role.html), and exciting architecture of the surrounding residential buildings.
 * Battersea Park and Albert Bridge (lit up beautifully at night).
 * Coffee: Nostos Coffee.
 
 
-<a name="brixton"></a>
-### 3. Brixton 
+### <a name="brixton"></a> 3. Brixton 
 
 * Street art.
 * [Brixton Windmill](https://www.brixtonwindmill.org/visit/plan-your-visit/) - an unexpected thing to see in London.
@@ -59,8 +56,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="camden"></a>
-### 4. Camden 
+### <a name="camden"></a> 4. Camden 
 
 * Regent's Park; don't miss Queen Mary's Rose Gardens when roses are in bloom. Primrose Hill is a perfect spot for a picnic and/or sunset watching. 
 * Little Venice. Floating Pocket Park in Paddington Basin. Don't miss the Rolling Bridge.
@@ -71,8 +67,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="canary-wharf"></a>
-### 5. Canary Wharf 
+### <a name="canary-wharf"></a> 5. Canary Wharf 
 
 * Exciting [architecture](https://www.ft.com/content/54faa76a-a61d-4d3c-b9a9-76eb6f92a79a).
 * Crossrail Place Roof Garden.
@@ -82,8 +77,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="dalston"></a>
-### 6. Dalston  
+### <a name="dalston"></a> 6. Dalston  
 
 * Green spaces - Clissold Park, Abney Park Cemetery Trust (a beautiful cemetery, especially wonderful for a stroll on a hot summer day as it stays cool), New River Path (a narrow 1km park from (51.541842, -0.097758) to (51.547047, -0.092159)), Dalston Eastern Curve Garden.
 * De Beauvoir Town - lovely pedestrian streets between De Beauvoir Square and De Beauvoir Deli.
@@ -99,23 +93,21 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="finsbury-park"></a>
-### 7. Finsbury Park 
+### <a name="finsbury-park"></a> 7. Finsbury Park 
 
 * Parkland Walk - a lovely running/walking route connecting Finsbury Park and Highgate Wood. 
 * Open water swimming in [West Reservoir](https://www.better.org.uk/leisure-centre/london/hackney/west-reservoir-centre) and/or birdwatching in Woodberry Wetlands.
 * [Through the woods](https://www.throughthewoods.london/) - hyper-seasonal tasting menu, one of my favourites in London. Book way in advance. Vegetarian option available.
 
 
-<a name="greenwich"></a>
-### 8. Greenwich
+### <a name="greenwich"></a> 8. Greenwich
 
 * [Queen's House](https://www.rmg.co.uk/queens-house) - maritime paintings. Book free tickets in advance.
 * [Painted Hall of the Old Royal Naval College](https://ornc.org/) - the Sistine Chapel of England. Ask for free audio guide - it is great. Cheap tickets on first Sunday of every month.
 * [National Maritime Museum](https://www.rmg.co.uk/national-maritime-museum) - free until summer 2025. Book free tickets in advance. "Astronomy Photographer of the Year" is always great.
 * Royal Observatory Greenwich (not free). Do walk to it via Prime Meridian Walk, even if you are not planning to buy a ticket. You'll cross the Prime Meridian on your walk and you'll be treated to an amazing views of London from the top of the hill. Though my favourite view of old architecture framing the new is from (51.482388, -0.0048).
 * Take a ferry (not free) to/from Woolwich Royal Arsenal ferry terminal to pass through the Thames Barrier (51.496888, 0.037287). On the way you'll see Tate and Lyle sugar factory, The O2 arena, etc. Around Woolwich, ViB Bar Bao Bun Bar has great food.
-* [Crossness Pumping Station](https://crossness.org.uk/) steaming days - an opportunity to visit [Cathedral of Sewage from Victorian era](https://livinglondonhistory.com/crossness-londons-amazing-cathedral-of-sewage/). This one is still on my wishlist. I visited [Abbey Mills Pumping station](https://www.e7-nowandthen.org/2016/10/a-nod-at-our-neighbours-abbey-mills.html) (which is similar, but rarely possible to visit) and it blew my mind. 
+* [Crossness Pumping Station](https://crossness.org.uk/) steaming days - an unmissable opportunity to visit [Cathedral of Sewage from Victorian era](https://livinglondonhistory.com/crossness-londons-amazing-cathedral-of-sewage/). [Abbey Mills Pumping station](https://www.e7-nowandthen.org/2016/10/a-nod-at-our-neighbours-abbey-mills.html) is similar, but rarely possible to visit.
 * [Greenwich Peninsula's Art Trail](https://www.greenwichpeninsula.co.uk/whats-here/art-trail).
 * Greenwich Foot Tunnel is an exciting way to cross the Thames river on foot.
 
@@ -125,13 +117,12 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="hackney"></a>
-### 9. Hackney 
+### <a name="hackney"></a> 9. Hackney 
 
 * On Saturdays - Broadway Market and Netil Market, followed by a picnic in London Fields.
 * On Sundays - Columbia Road Flower Market. For the full experience, also visit Hackney City Farm nearby.
 * Victoria Park is huge, and you can continue into Hackney Marshes and onwards along the River Lea.
-* [Olympic Park](https://www.bloomberg.com/features/2024-london-olympic-legacy/) - a new neighbourhood. This includes [East Bank](https://www.ucl.ac.uk/ucl-east/east-bank) - a new powerhouse for innovation, creativity and learning. UCL, University of Arts London, Victoria and Albert Museum, BBC Music and Sadler’s Wells Theatre all have a location here. UCL Institute of Making has fun [events](https://www.instituteofmaking.org.uk/events), Festival of Stuff in June (free, no bookings) is not to be missed.
+* [East Bank](https://www.queenelizabetholympicpark.co.uk/east-bank) - a new exciting neighbourhood in the [Olympic Park](https://www.bloomberg.com/features/2024-london-olympic-legacy/). [V&A East Storehouse](https://www.vam.ac.uk/east) is an exciting not-a-museum to visit. UCL Institute of Making has fun [events](https://www.instituteofmaking.org.uk/events), Festival of Stuff in June (free, no bookings) is not to be missed.
 * Street art around Hackney Wick.
 * Hackney Downs Park and the area around Hackney Downs Studios.
 * London Sri Mahalakshmi Temple (South Indian) in East Ham (especially worth seeing if you've not yet been to India).
@@ -146,16 +137,15 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="hampstead-heath"></a>
-### 10. Hampstead Heath 
+### <a name="hampstead-heath"></a> 10. Hampstead Heath 
 
 * Hampstead Heath - huge park extending into Highgate Wood in the north and Golders Hill Park in the west. Parliament Hill Viewpoint for great views of London.
 * On Saturdays - [Parliament Hill Farmers' Market](https://www.lfm.org.uk/markets/parliament-hill/), followed by a picnic in Hampstead Heath.
 * [Highgate Cemetery](https://highgatecemetery.org/visit) - the West Cemetery is one of the London's finest. Not free.
 
 
-<a name="islington"></a>
-### 11. Islington  
+
+### <a name="islington"></a> 11. Islington  
 
 * Regent's Canal. From Angel station it goes east to Victoria Park. From there you can continue south to Limehouse or north to Olympic Park from which you can continue north along the River Lee or south to Royal Observatory Greenwich (crossing under the Thames via Greenwich foot tunnel).
 * Don't miss the [Antepavilion's](https://www.antepavilion.org/) [Sharks!](https://goo.gl/maps/KW6meaFjbhmEEm2w8) visible from the Regent's Canal, in the water or on the roof. They are [a big deal](https://youtu.be/_8xhdL8BPvU).
@@ -184,8 +174,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="kensington"></a>
-### 12. Kensington 
+### <a name="kensington"></a> 12. Kensington 
 
 * Architecture (including postcard classics): Parliament Square Garden with views of Big Ben, Palace of Westminster and Westminster Abbey; United Nations Green surrounded by different architectural styles, [beautiful mews](https://secretldn.com/prettiest-mews-london/), Marble Arch and Wellington Arch, Royal Albert Hall, 15 Gloucester Road, St Columba's Church Of Scotland, etc.
 * 55 Broadway - London’s first skyscraper, an art-deco "cathedral to modernity" completed in 1929. 
@@ -211,13 +200,13 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 **Food:**
 * Coffee: Nostos Coffee, Lift Coffee.
 * Mali Vegan Thai - vegan Thai.
+* Tofu Vegan Gloucester Road - vegan Chinese.
 * Chai Guys Bakehouse - awesome pastries. Last time I checked they served vegan chai but had no vegan pastries.
 * Gelato: Oddono's (several locations).
 
 
 
-<a name="kings-cross"></a>
-### 13. King's Cross 
+### <a name="kings-cross"></a> 13. King's Cross 
 
 * Known as the [Knowledge Quarter](https://www.knowledgequarter.london/) - the location of British Library, Wellcome Trust, Alan Turing Institute, Francis Crick Institute, Google and DeepMind, Nature publishing, The Guardian, Astrazeneca, and many more.
 * Architecture gems include Gasholder Park, Coal Drops Yard (read about its history here (51.535522, -0.126936) and visit architecturally exciting Samsung store on the top floor), Granary Square, Lewis Cubitt Square, community garden (51.538009, -0.124362), Pancras Square, St Pancras Station, the [light tunnel](https://www.kingscross.co.uk/kings-cross-tunnel) (51.533144, -0.124917), etc. [King's Cross Visitor Centre](https://www.kingscross.co.uk/kings-cross-welcome-hub) is a great place to start; the model of the neighbourhood gives you an overview of what there is to explore. Jack has a great post about [this area](https://livinglondonhistory.com/the-hidden-history-of-kings-cross-a-walk/).
@@ -234,8 +223,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="liverpool-street"></a>
-### 14. Liverpool Street 
+### <a name="liverpool-street"></a> 14. Liverpool Street 
 
 * [Horizon 22](https://horizon22.co.uk/) - London's highest observation deck (58th floor). Book free tickets in advance, bring binoculars. If no tickets available, [The Lookout](https://www.8bishopsgate.com/lookout) next door is equally good (book free tickets in advance). [Sky Garden](https://skygarden.london/) (book free tickets in advance) is lower so the views are less impressive, but the outdoor terrace is nice. [The Garden at 120](https://www.thegardenat120.com/#content/page/visitor_info) (free) doesn't require booking in advance. There is really no need to pay for The View from The Shard or London Eye.
 * [London Mithraeum](https://www.londonmithraeum.com/) - archaeological remains of a Roman temple, 3rd century AD. Book free tickets in advance. For completeness, also visit London's Roman Amphitheatre inside Guildhall Art Gallery.
@@ -250,8 +238,8 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Smithfield Market - meat night market open from midnight until 7am. Architecturally interesting even when the market is closed. If you still need dinner and it is already 6am, around here there is a lot of 24 hour activity, people having their morning coffee at midnight and dining at 6am.
 
 **Architecture:**
-* This area has a lot of remarkable modern buildings: [Richard Rogers' inside-out Lloyd's building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/), Broadgate Tower (a [raft building above rail tracks](https://en.wikiarquitectura.com/building/201-bishopsgate-the-broadgate-tower/)), The Gherkin, Broadgate Circle, 30 Cannon Street, 60 Queen Victoria Street, etc. [The Black & White Building](https://waughthistleton.com/black-white-building/) (51.526056, -0.079077) - the London's tallest (5 floors) fully engineered timber office building, designed to be almost completely demountable.
-* And a lot of remarkable old buildings: St Dunstan in the East Church Garden (beautiful old church with no roof), [the Victorian Bath House](https://cammhooper.com/venues/victorian-bath-house-london/), Leadenhall Market (Victorian indoor marketplace), 1 Moorgate Place (an old building with new extensions, see how the haircuts of the angels differ across parts of the building), awesome dragon on a church spire (51.513748, -0.093546), Gibson hall (51.514698, -0.083763), Atlas House, etc. 
+* This area has a lot of remarkable modern buildings: [Richard Rogers' inside-out Lloyd's building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/), Broadgate Tower (a [raft building above rail tracks](https://en.wikiarquitectura.com/building/201-bishopsgate-the-broadgate-tower/)), The Gherkin, Broadgate Circle, 30 Cannon Street, 60 Queen Victoria Street, this beautiful blue tiled building (51.52229, -0.083439), etc. [The Black & White Building](https://waughthistleton.com/black-white-building/) (51.526056, -0.079077) - the London's tallest (5 floors) fully engineered timber office building, designed to be almost completely demountable.
+* And a lot of remarkable old buildings: St Dunstan in the East Church Garden (beautiful old church with no roof), [the Victorian Bath House](https://cammhooper.com/venues/victorian-bath-house-london/), Leadenhall Market (Victorian indoor marketplace), St Bartholomew the Great (a very old church), 1 Moorgate Place (an old building with new extensions, see how the haircuts of the angels differ across parts of the building), awesome dragon on a church spire (51.513748, -0.093546), awesome statue on top of the Central Criminal Court, Gibson hall (51.514698, -0.083763), Atlas House, etc. 
 * The Barbican Estate - one of the largest examples of Brutalist style architecture, representing an utopian ideal for inner-city living. Have fun exploring.
 * St Paul's cathedral, at least from the outside. Free to visit during [Easter](https://www.stpauls.co.uk/lent-holy-week-and-easter).
 * Paternoster Square, including Temple Bar London - a renovated (and relocated) City of London gateway from the 1600s. This is the only one that survived, but there used to be [9 of them](https://lostlcp.com/nine-gates-to-the-city/) and [it makes for a great walk](https://www.google.com/maps/d/viewer?hl=en&hl=en&ll=51.51632379171387%2C-0.06953716158106804&z=15&mid=1NtN3xUFCLmwuuvZEi9hPz6ZcZEc8qc_w). And don't miss the Christchurch Greyfriars Church Garden - a garden in the ruins of an 18th-century bombed out church.
@@ -268,16 +256,14 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="peckham"></a>
-### 15. Peckham 
+### <a name="peckham"></a> 15. Peckham 
 
 * Naifs - cosy vegan restaurant.
 * Persepolis - Persian vegetarian restaurant. The Feast menu is packed with flavours.
 
 
 
-<a name="richmond"></a>
-### 16. Richmond 
+### <a name="richmond"></a> 16. Richmond 
 
 * [Kew Gardens](https://www.kew.org/kew-gardens/whats-on) (not free) - one of the best botanical gardens in the world. Arrive at the opening time, as one day is not enough to see everything - see [Attractions A-Z](https://www.kew.org/kew-gardens/whats-in-the-gardens) list. Enter through Victoria Gate to arm yourself with a current paper map, check the schedule of free walking tours at the information desk inside the Victoria Plaza Gift Shop, and see "What's looking good right now" notice board. Don't miss the art galleries (included with the entrance ticket) - [Marianne North Gallery](https://www.youtube.com/watch?v=_nALt1P7UtU) (permanent exhibition) and Shirley Sherwood Gallery (temporary exhibitions) are both excellent. My favourite places in the gardens include [Palm House](https://www.kew.org/kew-gardens/whats-in-the-gardens/palm-house), [Waterlily House](https://www.kew.org/kew-gardens/whats-in-the-gardens/waterlily-house), hard to find [Bonsai Collection](https://www.kew.org/kew-gardens/plants/bonsai-collection), [Davies Alpine House](https://www.kew.org/kew-gardens/whats-in-the-gardens/davies-alpine-house), [Rock Garden](https://www.kew.org/kew-gardens/whats-in-the-gardens/rock-garden), [Princess of Wales Conservatory](https://www.kew.org/kew-gardens/whats-in-the-gardens/princess-of-wales-conservatory), [Carnivorous Plants](https://www.kew.org/kew-gardens/whats-in-the-gardens/carnivorous-plants) collection, view from the top of the [Temperate House](https://www.kew.org/kew-gardens/whats-in-the-gardens/temperate-house), [Rhododendron Dell](https://www.kew.org/kew-gardens/whats-in-the-gardens/rhododendron-dell) in April-May, Cambridge Cottage and Duke's Garden in front of it (if not closed for an event) and beautiful long walks throughout the rest of the garden. If you are very lucky, you might catch [Titan Arum](https://www.kew.org/read-and-watch/titan-arum-in-bloom) in bloom. Check the website for evening events - spending time at Kew in the dark is truly magical.
 * Richmond Park - find the deer with huge antlers. Explore Isabella Plantation with 3 ponds (the best time to visit is in May when rhododendrons are in bloom).
@@ -289,17 +275,17 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 
 
-<a name="soho"></a>
-### 17. Soho 
+### <a name="soho"></a> 17. Soho 
 
 * Trafalgar Square, Piccadilly Circus, Seven Dials and Neal’s Yard.
 * Gerrard Street - the heart of London's Chinatown.
 * [Fitzrovia Chapel](https://www.fitzroviachapel.org/) - a hidden gem. Check [opening hours](https://www.fitzroviachapel.org/visit-us/#open). Don't miss "The one and the many" sculpture by [Peter Randall-Page](https://www.peterrandall-page.com/sculpture-map/) just outside the chapel. For more, visit Catholic Church of Saint James in Marylebone, St James's Piccadilly with a lovely small garden perfect for a picnic, etc.
-* Architecturally exciting campus of London School of Economics (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc. Also nearby Space House (51.514826, -0.119305) is very exciting.
+* Architecturally exciting campus of London School of Economics (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc. Also nearby Space House (51.514826, -0.119305) is very exciting. Nearby India House, part of Bush House, is beautiful.
 * Stroll through narrow pedestrian streets - Carnaby Street, South Molton Street and St Christopher's Place. Don't miss Liberty London - a wonderful mock Tudor building.
 * Victoria Embankment Gardens and Cleopatra's Needle.
 * St George's Church Bloomsbury has an awesome unicorn on its spire.
 * [Outernet London](https://orms.co.uk/work/st-giles/) by Orms Architects (just outside Tottenham Court Road station). Screens show a mix of curated art and adverts that subsidise rents of music shops on Denmark street.
+* [Maughan Library](https://www.kcl.ac.uk/library/collections/exhibitions) is a beautiful room, if there is a free exhibition - you can visit.
 
 **Museums and galleries:**
 * [The British Museum](https://www.britishmuseum.org/exhibitions-events) and their [Lates](https://www.britishmuseum.org/visit/late-opening-on-fridays). Book free tickets in advance. For audio guide consider their [app (not free)](https://www.britishmuseum.org/visit/audio-app) or free [Rick Steves audio guide app](https://www.ricksteves.com/watch-read-listen/audio/audio-europe).
@@ -333,8 +319,8 @@ and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Str
 * Masala Zone Piccadilly Circus. This is a chain of North Indian restaurants, but this specific location is magnificent - the dining room of the historic [Criterion building](https://en.wikipedia.org/wiki/Criterion_Restaurant).
 * Chettinad Restaurant - South Indian.
 * Mercato Mayfair - a food court in an old church. Totally worth it for the architecture, not the food.
-* Attendant Coffee Roasters - an awesome [underground-restroom-turned-coffee-bar](https://www.atlasobscura.com/places/the-attendant-fitzrovia) in Victorian-era urinals.
-* WatchHouse Somerset House - a great place for a tea and a pastry with a great view of beautiful Somerset House.
+* Inside beautiful Somerset House there is WatchHouse (coffee and cake) and Cafe Petiole (mostly vegan lunch).
+* Attendant Coffee on Foley Street - an awesome [underground-restroom-turned-coffee-bar](https://www.atlasobscura.com/places/the-attendant-fitzrovia) in Victorian-era urinals.
 * Gelato: Gelupo, La Gelatiera, Udderlicious.
 * [Twinings The Strand](https://www.atlasobscura.com/places/twinings-tea-shop) tea shop in a historic building, as British as it gets. There is a single price for a takeaway tea, which is a great way to try their most expensive teas.
 * Wulf & Lamb - here you can try vegan [Redefine Meat](https://www.redefinemeat.com/uk/).
@@ -343,8 +329,7 @@ and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Str
 
 
 
-<a name="southbank"></a>
-### 18. Southbank 
+### <a name="southbank"></a> 18. Southbank 
 
 * [Tate Modern](https://www.tate.org.uk/visit/tate-modern) and their [Lates](https://www.tate.org.uk/whats-on/tate-modern/tate-modern-lates). Worth a visit even if you don't like modern art, as it is located in the former Bankside Power Station, which operated until 1981. For contrast, see this new exciting building nearby (51.506996, -0.097277).
 * [Hayward Gallery](https://www.southbankcentre.co.uk/venues/hayward-gallery) (not free) - temporary exhibitions. There are numerous small (free) galleries in the area; my favourites include White Cube Bermondsey and London Glassblowing.
@@ -366,8 +351,8 @@ and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Str
 
 
 
-<a name="walthamstow"></a>
-### 19. Walthamstow 
+
+### <a name="walthamstow"></a> 19. Walthamstow 
 
 * Epping Forest makes a great day out.
 * God's Own Junkyard - a paradise of neon signs. Around it there are several breweries and Mother's Ruin Gin Palace (gin-centric cocktail bar).
@@ -378,12 +363,11 @@ and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Str
 * [SlowBurn](https://www.slowburn.london/) - seasonal vegetable-centric menu, many vegan options. One of my current favourites in London.
 * [supperclub.tube](https://supperclub.tube/) - Latin American inspired tasting menu. A unique experience of dining on a 1967 Victoria Line tube carriage.
 * Chuku's - Nigerian tapas, many vegan options.
-* [Beaten by a Whisker](https://www.beatenbyawhisker.com/) - bakery, incidentally vegan. Nearby vegan chicken shop - [Chickenish](https://www.chickenish.com/).
+* [Beaten by a Whisker](https://www.beatenbyawhisker.com/) - bakery, incidentally vegan. Nearby The Hogless Roast is a vegan place for burgers and mac&cheese.
 
 
 
-<a name="wembley"></a>
-### 20. Wembley 
+### <a name="wembley"></a> 20. Wembley 
 
 * Indian temples (especially worth seeing if you've not yet been to India): BAPS Shri Swaminarayan Mandir London (marble and wood) and Shri Sanatan Hindu Mandir (limestone).
-* Vasanta Bhavan Wembley - South Indian.
+* Vasanta Bhavan Wembley - South Indian restaurant.

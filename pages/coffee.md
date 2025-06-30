@@ -38,6 +38,7 @@ Legs,
 Mission Coffee Works, 
 Monmouth, 
 Nostos, 
+[Obadiah](https://obadiahcoffee.com/) (Etago Kenya is great),
 Old Spike Roastery, 
 Origin, 
 [Outpost](https://outpost.coffee/) (Sironko Uganda is ok), 
@@ -55,14 +56,14 @@ Workshop Coffee.
 <br/><br/>
 
 ### Favourites:
-* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">natural Colombian by Netherlands (ok) and something Brazilian (try).</span>
-* Commons at Old Street Works. Now serving <span style="color:#84A98C">Red Devil by Red Bank (great as flat white) and For the people by Campbell&Syme (good).</span>
+* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">Kenyan by Obadiah (great) and something Brazilian (meh).</span>
+* Commons at Old Street Works. Now serving <span style="color:#38B000">Red Devil by Red Bank (great as flat white) and For the people by Campbell&Syme (good).</span>
 * Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
 * Scenery. Now serving <span style="color:#38B000">Colourful (great), Laga Lizu (good), something lemony (try).</span>
-* Lodestar Coffee. Now serving <span style="color:#84A98C">POP peachy by People Possession (ok) and something else (try).</span>
+* Lodestar Coffee. Now serving <span style="color:#84A98C">?</span>
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Diima Banko Gotiti Ethiopia (good) and 24AW (try).</span> 
 * Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
-* Snoozzze Coffee. Now serving <span style="color:#84A98C">Substance (good) and Source (ok) by Plot.</span>
+* Snoozzze Coffee. Now serving <span style="color:#84A98C">About Last Night Ethiopia by Intermmission (ok) and Source (ok) by Plot.</span>
 * Long & Short. Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
 * Nostos Coffee.
 * Qima.
@@ -72,31 +73,28 @@ Workshop Coffee.
 * Pophams. Great coffee. They roast themselves at Ozone.
 * Kiss the Hippo.No loo. Now serving <span style="color:#84A98C">something Brazil (ok)</span> and George Street Blend (bad).
 
-### Give them another try:
-* Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).
-* Origin Coffee (Charlotte Road). Loo?
-* Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
-* High Grade Coffee.Use the loo in Cafe 1001 next door. Now serving Hanbury (meh) and Brick lane (try).
-
 ### Try:
 * Rose & Rose? (Clerkenwell)
-* Prufrock Coffee? (Clerkenwell)
 * Brewed Online?
-* Caravan Coffee Roasters and Brewbar (with a friend)
-* Fink's - try Scenery coffee. (Bazaar)
+* Caravan Coffee Roasters and Brewbar? (with a friend)
+* Fink's with Scenery coffee? (Bazaar)
 * Frequency? (Bazaar)
 * Jolene Bakery & Restaurant? (Dalston)
 * Climpson & Sons Café? (Canal)
 * % Arabica London Broadway Market? (Canal)
 * Nude coffee? (Shoreditch)
-* Attendant Coffee Roasters? (Clerkenwell)
 * WatchHouse Bishopsgate and/or WatchHouse Spitalfields?
 * HARÜ Coffee?
 * sevente?
 * Specialty Cafetiere?
 * La Maison Highbury?
-* Hagen Espresso Bar?
+* Senzo?
+* Notes?
 
+* Origin Coffee (Charlotte Road). Loo?
+* Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).
+* Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
+* High Grade Coffee.Use the loo in Cafe 1001 next door. Now serving Hanbury (meh) and Brick lane (try).
 
 ### Bean processing methods:
 
