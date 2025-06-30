@@ -10,7 +10,7 @@ categories:
 
 * olive oil
 * butter
-* 400g various mushrooms
+* 400g mushrooms (Oyster mushrooms, Brown Shimeji mushrooms, etc.)
 * 20g garlic (about 4 cloves)
 * 20 twists of black pepper
 * 125g Mascarpone cheese

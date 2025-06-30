@@ -82,7 +82,7 @@ It might take a while to set it up just right, but it's totally worth it.
 3. **Keeping your files organised.** 
 You'll have to find a system that works for you.
 In general, it's a good idea to keep data separate from your analysis of the data, to name folders with a date and a topic, to keep copies of software you've used in case it gets updated and you can't access an older version anymore.
-See [this paper][1] (even if you are not a computational biologist) for a great list of suggestions, try things out and don't give up until your files are so well organised that you never lose anything.
+See [this paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) (even if you are not a computational biologist) for a great list of suggestions, try things out and don't give up until your files are so well organised that you never lose anything.
 
 4. **Following literature using RSS feeds.**
 A lot of junior scientists, even post-docs, rely on their supervisors to notify them about important papers coming out in their field.
@@ -115,39 +115,39 @@ Once connected to an Eduroam network of any university you'll be able to access 
 
 These are the five skills I found most valuable while doing a PhD:
 
-1. **Adjusting your mental zoom level.** Often you'll be faced with a task so big that you'll just sit and stare at it without making any progress for days. In that case, instead of hiding behind a mountain of relevant papers that you absolutely have to read, you should zoom in on a particular doable sub-sub-problem of a sub-problem of a problem you are working on. Find something that can be done in less than a day and enjoy the feeling of having made some progress. This [blog post][2] describes the value of focussing on making progress on the problem instead of on solving the problem.
+1. **Adjusting your mental zoom level.** Often you'll be faced with a task so big that you'll just sit and stare at it without making any progress for days. In that case, instead of hiding behind a mountain of relevant papers that you absolutely have to read, you should zoom in on a particular doable sub-sub-problem of a sub-problem of a problem you are working on. Find something that can be done in less than a day and enjoy the feeling of having made some progress. This [blog post](https://www.neelnanda.io/blog/41-helplessness) describes the value of focussing on making progress on the problem instead of on solving the problem.
 
     Often you'll feel like you've been doing something for weeks and you still feel stuck. At that point you should zoom out and remind yourself what is the big problem you are working on. Are the details you are concerned with really important? Did you have in mind a couple of ways to approach the problem and now you are stuck on one of them? What achievable goals do you have to complete to be able to move on? Ultimately, no matter what's happening in your field or with your project, you have to submit your thesis, graduate and build your path to the future you want to have. Find a way to get yourself unstuck by looking at the big picture, even if it's not a pretty picture, and making a concrete plan.
 
     An advice you'll probably not hear from anyone else - read "The Martian" book. It wasn't intended that way, but the book touches on many aspects of a PhD life - longing for guidance and support from your supervisor, longing for your supervisor to stop telling you what to do, feeling lonely, surmounting despair, bad situations getting worse, staying organised and creative, and finally a happy ending. 
 
-2. **Navigating the ocean of papers.** It will take time to learn to distinguish good papers from bad papers. An obvious one is if you see the words "we hope" in the methods section, but most of the time it will take more skill to judge the paper correctly. It doesn't help that [often bad papers are cited more frequently than good ones][3] and hence are easier to find. A good place to start is from a good review paper of your field, from there you can go both backwards (the papers they cite) and forwards in time (the papers that cite this paper, which you can find through Google Scholar "cited by" feature).
+2. **Navigating the ocean of papers.** It will take time to learn to distinguish good papers from bad papers. An obvious one is if you see the words "we hope" in the methods section, but most of the time it will take more skill to judge the paper correctly. It doesn't help that [often bad papers are cited more frequently than good ones](https://www.science.org/doi/10.1126/sciadv.abd1705) and hence are easier to find. A good place to start is from a good review paper of your field, from there you can go both backwards (the papers they cite) and forwards in time (the papers that cite this paper, which you can find through Google Scholar "cited by" feature).
 
-    At some point you might figure something out that is contrary to what everyone else in your field believes. Surely it can't be that everyone else in the whole world is wrong? Do subject your point of view to a healthy level of doubt, but don't discredit yourself - it can happen that everyone else is wrong, as this [recent example][4] shows.
+    At some point you might figure something out that is contrary to what everyone else in your field believes. Surely it can't be that everyone else in the whole world is wrong? Do subject your point of view to a healthy level of doubt, but don't discredit yourself - it can happen that everyone else is wrong, as this [recent example](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/) shows.
 
 3. **Mastering social interactions.** 
 Every academic field has a unique dynamic of how social interactions and collaborations work on the level of a research lab, a department and a whole field across different universities.
-If you are very lucky, it might resemble the dynamics [described here][5], but in most cases you'll be surprised how counterproductive it is.
+If you are very lucky, it might resemble the dynamics [described here](https://www.nature.com/articles/d41586-021-01571-1), but in most cases you'll be surprised how counterproductive it is.
 Learning to work around the dynamics of your field and building lasting personal connections with people in your field (even if your supervisor doesn't talk to that person) is essential for making a contribution to your field.
 Equally important is to learn to discuss your work (in detail) with people from other disciplines. 
-This [specific example][6] is probably irrelevant to you, but there is a lot to be gained from reading this paper.
+This [specific example](https://www.cell.com/fulltext/S1535-6108(02)00133-2) is probably irrelevant to you, but there is a lot to be gained from reading this paper.
 
 4. **Producing science.** It is irrelevant what you do, only what others can find and build on is actual science. Writing papers and your thesis, and finding ways to make your data and your code publicly accessible is important. For me the writing part was the most difficult one - it was not unenjoyable and I was rarely happy with the text I produced. I spent a lot of time staring at an empty file, struggling to write the first sentence, then rewriting it, struggling with the second sentence, and then going back to rewrite the first sentence again. What really helped is starting with a skeleton and then slowly adding some meat to it. Even if you have no idea where to start with writing a paper, you know you'll probably have an introduction, a methods section, a results section and some sort of a conclusion. That's a start! From there you can make a bullet point list for each of these sections, keeping points in a random order for now. Once you can't think of any more points to include, you can then arrange the points in each section in some sort of logical order. There are many different ways to arrange several points that are all interconnected into a linear structure of written text, and often none of them is clearly best. Just pick one and get over it. Once all of your points are arranged, focus on one point at a time and decide roughly how many paragraphs you'll write for each of them and the topic of each of those paragraphs. Then you can make a list of points covered by each sentence of a paragraph. Before you know it, the paper is pretty much written even before you've started doing any actual writing.
 
-    Look through several guides for good academic writing ([this one][7] is a good example) and find the one that fits your personal style. Reading a lot of papers and focussing on the ones I found enjoyable to read really helped me to improve my writing. Some papers are difficult to read and you keep finding yourself losing track and thinking about something else, other papers are a delight - you read them quickly, evocative analogies make vivid images in your brain, jokes make you laugh and you start feeling like you know the author of the paper personally. You definitely want your papers to be more like the latter ones! 
+    Look through several guides for good academic writing ([this one](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/) is a good example) and find the one that fits your personal style. Reading a lot of papers and focussing on the ones I found enjoyable to read really helped me to improve my writing. Some papers are difficult to read and you keep finding yourself losing track and thinking about something else, other papers are a delight - you read them quickly, evocative analogies make vivid images in your brain, jokes make you laugh and you start feeling like you know the author of the paper personally. You definitely want your papers to be more like the latter ones! 
 
     When you are a young scientist it is tempting to prove you are not an undergrad anymore by using overly complicated sentences and writing long paragraphs peppered with highly specialised words and as many acronyms as possible. But your contribution to science will be so much greater if you make your writing easy to consume, which means more people will actually read it. When proofreading my own writing, I focus on the question "What will the reader learn from this particular sentence and this particular word?" and ruthlessly delete everything that can be deleted. Don't ever worry about your paper or your thesis being too short. Everyone is busy, and your skill to communicate ideas and facts with a minimal number of words is valuable.
 
     Don't hesitate to try out new ideas. 
-    For example, to help your reader visualise a process inside a biological cell or a dynamic of celestial objects [consider scaling everything to sizes of objects typically seen in a room][12]. 
+    For example, to help your reader visualise a process inside a biological cell or a dynamic of celestial objects [consider scaling everything to sizes of objects typically seen in a room](https://www.nature.com/articles/nmeth.4300). 
     Say a skin cell is about the size of a sofa, the compartment of the cell you are studying is the size of a cat and the enzyme that you've discovered (as big as a poppy seed) interacts with the protein the size of a hazelnut. 
     You should still include your measurements expressed in microns, but it's the vivid image you've created with objects the reader is familiar with that will allow them to easily imagine what you are talking about and stay with you for the rest of the paper. I'm sure there are loads of creative ideas like this one out there, it's a shame they are rarely seen in actual papers.
 
-    One thing you should be really careful with is choosing colour schemes for your plots, see a good explanation [here][8].
+    One thing you should be really careful with is choosing colour schemes for your plots, see a good explanation [here](https://observablehq.com/@mbostock/methods-of-comparison-compared).
     Often conclusions made from examining the plot do not hold if the colour scheme is changed. 
     This is due to how our eyes work and how some pairs of colours are perceived as more similar than other pairs even if the objective distance between the colours in the colour space is the same.
     There is no "best" colour scheme, so remember to look at your plot in several different ones before making your conclusions.
-    It is a good idea to make your figures [color blind people friendly][11].
+    It is a good idea to make your figures [color blind people friendly](https://www.nature.com/articles/d41586-021-02696-z).
 
 5. **Making the most of your time as a PhD student.**
 Being a PhD student is a great platform from which you can shape your future. 
@@ -189,18 +189,7 @@ You've learnt a lot of soft and technical skills, you've learnt how to learn qui
 Your future will be as amazing as you'll make it.
 There is nothing you have to do, you are free to go and chase your dreams.
 
-<!-- Click [here][9] for more unconventional career advice.  -->
+Make sure to add your new Dr. title to all your medical records. 
+I've noticed a big difference since I updated mine.
+
 If you'd like to discuss anything mentioned here, or if you think I can help you to make the most of your PhD, please do [get in touch](mailto:hello@karina.io).
-
-
-[1]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
-[2]: https://www.neelnanda.io/blog/41-helplessness
-[3]: https://www.science.org/doi/10.1126/sciadv.abd1705
-[4]: https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/
-[5]: https://www.nature.com/articles/d41586-021-01571-1
-[6]: https://www.cell.com/fulltext/S1535-6108(02)00133-2
-[7]: https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/
-[8]: https://observablehq.com/@mbostock/methods-of-comparison-compared
-[9]: /notes/career-advice/
-[11]: https://www.nature.com/articles/d41586-021-02696-z
-[12]: https://www.nature.com/articles/nmeth.4300

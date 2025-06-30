@@ -19,8 +19,8 @@ categories:
 <nbsp></nbsp>
 * coconut oil
 * 200g tomatoes
-* 650g paneer
-* 800g spinach
+* 450g paneer
+* 600g spinach
 * 50g double cream
 <nbsp></nbsp>
 * wholegrain rice
@@ -33,7 +33,7 @@ categories:
 * Finely chop the tomatoes.
 * In a heavy bottom pot, heat a bit of coconut oil. Add the curry paste and fry for a couple of minutes, until it smells really good. Once it starts sticking to the bottom of the pot, add the tomato. Let it simmer on low heat.
 * Prepare a pot of salted boiling water and a bowl of ice water. Blanch the spinach in boiling water and immediately transfer it into the ice water (to preserve its vibrant colour).
-* Heat a non-stick pan with coconut oil. Cube the paneer and fry it until golden on most sides.
+* Heat a non-stick pan with coconut oil. Cut the paneer into small cubes and fry it until golden on most sides.
 * Meanwhile, drain and handblender the spinach. Add it to the pot and wait for the temperature to come back up.
 * Add cream and wait for the temperature to come back up. Taste and adjust salt and spiciness (Kashmiri chilli powder).
 * Mix in the paneer cubes. Serve with rice.

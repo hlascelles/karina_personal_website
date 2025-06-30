@@ -11,6 +11,7 @@ categories:
 * 150g roasted buckwheat grain
 * 1 broccoli
 * 1 red onion
+* olive oil
 * 150g pre-cooked black beans
 <nbsp></nbsp>
 * 1 teaspoon Kashmiri chilli powder
@@ -29,3 +30,5 @@ categories:
 * To serve, heap the buckwheat on one side of the plate and broccoli on the other side.
 
 **Inspired by:** my friend Johannes.
+
+**Notes:** [Malai Broccoli](https://www.cookwithmanali.com/malai-broccoli/) is a great starter, this substantial high-in-nutrients dish hits a similar spot and avoids the danger of overcooking the broccoli.

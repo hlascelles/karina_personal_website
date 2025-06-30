@@ -18,12 +18,12 @@ widgets:
 - url: /kitchen/carbs/
   image: food-carbs.jpg
   title: <a href="/kitchen/carbs/" target="_self">Carby stuff</a>
-- url: /kitchen/fried/
-  image: food-fried.jpg
-  title: <a href="/kitchen/fried/" target="_self">Fried stuff</a>
 - url: /kitchen/raw/
   image: food-raw.jpg
   title: <a href="/kitchen/raw/" target="_self">Starter for a dessert</a>
+- url: /kitchen/sweet/
+  image: food-sweet.jpg
+  title: <a href="/kitchen/sweet/" target="_self">Sweet stuff</a>
 
 - url: /kitchen/vegan/
   image: food-vegan.jpg
@@ -34,10 +34,6 @@ widgets:
 - url: /kitchen/pantry/
   image: food-pantry.jpg
   title: <a href="/kitchen/pantry/" target="_self">By ingredients&colon; pantry</a>
-
-- url: /kitchen/sweet/
-  image: food-sweet.jpg
-  title: <a href="/kitchen/sweet/" target="_self">Sweet stuff</a>
 ---
 
 All recipe websites I've come across have one thing in common - they are made by people who love to cook. 

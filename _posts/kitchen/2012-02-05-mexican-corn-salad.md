@@ -20,6 +20,7 @@ categories:
 <nbsp></nbsp>
 * 1 green chilli (jalapeno or any other)
 * 40g red onion
+* (optional) parsley
 * pitas
 
 **Methods:**
@@ -31,7 +32,7 @@ categories:
 * Once the corn starts charring, into the pan add chilli powder and the garlic through a garlic press. Add a tiny splash of water to deglaze the pan, stir and give it a minute until the garlic smells really nice. Don't give your corn too much time in the pan, or it will dry out.
 * Add the corn into the dressing and mix well. 
 * Toast the pitas.
-* Mix the onion and the green chilli into the corn. Optionally, if you happen to have some parsley or feta (or better cotija cheese), you can add them in.
+* Mix the onion and the green chilli into the corn. Optionally, you could add some parsley.
 * Serve with pitas.
 
 **Inspired by:** [Brian Lagerstrom](https://youtu.be/yNIr-Q4wcL4?t=558)
