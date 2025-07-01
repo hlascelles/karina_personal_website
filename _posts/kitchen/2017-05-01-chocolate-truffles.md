@@ -29,4 +29,4 @@ categories:
 * Refrigerate the plate with the truffles until cold.
 * Transfer into a closed container, store in the fridge.
 
-**Inspired by:** [bbcgoodfood.com](https://www.bbcgoodfood.com/recipes/easy-chocolate-truffles)
+**Inspired by:** [BBC Good Food](https://www.bbcgoodfood.com/recipes/easy-chocolate-truffles)

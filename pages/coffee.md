@@ -83,7 +83,7 @@ Workshop Coffee.
 * Climpson & Sons Café? (Canal)
 * % Arabica London Broadway Market? (Canal)
 * Nude coffee? (Shoreditch)
-* WatchHouse Bishopsgate and/or WatchHouse Spitalfields?
+* WatchHouse Spitalfields?
 * HARÜ Coffee?
 * sevente?
 * Specialty Cafetiere?

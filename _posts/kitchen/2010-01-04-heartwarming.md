@@ -10,6 +10,7 @@ categories:
 **Indian flavours:**
 * [Palak paneer](/kitchen/palak-paneer/)
 * [Mattar paneer](/kitchen/mattar-paneer/)
+* [Aubergine curry with butter beans (Baingan bharta)](/kitchen/aubergine-curry-beans/)
 * [Bhindi masala (okra)](/kitchen/bhindi-masala/)
 
 **Asian flavours:**
