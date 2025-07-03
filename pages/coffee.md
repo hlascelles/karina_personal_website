@@ -61,7 +61,7 @@ Workshop Coffee.
 * Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
 * Scenery. Now serving <span style="color:#38B000">Colourful (great), Laga Lizu (good), something lemony (try).</span>
 * Lodestar Coffee. Now serving <span style="color:#84A98C">?</span>
-* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Diima Banko Gotiti Ethiopia (good) and 24AW (try).</span> 
+* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and ? (try).</span> 
 * Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
 * Snoozzze Coffee. Now serving <span style="color:#84A98C">About Last Night Ethiopia by Intermmission (ok) and Source (ok) by Plot.</span>
 * Long & Short. Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
@@ -82,15 +82,14 @@ Workshop Coffee.
 * Jolene Bakery & Restaurant? (Dalston)
 * Climpson & Sons Café? (Canal)
 * % Arabica London Broadway Market? (Canal)
-* Nude coffee? (Shoreditch)
-* WatchHouse Spitalfields?
 * HARÜ Coffee?
 * sevente?
 * Specialty Cafetiere?
 * La Maison Highbury?
 * Senzo?
+* WatchHouse Spitalfields?
 * Notes?
-
+<nbsp></nbsp>
 * Origin Coffee (Charlotte Road). Loo?
 * Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).
 * Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
