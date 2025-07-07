@@ -12,7 +12,7 @@ Favourite varieties: Chiroso, Sidra.
 Favourite roasters: 
 [Long & Short](https://longshortlondon.com/) UK (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
 [DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake),
-[Scenery](https://scenery.coffee/) UK (Colourful is great, Laga Lizu is great/good, Facility is great for the price, Shyira bad for cortado).
+[Scenery](https://scenery.coffee/) UK (Colourful is great, Laga Lizu is great/good, Shyira bad for cortado).
 
 UK roasteries to try: 
 15 grams, 
@@ -27,7 +27,6 @@ Climpson & Sons,
 [Conscious](https://www.consciousspeciality.com/) (Arcangel is great), 
 Dark Arts, 
 Elsewhere, 
-Fireheart (bad?), 
 [Harmony](https://www.harmonycoffee.co.uk) (Duwancho is good), 
 Hej Coffee, 
 Hermanos Colombian, 
@@ -54,44 +53,44 @@ Square Mile,
 Volcano Coffee Works,
 Workshop Coffee.
 <br/><br/>
+Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 
 ### Favourites:
 * Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">Kenyan by Obadiah (great) and something Brazilian (meh).</span>
 * Commons at Old Street Works. Now serving <span style="color:#38B000">Red Devil by Red Bank (great as flat white) and For the people by Campbell&Syme (good).</span>
+* Pophams. Great, but always the same. They roast themselves at Ozone.
 * Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
-* Scenery. Now serving <span style="color:#38B000">Colourful (great), Laga Lizu (good), something lemony (try).</span>
-* Lodestar Coffee. Now serving <span style="color:#84A98C">?</span>
-* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and ? (try).</span> 
-* Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
 * Snoozzze Coffee. Now serving <span style="color:#84A98C">About Last Night Ethiopia by Intermmission (ok) and Source (ok) by Plot.</span>
-* Long & Short. Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
-* Nostos Coffee.
-* Qima.
-* Special Guests Coffee in Marylebone.
-
-### Needful:
-* Pophams. Great coffee. They roast themselves at Ozone.
+* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and ? (try).</span> 
 * Kiss the Hippo.No loo. Now serving <span style="color:#84A98C">something Brazil (ok)</span> and George Street Blend (bad).
+<nbsp></nbsp>
+* Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
+* Lodestar Coffee. Now serving <span style="color:#84A98C">?</span>
+* Scenery. Now serving <span style="color:#38B000">Colourful (great), Laga Lizu (good), something lemony (try).</span>
+<nbsp></nbsp>
+* Long & Short. Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
+* Qima.
+* Nostos Coffee.
+* Special Guests Coffee in Marylebone.
 
 ### Try:
 * Rose & Rose? (Clerkenwell)
-* Brewed Online?
-* Caravan Coffee Roasters and Brewbar? (with a friend)
-* Fink's with Scenery coffee? (Bazaar)
-* Frequency? (Bazaar)
+* Frequency?
 * Jolene Bakery & Restaurant? (Dalston)
-* Climpson & Sons Café? (Canal)
-* % Arabica London Broadway Market? (Canal)
-* HARÜ Coffee?
-* sevente?
-* Specialty Cafetiere?
-* La Maison Highbury?
 * Senzo?
 * WatchHouse Spitalfields?
 * Notes?
+* Climpson & Sons Café? (Canal)
+* % Arabica London Broadway Market? (Canal)
+* Specialty Cafetiere?
+* HARÜ Coffee?
+* Caravan Coffee Roasters and Brewbar? (with a friend)
+* Fink's with Scenery coffee? (Bazaar)
+* Brewed Online?
 <nbsp></nbsp>
 * Origin Coffee (Charlotte Road). Loo?
 * Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).
+* sevente.Fireheart coffee is bad, everything else is great.
 * Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
 * High Grade Coffee.Use the loo in Cafe 1001 next door. Now serving Hanbury (meh) and Brick lane (try).
 

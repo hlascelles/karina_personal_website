@@ -167,6 +167,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Berber & Q Shawarma Bar - Middle-eastern flavours. Their Berber & Q Grill House in Dalston is also good.
 * Zia Lucia - Italian pizzas, including their famous charcoal crust. Several locations.
 * Afghan Kitchen - amazing food. I'd go there every week, but the menu has not changed in the past 10 years.
+* The Tamil Prince and The Tamil Crown - two locations of a nice South Indian restaurant, very spicy.
 * [Towpath](https://www.towpathlondon.com/) - lovely outdoor restaurant on the canal in Islington, perfect for lunch or a dinner on a warm summer evening.
 * Pastries: Pophams (several locations, also has great coffee), Jolene (several locations).
 * Udderlicious for gelato (several locations).
@@ -267,11 +268,13 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 * [Kew Gardens](https://www.kew.org/kew-gardens/whats-on) (not free) - one of the best botanical gardens in the world. Arrive at the opening time, as one day is not enough to see everything - see [Attractions A-Z](https://www.kew.org/kew-gardens/whats-in-the-gardens) list. Enter through Victoria Gate to arm yourself with a current paper map, check the schedule of free walking tours at the information desk inside the Victoria Plaza Gift Shop, and see "What's looking good right now" notice board. Don't miss the art galleries (included with the entrance ticket) - [Marianne North Gallery](https://www.youtube.com/watch?v=_nALt1P7UtU) (permanent exhibition) and Shirley Sherwood Gallery (temporary exhibitions) are both excellent. My favourite places in the gardens include [Palm House](https://www.kew.org/kew-gardens/whats-in-the-gardens/palm-house), [Waterlily House](https://www.kew.org/kew-gardens/whats-in-the-gardens/waterlily-house), hard to find [Bonsai Collection](https://www.kew.org/kew-gardens/plants/bonsai-collection), [Davies Alpine House](https://www.kew.org/kew-gardens/whats-in-the-gardens/davies-alpine-house), [Rock Garden](https://www.kew.org/kew-gardens/whats-in-the-gardens/rock-garden), [Princess of Wales Conservatory](https://www.kew.org/kew-gardens/whats-in-the-gardens/princess-of-wales-conservatory), [Carnivorous Plants](https://www.kew.org/kew-gardens/whats-in-the-gardens/carnivorous-plants) collection, view from the top of the [Temperate House](https://www.kew.org/kew-gardens/whats-in-the-gardens/temperate-house), [Rhododendron Dell](https://www.kew.org/kew-gardens/whats-in-the-gardens/rhododendron-dell) in April-May, Cambridge Cottage and Duke's Garden in front of it (if not closed for an event) and beautiful long walks throughout the rest of the garden. If you are very lucky, you might catch [Titan Arum](https://www.kew.org/read-and-watch/titan-arum-in-bloom) in bloom. Check the website for evening events - spending time at Kew in the dark is truly magical.
 * Richmond Park - find the deer with huge antlers. Explore Isabella Plantation with 3 ponds (the best time to visit is in May when rhododendrons are in bloom).
-* London Wetland Centre is a lot of fun. Bring binoculars.
+* London Wetland Centre (not free) is a lot of fun. Bring binoculars. Kaffee Limited - don't miss the nearby Viennese cafe with awesome pastries and cakes.
+* Richmond Cemetery and East Sheen Cemetery - a large area with a varied collection of beautiful gravestones. I visited on Saturday and it was open, despite the Google maps prediction.
+* Twickenham: Visit [Eel Pie Island](https://en.wikipedia.org/wiki/Eel_Pie_Island) during [Open Studios Weekend](https://www.eelpieislandartists.co.uk/). [Orleans House Gallery](https://www.orleanshousegallery.org/) (free) has the octagon room and some exhibitions. Nearby Marble Hill (18th century villa) is also free, but I haven't been. Don't miss an exciting sculpture (51.446775, -0.324011) in Fountain Gardens. Bones Espresso has good coffee.
 
 **Food and drink:**
+* Black Salt Sheen - highest quality North Indian restaurant.
 * Petersham Nurseries Café - a wonderful place to stop for a tea and a cake in a plant-filled glasshouse.
-* Kaffee Limited - Viennese cafe with awesome pastries and cakes.
 
 
 

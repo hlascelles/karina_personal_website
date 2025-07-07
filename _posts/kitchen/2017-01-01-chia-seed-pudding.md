@@ -9,14 +9,11 @@ categories:
 **Ingredients for 1 portion:**
 
 * 20g chia seeds 
-* 30g of coconut milk (mine is 50% coconut, you'll need more if yours is more watery)
-* 100g of water (to add up to 130g of liquid for 20g of chia seeds)
+* 130g of liquid (e.g. plant-based milk; I use 100g of water and 30g of coconut milk from a can that is 50% coconut)
 <nbsp></nbsp>
 * almond flakes
 * half a mango
 * fresh blueberries
-
-
 
 **Methods:**
 

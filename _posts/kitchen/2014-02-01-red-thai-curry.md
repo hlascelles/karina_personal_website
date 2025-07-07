@@ -23,8 +23,9 @@ categories:
 * sunflower oil
 * 400g can of coconut cream
 * 40g unrefined sugar (e.g. coconut sugar or jaggery)
-* pumpkin or butternut squash
-* shiitake mushrooms
+* 280g tofu
+* 500g pumpkin or butternut squash
+* 150g fresh shiitake mushrooms
 * 20g Thai basil
 <nbsp></nbsp>
 * wholegrain rice

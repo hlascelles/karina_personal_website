@@ -13,7 +13,7 @@ categories:
 * 30g garlic (about 6 cloves)
 <nbsp></nbsp>
 * 400g broccoli (tenderstem are best, especially purple ones)
-* 400g pre-cooked white beans (white kidney beans, butter beans, etc.)
+* 700g pre-cooked white beans (white kidney beans, butter beans, etc.)
 * 0.25 teaspoon salt
 * 40g lemon juice
 

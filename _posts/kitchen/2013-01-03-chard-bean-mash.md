@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * 20g garlic
 * 300g chard (rainbow or any other kind)
-* 400g pre-cooked white beans (white kidney beans, butter beans, etc.)
+* 700g pre-cooked white beans (white kidney beans, butter beans, etc.)
 * 0.25 teaspoon salt
 * 40g lemon juice
 

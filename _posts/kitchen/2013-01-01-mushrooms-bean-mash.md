@@ -21,8 +21,8 @@ categories:
 * 15g tomato paste
 <nbsp></nbsp>
 * 700g white pre-cooked beans (white kidney beans, butter beans, etc.)
-* 1 lemon
 * 0.25 teaspoon salt
+* 40g lemon juice
 
 **Methods:**
 
