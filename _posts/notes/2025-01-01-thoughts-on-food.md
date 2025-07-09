@@ -67,7 +67,8 @@ I'm mindful of fake diversity.
 Bulgur, couscous, farro, freekeh, fregola, orzo, pasta, polenta, semolina, spelt and sourdough bread - sounds like a diverse list of ingredients, but these are all types of wheat and products made from wheat flour.
 Edamame, tofu, tempeh and vegan chick'n all come from soybeans.
 A dozen Mexican dishes can be made from wheat tortillas, minced meat, bell peppers and cheese - keep tortillas flat for tlayudas, empalmes (two tlayudas on top of each other) and sincronizadas (empalmes with bigger tortillas), fold tortillas in half for tacos and quesadilla (tacos with more cheese), roll up tortillas into enchiladas, flautas (fried enchiladas) and burritos (bigger tortillas), or cut tortillas into triangles for chilaquiles, etc.
-Instead of focusing on the names of ingredients or the names of dishes, I focus on the diversity of plants/fungi that I'll consume; and then combine them into dishes, traditional or experimental.
+Instead of focusing on the names of ingredients or the names of dishes, I focus on the diversity of plants/fungi that I'll consume, and then combine them into dishes, traditional or experimental.
+My goal is to have at least one go-to recipe for each vegetable and each whole grain that I could buy.
 
 Avoiding food waste, both in my kitchen and before the products get to my kitchen, is another great strategy for hitting targets for my micros.
 I don't peal fruits and vegetables unless absolutely necessary - there are a lot of good micros in the skins.
@@ -81,7 +82,7 @@ It took energy to produce these skins and bran coatings, they contain a lot of m
 ### Goal #2 - avoid the things that are bad for me
 
 We all know that certain things are bad for our health - ultra-processed foods, trans fats, fructose, emulsifiers, etc. 
-Talking about how bad they are doesn't help us to reduce our intake, instead we need answers - what can I eat instead? and what to do about my cravings for the unhealthy stuff?
+Talking about how bad they are doesn't really help us to reduce our intake, instead we need answers - what can I eat instead? and what to do about my cravings for the unhealthy stuff?
 
 But first, let's start by examining how these unhealthy things end up inside me.
 Broadly speaking, there are three categories of foods I consume - restaurant and take away meals (prepared by a business, ingredient list not included), ready meals from supermarkets (prepared by a business, ingredient list provided), meals I make myself (from things I buy in a supermarket, ingredient lists provided). 
@@ -96,7 +97,7 @@ Without a kitchen, there is not much I can do about it.
 But when I have access to a kitchen and I'm deciding what to buy in a supermarket, I have one hard rule - must read the ingredient list before buying.
 It is a good rule, as even without thinking it encourages me to buy items with no ingredient list (fruits, vegetables, nuts, grains, etc.) and slows me down when I pick up something with a long list.
 Also reading the ingredient list gives me good ideas, which usually don't involve buying the product. 
-After looking at a bag of raviolli with mushrooms and Mascarpone, I ended up boiling the pasta I already had at home while frying some mushrooms and then tossing the two together with a big dullop of mascarpone.
+After looking at a bag of raviolli with mushrooms and mascarpone, I ended up boiling the pasta I already had at home while frying some mushrooms and then tossing the two together with a big dullop of mascarpone.
 Discovering a red pesto on the shelf, made with sun dried tomatoes, gave me an idea to handblender sundried tomatoes I already had with almonds and fresh garlic - thus accidentally creating an awesome vegan pesto for my pasta.
 Raspberry coulis looked absolutely irresistible, so I handblendered some frozen raspberries into my vinaigrette and this became my favourite salad dressing.
 
@@ -104,14 +105,63 @@ When reading the ingredient list I try to avoid emulsifiers (bad for the microbi
 I also avoid things that don't go bad, like supermarket breads that never mould. 
 I'm suspicious of products marketed as healthy, like juice (fruit sugar without the fibre), low calorie products (they contain zero-calorie sweeteners that mistake our brains into generating an insulin response), products with puffed grain (exploded carbohydrates create huge blood glucose spikes), etc. 
 There are mobile apps that allow you to scan the barcode and be instantly told whether a product is good for you or should be avoided. 
-In my opinion, these apps make us feel like ingredient lists are hard to understand (they are not), provide de-contextualised advice (actually high sodium capers are great when used instead of salt) and don't help us make better choices (they suggest alternatives in the same category, when instead of looking for healthier cookies I should consider carrots as a snack). 
+In my opinion, these apps make us feel like ingredient lists are hard to understand (they are not), provide de-contextualised advice (high sodium capers are great if used instead of salt) and don't help us make better choices (they suggest alternatives in the same category, when instead of looking for healthier cookies I should consider carrots as a snack). 
 
+So, you found what you were looking for and picked the option with the least bad ingredient list, but do you really need this ingredient? 
+I find that unhealthy items end up in my basket when I'm shopping for recipes from distant cuisines or previous generations.
+Tortillas, that are freshly made and healthy in Mexico, typically have a horrible ingredient list in supermarkets in Europe. 
+So I eat my taco fillings in pitas while in Europe, and I buy wheat tortillas instead of pitas while in Mexico - there's nothing wrong with falafel tacos. 
+Old recipes that call for canned peas, canned peaches and jams were created before freezers and handblenders became ubiquitous. 
+Finding fresh or frozen substitutes allows me to pack more nutrients into my food; and if these alive flavours ruin the recipe, I pick a different recipe. 
 
+The mere presence of an item in a supermarket made me believe that I can't make it myself, until I read [Cooked](https://www.goodreads.com/en/book/show/15811496-cooked) (2013) by Michael Pollan. 
+Since then I try to make most things from scratch once, and make my conclusions afterwards. 
+Making roasted peppers in the oven turned out fast and effortless, so I don't buy jarred ones any more. 
+Making paneer involved handling large volumes of hot milk, so I keep buying it to avoid this step, but I'll switch to making my own if I can't find a good one. 
+After making pasta and cream cheese, I'm very happy to outsource these to supermarkets. 
+Making gnocchi from scratch put me off completely, so now I neither make them nor buy them. 
+Sometimes it's a matter of equipment you have; I boil beans and chickpeas myself because I have an electric pressure cooker, but I don't bake my own flatbreads becauce my oven is not hot enough. 
+Sometimes it's about your friends; my Indian friends make delicious curries from vegetables and spices, so I learnt from them, but my Thai friends use supermarket Thai curry paste, so I was convinced that making this magic paste from scratch would be impossible. 
+Once I tried handblendering together all of the ingredients listed on a Thai curry paste, and I never looked back. 
+My friends make elaborate veggie burgers with dozens of ingredients, and they are not as satisfying as supermarket ones, so I kept buying veggie burgers until I was in a country where I couldn't find any. 
+In a hungry despair, I mashed beans from a can with my hands, adding only tomato paste, paprika powder and salt - these were the best burgers I've ever had.
 
+##### Things to think about outside the supermarket
 
+Breakfasts are typically high in carbs and fats, and low in fibre, protein and diversity. 
+Sweet breakfasts are worse than desserts, as the sugars consumed on an empty stomach, unimpeded by the fibre and protein from previous courses, lead to problematic blood sugar spikes. 
+I am a breakfast anarchist - I skip them if I'm not hungry, and if I am hungry I eat normal food as if it was lunch. 
+If what makes breakfasts special is the lack of time to prepare them, then I make too much for dinner and eat the leftovers in the morning. 
 
+Breakfasts is not the only tradition to be scrutinised. 
+I question everything from birthday cakes (why not a savoury pie?) to stale bread recipes. 
+Panzanella salad in Italy, chilaquiles in Mexico, lablabi in Tunisia - there are so many traditions for using up stale bread, which solve the problem I don't have, as I keep pitas and sliced sourdough in my freezer, so they never go stale. 
+After my travels, I wanted to recreate these recipes at home, but then I realised that I don't need more ways to eat bread, I need more broccoli recipes.
+What traditions stand in the way of your nutritional goals? 
+And can you create new traditions that would help instead? 
 
+##### Don't avoid, displace
 
+Lists of unhealthy things to avoid are not helpful, unless they also answer the question of what should I eat instead. 
+Following [Dr. Greger's Daily Dozen](https://nutritionfacts.app.box.com/v/daily-dozen-infographic) for a couple of months transformed my habbits around food. 
+I had to find many recipes with legumes and whole grains to enable myself to eat 3 servings of each every day. 
+Then on top of that there were 5 servings of vegetables per day, some of which had to be leafy greens and some cruciferous. 
+I could eat whatever else I wanted, but I was too stuffed already. 
+After I ate all the nuts, fruits and berries as required, I had no room left for dessert either. 
+
+I no longer count my Greger points, but I'm still resentful of pizza that was worth 0 points. 
+If I would have avoided certain foods for a couple of months, by now I would have returned to eating them. 
+But since I had to learn how to incorporate cruciferous vegetables, whole grains and loads of legumes into my diet, I keep eating them to this day, purely by inertia.
+
+##### Make it fun or deliberately boring
+
+Apart fromm inertia, boredom is another great tool. 
+I only ever buy one type of pasta; so whether I'm making Pasta al Pesto, Macaroni Cheese or Spaghetti Bolognaise, I use the same pasta shape for all these recipes. 
+Because my goal is to eat more beans instead, I always have white, red, black and butter beans on hand; and I'm always looking for new beans to try. 
+So instead of asking myself what could I have for dinner (pasta is always nice!), I ask which of the beans I'm cooking with tonight. 
+Being strategic about the diversity of ingredients in my kitchen, means that I eat less of boring pasta and I am more motivated to find recipes that highlight different flavours, textures, sizes and colours of my beans.
+
+##### Everything has an opportunity cost
 
 
 

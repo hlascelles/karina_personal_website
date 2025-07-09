@@ -11,6 +11,7 @@ categories:
 * 280g red kidney beans
 * 30g tomato paste
 * 10g paprika powder (sweet or smoked, or a mix of both)
+* 0.25 teaspoon salt
 <nbsp></nbsp>
 * olive oil
 * rye bread
@@ -21,7 +22,7 @@ categories:
 
 **Methods:**
 
-* Prepare the beans (defrost or drain from the cans). Into a bowl add the beans, tomato paste and paprika powder. Mix forcefully with hands, squashing most of the beans. Once you have a homogeneous ball of bean mass, split it into two equally sized balls.
+* Prepare the beans (defrost or drain from the cans). Into a bowl add the beans, tomato paste, paprika powder and salt. Mix forcefully with hands, squashing most of the beans. Once you have a homogeneous ball of bean mass, split it into two equally sized balls.
 * Pre-heat some olive oil in a frying pan. Place the bean balls onto the hot pan and press them into flat burgers. Brown them on both sides.
 * Meanwhile, toast two slices of rye bread.
 * Slice the onion, tomato and some cheese.
