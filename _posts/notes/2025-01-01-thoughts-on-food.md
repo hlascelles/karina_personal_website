@@ -64,7 +64,7 @@ But when I can, I try to cook with plants I'm less familiar with - celeriac, fen
 Luckily there is no shortage of recipes online, and with image recognition even not knowing the name of a vegetable is no longer an excuse.
 
 I'm mindful of fake diversity.
-Bulgur, couscous, farro, freekeh, fregola, orzo, pasta, polenta, semolina, spelt and sourdough bread - sounds like a diverse list of ingredients, but these are all types of wheat and products made from wheat flour.
+Bulgur, couscous, farro, freekeh, fregola, orzo, pasta, semolina, spelt and sourdough bread - sounds like a diverse list of ingredients, but these are all types of wheat and products made from wheat flour.
 Edamame, tofu, tempeh and vegan chick'n all come from soybeans.
 A dozen Mexican dishes can be made from wheat tortillas, minced meat, bell peppers and cheese - keep tortillas flat for tlayudas, empalmes (two tlayudas on top of each other) and sincronizadas (empalmes with bigger tortillas), fold tortillas in half for tacos and quesadilla (tacos with more cheese), roll up tortillas into enchiladas, flautas (fried enchiladas) and burritos (bigger tortillas), or cut tortillas into triangles for chilaquiles, etc.
 Instead of focusing on the names of ingredients or the names of dishes, I focus on the diversity of plants/fungi that I'll consume, and then combine them into dishes, traditional or experimental.
@@ -82,7 +82,7 @@ It took energy to produce these skins and bran coatings, they contain a lot of m
 ### Goal #2 - avoid the things that are bad for me
 
 We all know that certain things are bad for our health - ultra-processed foods, trans fats, fructose, emulsifiers, etc. 
-Talking about how bad they are doesn't really help us to reduce our intake, instead we need answers - what can I eat instead? and what to do about my cravings for the unhealthy stuff?
+Talking about how bad they are doesn't really help us to reduce our intake, instead we need these questions answered - what can I eat instead? and what to do about my cravings for the unhealthy stuff?
 
 But first, let's start by examining how these unhealthy things end up inside me.
 Broadly speaking, there are three categories of foods I consume - restaurant and take away meals (prepared by a business, ingredient list not included), ready meals from supermarkets (prepared by a business, ingredient list provided), meals I make myself (from things I buy in a supermarket, ingredient lists provided). 
@@ -123,8 +123,8 @@ Making gnocchi from scratch put me off completely, so now I neither make them no
 Sometimes it's a matter of equipment you have; I boil beans and chickpeas myself because I have an electric pressure cooker, but I don't bake my own flatbreads becauce my oven is not hot enough. 
 Sometimes it's about your friends; my Indian friends make delicious curries from vegetables and spices, so I learnt from them, but my Thai friends use supermarket Thai curry paste, so I was convinced that making this magic paste from scratch would be impossible. 
 Once I tried handblendering together all of the ingredients listed on a Thai curry paste, and I never looked back. 
-My friends make elaborate veggie burgers with dozens of ingredients, and they are not as satisfying as supermarket ones, so I kept buying veggie burgers until I was in a country where I couldn't find any. 
-In a hungry despair, I mashed beans from a can with my hands, adding only tomato paste, paprika powder and salt - these were the best burgers I've ever had.
+My friends make elaborate veggie burgers with dozens of ingredients, and the supermarket ones have a long ingredient list too; so I kept buying veggie burgers until I was in a country where I couldn't find any. 
+In a hungry despair, I mashed beans from a can with my hands, adding only tomato paste, paprika powder and salt - these were the best burgers I've ever had. 
 
 ##### Things to think about outside the supermarket
 
@@ -135,7 +135,7 @@ If what makes breakfasts special is the lack of time to prepare them, then I mak
 
 Breakfasts is not the only tradition to be scrutinised. 
 I question everything from birthday cakes (why not a savoury pie?) to stale bread recipes. 
-Panzanella salad in Italy, chilaquiles in Mexico, lablabi in Tunisia - there are so many traditions for using up stale bread, which solve the problem I don't have, as I keep pitas and sliced sourdough in my freezer, so they never go stale. 
+Panzanella salad in Italy, chilaquiles in Mexico, lablabi in Tunisia - there are so many traditions for using up stale bread, which solve the problem I simply don't have, as I keep pitas and sliced sourdough in my freezer, so they never go stale. 
 After my travels, I wanted to recreate these recipes at home, but then I realised that I don't need more ways to eat bread, I need more broccoli recipes.
 What traditions stand in the way of your nutritional goals? 
 And can you create new traditions that would help instead? 
@@ -162,6 +162,77 @@ So instead of asking myself what could I have for dinner (pasta is always nice!)
 Being strategic about the diversity of ingredients in my kitchen, means that I eat less of boring pasta and I am more motivated to find recipes that highlight different flavours, textures, sizes and colours of my beans.
 
 ##### Everything has an opportunity cost
+
+Most foods have "healthy" or "unhealthy" label attached to them. 
+Items that combine characteristics of both classes invite controversy. 
+But really, there is only one question you should be asking yourself. 
+And I do mean yourself, not the internet. 
+Instead of what? 
+
+Zero-calorie soft drinks are healthy instead of sugary drinks, but not instead of 100% fruit juice. 
+A whole fruit is healthy instead of fruit juice, but not if it replaces a kale salad. 
+Bananas are healthy instead of jelly in PB&J sandwich, but not instead of kiwis.
+
+I eat a lot of dairy and almost no sesamy seeds, so a creamy tahini sauce replacing a dairy one is great for me. 
+Farro, a type of wheat, would be super healthy if I'd eat it instead of pasta. 
+But in reality, it doesn't dent my pasta consumption, it replaces other whole grains like buckwheat and millet. 
+Since I'll keep eating wheat in a form of pasta, couscous, pitas, sourdough bread and an occasional baguette, I don't think I should be replacing buckwheat or millet with a healthy type of wheat grain. 
+
+Next time you are wondering if something is healthy, ask yourself - instead of what? 
+And come on, be honest.
+
+##### And what about my cravings?
+
+You are eating broccoli with tahini sauce and loads of legumes. 
+It's filling, so you are not hungry, and knowing that these foods are good for you makes you happy, in theory. 
+In practice, you have cravings.
+
+Roughly speaking, cravings come in two flavours - biological and emotional. 
+Biological cravings are mechanisms that evolved in our brain over millions of years to motivate us to look for stuff that was rear during most of that evoljutionary period - sugars, fats, proteins and salt. 
+Because leafy greens were abundant in the environment, no mechanism evolved to motivate us to look for them. 
+In fact, 2 million years ago there was a danger that leafy greens would be the only thing humans eat. 
+Everything in the environment contained fibre, apart from the antelope, that was really hard to catch. 
+Our brains, that evolve on a millions-of-years timescale, are not prepared for the modern supermarket, where sugars, fats and salt are abundant. 
+
+The problem is not only with what we crave, but also how much. 
+The brain's ideas about what is not enough and what is too much are relative to the baseline. 
+I get sugar from fruits, carrots and dairy (lactose), and my brain is happy. 
+But if I have a pastry one day and a dessert in a restaurant the next day, that's enough to adjust my brain's baseline - now I'm craving something sugary at least once a day. 
+The first ever cheesecake I made myself was a more extreme example (I was very young, don't judge). 
+I mixed a bit of cream cheese with a lot of cream, butter and oil, thus pushing the fat content way beyond reasonable. 
+Eating a slice of it made me unwell. 
+The next day I faced the fact that my first ever homemade cheesecake will have to be binned. 
+But first I gave it another try, just to learn my lesson and do better next time - it was actually totally edible, as long as I kept the slice size small.
+By the end of the week I was gorging on this gloriously fatty cheesecake. 
+
+While in some regards our brains are very silly, they are also increadibly smart in other ways. 
+While I'm eating a pizza I'm loving it - it's cheesy, it's crispy and doughy at the same time, and the sweetness of the tomato sauce is so good. 
+But once I've inhaled the whole thing, I often feel regret. 
+Sometimes it's the other way around - the food tastes bland and boring and I barely push it in (think lentils boiled in water for way too long with just a pinch of salt and nothing else); but afterwards I have a nourished feeling of "that's exactly what I needed". 
+Until I find or make up a better term, I'll call it the second appraisal. 
+The first one is done by our eyes, nose and mouth - how the food looks (and the other people eating it), how it smells, the tastes and textures. 
+The second appraisal happens when the brain combines these signals with other, often subconsious, signals about what's happening in the gut and what's entering the bloodstream. 
+To know what's good for me personally, I listen out for these second appraisals of what I eat. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
