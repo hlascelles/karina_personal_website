@@ -46,13 +46,13 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * One of the new neighbourhoods in London. See the Battersea Power Station that has been renovated into a shopping mall and [flats](https://propertylistings.ft.com/propertynews/london/7002-for-their-interiors-inspiration-battersea-power-stations-residential-architects-turned-to-the-buildings-original-role.html), and exciting architecture of the surrounding residential buildings.
 * Battersea Park and Albert Bridge (lit up beautifully at night).
 * Coffee: Nostos Coffee.
+* On my pastry wishlist: Mahali Bakery by Mahali and Co.
 
 
 ### <a name="brixton"></a> 3. Brixton 
 
 * Street art.
 * [Brixton Windmill](https://www.brixtonwindmill.org/visit/plan-your-visit/) - an unexpected thing to see in London.
-* Parissi for a warm drink and a cake.
 
 
 
@@ -169,7 +169,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Afghan Kitchen - amazing food. I'd go there every week, but the menu has not changed in the past 10 years.
 * The Tamil Prince and The Tamil Crown - two locations of a nice South Indian restaurant, very spicy.
 * [Towpath](https://www.towpathlondon.com/) - lovely outdoor restaurant on the canal in Islington, perfect for lunch or a dinner on a warm summer evening.
-* Pastries: Pophams (several locations, also has great coffee), Jolene (several locations).
+* Pastries: Pophams (several locations, also has great coffee), Jolene (several locations), Holloway Model Bakery.
 * Udderlicious for gelato (several locations).
 * Katsute 100 - a perfect place for a non-alcoholic drinks meeting in the evening.
 
@@ -182,7 +182,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Book a tour to see the inside of the [Big Ben Tower](https://www.parliament.uk/visiting/visiting-and-tours/big-ben-tour/) way in advance. It is not cheap, but very much worth it. Arrive early for an airport-style security check. For me, nothing compares to the thrill of seeing London through the clock face of Big Ben, but objectively [Palace of Westminster Audio Tour](https://tickets.parliament.uk/content/ticket-options) is also great. Audio Tour is great, it is cheaper than a Guided Tour, and it has no time limit so you can spend many hours exploring.
 * Westminster Cathedral - an architectural gem that should be much more famous. Their handy [online calendar](https://westminstercathedral.org.uk/spiritual-life/mass-divine-office/) allows you to pick a time to visit that doesn't clash with religious services.
 * [Supreme Court](https://www.supremecourt.uk/visit-the-court/plan-your-visit) - a beautiful building, small exhibitions and a chance to attend a court hearing. Free.
-* London's beautiful parks - St James's Park, Green Park, Hyde Park. Hyde Park Rose Garden when roses are in bloom, St James's Park for daffodils in spring. Don't miss the [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) in Hyde park - two building on either side of the Serpentine Bridge.
+* London's beautiful parks - St James's Park (with the view of Buckingham Palace), Green Park, Hyde Park. Hyde Park Rose Garden when roses are in bloom, St James's Park for daffodils in spring. Don't miss the [Serpentine Gallery](https://www.serpentinegalleries.org/whats-on/) in Hyde park - two building on either side of the Serpentine Bridge.
 * [Japan House London](https://www.japanhouselondon.uk/whats-on/) - free exhibitions and events.
 * Onion Garden - an unlikely place to stumble upon.
 * [Nick Hornby sculpture](https://www.nickhornby.com/exhibitions/55-public-commission-power-over-others-is-weakness-disguised-orchard-place-the-broadway-westminster-sw1h-0bg/) on Orchard Place (51.498454, -0.132962).
@@ -203,6 +203,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Mali Vegan Thai - vegan Thai.
 * Tofu Vegan Gloucester Road - vegan Chinese.
 * Chai Guys Bakehouse - awesome pastries. Last time I checked they served vegan chai but had no vegan pastries.
+* On my pastry wishlist: Chestnut Bakery, Peko Peko Pedlar.
 * Gelato: Oddono's (several locations).
 
 
@@ -239,16 +240,20 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Smithfield Market - meat night market open from midnight until 7am. Architecturally interesting even when the market is closed. If you still need dinner and it is already 6am, around here there is a lot of 24 hour activity, people having their morning coffee at midnight and dining at 6am.
 
 **Architecture:**
-* This area has a lot of remarkable modern buildings: [Richard Rogers' inside-out Lloyd's building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/), Broadgate Tower (a [raft building above rail tracks](https://en.wikiarquitectura.com/building/201-bishopsgate-the-broadgate-tower/)), The Gherkin, Broadgate Circle, 30 Cannon Street, 60 Queen Victoria Street, this beautiful blue tiled building (51.52229, -0.083439), etc. [The Black & White Building](https://waughthistleton.com/black-white-building/) (51.526056, -0.079077) - the London's tallest (5 floors) fully engineered timber office building, designed to be almost completely demountable.
+* This area has a lot of remarkable modern buildings: [Richard Rogers' inside-out Lloyd's building](https://www.dezeen.com/2019/11/19/lloyds-building-richard-rogers-high-tech-london/), The Gherkin, Broadgate Circle, 30 Cannon Street, 60 Queen Victoria Street, this beautiful blue tiled building (51.52229, -0.083439), etc. 
+* [Exchange House] (https://youtu.be/Oy7YTEw4kQM) (that is actually a bridge) and Broadgate Tower (a [raft building](https://en.wikiarquitectura.com/building/201-bishopsgate-the-broadgate-tower/)).
+* [The Black & White Building](https://waughthistleton.com/black-white-building/) (51.526056, -0.079077) - the London's tallest (5 floors) fully engineered timber office building, designed to be almost completely demountable.
 * And a lot of remarkable old buildings: St Dunstan in the East Church Garden (beautiful old church with no roof), [the Victorian Bath House](https://cammhooper.com/venues/victorian-bath-house-london/), Leadenhall Market (Victorian indoor marketplace), St Bartholomew the Great (a very old church), 1 Moorgate Place (an old building with new extensions, see how the haircuts of the angels differ across parts of the building), awesome dragon on a church spire (51.513748, -0.093546), awesome statue on top of the Central Criminal Court, Gibson hall (51.514698, -0.083763), Atlas House, etc. 
 * The Barbican Estate - one of the largest examples of Brutalist style architecture, representing an utopian ideal for inner-city living. Have fun exploring.
 * St Paul's cathedral, at least from the outside. Free to visit during [Easter](https://www.stpauls.co.uk/lent-holy-week-and-easter).
 * Paternoster Square, including Temple Bar London - a renovated (and relocated) City of London gateway from the 1600s. This is the only one that survived, but there used to be [9 of them](https://lostlcp.com/nine-gates-to-the-city/) and [it makes for a great walk](https://www.google.com/maps/d/viewer?hl=en&hl=en&ll=51.51632379171387%2C-0.06953716158106804&z=15&mid=1NtN3xUFCLmwuuvZEi9hPz6ZcZEc8qc_w). And don't miss the Christchurch Greyfriars Church Garden - a garden in the ruins of an 18th-century bombed out church.
+
 * Exchange Square for a great view of Liverpool Street Station, Aldgate Square has a great fountain, Finsbury Circus Garden has pretty buildings around it.
+
 * Vintners Place (51.510283, -0.093586) - a beautiful building, find the owl.
 
 **Food:**
-* Coffee: Lift Coffee, Snoozzze Coffee, Commons at Old Street Works, Origin Coffee (Charlotte Road), High Grade Coffee (no toilet), Colonna & Small's (also see their printed Freezer Reserve menu).
+* Coffee: Commons at Old Street Works, Snoozzze Coffee, Lift Coffee, Origin Coffee, Colonna & Small's.
 * Spitalfields area is becoming a vegan destination: Bubala (vegan or vegetarian tasting menu, I've been many times and it never disappoints, and they have other locations too), Tofu Vegan (several locations), etc.
 * Nest - great tasting menu with a focus on seasonal and local. They no longer offer vegetarian menu.
 * Sen Viet Vegan Restaurant - vegan Vietnamese food.
@@ -260,7 +265,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 ### <a name="peckham"></a> 15. Peckham 
 
 * Naifs - cosy vegan restaurant.
-* Persepolis - Persian vegetarian restaurant. The Feast menu is packed with flavours.
+* On my pastry wishlist: TOAD Bakery, Eric’s.
 
 
 
@@ -296,6 +301,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [Hunterian Museum](https://hunterianmuseum.org/) - the specimen collection of the 18th century surgeon anatomist John Hunter. Book free tickets in advance.
 * [Grant Museum of Zoology](https://www.ucl.ac.uk/culture/grant-museum-zoology) - a small space densely packed with skeletons.
 * [The National Gallery](https://www.nationalgallery.org.uk/whats-on). Book free tickets in advance. Since you are here, cross the road to see what's on in the [Canada Gallery](https://culturecanada.co.uk/canada-gallery/).
+* [Royal Academy](https://www.royalacademy.org.uk/exhibitions-and-events) - a mix of free and ticketed exhibitions in a beautiful building.
 * [Mall galleries](https://www.mallgalleries.org.uk/exhibitions-events) - exciting temporary exhibitions, often free. Wildlife Artist of the Year is my favourite.
 * [The Architecture Gallery at RIBA](https://www.architecture.com/explore-architecture/exhibitions) often has great exhibitions.
 * Stroll through numerous [private art galleries](https://londongalleryweekend.art/map/). A good place to start is Cork Street and Dover street. My favourite ones to visit include 
@@ -328,6 +334,7 @@ and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Str
 * [Twinings The Strand](https://www.atlasobscura.com/places/twinings-tea-shop) tea shop in a historic building, as British as it gets. There is a single price for a takeaway tea, which is a great way to try their most expensive teas.
 * Wulf & Lamb - here you can try vegan [Redefine Meat](https://www.redefinemeat.com/uk/).
 * Club Mexicana Soho - vegan Mexican.
+* On my pastry wishlist: Toklas Bakery.
 * Below Stone Nest - not what you'd expect in Soho. Go for a drink, go early and prepare to be surprised.
 
 
@@ -341,7 +348,7 @@ and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Str
 * Leake Street, also known as The Graffiti Tunnel.
 * [National Theatre Archive](https://www.nationaltheatre.org.uk/about-the-national-theatre/archive) - here you can watch recordings of all London theatre productions that are no longer showing on stage, for free. Booking required for specific time and a specific production you want to see. Also check out [BFI Mediatheque](https://www.bfi.org.uk/bfi-national-archive/watch-archive-collections/visit-us-view-archive-material/bfi-mediatheque) (free).
 * Red Cross Garden - a flowerful oasis of calm. And [an exciting building](https://www.ribaj.com/intelligence/making-buildings-the-scoop-corstorphine-wright-conical-effect) nearby (51.504061, -0.094375).
-* Newport Street Gallery - a large space with temporary art exhibitions. Free.
+* Newport Street Gallery (free) - a large space with temporary art exhibitions. Nearby Urban Botanica is a nice place for a coffee.
 * Elephant Park is in the center of a [new exciting area](https://www.elephantpark.co.uk).
 * [Canada Water Masterplan](https://www.alliesandmorrison.com/projects/canada-water-masterplan) by Allies and Morrison Architects is transformming the area around Canada Water station. The views from Canada Dock Boardwalk are changing rapidly.
 
@@ -351,7 +358,6 @@ and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Str
 * Kachori - North Indian.
 * Plants of Roselyn - vegan Thai.
 * [Little Bread Pedlar](https://www.lbpedlar.com/) - several locations. Café Pedlar is good.
-
 
 
 

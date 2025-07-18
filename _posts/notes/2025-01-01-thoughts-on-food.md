@@ -17,15 +17,18 @@ It's even better if it makes me happy.
 
 ### Goal #1 - eat food that contains the things my body needs
 
-Roughly speaking, there are macros, things that human bodies need in large quantities, and there is a long list of micros, things that are needed in small quantities.
-There are four macros - protein, fibre, carbs and fats.
+Our bodies need large quantities of some things, referred to as macros, and small quantities of many other things - micros. 
+There are five macros - protein, carbs, fibre, fats and water - which make up about 99% of foods, the rest are micros. 
+To be precise, there are three types of carbohydrates - simple carbohydrates and complex ones, which can be starchy or non-starchy. 
+When we say carbs, we typically refer to only the first 2 types of carbohydrates - simple carbohydrates (sugars) and complex starchy carbohydrates (starches) that are broken down into sugars once ingested. 
+Complex non-starchy carbohydrates do not get broken down into sugars, so they are referred to as fibre and we count them as a separate macro.
 Food packaging implies that we should aspire to eat more protein and fibre, and less carbs and fats.
 
 ##### Protein
 
-Unlike carbs and fats, human bodies cannot store protein.
-This has two implications.
-First, it is important to eat enough protein every day, we've all heard that. 
+Unlike fats and carbs, human bodies cannot store protein. 
+Our inability to store protein has two implications.
+First, as we've all heard, it is important to eat enough protein every day. 
 Second, which gets far less attention, is that excess protein, since it cannot be stored in the body, is stripped of amino groups to be used (or stored) as carbs. 
 The liver and the kidneys deal with excess protein, which means that extreme quantities of protein could be harmful for them. 
 
@@ -49,11 +52,11 @@ The less processed they are, the more fibre I get.
 Think fruits instead of fruit juice, salads with whole grains instead of with pasta or bread (flour-based products), and the best bit - not peeling fruits and vegetables unless absolutely necessary.
 Unlike protein, there is no such thing as too much fibre, so there is no need to count - the more minimally processed plants I eat, the better.
 There is definitely such thing as too little fibre, and that's a danger because fibre is the only macro that is not craveable.
-When eating a low-fat meal, I reach for cheese or olive oil; when eating a low-carb meal, I reach for bread; when eating salad as the only vegetarian option in a restaurant, I crave something substantial (protein); but I've never had a "need more fibre" feeling.
+When eating a low-fat meal, I reach for dairy or olive oil; when eating a low-carb meal, I reach for bread; when eating salad as the only vegetarian option in a restaurant, I crave something substantial (protein); but I've never had a "need more fibre" feeling.
 
 ##### Micros
 
-Our bodies need a lot of different micros.
+The list of micros our bodies need is long. 
 The most fun strategy for getting enough of all of them is eating a diverse diet.
 Before refrigeration and supermarkets, diversity was enforced by seasons (though winters were bleak).
 Nowadays, living in a big city, I have no concept of when courgettes are in season - they are always on a supermarket shelve.
@@ -103,7 +106,7 @@ Raspberry coulis looked absolutely irresistible, so I handblendered some frozen 
 
 When reading the ingredient list I try to avoid emulsifiers (bad for the microbiome as they are chemically equivalent to detergents), ingredients that sound scary to a non-chemist (like potassium bromate and sodium benzoate) and products that are mostly sugar. 
 I also avoid things that don't go bad, like supermarket breads that never mould. 
-I'm suspicious of products marketed as healthy, like juice (fruit sugar without the fibre), low calorie products (they contain zero-calorie sweeteners that mistake our brains into generating an insulin response), products with puffed grain (exploded carbohydrates create huge blood glucose spikes), etc. 
+I'm suspicious of products marketed as healthy, like juice (fruit sugars without the fibre), low calorie products (they contain zero-calorie sweeteners that mistake our brains into generating an insulin response), products with puffed grain (exploded carbohydrates create huge blood glucose spikes), etc. 
 There are mobile apps that allow you to scan the barcode and be instantly told whether a product is good for you or should be avoided. 
 In my opinion, these apps make us feel like ingredient lists are hard to understand (they are not), provide de-contextualised advice (high sodium capers are great if used instead of salt) and don't help us make better choices (they suggest alternatives in the same category, when instead of looking for healthier cookies I should consider carrots as a snack). 
 
@@ -174,6 +177,7 @@ A whole fruit is healthy instead of fruit juice, but not if it replaces a kale s
 Bananas are healthy instead of jelly in PB&J sandwich, but not instead of kiwis.
 
 I eat a lot of dairy and almost no sesamy seeds, so a creamy tahini sauce replacing a dairy one is great for me. 
+I choose peanut butter over almond butter, because I eat a lot of almonds in other ways, but not peanuts. 
 Farro, a type of wheat, would be super healthy if I'd eat it instead of pasta. 
 But in reality, it doesn't dent my pasta consumption, it replaces other whole grains like buckwheat and millet. 
 Since I'll keep eating wheat in a form of pasta, couscous, pitas, sourdough bread and an occasional baguette, I don't think I should be replacing buckwheat or millet with a healthy type of wheat grain. 
@@ -184,11 +188,10 @@ And come on, be honest.
 ##### And what about my cravings?
 
 You are eating broccoli with tahini sauce and loads of legumes. 
-It's filling, so you are not hungry, and knowing that these foods are good for you makes you happy, in theory. 
-In practice, you have cravings.
+It's filling, so you are not hungry, and knowing that these foods are good for you makes you happy, but...cravings.
 
 Roughly speaking, cravings come in two flavours - biological and emotional. 
-Biological cravings are mechanisms that evolved in our brain over millions of years to motivate us to look for stuff that was rear during most of that evoljutionary period - sugars, fats, proteins and salt. 
+Biological cravings are mechanisms that evolved in our brain over millions of years to motivate us to look for stuff that was rear during most of that evolutionary period - sugars, fats, proteins and salt. 
 Because leafy greens were abundant in the environment, no mechanism evolved to motivate us to look for them. 
 In fact, 2 million years ago there was a danger that leafy greens would be the only thing humans eat. 
 Everything in the environment contained fibre, apart from the antelope, that was really hard to catch. 
@@ -199,7 +202,7 @@ The brain's ideas about what is not enough and what is too much are relative to 
 I get sugar from fruits, carrots and dairy (lactose), and my brain is happy. 
 But if I have a pastry one day and a dessert in a restaurant the next day, that's enough to adjust my brain's baseline - now I'm craving something sugary at least once a day. 
 The first ever cheesecake I made myself was a more extreme example (I was very young, don't judge). 
-I mixed a bit of cream cheese with a lot of cream, butter and oil, thus pushing the fat content way beyond reasonable. 
+I mixed cream cheese with a lot of cream, butter and oil, thus pushing the fat content way beyond reasonable. 
 Eating a slice of it made me unwell. 
 The next day I faced the fact that my first ever homemade cheesecake will have to be binned. 
 But first I gave it another try, just to learn my lesson and do better next time - it was actually totally edible, as long as I kept the slice size small.
@@ -208,22 +211,26 @@ By the end of the week I was gorging on this gloriously fatty cheesecake.
 While in some regards our brains are very silly, they are also increadibly smart in other ways. 
 While I'm eating a pizza I'm loving it - it's cheesy, it's crispy and doughy at the same time, and the sweetness of the tomato sauce is so good. 
 But once I've inhaled the whole thing, I often feel regret. 
-Sometimes it's the other way around - the food tastes bland and boring and I barely push it in (think lentils boiled in water for way too long with just a pinch of salt and nothing else); but afterwards I have a nourished feeling of "that's exactly what I needed". 
+Sometimes it's the other way around - the food tastes bland and boring and I barely push it in (think plain lentils boiled in very lightly salted water); but afterwards I have a nourished feeling of "that's exactly what I needed". 
 Until I find or make up a better term, I'll call it the second appraisal. 
-The first one is done by our eyes, nose and mouth - how the food looks (and the other people eating it), how it smells, the tastes and textures. 
+The first one is done by our eyes, nose and mouth - how the food looks (and the other people eating it), how it smells, the tastes and the textures. 
 The second appraisal happens when the brain combines these signals with other, often subconsious, signals about what's happening in the gut and what's entering the bloodstream. 
-To know what's good for me personally, I listen out for these second appraisals of what I eat. 
+To know what's good for me personally, I listen out for these second appraisals. 
 
+The brain decides when you stop eating, based on many contious and uncontious signals. 
+I can eat a huge ammount of vegetable lasagna, potato gratin and cinnamon rolls, because I love them so much. 
+Or is it something else? 
+If you like the food, there are two reasons why the amount you can eat in one go is not infinite - the available volume inside you and the perceived nutrient content. 
+I can eat a huge volume of vegetable lasagna, but I wouldn't be able to eat the same volume of a hearty bean stew. 
+Realising that the reason I'm able to eat so much of some foods is their low density of nutrients, dampened my excitement about them. 
 
-
-
-
-
-
-
-
-
-
+My brain is evolutionary programmed to look for sugars, fats and salt - stuff that was rear during most of its evolutionary period. 
+Instead of blaming it for my cravings, after all it's just doing what it is supposed to do, I create the abundance that keeps it calm. 
+I used to have a stack of chocolate and a freezer drawer full of lasagna, sliced sourdough, slices of cheesecake and chocolate tart. 
+I could eat it any time, but there was no rush as none of it was going bad any time soon. 
+That allowed me to eat broccoli, calmly assured that I could defrost a slice of cheesecake any time. 
+I also stopped buying these things or ordering them in restaurants, since I have a lot at home. 
+This approach is contrary to a more common "if you don't have it, you won't eat it" approach, but it works for me. 
 
 
 

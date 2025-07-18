@@ -17,7 +17,7 @@ widgets:
   text: I love the feeling of being in the middle of nowhere. But in the long term, I only feel truly alive when I am in a big city. I love their idea density, their fast pace, and their excellence in food, <a href="/travel/street-art/">street art</a> and academic research. <a href="/travel/london" target="_self">London</a>, New Delhi, New York, <a href="/travel/mexico/#cdmx" target="_self">Mexico City</a>, Tokyo, <a href="/travel/turkey/#istanbul" target="_self">Istanbul</a>, Singapore - all of them have a distinct character, constantly evolving and yet totally unique. My goal is to visit all of the world’s biggest cities and the cities that are relatively small but are the biggest in their country or surrounding geographical area. <a href="/travel/cities/"><strong>Keep reading></strong></a>
 - url: /notes/phd-survival-guide/
   image: main-phd.jpg
-  title: <a href="/notes/phd-survival-guide/" target="_self">3. I did a PhD at the interface of machine learning and genomics</a>
+  title: <a href="/notes/phd-survival-guide/" target="_self">3. My PhD was at the interface of machine learning and genomics</a>
   text: I spent 8 years in academia - I did a BSc in mathematics that I never finished, an MSc in mathematics and a PhD. My thesis was on applications of machine learning to single-cell transcriptomic data, with a chapter on de novo evolution of proteins. If you are considering whether to do a PhD or if you are already doing one and are feeling stuck, do get in touch. I'm good at asking the right questions to help you figure out what is right for you. <a href="/notes/phd-survival-guide/"><strong>Keep reading></strong></a>
 - url: https://samudra.world/
   image: main-samudra.jpg

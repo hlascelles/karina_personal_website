@@ -30,7 +30,6 @@ Elsewhere,
 [Harmony](https://www.harmonycoffee.co.uk) (Duwancho is good), 
 Hej Coffee, 
 Hermanos Colombian, 
-High Grade, 
 [Kiss the Hippo](https://kissthehippo.com/) (Ethiopia Gerse is amazing), 
 Legs, 
 [Lucid](https://www.lucidcoffeeroasters.com/) (Peru San Ignacio is good),
@@ -57,12 +56,12 @@ Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 
 ### Favourites:
 * Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">Kenyan by Obadiah (great) and something Brazilian (meh).</span>
-* Commons at Old Street Works. Now serving <span style="color:#38B000">Red Devil by Red Bank (great as flat white) and For the people by Campbell&Syme (good).</span>
+* Commons at Old Street Works. Now serving <span style="color:#38B000">SkyLark blueberry (milky bad) and For the people by Campbell&Syme (good).</span>
 * Pophams. Great, but always the same. They roast themselves at Ozone.
 * Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
 * Snoozzze Coffee. Now serving <span style="color:#84A98C">About Last Night Ethiopia by Intermmission (ok) and Source (ok) by Plot.</span>
 * Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and ? (try).</span> 
-* Kiss the Hippo.No loo. Now serving <span style="color:#84A98C">something Brazil (ok)</span> and George Street Blend (bad).
+* Kiss the Hippo.No loo. Now serving <span style="color:#84A98C">Anniversary blend (ok)</span> and George Street Blend (bad). Check back in early-mid August.
 <nbsp></nbsp>
 * Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
 * Lodestar Coffee. Now serving <span style="color:#84A98C">?</span>
@@ -92,7 +91,6 @@ Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 * Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).
 * sevente.Fireheart coffee is bad, everything else is great.
 * Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
-* High Grade Coffee.Use the loo in Cafe 1001 next door. Now serving Hanbury (meh) and Brick lane (try).
 
 ### Bean processing methods:
 
