@@ -66,7 +66,7 @@ What we'll see:
 
 ### Pretty hikes:
 * Seoraksan National Park [hike 1](https://maps.app.goo.gl/R2BmWLZ8wVjgpubR8) (570m up, 6k return), including Seoraksan Sinheungsa Temple (4.2 of 3,300); followed by [hike 2](https://maps.app.goo.gl/3T2z7WeAeJmd8wJH6) (300m up, 5k) from the same car park, including waterfalls. Nearby: Baekdamsa Temple (4.3 of 3,100), Naksansa Temple (4.5 of 10,400), Wondae-ri Birch Forest (4.3 of 2,100). 
-* Sobaeksan National Park [hike](https://maps.app.goo.gl/mSc132CihsHQWAY78) (1130m up, 13.6k return). Nearby: Gosu Cave, [Chungju Lake cruise](https://maps.app.goo.gl/Wvcw3rkGaeaT8VJG7) (4.1 of 2,900).
+* Sobaeksan National Park [hike](https://maps.app.goo.gl/mSc132CihsHQWAY78) (1015m up, 14k return). Nearby: Gosu Cave, [Chungju Lake cruise](https://maps.app.goo.gl/Wvcw3rkGaeaT8VJG7) (4.1 of 2,900).
 * Busan views hike (380m up, 8.2k return), incluing Beomeosa Temple (4.6 of 4,100).
 * Gyeryongsan National Park [hike](https://maps.app.goo.gl/MhMEKSmLVaVkJNvq6) (670m up, 9.8k return), including Donghaksa Temple (4.3 of 2,000).
 * Songnisan National Park [hike](https://maps.app.goo.gl/iqDRjRP3SrSnK6gt5) (550m up, 11.2k return), including Beopjusa Temple (4.5 of 3,900).
@@ -74,11 +74,9 @@ What we'll see:
 * Daedunsan Provincial Park [hike](https://maps.app.goo.gl/pJ8HNVWcgrcW9ray5) (700m up, 9.2k return) from [peak](https://maps.app.goo.gl/jLVbTY5xC1yN4WuM8) to [blue roof temple](https://maps.app.goo.gl/mXMdQ6nxtuisL1Ho6). Hiking from the cable car 350m above car park, so the whole hike is up in the mountains.
 * Mudeungsan National Park [hike](https://maps.app.goo.gl/rseVTB17fnJzQYmR8) (830m up, 9.2k loop through [rocas](https://maps.app.goo.gl/i4ZjAy2yKtwx4Hov8) and [more rocas](https://maps.app.goo.gl/uJtJ5WUYRhJSnVbh8)). Nearby Gwangju city is very artsy, could spend a day or two there looking at museums and street art.
 * Jirisan National Park - from country's highest car park (Seongsamjae Service Area) to [this pico](https://maps.app.goo.gl/Fg6tK2yissJgcZUY6) (330m up, 5.2k return).
-* Hike up to big [Buddha](https://maps.app.goo.gl/6sQ8GiciYwQceoN87) (340m up, 3k return) for good [views](https://maps.app.goo.gl/pQLHbUn3SdxR3fST6).
 * Cheongnyangsan Provincial Park hike (500m up, 3.8k return) via [Haneuldari Bridge](https://maps.app.goo.gl/EPuouNfudb8A497k6) and Cheongnyangsan Cheongnyangsa Temple (4.6 of 800).
 * Juwangsan National Park hike (500m up, 6.2k return) to this [bridge through rocas](https://maps.app.goo.gl/oNU48XC5PRvrLGAm7).
 * Wolchulsan National Park [hike](https://maps.app.goo.gl/S2ZgZsyVrhTfq3iN7) via [Weolchulsan Suspension Bridge](https://maps.app.goo.gl/3JktKDUYq4n4mmmCA) (870m up, 6.6k return).
-* Naejangsan National Park - [best photos of autumn colours](https://maps.app.goo.gl/WQkeTjfm67XJhC3i8). Nearby Baegyangsa Temple (4.5 of 3,000) also has more photos of autumn colours then any other temple.
 
 ### Fortress:
 * Suwon Hwaseong Haenggung Palace (4.5 of 12,500) in Suwon Hwaseong Fortress (4.6 of 8,700) - 5.7k walk walk. Nearby: Yungneung and Geolleung Royal Tombs (4.5 of 1,900).
