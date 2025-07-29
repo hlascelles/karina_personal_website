@@ -18,6 +18,6 @@ categories:
 
 **Methods:**
 
-* Handblender tahini with yeast flakes, 70g water, salt and black pepper. Spread the sauce on two plates.
-* Cut tomatoes in wedges or halves, depending on their size. Arrange them on top of the sauce.
-* Pat the capers dry and scatter them on top of the tomatoes.
+* Mix tahini with yeast flakes, 70g water, salt and black pepper.
+* Cut tomatoes in wedges or halves, depending on their size. 
+* Spread the tahini sauce on two plates. Arrange tomato wedges on top of the sauce. Pat dry the capers and scatter them on top of the tomatoes.

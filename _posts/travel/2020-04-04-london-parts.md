@@ -53,7 +53,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 * Street art.
 * [Brixton Windmill](https://www.brixtonwindmill.org/visit/plan-your-visit/) - an unexpected thing to see in London.
-
+* On my pastry wishlist: Milk Run.
 
 
 ### <a name="camden"></a> 4. Camden 
@@ -64,6 +64,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Clifton Nurseries - one of London's oldest garden centres, and it has a cafe.
 * Carreras Cigarette Factory - art-deco building with [Egyptian cats](https://livinglondonhistory.com/surprising-places-to-see-ancient-egypt-in-london/) guarding the entrance.
 * La Fauxmagerie - London's first vegan cheese shop.
+* On my pastry wishlist: Kossoffs and Little Bread Pedlar Primrose Hill.
 
 
 
@@ -98,6 +99,8 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Parkland Walk - a lovely running/walking route connecting Finsbury Park and Highgate Wood. 
 * Open water swimming in [West Reservoir](https://www.better.org.uk/leisure-centre/london/hackney/west-reservoir-centre) and/or birdwatching in Woodberry Wetlands.
 * [Through the woods](https://www.throughthewoods.london/) - hyper-seasonal tasting menu, one of my favourites in London. Book way in advance. Vegetarian option available.
+* On my pastry wishlist: Astrid Bakery and Tarn Bakery.
+
 
 
 ### <a name="greenwich"></a> 8. Greenwich
@@ -114,6 +117,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 **Food:**
 * Coffee: 15grams Coffee House.
 * Eat Vietnam Bar B Grill 1 - great Vietnamese food.
+* On my pastry wishlist: Cakes & Layers.
 
 
 
@@ -203,7 +207,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Mali Vegan Thai - vegan Thai.
 * Tofu Vegan Gloucester Road - vegan Chinese.
 * Chai Guys Bakehouse - awesome pastries. Last time I checked they served vegan chai but had no vegan pastries.
-* On my pastry wishlist: Chestnut Bakery, Peko Peko Pedlar.
+* On my pastry wishlist: Moi Et Toi, Don't Tell Dad, Layla Bakery, Chestnut Bakery, Peko Peko Pedlar.
 * Gelato: Oddono's (several locations).
 
 
@@ -253,7 +257,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Vintners Place (51.510283, -0.093586) - a beautiful building, find the owl.
 
 **Food:**
-* Coffee: Commons at Old Street Works, Snoozzze Coffee, Lift Coffee, Origin Coffee, Colonna & Small's.
+* Coffee: Commons at Old Street Works, Snoozzze Coffee, Lift Coffee, Colonna & Small's.
 * Spitalfields area is becoming a vegan destination: Bubala (vegan or vegetarian tasting menu, I've been many times and it never disappoints, and they have other locations too), Tofu Vegan (several locations), etc.
 * Nest - great tasting menu with a focus on seasonal and local. They no longer offer vegetarian menu.
 * Sen Viet Vegan Restaurant - vegan Vietnamese food.
@@ -336,7 +340,7 @@ and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Str
 * Club Mexicana Soho - vegan Mexican.
 * On my pastry wishlist: Toklas Bakery.
 * Below Stone Nest - not what you'd expect in Soho. Go for a drink, go early and prepare to be surprised.
-
+* On my pastry wishlist: Irene Bakery & More and La Maritxu Connaught Basque Cheesecake.
 
 
 ### <a name="southbank"></a> 18. Southbank 

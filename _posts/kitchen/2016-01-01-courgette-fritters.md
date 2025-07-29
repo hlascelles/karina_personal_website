@@ -15,7 +15,7 @@ categories:
 * 2 teaspoons coriander powder
 * 1 teaspoon Kashmiri chilli powder
 * 0.25 teaspoon salt
-* 100g feta cheese
+* 200g feta cheese
 * olive oil
 <nbsp></nbsp>
 * 100g yoghurt

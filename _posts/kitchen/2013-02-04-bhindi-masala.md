@@ -8,7 +8,7 @@ categories:
 
 **Ingredients:**
 
-* coconut oil
+* neutral oil (e.g. sunflower)
 * about 300g okra
 * 1-2 onions
 * a small piece of ginger
@@ -28,9 +28,9 @@ categories:
 
 * Start boiling the rice.
 * Make sure your okra is completely dry. Chop off the stem ends. Only if your okras are very big, chop off the tip ends as they are likely to be too fibrous. Chop okra into large bite-size pieces.
-* Heat the pan with a generous amount of coconut oil. Fry the okra in the pan, stirring occasionally. Initially slimy goo will form between pieces, keep frying until it disappears completely.
+* Heat the pan with a generous amount of oil. Fry the okra in the pan, stirring occasionally. Initially slimy goo will form between pieces, keep frying until it disappears completely.
 * Meanwhile, dice the onions and finely chop ginger and tomatoes.
-* Pre-heat some coconut oil in a Dutch oven. Add cumin seeds.
+* Pre-heat some oil in a Dutch oven. Add cumin seeds.
 * Once the cumin seeds start to sputter, add onions and saute until turning golden but not yet brown.
 * Add finely chopped ginger, and use a garlic press to add garlic cloves directly into the pan. Saute until smells really good.
 * Add finely chopped tomatoes and salt. Saute until tomatoes look cooked.

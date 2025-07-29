@@ -25,6 +25,7 @@ Catalyst,
 Climpson & Sons, 
 [Coborn](https://www.coborncoffee.com/) (Milky Way is great), 
 [Conscious](https://www.consciousspeciality.com/) (Arcangel is great), 
+[Danelaw](https://www.danelaw.coffee/) (heirloom from Columbia was great), 
 Dark Arts, 
 Elsewhere, 
 [Harmony](https://www.harmonycoffee.co.uk) (Duwancho is good), 
@@ -38,7 +39,6 @@ Monmouth,
 Nostos, 
 [Obadiah](https://obadiahcoffee.com/) (Etago Kenya is great),
 Old Spike Roastery, 
-Origin, 
 [Outpost](https://outpost.coffee/) (Sironko Uganda is ok), 
 [Plot](https://plotroasting.com/) (Substance is acidic AF but great, Source is ok), 
 Press Coffee & Co, 
@@ -55,12 +55,12 @@ Workshop Coffee.
 Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 
 ### Favourites:
-* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">Kenyan by Obadiah (great) and something Brazilian (meh).</span>
-* Commons at Old Street Works. Now serving <span style="color:#38B000">SkyLark blueberry (milky bad) and For the people by Campbell&Syme (good).</span>
+* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">Colombia by prologcoffee.com (good) and El Salvador by bakalarcoffee.com (good).</span>
+* Commons at Old Street Works. Now serving <span style="color:#84A98C">SkyLark blueberry (milky bad) and For the people by Campbell&Syme (good).</span>
+* Snoozzze Coffee. Now serving <span style="color:#38B000">Ethiopia About Last Night by Intermmission (great) and Peru Source (ok) by Plot.</span>
+* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and ? (try).</span> 
 * Pophams. Great, but always the same. They roast themselves at Ozone.
 * Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
-* Snoozzze Coffee. Now serving <span style="color:#84A98C">About Last Night Ethiopia by Intermmission (ok) and Source (ok) by Plot.</span>
-* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and ? (try).</span> 
 * Kiss the Hippo.No loo. Now serving <span style="color:#84A98C">Anniversary blend (ok)</span> and George Street Blend (bad). Check back in early-mid August.
 <nbsp></nbsp>
 * Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
@@ -73,7 +73,6 @@ Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 * Special Guests Coffee in Marylebone.
 
 ### Try:
-* Rose & Rose? (Clerkenwell)
 * Frequency?
 * Jolene Bakery & Restaurant? (Dalston)
 * Senzo?
@@ -87,7 +86,6 @@ Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 * Fink's with Scenery coffee? (Bazaar)
 * Brewed Online?
 <nbsp></nbsp>
-* Origin Coffee (Charlotte Road). Loo?
 * Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).
 * sevente.Fireheart coffee is bad, everything else is great.
 * Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.

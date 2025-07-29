@@ -9,43 +9,33 @@ categories:
 **Ingredients:**
 
 * 500g baby potatoes
+* neutral oil (e.g. sunflower)
 <nbsp></nbsp>
-* 40g tamarind paste
+* 60g tamarind paste
+* 30g pitted dates
+* 10g ginger
 * 0.25 teaspoon clove powder
 * 0.25 teaspoon Kashmiri chilli powder
-* 30g pitted dates
-* 5g ginger
 <nbsp></nbsp>
-* 90g yoghurt
-* 0.25 teaspoon salt
-<nbsp></nbsp>
-* 1 pomegranate (60g of pomegranate seeds)
-* 15g red onion
-<nbsp></nbsp>
-* 1 teaspoon cumin seeds
-* 150g green peas (frozen or fresh)
+* 300g frozen green peas 
+* 1 green chilli
+* 5g garlic (about 1 clove)
+* 1 teaspoon cumin powder
 * 0.5 teaspoon coriander powder
 * 0.25 teaspoon salt
-* 20g herbs (parsley and mint)
-* 5g garlic (about 1 clove)
-* 1 green chilli
 <nbsp></nbsp>
-* sunflower oil (or other neutral oil)
-* 100g cooked chickpeas
-* 1 teaspoon garam masala
-* 1 teaspoon green mango powder (or lime powder)
+* small red onion
+* 100g yoghurt
+* 0.25 teaspoon salt
 
 **Methods:**
 * Start boiling the potatoes.
-* Meanwhile, make the tamarind chutney - in a bowl place tamarind paste, clove and chilli powder, roughly chopped dates and ginger. Add 40g water. Handblender everything into a chutney.
-* Make the yoghurt chutney - in a bowl place yoghurt and salt. Add 40g water and whisk it into a chutney.
-* Slice the pomegranate in half and extract the seeds by making strategic shallow incisions with a sharp knife. 
-* Finely chop red onion.
-* Toast cumin seeds in a small clean frying pan. 
-* Once the potatoes are tender, drain them over a bowl of green peas (if frozen). Put the pot with the potatoes back on the hot stove top to dry them. Once dry, spread them on a plate to cool off.
-* Meanwhile, prepare the peas - in a bowl place now defrosted green peas, toasted cumin seeds, coriander powder and salt, roughly chopped herbs, garlic and green chili. Handblender everything into a chutney.
-* Preheat a large frying pan, coat it with a generous amount of sunflower oil. Place the potatoes onto a chopping board and use a flat bottomed object (like a glass) to [crush them into pancakes of uniform thickness](https://youtu.be/aPPRhlYwKYU?t=603). Fry them on both sides until golden brown.
-* Meanwhile, preheat the small frying pan with some oil. Add in chickpeas, garam masala and mango/lime powder. Mix everything together and fry until crispy.
-* Once potatoes are golden brown on both sides, assemble the dish - place potatoes into individual plates, top with peas, tamarind chutney, yoghurt chutney, chickpeas, pomegranate seeds and red onion. There are too many flavours - that's the idea!
+* Meanwhile, make the tamarind chutney - handblender tamarind paste with roughly chopped dates and ginger, clove and chilli powder, and 40g water. 
+* Defrost the peas and handblender them with roughly chopped green chilli and garlic, cumin and coriander powder, and salt.
+* Once the potatoes are ready, spread them on a cold plate to cool them down. 
+* Preheat a large frying pan with a generous amount of oil. Place the potatoes onto a chopping board and use a flat bottomed glass to [crush them into pancakes of uniform thickness](https://youtu.be/aPPRhlYwKYU?t=603). Fry them on both sides until golden brown. 
+* Meanwhile, finely slice the red onion.
+* Mix the yoghurt with salt. If it's thick, thin it out with water.
+* Once potatoes are golden brown on both sides, spread them on plates. Serve toped them with peas, yoghurt, tamarind chutney and onions.
 
-**Inspired by:** my travels in India and [Brian's crispy potatoes](https://youtu.be/aPPRhlYwKYU?t=603).
+**Notes:** in India aloo tikki are an explosion of many flavours. For a more authentic experience, add pomegranate seeds and chickpeas fried in oil with garam masala and lime powder (or green mango powder).

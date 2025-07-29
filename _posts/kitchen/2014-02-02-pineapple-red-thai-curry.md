@@ -22,7 +22,7 @@ categories:
 * 0.5 teaspoon Kashmiri chilli powder
 * 60 twists of black pepper (about 2 teaspoons)
 <nbsp></nbsp>
-* coconut oil
+* neutral oil (e.g. sunflower)
 * 3 aubergines
 * 100g cashews
 * 400g can of coconut cream
@@ -36,10 +36,10 @@ categories:
 
 * Start boiling the rice.
 * Pre-heat the oven to 180C.
-* Cut the aubergine into large cubes. On a baking tray lined with baking paper, toss the aubergine cubes with a bit of coconut oil. Spread them into a single layer and bake in the oven until golden brown.
+* Cut the aubergine into large cubes. On a baking tray lined with baking paper, toss the aubergine cubes with a bit of oil. Spread them into a single layer and bake in the oven until golden brown.
 * In a separate tray, toast the cashews until they start to turn golden. Don't forget to take them out of the oven before the aubergines are ready.
 * Make the curry paste. Finely chop the lemongrass. Very roughly chop ginger (no need to peel it), red onion, garlic, Romano pepper and chillies. Place all of them in a bowl. Add zest of 2 limes and all the spices (cumin, coriander, turmeric, salt, chilli powder, black pepper). Handblender everything into a paste.
-* In a heavy-bottomed pot, heat a bit of coconut oil. Add the curry paste and fry for a couple of minutes, until it smells really good. Don't let it stick to the bottom of the pot.
+* In a heavy-bottomed pot, heat a bit of oil. Add the curry paste and fry for a couple of minutes, until it smells really good. Don't let it stick to the bottom of the pot.
 * Add the coconut cream and let it simmer.
 * Chop green beans into bite size pieces and add them in.
 * Chop the pineapple into bite size pieces and add them in. Add water if needed.

@@ -20,7 +20,7 @@ categories:
 * 0.5 teaspoon ground cinnamon
 * 0.5 teaspoon ground cloves
 <nbsp></nbsp>
-* coconut oil
+* neutral oil (e.g. sunflower)
 * 3 teaspoons tomato paste
 * 400g can of tomatoes
 * 6 teaspoons jaggery (or any unrefined sugar)
@@ -36,9 +36,9 @@ categories:
 * Open a can of tomatoes. If they are not already finely chopped, handblender them. 
 * Very roughly chop onions, garlic and ginger. No need to peel the ginger.
 * Place them into a bowl and add all the dry spices (garam masala, chilli, black pepper, salt, cumin, turmeric, cinnamon and cloves). Hand blender everything into a paste.
-* In a heavy bottom pot, heat a bit of coconut oil. Add the curry paste and fry for a couple of minutes, stirring constantly, until it smells really good. Add tomato paste and cook for another minute, stirring constantly.
+* In a heavy bottom pot, heat a bit of oil. Add the curry paste and fry for a couple of minutes, stirring constantly, until it smells really good. Add tomato paste and cook for another minute, stirring constantly.
 * Add the tomato can. Refill the can with water and add it in. Add in jaggery. Cook for about 20min.
-* Meanwhile, heat a non-stick pan with coconut oil. Cube the paneer and fry it until golden on most sides.
+* Meanwhile, heat a non-stick pan with oil. Cube the paneer and fry it until golden on most sides.
 * Taste and adjust salt, spiciness (chilli powder) and sweetness (jaggery).
 * Once it tastes good, add paneer and frozen peas and wait for the temperature to come back up.
 * Add cream and wait for the temperature to come back up.

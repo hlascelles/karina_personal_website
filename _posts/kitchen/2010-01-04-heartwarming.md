@@ -25,6 +25,7 @@ categories:
 
 **European flavours:**
 * [Sundried tomato chickpea stew](/kitchen/sundried-tomato-chickpea-stew/)
+* [Veg chowder](/kitchen/veg-chowder/)
 
 **Spice mixes:**
 

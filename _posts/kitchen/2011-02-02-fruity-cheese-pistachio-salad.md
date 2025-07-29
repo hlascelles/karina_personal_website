@@ -11,7 +11,7 @@ categories:
 * 60g pistachios
 * 120g fresh soft goat cheese
 <nbsp></nbsp>
-* 1 peach
+* 1 nectarine
 * Strawberries
 * delicate cruciferous greens (rocket/arugula or watercress)
 <nbsp></nbsp>
@@ -23,7 +23,7 @@ categories:
 
 * Lightly toast the pistachios in a small clean pan.
 * Make the dressing - place olive oil, vinegar and mustard in a small glass jar. Close the lid and shake violently.
-* Chop peach and strawberries into bite size pieces. Place in a bowl and mix with the dressing. Add cruciferous greens and combine gently.
+* Chop the nectarine and strawberries into bite size pieces. Place in a bowl and mix with the dressing. Add cruciferous greens and combine gently.
 * Chop the toasted pistachios into small pieces. Place them in a small bowl. 
 * Cut the goat cheese into bite size pieces. Dunk each piece into the pistachio bowl to coat it.
 * Serve the salad in individual plates topped with goat cheese balls.

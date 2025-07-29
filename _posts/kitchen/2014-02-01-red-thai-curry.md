@@ -20,7 +20,7 @@ categories:
 * 0.5 teaspoon Kashmiri chilli powder
 * 60 twists of black pepper (about 2 teaspoons)
 <nbsp></nbsp>
-* sunflower oil
+* neutral oil (e.g. sunflower)
 * 400g can of coconut cream
 * 40g unrefined sugar (e.g. coconut sugar or jaggery)
 * 280g tofu
@@ -30,13 +30,12 @@ categories:
 <nbsp></nbsp>
 * wholegrain rice
 
-
-
 **Methods:**
 
 * Start boiling the rice.
 * First make the curry paste. Finely chop the lemongrass. Peel the lime with a vegetable peeler. Very roughly chop the lime peels, ginger (no need to peel it), garlic and chillies. Place all of them in a bowl. Add the salt and the spices - cumin, coriander, turmeric, chilli powder and black pepper. Handblender everything into a paste. Add a splash of water if needed to help the blending process.
 * In a Dutch oven, heat a bit of oil. Add the curry paste and fry for a couple of minutes, until it smells really good. Don't let it stick to the bottom of the pot.
+* Cube the tofu and mix it in.
 * Add the coconut cream and unrefined sugar, and let it simmer.
 * Peal the pumpkin, chop it into bite-sized cubes and add it to the curry. Add a bit of water if needed to cover the pumpkin.
 * Slice shiitake mushrooms into strips and fry them in a bit of oil until golden on all sides. Add them into the curry.

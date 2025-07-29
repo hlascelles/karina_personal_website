@@ -8,12 +8,10 @@ categories:
 
 **Ingredients:**
 
-* 1 aubergine (about 250g)
+* 2 aubergine (about 450g)
 * 1 courgette (about 250g)
 * cherry tomatoes (about 450g)
 * olive oil
-* 0.25 teaspoon salt
-* 20 twists of black pepper
 <nbsp></nbsp>
 * 1 large red onion
 * 15g garlic (about 3 cloves)
@@ -21,6 +19,7 @@ categories:
 * 4 sprigs of fresh rosemary and/or thyme
 * 6 teaspoons tomato paste
 * 0.5 teaspoon salt
+* 20 twists of black pepper
 * 225g risotto rice
 * 125g red wine
 * 20g butter
@@ -29,19 +28,18 @@ categories:
 
 **Methods:**
 * Preheat the oven to 180C.
-* Cut the aubergine and the courgette into large chunks. In a baking tray combine that with cherry tomatoes, some olive oil, salt and black pepper. Spread veggies into a single layer and bake in the oven for about 40min.
-* Dice the onion.
-* Heat some olive oil in a heavy bottom pot. Add the onions. Reduce the heat and cook until soft and translucent, about 12min.
-* Finely chop sundried tomatoes and fresh herbs. 
-* Use the garlic press to add garlic directly into the pot. Stir.
-* Once you can smell the garlic, add sundried tomatoes and fresh herbs to the pot together with tomato paste and 0.5 teaspoon salt. Cook for another 5min.
+* Cut the aubergines and the courgette into large cubes. Use two baking sheets to spread these and cherry tomatoes into a single later. Coat them in olive oil and bake in the oven for about 40min.
+* Dice the onion. Finely chop sundried tomatoes and fresh herbs. 
+* Heat some olive oil in a heavy bottom pot. Add the onions. Reduce the heat and cook until soft and translucent.
+* Use the garlic press to add garlic to the onions. Stir until it smells amazing.
+* Add sundried tomatoes, fresh herbs, tomato paste, salt and black pepper. Cook for a couple of minutes until the tomato paste develops rusty colour.
 * Meanwhile boil the kettle.
-* Add the rice to the pot and stir it around for 1min.
+* Add the rice to the pot and stir for about a minute.
 * Increase the heat. Pour in the wine and let the rice absorb it. 
 * Keep adding warm water from the kettle, about 120ml at a time, until the rice is almost ready.
-* Meanwhile toast pine nuts in a small clean frying pan. Grate some Parmesan.
+* Meanwhile toast pine nuts in a small dry frying pan. Grate some Parmesan.
 * Take the veggies out of the oven (if the timing worked out, they had about 40min in the oven) and add them into the pot with all of their juices. Stir to combine. Taste and adjust salt.
 * Once the rice is ready (add more water if needed), take the pot off the heat. Cut the butter into cubes and stir it in. 
-* Serve topped with black pepper, Parmesan and pine nuts.
+* Serve topped with Parmesan and pine nuts.
 
 **Inspired by:** [BOSH! The Cookbook](https://www.goodreads.com/book/show/34996242-bosh)

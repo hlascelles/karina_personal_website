@@ -17,7 +17,7 @@ categories:
 * 1 teaspoon salt
 * 0.25 teaspoon turmeric powder
 <nbsp></nbsp>
-* coconut oil
+* neutral oil (e.g. sunflower)
 * 200g tomatoes
 * 450g paneer
 * 600g spinach
@@ -28,12 +28,11 @@ categories:
 **Methods:**
 
 * Start boiling the rice.
-* Very roughly chop onions, chillies, garlic and ginger. No need to peel the ginger.
-* Place them into a bowl and add all the dry spices (garam masala, chilli, salt, cumin, turmeric). Hand blender this into paste.
+* To make the curry paste, handblender roughly chopped onions, chillies, garlic and ginger (no need to peel the ginger) with the spices - garam masala, cumin, turmeric and salt.
 * Finely chop the tomatoes.
-* In a heavy bottom pot, heat a bit of coconut oil. Add the curry paste and fry for a couple of minutes, until it smells really good. Once it starts sticking to the bottom of the pot, add the tomato. Let it simmer on low heat.
-* Prepare a pot of salted boiling water and a bowl of ice water. Blanch the spinach in boiling water and immediately transfer it into the ice water (to preserve its vibrant colour).
-* Heat a non-stick pan with coconut oil. Cut the paneer into small cubes and fry it until golden on most sides.
-* Meanwhile, drain and handblender the spinach. Add it to the pot and wait for the temperature to come back up.
-* Add cream and wait for the temperature to come back up. Taste and adjust salt and spiciness (Kashmiri chilli powder).
-* Mix in the paneer cubes. Serve with rice.
+* In a heavy bottom pot, heat a bit of oil. Add the curry paste and fry for a couple of minutes, until it smells really good. Once it starts sticking to the bottom of the pot, add the tomato. Let it simmer on low heat.
+* Blanch the spinach in boiling water and immediately rinse it in cold water (to preserve its vibrant colour).
+* Heat a non-stick pan with oil. Cut the paneer into small cubes and fry it until golden on most sides.
+* Meanwhile, handblender the spinach and mix it into the pot.
+* Once the paneer is ready, mix it into the pot. Give them a couple of minutes to simmer together.
+* Take off the heat, stir in the cream. Taste and adjust salt and spiciness (Kashmiri chilli powder). Serve with rice.
