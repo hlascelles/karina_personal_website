@@ -51,7 +51,6 @@ What we'll see:
 * [Okpo Shipyard of Daewoo Shipbuilding](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93716) - [website](https://www.hanwhaocean.com/ft/cu20/) says foreigners not allowed?
 * [Hyundai Motors Ulsan Plant](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/locIntrdnList.do?menuSn=216)
 
-
 ### DMZ - pick a tour
 
 * Ganghwa Peace Observatory (4.3 of 3,200). Nearby: Bomunsa temple (4.3 of 2,500), Gyodongdo Island Manghyangdae Observatory (4.0 of 348, but Lonely Planet says is good?), Ganghwa Bugeunri Jiseokmyo Dolmen (4.3 of 254) and Ganghwa Osang-ri Dolmen Cluster (4.1 of 54), Ganghwa Anglican Church (Slang really wants to see).
@@ -82,9 +81,7 @@ What we'll see:
 * Suwon Hwaseong Haenggung Palace (4.5 of 12,500) in Suwon Hwaseong Fortress (4.6 of 8,700) - 5.7k walk walk. Nearby: Yungneung and Geolleung Royal Tombs (4.5 of 1,900).
 * Namhansanseong Fortress Temporary Palace (4.4 of 1,700) in a fortress (4.4 of 2,200).
 * Sangdang Sanseong Fortress (4.5 of 3,300). Nearby: [pretty river](https://maps.app.goo.gl/z2mFA866TDNLWUkN7).
-* Gongju Gongsanseong Fortress (4.5 of 1,500). Neaarby: Muryeongwangneung Tomb of King Muryeong Tombs (4.3 of 2,600)
 * Gochangeupseong Fortress (4.4 of 3,300). Nearby: unesco Dolmens Gochang Dolmen Cluster (4.1 of 1,600) and Gochang Dolmen Cluster.
-* Jinjuseong Fortress (4.5 of 4,000). Nearby: Hallyeohaesang National Park and Boriam Temple (4.6 of 6,100)
 
 ### Caves:
 * Gosu Cave (4.2 of 5,700). Nearby: Sobaeksan National Park hike, [Chungju Lake cruise](https://maps.app.goo.gl/Wvcw3rkGaeaT8VJG7) (4.1 of 2,900).
@@ -95,7 +92,6 @@ What we'll see:
 ### Little islands:
 * Ulleungdo island - views like [this](https://maps.app.goo.gl/etD8oZpKg1EtbbgB9) and [this](https://maps.app.goo.gl/UVfxUq2qqh2JLXWf9), bridges like [this](https://maps.app.goo.gl/iAHfYpnVPkgZ3Cbi7) and [this](https://maps.app.goo.gl/eYweb67XmWYyw2ky9).
 * Island hopping by ferry in Hallyeohaesang National Park - [this one](https://maps.app.goo.gl/82dcFd7GfQo8QCv9A) and/or [this one](https://maps.app.goo.gl/XoczERPFTbx41BSSA) and or [this one](https://maps.app.goo.gl/4HLihVqU9dV5guYW8). Also Tongyeong Cablecar Skywalk.
-* [Dadohaehaesang National Park](https://maps.app.goo.gl/9N2ykGuauWyFHgU69) by ferries.
 
 ### Temple:
 * Haedong Yonggungsa Temple (4.4 of 25,000) - much special.
