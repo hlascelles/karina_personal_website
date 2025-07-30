@@ -90,15 +90,15 @@ What we'll see:
 ### Other:
 * Chogok Yonggul Cave Chotdaebawi Rock Trail - we are going near here for SURPRISE 1.
 * Pohang University - we are going near here for SURPRISE 2.
-* Sejong - the new capital with crazy modern architecture.
-* Independence Hall of Korea (4.6 of 9,600) - Slang not much interested.
 * Coast of salt and tea: [tea land](https://maps.app.goo.gl/k9RMoJLxASTy4orU7) (4.4 of 4,400), Taepyeong Salt Farm (says closed?), National Research Institute of Maritime Cultural Heritage museum (4.6 of 800), Hwasun Dolmen Site (4.3 of 400), [Nosong-dae rocas](https://maps.app.goo.gl/iYXKGGXhGCg7QPfa9), birding at Suncheon Bay Nature Reserve (4.4 of 10,700) and Suncheon Bay Reed Field (4.5 of 2,000), [unesco mud?](https://whc.unesco.org/en/list/1591). Also Boriam Temple (4.6 of 6,000), Hyangiram Hermitage Temple (4.5 of 6,000), Songgwangsa Temple (4.5 of 2,000). 
-* Ulsan Petroglyph Museum (4.4 of 600) surrounded by Petroglyphs of Bangudae Terrace in Daegok-ri (4.4 of 750) and Petroglyphs in Cheonjeon-ri (4.6 of 200). Nearby Tongdosa Temple (4.6 of 6,000).
-* Bamboo forest: Juknokwon bamboo forest (죽녹원) (4.4 of 11,000) or Ahopsan Forest (4.0 of 4,900) or Taehwagang Bamboo Forest in Taehwagang National Garden (4.6 of 5,400).
-* [Chungju Dam](https://maps.app.goo.gl/Nkf3mMCq4fT2tszp9).
-* Haeinsa Temple (4.6 of 4,000) - unesco because it has [Tripitaka Koreana](https://www.atlasobscura.com/places/tripitaka-koreana). Since the blocks are so precious yet so fragile, they have been off-limits to the general public for centuries. Since 2021, every Saturday and Sunday, a limited group of visitors can see the treasure at 10 a.m. as well as at 2 p.m. You can book a guided tour through the pre-booking tour system on the temple’s website http://haeinsa.or.kr/. Bookings are available until noon every Monday. Those who got a spot will receive a confirmation by text message to their cell phone. Reservations are limited to one spot per person.
-* Gangdong Hwaam Jusangjeolli [pretty rocas](https://maps.app.goo.gl/BYW67xzH6iCimbnD9).
 * [Saryangdo Island](https://maps.app.goo.gl/82dcFd7GfQo8QCv9A) by ferry.
 * Ulleungdo island - views like [this](https://maps.app.goo.gl/etD8oZpKg1EtbbgB9) and [this](https://maps.app.goo.gl/UVfxUq2qqh2JLXWf9), bridges like [this](https://maps.app.goo.gl/iAHfYpnVPkgZ3Cbi7) and [this](https://maps.app.goo.gl/eYweb67XmWYyw2ky9). But long ferry.
+* [Chungju Dam](https://maps.app.goo.gl/Nkf3mMCq4fT2tszp9).
+* Ulsan Petroglyph Museum (4.4 of 600) surrounded by Petroglyphs of Bangudae Terrace in Daegok-ri (4.4 of 750) and Petroglyphs in Cheonjeon-ri (4.6 of 200). Nearby Tongdosa Temple (4.6 of 6,000).
+* Haeinsa Temple (4.6 of 4,000) - unesco because it has [Tripitaka Koreana](https://www.atlasobscura.com/places/tripitaka-koreana). Since the blocks are so precious yet so fragile, they have been off-limits to the general public for centuries. Since 2021, every Saturday and Sunday, a limited group of visitors can see the treasure at 10 a.m. as well as at 2 p.m. You can book a guided tour through the pre-booking tour system on the temple’s website http://haeinsa.or.kr/. Bookings are available until noon every Monday. Those who got a spot will receive a confirmation by text message to their cell phone. Reservations are limited to one spot per person.
+* Gangdong Hwaam Jusangjeolli [pretty rocas](https://maps.app.goo.gl/BYW67xzH6iCimbnD9).
+* Sejong - the new capital with crazy modern architecture.
+* Independence Hall of Korea (4.6 of 9,600) - Slang not much interested.
 * [Chungju Lake cruise](https://maps.app.goo.gl/Wvcw3rkGaeaT8VJG7) (4.1 of 2,900).
 * [Slang's favourite pagoda](https://maps.app.goo.gl/jegouXojwmLuxYxS6).
+* Pick one bamboo forest: Juknokwon bamboo forest (죽녹원) (4.4 of 11,000) or Ahopsan Forest (4.0 of 4,900) or Taehwagang Bamboo Forest in Taehwagang National Garden (4.6 of 5,400).
