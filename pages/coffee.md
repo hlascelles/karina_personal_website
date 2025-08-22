@@ -7,12 +7,13 @@ image:
     title: main-coffee.jpg
 ---
 
-Favourite varieties: Chiroso, Sidra.
+Favourite varieties: Chiroso, Sidra.  
+Avoid: SL.
 
 Favourite roasters: 
 [Long & Short](https://longshortlondon.com/) UK (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
 [DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake),
-[Scenery](https://scenery.coffee/) UK (Colourful is great, Laga Lizu is great/good, Shyira bad for cortado).
+[Scenery](https://scenery.coffee/).
 
 UK roasteries to try: 
 15 grams, 
@@ -24,7 +25,7 @@ Caravan,
 Catalyst, 
 Climpson & Sons, 
 [Coborn](https://www.coborncoffee.com/) (Milky Way is great), 
-[Conscious](https://www.consciousspeciality.com/) (Arcangel is great), 
+[Conscious](https://www.consciousspeciality.com/) (Arcangel Bolivia is great), 
 [Danelaw](https://www.danelaw.coffee/) (heirloom from Columbia was great), 
 Dark Arts, 
 Elsewhere, 
@@ -55,35 +56,28 @@ Workshop Coffee.
 Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 
 ### Favourites:
-* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">Colombia by prologcoffee.com (good) and El Salvador by bakalarcoffee.com (good).</span>
-* Commons at Old Street Works. Now serving <span style="color:#84A98C">SkyLark blueberry (milky bad) and For the people by Campbell&Syme (good).</span>
+* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">El Salvador by bakalarcoffee.com (good) and Brazil (assumed less good).</span>
+* Commons. Now serving <span style="color:#84A98C">For the people by Campbell&Syme (good), milky guest SkyLark blueberry is bad.</span>
 * Snoozzze Coffee. Now serving <span style="color:#38B000">Ethiopia About Last Night by Intermmission (great) and Peru Source (ok) by Plot.</span>
-* Lift Coffee Shoreditch. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and ? (try).</span> 
+* Lift. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and house.</span> 
 * Pophams. Great, but always the same. They roast themselves at Ozone.
-* Morr. Now serving <span style="color:#84A98C">Kenya by Friedhats (meh) and Brazilian (ok).</span>
+* Morr.
 * Kiss the Hippo.No loo. Now serving <span style="color:#84A98C">Anniversary blend (ok)</span> and George Street Blend (bad). Check back in early-mid August.
 <nbsp></nbsp>
-* Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Arcangel Bolivia by Conscious (great) and Facility by Scenery (good).</span>
-* Lodestar Coffee. Now serving <span style="color:#84A98C">?</span>
-* Scenery. Now serving <span style="color:#38B000">Colourful (great), Laga Lizu (good), something lemony (try).</span>
-<nbsp></nbsp>
-* Long & Short. Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
+* Scenery. Favourites: <span style="color:#38B000">Chiroso, Colourful, Laga Lizu, Sudan Rume.</span> Milky Shyira is bad.
+* Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Brazil Honey process by Lusid (ok) and Facility by Scenery (ok).</span>
+* Lodestar Coffee.
 * Qima.
 * Nostos Coffee.
 * Special Guests Coffee in Marylebone.
+* Long & Short. Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
 
 ### Try:
-* Frequency?
-* Jolene Bakery & Restaurant? (Dalston)
 * Senzo?
-* WatchHouse Spitalfields?
-* Notes?
-* Climpson & Sons Café? (Canal)
-* % Arabica London Broadway Market? (Canal)
-* Specialty Cafetiere?
+* Climpson & Sons? 
+* % Arabica?
 * HARÜ Coffee?
 * Caravan Coffee Roasters and Brewbar? (with a friend)
-* Fink's with Scenery coffee? (Bazaar)
 * Brewed Online?
 <nbsp></nbsp>
 * Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).

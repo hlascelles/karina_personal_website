@@ -113,6 +113,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [Crossness Pumping Station](https://crossness.org.uk/) steaming days - an unmissable opportunity to visit [Cathedral of Sewage from Victorian era](https://livinglondonhistory.com/crossness-londons-amazing-cathedral-of-sewage/). [Abbey Mills Pumping station](https://www.e7-nowandthen.org/2016/10/a-nod-at-our-neighbours-abbey-mills.html) is similar, but rarely possible to visit.
 * [Greenwich Peninsula's Art Trail](https://www.greenwichpeninsula.co.uk/whats-here/art-trail).
 * Greenwich Foot Tunnel is an exciting way to cross the Thames river on foot.
+* New Cross area: 7oZ Coffee is greaat. [Goldsmiths Centre for Contemporary Art](https://goldsmithscca.art/exhibitions/) (free). Former Deptford Town Hall building (now part of Goldsmiths University) is beautiful. If you are here for [Goldsmiths University of London Degree Show](https://www.gold.ac.uk/art/degree-shows/), don't miss the exhibitions in the former bath house and the former church.
 
 **Food:**
 * Coffee: 15grams Coffee House.
@@ -132,11 +133,11 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * London Sri Mahalakshmi Temple (South Indian) in East Ham (especially worth seeing if you've not yet been to India).
 
 **Food:**
+* Casa Fofó - tasting menu with a focus on local and seasonal. Vegetarian option available.
 * Coffee: Knees Up, Lodestar Coffee, Paradox Design + Coffee (no toilet).
 * Pastries: Forno, Pophams (several locations), Pavilion Bakery (several locations), E5 Bakehouse, The Snapery East, Yeast Bakery.
-* Casa Fofó - tasting menu with a focus on local and seasonal. Vegetarian option available.
 * [EDIT](https://www.edit.london/) - vegan restaurant with a focus on local and seasonal; low on waste and environmental impact.
-* Silo London - tasting menu. They mill their own flour and make their own butter; and aim to eliminate food waste, so expect ice cream made from leftover sourdough bread.
+* Silo London - tasting menu. Vegetarian option available. Low on waste, so expect ice cream made from leftover sourdough bread.
 * [Hackney Bridge](https://hackneybridge.org/food-drink/) is a fun hangout area. I'd try Made in Puglia (pizza).
 
 
@@ -200,7 +201,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [Victoria and Albert Museum](https://www.vam.ac.uk/whatson) and their [Lates](https://www.vam.ac.uk/info/friday-late). Cast Courts are particularly impressive.
 * [Tate Britain](https://www.tate.org.uk/visit/tate-britain) - the very best of British art.
 * Churchill War Rooms (not free).
-* Temporary (not free) exhibitions at [Saatchi Gallery](https://www.saatchigallery.com/whats-on) and [the Design Museum](https://designmuseum.org/exhibitions).
+* Temporary (free or not free) exhibitions at [Saatchi Gallery](https://www.saatchigallery.com/whats-on) and [the Design Museum](https://designmuseum.org/exhibitions).
 
 **Food:**
 * Coffee: Nostos Coffee, Lift Coffee.
@@ -238,7 +239,6 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Street art around Shoreditch - Brick lane, Grey Eagle Graffiti wall, Whitecross street and much more.
 * Walk from Liverpool Street station to Farringdon station underground following [this guide](https://diamondgeezer.blogspot.com/2022/05/how-to-walk-underground-from-liverpool.html).
 * The area around Old Street Station, nicknamed the "Silicon Roundabout", has a fun origin story that started with a [throwaway joke in 2008](https://www.wired.co.uk/article/silicon-roundabout-tech-city-property) and became UK government's policy in 2010. [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) hosts many events for developers.
-* Monument to the Great Fire of London.
 * St. Katherine’s Docks.
 * Bank of England Museum - a chance to hold a gold bar.
 * Smithfield Market - meat night market open from midnight until 7am. Architecturally interesting even when the market is closed. If you still need dinner and it is already 6am, around here there is a lot of 24 hour activity, people having their morning coffee at midnight and dining at 6am.
@@ -268,6 +268,9 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 
 ### <a name="peckham"></a> 15. Peckham 
 
+* [South London Gallery](https://www.southlondongallery.org/whats-on/) (often free, two locations accross the road from each other).
+* Pop into Copeland Gallery to see what's there.
+* Ganapati - amazing South Indian food.
 * Naifs - cosy vegan restaurant.
 * On my pastry wishlist: TOAD Bakery, Eric’s.
 
@@ -295,7 +298,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Architecturally exciting campus of London School of Economics (LSE) - The Marshall Building (a gem of forward-thinking architecture), [Square the Block](https://blogs.lse.ac.uk/lsehistory/2017/04/18/all-is-not-as-it-seems-square-the-block-by-richard-wilson/) sculpture (51.51508, -0.118539), etc. Also nearby Space House (51.514826, -0.119305) is very exciting. Nearby India House, part of Bush House, is beautiful.
 * Stroll through narrow pedestrian streets - Carnaby Street, South Molton Street and St Christopher's Place. Don't miss Liberty London - a wonderful mock Tudor building.
 * Victoria Embankment Gardens and Cleopatra's Needle.
-* St George's Church Bloomsbury has an awesome unicorn on its spire.
+* St George's Bloomsbury church has an awesome unicorn on its spire.
 * [Outernet London](https://orms.co.uk/work/st-giles/) by Orms Architects (just outside Tottenham Court Road station). Screens show a mix of curated art and adverts that subsidise rents of music shops on Denmark street.
 * [Maughan Library](https://www.kcl.ac.uk/library/collections/exhibitions) is a beautiful room, if there is a free exhibition - you can visit.
 
@@ -324,7 +327,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 and [Sadie Coles](https://www.sadiecoles.com/exhibitions/current/) on Kingly Street.
 
 **Food:**
-* Coffee: [Qima Cafe](https://qimacafe.com/) (a destination for coffee, pastries and savoury pastries; of the two, I prefer Fitzrovia location), Special Guests Coffee in Marylebone, Kiss the Hippo (several locations).
+* Coffee: [Qima Cafe](https://qimacafe.com/) (a destination for coffee, pastries and savoury pastries; of the two, I prefer Fitzrovia location), Special Guests Coffee in Marylebone.
 * Akoko - modern West African. Tasting menu with a vegan option.
 * NOPI - by [Yotam Ottolenghi](https://ottolenghi.co.uk/).
 * Kricket (Soho and Canary Wharf) - modern North Indian.
