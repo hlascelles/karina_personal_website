@@ -57,7 +57,7 @@ Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 
 ### Favourites:
 * Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">El Salvador by bakalarcoffee.com (good) and Brazil (assumed less good).</span>
-* Commons. Now serving <span style="color:#84A98C">For the people by Campbell&Syme (good), milky guest SkyLark blueberry is bad.</span>
+* Commons. Now serving <span style="color:#84A98C">This one by We are here (good), For the people by Campbell&Syme (good).</span>
 * Snoozzze Coffee. Now serving <span style="color:#38B000">Ethiopia About Last Night by Intermmission (great) and Peru Source (ok) by Plot.</span>
 * Lift. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and house.</span> 
 * Pophams. Great, but always the same. They roast themselves at Ozone.
@@ -76,7 +76,7 @@ Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 * Senzo?
 * Climpson & Sons? 
 * % Arabica?
-* HARÜ Coffee?
+* HARÜ Coffee? (no loo)
 * Caravan Coffee Roasters and Brewbar? (with a friend)
 * Brewed Online?
 <nbsp></nbsp>

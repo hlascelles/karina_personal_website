@@ -84,7 +84,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * De Beauvoir Town - lovely pedestrian streets between De Beauvoir Square and De Beauvoir Deli.
 
 **Food:**
-* Coffee: Day Trip (in a lovely residential setting, for cortado order Flat White).
+* Coffee: Day Trip - magnificent coffee in a wonderful garden (if you usually order cortado, go for flat white here).
 * Berber & Q Grill House - Middle-eastern flavours. Their Berber & Q Shawarma Bar in Islington is also good.
 * Oi Vita Pizzeria - awesome pizza, many vegan options.
 * Acme Fire Cult - vegetable-forward live-fire restaurant.
