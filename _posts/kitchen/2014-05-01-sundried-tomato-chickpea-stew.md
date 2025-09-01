@@ -25,22 +25,20 @@ categories:
 * 500g pre-cooked chickpeas
 * 400g can of coconut milk
 * 10g nutritional yeast flakes
-* 200g spinach
+* 200g Cavolo nero (or any Lacinato kale)
 <nbsp></nbsp>
 * pitas
 
 **Methods:**
 * Prepare the spice mix of smoked paprika, oregano, chilli, cinnamon, lime powder and salt.
 * Dice the onion.
-* Chop the sundried tomatoes into small pieces. Place them in a small bowl and add in tamari soy sauce and tomato paste.
 * Pre-heat a generous splash of olive oil in a Dutch oven. Add in the onion and saute them for a bit on medium heat, stirring occasionally. 
-* Prepare the chickpeas (defrost or drain from the cans).
-* Add the garlic to the onions through the garlic press. 
-* Stir constantly until you can smell the garlic, then add a splash of water and the spice mix. Stir until it starts to smell really good and then add the content of the sundried tomato bowl. Stir until the tomato paste develops rust colour. If things start to stick to the bottom of the pot, add a splash of water.
-* Once the tomato paste looks cooked, stir in the chickpeas and fry them for 2 minutes.
-* Add the can of coconut milk and nutritional yeast flakes. Stir to combine and leave it simmering on low heat.
-* When almost ready to serve, stir in the spinach and let it whilt for 2 minutes.
-* Taste and adjust for salt and acidity (lime powder).
-* Serve with toasted pitas.
+* Chop the sundried tomatoes into small pieces. Place them in a small bowl and add in tamari soy sauce and tomato paste. 
+* Add the garlic to the onions through the garlic press. Stir it until it smells amazing, then add a splash of water and the spice mix. Stir a bit more and then add the content of the sundried tomato bowl. Stir until the tomato paste develops a rust colour.  Whenever things start sticking to the bottom of the pot, add a splash of water.
+* Once the tomato paste looks cooked, add the can of coconut milk and nutritional yeast flakes. Stir to combine and leave it simmering on low heat.
+* Meanwhile, prepare the chickpeas (defrost or drain from the cans) and the kale (de-stem and then chop it finely). 
+* Add the chickpeas and the kale to the pot. Give the kale time to soften a bit.
+* Meanwhile, toast the pitas.
+* Taste and adjust for salt and acidity (lime powder). Serve with toasted pitas.
 
 **Inspired by:** [Allie](https://naturallieplantbased.com/marry-me-chickpeas/).

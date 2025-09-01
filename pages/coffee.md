@@ -56,16 +56,16 @@ Workshop Coffee.
 Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
 
 ### Favourites:
-* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">El Salvador by bakalarcoffee.com (good) and Brazil (assumed less good).</span>
+* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">something Mexican (good).</span>
 * Commons. Now serving <span style="color:#84A98C">This one by We are here (good), For the people by Campbell&Syme (good).</span>
 * Snoozzze Coffee. Now serving <span style="color:#38B000">Ethiopia About Last Night by Intermmission (great) and Peru Source (ok) by Plot.</span>
 * Lift. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and house.</span> 
 * Pophams. Great, but always the same. They roast themselves at Ozone.
-* Morr.
-* Kiss the Hippo.No loo. Now serving <span style="color:#84A98C">Anniversary blend (ok)</span> and George Street Blend (bad). Check back in early-mid August.
+* Morr. Now serving <span style="color:#84A98C">Geisha by AMOC (great).</span>
+* Kiss the Hippo.No loo. Now serving <span style="color:#38B000">Colombia Aji (great).</span>
 <nbsp></nbsp>
 * Scenery. Favourites: <span style="color:#38B000">Chiroso, Colourful, Laga Lizu, Sudan Rume.</span> Milky Shyira is bad.
-* Knees Up. Outdoor seating. Now serving <span style="color:#38B000">Brazil Honey process by Lusid (ok) and Facility by Scenery (ok).</span>
+* Knees Up. Outdoor seating. Now serving <span style="color:#84A98C">Brazil Honey process by Lusid (ok) and Facility by Scenery (ok).</span>
 * Lodestar Coffee.
 * Qima.
 * Nostos Coffee.
