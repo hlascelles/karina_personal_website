@@ -153,51 +153,54 @@ widgets:
 - url:
   image: country-russia.jpg
   title: 46. Russia
-- url:
+- url: /travel/singapore/
   image: country-singapore.jpg
-  title: 47. Singapore
+  title: <a href="/travel/singapore/" target="_self">47. Singapore</a>
 - url:
   image: city-bratislava.jpg
   title: 48. Slovakia
 - url: /travel/south-africa/
   image: country-south-africa.jpg
   title: <a href="/travel/south-africa/" target="_self">49. South Africa</a>
+- url: /travel/south-korea/
+  image: country-south-korea.jpg
+  title: <a href="/travel/south-korea/" target="_self">50. South Korea</a>
 - url: /travel/canary-islands/
   image: country-spain.jpg
-  title: <a href="/travel/canary-islands/" target="_self">50. Spain</a>
+  title: <a href="/travel/canary-islands/" target="_self">51. Spain</a>
 - url:
   image: country-sweden.jpg
-  title: 51. Sweden
+  title: 52. Sweden
 - url:
   image: country-switzerland.jpg
-  title: 52. Switzerland
+  title: 53. Switzerland
 - url: /travel/taiwan/
   image: city-taipei.jpg
-  title: <a href="/travel/taiwan/" target="_self">53. Taiwan</a>
+  title: <a href="/travel/taiwan/" target="_self">54. Taiwan</a>
 - url: /travel/thailand/
   image: city-bangkok.jpg
-  title: <a href="/travel/thailand/" target="_self">54. Thailand</a>
+  title: <a href="/travel/thailand/" target="_self">55. Thailand</a>
 - url: /travel/tunisia/
   image: country-tunisia.jpg
-  title: <a href="/travel/tunisia/" target="_self">55. Tunisia</a>
+  title: <a href="/travel/tunisia/" target="_self">56. Tunisia</a>
 - url: /travel/turkey/
   image: country-turkey.jpg
-  title: <a href="/travel/turkey/" target="_self">56. Turkey</a> 
+  title: <a href="/travel/turkey/" target="_self">57. Turkey</a> 
 - url: /travel/turkmenistan/
   image: country-turkmenistan.jpg
-  title: <a href="/travel/turkmenistan/" target="_self">57. Turkmenistan</a> 
+  title: <a href="/travel/turkmenistan/" target="_self">58. Turkmenistan</a> 
 - url: /travel/uk/
   image: country-uk.jpg
-  title: <a href="/travel/uk/" target="_self">58. UK</a>
+  title: <a href="/travel/uk/" target="_self">59. UK</a>
 - url: /travel/hawaii/
   image: country-usa.jpg
-  title: <a href="/travel/hawaii/" target="_self">59. USA</a>
+  title: <a href="/travel/hawaii/" target="_self">60. USA</a>
 - url: /travel/uruguay/
   image: city-montevideo.jpg
-  title: <a href="/travel/uruguay/" target="_self">60. Uruguay</a>
+  title: <a href="/travel/uruguay/" target="_self">61. Uruguay</a>
 - url: /travel/uzbekistan/
   image: country-uzbekistan.jpg
-  title: <a href="/travel/uzbekistan/" target="_self">61. Uzbekistan</a> 
+  title: <a href="/travel/uzbekistan/" target="_self">62. Uzbekistan</a> 
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}

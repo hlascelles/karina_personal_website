@@ -7,13 +7,14 @@ image:
     title: main-coffee.jpg
 ---
 
-Favourite varieties: Chiroso, Sidra.  
-Avoid: SL.
+Favourite varieties: Chiroso, Sidra, Aji, Colombia, Ethiopia Gerse from Gerese in Yirgacheffe (Nigusse Debela), Rosado from Finca El Jaragual, coffee from Quebraditas in Huila in Colombia.
+Avoid: SL, Shyira (bad in milk).  
 
 Favourite roasters: 
 [Long & Short](https://longshortlondon.com/) UK (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
 [DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake),
-[Scenery](https://scenery.coffee/).
+[Scenery](https://scenery.coffee/).  
+Avoid: All Press, Redemption Roasters, Ozone, Fireheart, Fried Hats.
 
 UK roasteries to try: 
 15 grams, 
@@ -53,36 +54,29 @@ Square Mile,
 Volcano Coffee Works,
 Workshop Coffee.
 <br/><br/>
-Avoid: All Press, Fireheart, Fried Hats, Ozone, Redemption Roasters.
+
 
 ### Favourites:
-* Day Trip(Order Flat White). Outdoor seating. Now serving <span style="color:#38B000">something Mexican (good).</span>
-* Commons. Now serving <span style="color:#84A98C">This one by We are here (good), For the people by Campbell&Syme (good).</span>
-* Snoozzze Coffee. Now serving <span style="color:#38B000">Ethiopia About Last Night by Intermmission (great) and Peru Source (ok) by Plot.</span>
-* Lift. Now serving <span style="color:#84A98C">Costa Rica blend (bad) and house.</span> 
-* Pophams. Great, but always the same. They roast themselves at Ozone.
-* Morr. Now serving <span style="color:#84A98C">Geisha by AMOC (great).</span>
-* Kiss the Hippo.No loo. Now serving <span style="color:#38B000">Colombia Aji (great).</span>
+* Day Trip.Order Flat White. <span style="color:#38B000">Colombian beans are awesome!</span>
+* Commons. <span style="color:#38B000"></span>
+* Snoozzze Coffee. <span style="color:#38B000"></span>
+* Kiss the Hippo.No loo. <span style="color:#38B000">Colombia Aji is great!</span>
+* Also: Lift, Pophams, Morr, Knees Up.
+* Give these another try? Profile Coffee, Colonna & Small's, sevente (Fireheart coffee is bad), Origin Coffee.
+
 <nbsp></nbsp>
-* Scenery. Favourites: <span style="color:#38B000">Chiroso, Colourful, Laga Lizu, Sudan Rume.</span> Milky Shyira is bad.
-* Knees Up. Outdoor seating. Now serving <span style="color:#84A98C">Brazil Honey process by Lusid (ok) and Facility by Scenery (ok).</span>
+* Scenery. <span style="color:#38B000"></span>
 * Lodestar Coffee.
 * Qima.
 * Nostos Coffee.
-* Special Guests Coffee in Marylebone.
-* Long & Short. Now serving <span style="color:#38B000">the default (great), Rojas Chiroso (great), Peng 15 Sidra with complex alcoholic aroma (great) and more (try).</span>
+* Special Guests Coffee.
+* Long & Short.
 
 ### Try:
 * Senzo?
-* Climpson & Sons? 
-* % Arabica?
 * HARÜ Coffee? (no loo)
 * Caravan Coffee Roasters and Brewbar? (with a friend)
 * Brewed Online?
-<nbsp></nbsp>
-* Profile Coffee. Now serving Skylark (try) and La Cabra Daterra Brazil (meh).
-* sevente.Fireheart coffee is bad, everything else is great.
-* Colonna & Small's. No tasting notes for stuff they roast. Agualinda Colombia and Inmaculada Sudan Rume both meh. Revisit in August.
 
 ### Bean processing methods:
 

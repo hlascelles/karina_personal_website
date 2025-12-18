@@ -88,7 +88,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * Berber & Q Grill House - Middle-eastern flavours. Their Berber & Q Shawarma Bar in Islington is also good.
 * Oi Vita Pizzeria - awesome pizza, many vegan options.
 * Acme Fire Cult - vegetable-forward live-fire restaurant.
-* Ethiopian food (many vegan options) - Laza Eritrean Ethiopian Restaurant and Andu Ethiopian.
+* Ethiopian food (many vegan options) - Laza Eritrean Ethiopian Restaurant and Andu Ethiopian (cash only).
 * Pastries: The Dusty Knuckle Bakery.
 * Gelato: Romeo & Giulietta Artisan Gelateria.
 
@@ -307,7 +307,7 @@ My favourite things in each of the 20 parts of London (a very subjective way to 
 * [Sir John Soane's Museum](https://www.soane.org/) - the house of one of the greatest English architects; expect antiquities, sculptures, paintings and curiosities.
 * [Hunterian Museum](https://hunterianmuseum.org/) - the specimen collection of the 18th century surgeon anatomist John Hunter. Book free tickets in advance.
 * [Grant Museum of Zoology](https://www.ucl.ac.uk/culture/grant-museum-zoology) - a small space densely packed with skeletons.
-* [The National Gallery](https://www.nationalgallery.org.uk/whats-on). Book free tickets in advance. Since you are here, cross the road to see what's on in the [Canada Gallery](https://culturecanada.co.uk/canada-gallery/).
+* [The National Gallery](https://www.nationalgallery.org.uk/whats-on). Book free tickets in advance.
 * [Royal Academy](https://www.royalacademy.org.uk/exhibitions-and-events) - a mix of free and ticketed exhibitions in a beautiful building.
 * [Mall galleries](https://www.mallgalleries.org.uk/exhibitions-events) - exciting temporary exhibitions, often free. Wildlife Artist of the Year is my favourite.
 * [The Architecture Gallery at RIBA](https://www.architecture.com/explore-architecture/exhibitions) often has great exhibitions.
