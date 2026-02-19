@@ -10,6 +10,8 @@ image:
 Favourite varieties: Chiroso, Sidra, Aji, Colombia, Ethiopia Gerse from Gerese in Yirgacheffe (Nigusse Debela), Rosado from Finca El Jaragual, coffee from Quebraditas in Huila in Colombia.
 Avoid: SL, Shyira (bad in milk).  
 
+Favourite farms: Quebraditas in Oporapa-Huila, Colombia; Granja Paraíso 92 in Piendamó, Cauca, Colombia.
+
 Favourite roasters: 
 [Long & Short](https://longshortlondon.com/) UK (the default, Rojas Chiroso, Peng 15 Sidra with complex alcoholic aroma), 
 [DAK Amsterdam](https://www.dakcoffeeroasters.com/) (Coco Bongo, Tropic Electric, Milky Cake),
@@ -57,24 +59,21 @@ Workshop Coffee.
 
 
 ### Favourites:
-* Day Trip.Order Flat White. <span style="color:#38B000">Colombian beans are awesome!</span>
-* Commons. <span style="color:#38B000"></span>
-* Snoozzze Coffee. <span style="color:#38B000"></span>
-* Kiss the Hippo.No loo. <span style="color:#38B000">Colombia Aji is great!</span>
-* Also: Lift, Pophams, Morr, Knees Up.
-* Give these another try? Profile Coffee, Colonna & Small's, sevente (Fireheart coffee is bad), Origin Coffee.
-
-<nbsp></nbsp>
-* Scenery. <span style="color:#38B000"></span>
-* Lodestar Coffee.
+* Day Trip. Order Flat White. <span style="color:#38B000">...</span>
+* Commons. <span style="color:#38B000">...</span>
+* Snoozzze Coffee. <span style="color:#38B000">...</span>
+* Kiss the Hippo. No loo. <span style="color:#38B000">...</span>
+* Also: Lift, Pophams, Knees Up, Morr.
+* Scenery. <span style="color:#38B000">Rosado is great.</span>
+* Long & Short.
 * Qima.
+* Lodestar Coffee.
 * Nostos Coffee.
 * Special Guests Coffee.
-* Long & Short.
+
 
 ### Try:
 * Senzo?
-* HARÜ Coffee? (no loo)
 * Caravan Coffee Roasters and Brewbar? (with a friend)
 * Brewed Online?
 
@@ -97,5 +96,9 @@ Workshop Coffee.
 <!---
 
 Colours: greyed out AEAEAE, info 84A98C, attention 38B000.
+
+Granja Paraíso 92 is a renowned, innovative family-owned coffee farm in Piendamó, Cauca, Colombia, celebrated for producing high-specialty coffee through advanced, strictly controlled fermentation techniques (e.g., thermal shock, double anaerobic). Known for unique, fruit-forward flavour.
+
+Quebraditas https://www.quebraditascoffeefarm.com/
 
 -->
