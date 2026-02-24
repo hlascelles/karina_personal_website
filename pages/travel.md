@@ -201,6 +201,9 @@ widgets:
 - url: /travel/uzbekistan/
   image: country-uzbekistan.jpg
   title: <a href="/travel/uzbekistan/" target="_self">62. Uzbekistan</a> 
+- url: /travel/vietnam/
+  image: country-vietnam.jpg
+  title: <a href="/travel/vietnam/" target="_self">63. Vietnam</a> 
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
