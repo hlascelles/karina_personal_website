@@ -17,7 +17,7 @@ categories:
 * 60g almonds
 * 10g garlic (about 2 cloves)
 * 30g olive oil
-* 20g red wine vinegar
+* 10g red wine vinegar
 * 1 teaspoon Chipotle chilli powder (or a mix of smoked paprica powder and chilli powder)
 * 0.25 teaspoon salt
 
