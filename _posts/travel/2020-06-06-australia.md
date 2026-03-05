@@ -12,81 +12,36 @@ categories:
 <a name="tasmania"></a>
 ### 1. Tasmania
 
-##### 1.1 ... :
-
-
-* MONA - an eccentric contemporary art exhibition. The less you know, the better, so just go. I bought the cheapest ticket online in advance (without the boat or any other extras), parked in their big parking lot and had a great experience. Having the map of the gallery (it is not straightforward) is useful to ensure you see everything, so download their free app. You can spend a long time exploring.
-
-* Bonorong Wildlife Sanctuary. Their Night Tour (17:30 or later, depending on the season) is the best way to meet many Tasmanian animals and learn a lot about them. Book in advance.
-
-* Mount Field National Park. [Tarn Shelf circuit](https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/tarn-shelf) hike is amazing. From Lake Dobson parking (-42.68513, 146.59399), I went clockwise; had my first snack at the first beautiful picnic spot (-42.679528, 146.584483) of the hike; the [pandani grove](https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/pandani-grove) (-42.680959, 146.591432) towards the end of the hike was a highlight. With detours to Lake Seal and Platypus Tarn, [my hike](https://connect.garmin.com/app/activity/21313013294) was 17km with 680m total ascent. [Tall Trees](https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/tall-trees) short walk from (-42.682827, 146.70433) parking is also great. [Three Falls Circuit](https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/three-falls-circuit) is on my wishlist. Also on my wishlist is hunting for some of the world's tallest trees - around (-42.813523, 146.656608) and (-42.817298, 146.67124) in [Styx Tall Trees Conservation Area](https://parks.tas.gov.au/explore-our-parks/styx-tall-trees-conservation-area); around (-42.71834, 146.51092) in [Lady Binney Regional Reserve](https://www.bigtreestate.com/lady-binney).
-
-
-
-* Drive to Gordon Dam. The dam itself: First, see it from a high viewpoint at (-42.73161, 145.9777), from the parking walk along the metal fence. Then from this parking (-42.733012, 145.974782), go downstairs and walk all the way across the dam to (-42.729725, 145.975813). It is mighty impressive. The best things I saw on the drive to/from the dam: Pedder Lake Lookout (-42.783358, 146.0323). Teds Beach (-42.787084, 146.060465) is really pretty. The view of the purple mountains from around Bitumen Bones Sculpture (-42.85539, 146.23411). Creepy Crawly Trail - a beautiful short walk starting at (-42.832234, 146.38486). [Twisted Sister](https://www.bigtreestate.com/twisted-sister) Track - another short walk via (-42.742501, 146.414982) and (-42.741245, 146.416151). Highest Point On Road (-42.724931, 146.45567) - a fun stop, from here you could hike up to The Needles (-42.733198, 146.449787).
-
-
-
-* Bruny Island Cruises. This superb 3 hour cruise is rich in geology and wildlife. Book in advance, first tour of the day is best. The only way to get here is by taking a car ferry from Kettering; there is no way to book a specific ferry, just buy a ticket online (valid for a year for a return journey) and join the queue of cars when you arrive; check the schedule online and don't miss the last ferry back (it's earlier than you think). Once you are on the island, don't miss the Truganini Lookout (-43.269368, 147.348909). From here you could walk along the beach for a long time, perhaps to the Big Lagoon (-43.246071, 147.383692) or even the Rock Arch (-43.242603, 147.40517). I found the walk from this parking (-43.230316, 147.37988) to the Rock Arch mostly boring. Fluted Cape Walk is probably really nice, but you'll see the same things from the cruise; or, if not doing the cruise, Cape Hauy hike is a great alternative on the mainland.
-
-
-
-
-* [Newdegate cave](https://parks.tas.gov.au/explore-our-parks/hastings-caves-state-reserve/hastings-caves-and-thermal-springs) tour at Hastings Caves and Thermal Springs. Not possible to book in advance, just arrive early (45 minutes before the first tour of the day is best) and join the next available tour. The ticket includes access to the thermal pool and the Platypus walk. Buy the tickets at (-43.413067, 146.87395), then drive to the cave (-43.380697, 146.843455), then come back to the ticket office for the Platypus walk.
-
-
-* Seeing a platypus. Look close to the shore for bubbles (they are diving) and dirt clouds (they are foraging) in the water. They prefer slow moving water, so in the rivers they don't come out during heavy rain or soon after. Where you could try looking for them: Platypus walk in Geeveston (-43.164892, 146.924566), Fern Glade Platypus Reserve, Platypus walk at Hastings Caves (only if you are paying for the cave tour anyways), and any other tarns, lakes or streams you encounter.
-
-
-
+##### 1.1 Hiking:
+* &#9733; Cradle Mountain-Lake St Clair National Park. Breathtakingly beautiful [Cradle Summit hike](https://parks.tas.gov.au/explore-our-parks/cradle-mountain/cradle-summit) was perhaps my favourite hike in Tasmania. I didn't quite reach the summit of Cradle Mountain, [my hike](https://connect.garmin.com/app/activity/21390147494) was 13km with 860m total ascent. I regretted not leaving my backpack in the hut (-41.675704, 145.94614) before starting my summit attempt at (-41.676916, 145.947551); there is also a toilet nearby (-41.676267, 145.94613). Logistics: during the [shuttle bus operating hours](https://parks.tas.gov.au/explore-our-parks/cradle-mountain/cradle-mountain-shuttle-bus-information) you are not allowed to drive into this National Park in your own vehicle, park at the Cradle Mountain Visitor Centre (-41.583995, 145.93598) and take the shuttle bus (not free). To avoid worrying about missing the last shuttle bus, you could arrive before that. Optimistic scenario and fallbacks: drive past this barrier (-41.596481, 145.9309) before the first shuttle bus (it will be closed, but outside shuttle bus operating hours it will open when you drive up fairly close to it), and hope for a space at Dove Lake parking (-41.649328, 145.96177) with space for 9 cars only. To improve your chances, aim to arrive before 7am. If no luck, try Ronny Creek parking (-41.635755, 145.949482) that is only 2km back, from there you can join the boardwalk to (-41.641231, 145.944941) or walk along the paved road. If both of these car parks are full, your best bet might be to return to Cradle Mountain Visitor Centre and take a shuttle bus from there. Or, if you prefer a flatter walk to a strenuous hike, you could park at Ranger Station parking (-41.59612, 145.930727), take a board walk from there to (-41.641231, 145.944941), enjoy Wombat Pool Lookout (-41.649206, 145.950392) and Cradle Mountain viewpoint (-41.65346, 145.95953), and then take a shuttle bus back to Ranger Station parking for free; and if you have more time, do more hikes from there.
+* &#9733; Freycinet National Park. [Mount Amos](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/mount-amos) is a hike like no other. From (-42.146511, 148.289292) to (-42.153639, 148.299492) it is only 4km with 400m total ascent, but this climb up steep rock slabs was a full day [adventure for me](https://connect.garmin.com/app/activity/21360950645). Not doable on a rainy day, when you could opt for [Wineglass Bay and Hazards Beach](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/wineglass-bay-and-hazards-beach) hike. Granite cafe in Coles Bay is a great place for coffee and breakfast, as well as dinner and pizza.
+* &#9733; Mount Field National Park. [Tarn Shelf circuit](https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/tarn-shelf) hike is amazing. From Lake Dobson parking (-42.68513, 146.59399), I went clockwise; had my first snack at the first beautiful picnic spot (-42.679528, 146.584483) of the hike; the [pandani grove](https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/pandani-grove) (-42.680959, 146.591432) towards the end of the hike was a highlight. With detours to Lake Seal and Platypus Tarn, [my hike](https://connect.garmin.com/app/activity/21313013294) was 17km with 680m total ascent. [Tall Trees](https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/tall-trees) short walk from (-42.682827, 146.70433) parking is also great. [Three Falls Circuit](https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/three-falls-circuit) is on my wishlist. Also on my wishlist is hunting for some of the world's tallest trees around (-42.813523, 146.656608) and (-42.817298, 146.67124) in [Styx Tall Trees Conservation Area](https://parks.tas.gov.au/explore-our-parks/styx-tall-trees-conservation-area); and around (-42.71834, 146.51092) in [Lady Binney Regional Reserve](https://www.bigtreestate.com/lady-binney).
+* &#9733; [Mount Wellington](https://wellingtonpark.org.au/). For the best ratio of natural beauty per unit of effort, park at (-42.889847, 147.23635), hike up the Organ Pipes Track, past the best view of Organ Pipes (-42.897542, 147.24236), then join the Zig Zag Track here (-42.903817, 147.238844), and finally explore the summit of Mount Wellington. If the weather is adversarial, you can eat your lunch-box in this beautiful shelter (-42.895441, 147.238363). [My hike](https://connect.garmin.com/app/activity/21349760834) was 8km with 480m total ascent. For a longer hike, park lower down, but detour to do the whole of the Organ Pipes Track, it is amazing. Yes, there is a big par park right on the summit, but just ignore it, don't let it rob you of one of the most beautiful hikes in Tasmania.
+* Walls of Jerusalem National Park. Don't be put off by the [multi-day walk](https://parks.tas.gov.au/explore-our-parks/walls-of-jerusalem-national-park/walls-of-jerusalem-multi-day-walk) label, it is a delightful one day hike. From the parking (-41.776092, 146.23455) it is a 3km hike to (-41.79059, 146.259437) with 490m ascent, afterward it is a magnificent flat walk in the highlands at 1.2km above sea level. I walked all the way past Herods Gate (-41.81251, 146.28496) and Damascus Gate (-41.824556, 146.3004), with a lunch break at the beautiful Pool of Bethesda (-41.819936, 146.300685), making it a [19km hike](https://connect.garmin.com/app/activity/21408779268) with 770m total ascent, but it would have been an equally good 10km hike.
+* Tasman National Park. [Cape Hauy](https://parks.tas.gov.au/explore-our-parks/tasman-national-park/cape-hauy) hike with beautiful views of columnar basalt. The hike starts from the parking at (-43.143165, 147.96335), the exciting views start from (-43.144931, 147.99412). Don't miss the viewpoint at (-43.144371, 147.997183). After the hike, relax at the beautiful beach by the car park. [My hike](https://connect.garmin.com/app/activity/21351569185) was 11km with 700m total ascent. Note that from (-43.145596, 147.991837) you are not allowed to walk south towards Cape Pillar (the sign says it is to protect the fragile ecosystem from whatever is stuck to your shoes). [Cape Raoul](https://parks.tas.gov.au/explore-our-parks/tasman-national-park/cape-raoul) hike is another option. After the hike, park at (-43.010035, 147.92962) for a stroll on Tessellated Pavement (-43.008918, 147.93255), look for sea anemones in between the "pavement blocks".
+* Blue Tier Regional Reserve. From parking at (-41.199406, 148.004823), I did [Wellington Creek Circuit](https://parks.tas.gov.au/explore-our-parks/blue-tier-regional-reserve/wellington-creek-circuit) (different types of moss covering the forest floor was my favourite bit), [Mount Poimena Circuit](https://parks.tas.gov.au/explore-our-parks/blue-tier-regional-reserve/mount-poimena-circuit) (remains of the Goughs Tin Stamp Battery at (-41.192874, 148.006882) are interesting) and [Australia Hill Circuit](https://parks.tas.gov.au/explore-our-parks/blue-tier-regional-reserve/australia-hill-circuit). Stampers of the [Anchor Tin Mine](https://tindragontrailcottages.com.au/anchor-stampers-tasmania/) (-41.230128, 148.01244) are amazing, do not skip them; parking at (-41.228779, 148.01485). On my wishlist are Blue Tier Giant Walk, including giant trees at (-41.22776, 147.9894) and (-41.227044, 147.98247), and Weldborough Pass Rainforest Walk (-41.216591, 147.938351).
 * Hartz Mountains National Park. [Hartz Peak](https://parks.tas.gov.au/explore-our-parks/hartz-mountains-national-park/hartz-peak) with Lake Esperance detour is the big hike. I had adversarial weather, so instead I did [Lake Osborne](https://parks.tas.gov.au/explore-our-parks/hartz-mountains-national-park/lake-osborne) hike from (-43.217427, 146.7709) and [Arve Falls](https://parks.tas.gov.au/explore-our-parks/hartz-mountains-national-park/arve-falls) hike from (-43.207883, 146.769408).
+* &#9733; Ben Lomond National Park. Jacob's Ladder drive (-41.512479, 147.65995) is geologically very exciting; followed by this magnificent viewpoint (-41.512827, 147.66167). The hikes [from Alpine Village](https://parks.tas.gov.au/explore-our-parks/ben-lomond-national-park/alpine-village-to-little-hell) and [from Carr Villa](https://parks.tas.gov.au/explore-our-parks/ben-lomond-national-park/carr-villa-to-alpine-village-track) are on my wishlist. 
+* Bay of Fires area - squeaky white-sand beaches lined with beautiful granite rocks splashed with orange lichen. I walked between Baileys beach (-41.2413384,148.2929339) and Seatons cove (-41.212048, 148.28104) enjoying these fire rocks. Binalong Bay beach and more remote Taylors beach are both great.
 
-
-
-
-* [Mount Wellington](https://wellingtonpark.org.au/). For the best ratio of natural beauty per kilometer hiked, park at (-42.889847, 147.23635), hike up the Organ Pipes Track, past the best view of Organ Pipes (-42.897542, 147.24236), then join the Zig Zag Track here (-42.903817, 147.238844), and finally explore the summit of Mount Wellington. If the weather is adversarial, you can eat your lunchbox in this beautiful shelter (-42.895441, 147.238363). [My hike](https://connect.garmin.com/app/activity/21349760834) was 8km with 480m total ascent. For a longer hike, park lower down, but detour to do the whole of the Organ Pipes Track, it is amazing. Yes, there is a big car park right on the summit, but just ignore it, don't let it rob you of one of the most beautiful hikes in Tasmania.
-
-
-
-
-* Tasman National Park. [Cape Hauy](https://parks.tas.gov.au/explore-our-parks/tasman-national-park/cape-hauy) hike spoils you with beautiful views of columnar basalt. The hike starts from the parking at (-43.143165, 147.96335), the exciting views start from (-43.144931, 147.99412). Don't miss the viewpoint at (-43.144371, 147.997183). After the hike, relax at the beautiful beach by the carpark. [My hike](https://connect.garmin.com/app/activity/21351569185) was 11km with 700m total ascent. Note that from (-43.145596, 147.991837) you are not allowed to walk south towards Cape Pillar (the sign says it is to protect the fragile ecosystem from whatever is stuck to your shoes). [Cape Raoul](https://parks.tas.gov.au/explore-our-parks/tasman-national-park/cape-raoul) hike is another option. After the hike, park at (-43.010035, 147.92962) for a stroll on Tessellated Pavement (-43.008918, 147.93255), look for sea anemones in between the "pavement blocks".
-
-
-
-
-* Bicheno Blowhole is great. Parking at (-41.880169, 148.307608) and then you can come as close to it as you'd like, depending on your tolerance of getting wet.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-On my wishlist: Waddamana Power Station Heritage Site.
-
-
-
+##### 1.2 Everything else:
+* &#9733; Bruny Island Cruises. This superb 3 hour cruise is rich in geology and wildlife. Book in advance, first tour of the day is best. The only way to get here is by taking a car ferry from Kettering; there is no way to book a specific ferry, just buy a ticket online (valid for a year for a return journey) and join the queue of cars when you arrive; check the schedule online and don't miss the last ferry back (it's earlier than you think). Once you are on the island, don't miss the Truganini Lookout (-43.269368, 147.348909). From here you could walk along the beach for a long time, perhaps to the Big Lagoon (-43.246071, 147.383692) or even the Rock Arch (-43.242603, 147.40517). I found the walk from this parking (-43.230316, 147.37988) to the Rock Arch mostly boring. Fluted Cape Walk is probably really nice, but you'll see the same things from the cruise; or, if not doing the cruise, Cape Hauy hike is a great alternative on the mainland.
+* &#9733; Drive to Gordon Dam. The dam itself: First, see it from the high viewpoint at (-42.73161, 145.9777), from the parking walk along the metal fence. Then from this parking (-42.733012, 145.974782) go downstairs and walk all the way across the dam to (-42.729725, 145.975813). It is mighty impressive. The best things I saw on the drive to/from the dam: Pedder Lake Lookout (-42.783358, 146.0323). Teds Beach (-42.787084, 146.060465) is really pretty. The view of the purple mountains from around Bitumen Bones Sculpture (-42.85539, 146.23411). [Creepy Crawly Nature Trail](https://parks.tas.gov.au/explore-our-parks/southwest-national-park/creepy-crawly-nature-trail) - a beautiful short walk starting at (-42.832234, 146.38486). [Twisted Sister](https://www.bigtreestate.com/twisted-sister) Track - another short walk via (-42.742501, 146.414982) and (-42.741245, 146.416151). Highest Point On Road (-42.724931, 146.45567) - a fun stop, from here you could hike up to The Needles (-42.733198, 146.449787).
+* &#9733; [Mole Creek Karst National Park](https://parks.tas.gov.au/explore-our-parks/mole-creek-karst-national-park/mole-creek-karst-cave-tours). Marakoopa cave (-41.5774, 146.289536) is a rare chance to see glow worms. Both tours of Marakoopa cave start with a cavern with glow worms, but only Great Cathedral tour takes you to a place where you might get a chance to see a glow worm up close. King Solomons Cave (-41.551604, 146.248144) is exceptionally beautiful, but has no glow worms. Book in advance by calling +61363635182, bookings open 14 days in advance. Pick up your tickets at (-41.572978, 146.29228) before the tour, and there is a toilet too.
+* &#9733; Bonorong Wildlife Sanctuary. Their Night Tour (17:30 or later, depending on the season) is the best way to meet many Tasmanian animals and learn a lot about them. Book in advance.
+* &#9733; MONA - an eccentric contemporary art gallery. The less you know, the better, so just go. I bought the cheapest ticket online in advance (without the boat or any other extras), parked in their big car park and had a great experience. Having the map of the gallery (it is not straightforward) is useful to ensure you see everything, so download their free app. You can spend a long time exploring.
+* &#9733; Bicheno Blowhole is great. Parking at (-41.880169, 148.307608) and then you can come as close to it as you'd like, depending on your tolerance for getting wet. There are also some orange lichen splashed rocks, same as Bay of Fires area.
+* [Newdegate cave](https://parks.tas.gov.au/explore-our-parks/hastings-caves-state-reserve/hastings-caves-and-thermal-springs) tour at Hastings Caves and Thermal Springs. Not possible to book in advance, just arrive early (45 minutes before the first tour of the day is best) and join the next available tour. The ticket includes access to the thermal pool and the Platypus walk. Buy the tickets at (-43.413067, 146.87395), then drive to the cave (-43.380697, 146.843455), then come back to the ticket office for the Platypus walk.
+* Seeing a platypus. Look close to the shore for bubbles (they are diving) and dirt clouds (they are foraging) in the water. They prefer slow moving water, so in the rivers they don't come out during heavy rain or soon after. Where you could try looking for them: Platypus walk in Geeveston (-43.164892, 146.924566), Fern Glade Platypus Reserve, Platypus walk at Hastings Caves (only if you are paying for the cave tour anyway), and any other tarns, lakes or streams you encounter.
+* Waddamana Power Station Heritage Site is on my wishlist.
 
 ##### Tasmania notes:
+* I bought the [Parks Pass](https://parks.tas.gov.au/explore-our-parks/know-before-you-go/park-passes-and-entry-fees) online (the car number plate can be "HIRE") and printed it out before arriving in Tasmania. Holiday Pass (all Tasmanian National Parks for 2 months) was the best option for me. Leave the printed Parks Pass on the dashboard when driving or parking in National Parks, and keep a digital copy on your phone for when you are hiking. 
+* Planning your time in Tasmania: see [60 Great Short Walks](https://parks.tas.gov.au/things-to-do/60-great-short-walks) and the [list of National Parks](https://parks.tas.gov.au/explore-our-parks). I also found blogs by [Sari](https://irishontherun.com/complete-tasmania-road-trip-guide-lap-of-tassie/), [Marta](https://inafarawayland.com/tasmania-road-trip-guide/) and [Sarah](https://organizedadventurer.com/three-week-tasmania-itinerary/) useful.
+* I felt no need for a 4x4 car, though there are some [things you could do with a 4x4](https://parks.tas.gov.au/things-to-do/four-wheel-driving-(4wd)). One way car rental from Hobart airport to Launceston airport is an option, but it is only a 2 hour drive between them.
 * I had a totally cashless experience in Tasmania.
 * I bought Telstra sim card at Telstra Rosny Park, not a smooth experience. Later I saw the same sim cards at Woolworths for the same price.
+
 
 
 <a name="sydney"></a>
@@ -112,17 +67,31 @@ Still on my wishlist:
 * Restaurants: Hạnh Phúc Vegan in Surry Hills, Green Sprouts Vegan Restaurant in Neutral Bay, Maydanoz Restaurant Bar.
 * Cocktail bars: Double Deuce Lounge, Apollonia, PS40, Old Mates Place, The Baxter Inn, Now & Then, Jangling Jack’s.
 
-**Notes:**
+##### Sydney notes:
 * A great time to visit is during [Vivid Sydney](https://www.vividsydney.com/info/about-vivid-sydney) (May-June) - the annual light festival that transforms Sydney for 23 nights. Still on my wishlist.
 * Read about [Sydney’s terrace houses](https://www.bloomberg.com/news/articles/2020-07-10/design-history-of-sydney-s-iconic-terrace-house).
 
+
+
 <a name="melbourne"></a>
 ### 3. Melbourne
+* [National Gallery of Victoria](https://www.ngv.vic.gov.au/). Free. I enjoyed both NGV Australia in The Ian Potter Centre and NGV International on St Kilda Road. I'm looking forward to the opening of NGV Contemporary.
+* Royal Botanic Gardens Victoria. Free. Don't miss the Fern Gully and the Guilfoyle's Volcano. 
+* Grey-headed [Flying-foxes](https://www.wildlife.vic.gov.au/our-wildlife/flying-foxes) (fruit bats) - one of the world’s largest flying mammals. I saw them flying over this fountain (-37.823552, 144.97082) around sunset. During the day you could look for them in [Yarra Bend Park](https://www.atlasobscura.com/places/fruit-bats-of-yarra-bend-park).
+* Architecture: My two absolute favourite buildings were [Manchester Unity Building](https://en.wikipedia.org/wiki/Manchester_Unity_Building) (-37.815367, 144.96621) and Forum Melbourne (-37.816475, 144.969392). There is also The Gothic Bank, Flinders Street station building, Royal Exhibition Building, The Princess Theatre and more.
+* Collingwood neighbourhood. Brunswick Street and Smith Street are fun to explore. City Saints was my favourite coffee place. There seem to be a lot of noteworthy ice cream places: Good Daze Canteen, Fluffy Torpedo, Gelato Messina Fitzroy.
+* Carlton neighbourhood (the Little Italy). Lygon Street is fun to explore. Piazza Italia is a lively focal point. See what's on at Science Gallery Melbourne (free).
+
+##### Melbourne notes:
+* Melbourne Airport bus is expensive, an Uber there and back was cheaper than two return bus tickets.
+* I've heard people referring to Melbourne as the Coffee Capital of the World. Perhaps it was true in 2010's. My coffee experience in Melbourne was underwhelming.
+
+
 
 ### 4. Perth and around
 
 * &#9733; The Pinnacles Desert in Nambung National Park. Open 24/7. Best time to visit - when the Discovery Centre is open (it's a good one) and/or at sunrise/sunset for great views. Tickets (for entry to all national parks in the area) must be purchased at (-30.603168, 115.154708) from a person or a machine (depending on the time of visiting). Options include a 1 day ticket and a 5 day ticket, which is great for visiting several national parks over a weekend. If you are driving from Perth, there are interesting places to stop on the way - Lancelin Back Beach (-31.032569, 115.33677), Nilgen Lookout (-30.930716, 115.3627), Wedge Lookout (-30.792082, 115.22498), Molah Hill Lookout (-30.39427, 115.0807), etc. Still on my wishlist - Guilderton, with a small sandbar that separates the Moore river from the Indian Ocean.
-* Lesueur National Park. Open 24/7. Best time to visit is in spring (September to November) when most plants are in bloom. Tickets (for entry to all national parks in the area for 1 or 5 days) must be purchased at (-30.183376, 115.140718) from a machine. The hike from (-30.162463, 115.19887) carpark to Mt Lesueur (-30.177157, 115.19919) and back via this viewpoint (-30.162685, 115.201767) is stunning. Still on my wishlist - a harder hike from (-30.139002, 115.15071). After visiting the park, it is worth it to drive north via (-30.066397, 115.120273) to spot kangaroos and emus, and to stop at Green Head for great viewpoints (-30.069905, 114.96498). Still on my wishlist - Grigsons Lookout.
+* Lesueur National Park. Open 24/7. Best time to visit is in spring (September to November) when most plants are in bloom. Tickets (for entry to all national parks in the area for 1 or 5 days) must be purchased at (-30.183376, 115.140718) from a machine. The hike from parking (-30.162463, 115.19887) to Mt Lesueur (-30.177157, 115.19919) and back via this viewpoint (-30.162685, 115.201767) is stunning. Still on my wishlist - a harder hike from (-30.139002, 115.15071). After visiting the park, it is worth it to drive north via (-30.066397, 115.120273) to spot kangaroos and emus, and to stop at Green Head for great viewpoints (-30.069905, 114.96498). Still on my wishlist - Grigsons Lookout.
 * [Stromatolites](https://en.wikipedia.org/wiki/Stromatolite) in Lake Thetis (-30.506801, 115.07814) near Cervantes - a rare sight. Cervantes is a nice place to stay while visiting Nambung and Lesueur National Parks. Just a couple of minutes drive outside Cervantes (in any direction) offers awesome stargazing opportunities. In the morning locals go dolphin watching at this beach (-30.509581, 115.06649). Still on my wishlist - the Thirsty Point lookout.
 * Rottnest Island. Three main reasons to visit the island include the world's largest wild quokka population (they are nocturnal, so evenings and early mornings are best, but you can always spot some in the settlement, especially around the bakery), hiking (Gabbi Karniny Bidi hike through inland salt lakes is stunning, and there are many more to choose from) and beaches (many near the settlement are just boat parking lots, but starting from Little Parakeet Bay (-31.98994, 115.51612) and heading further out the beaches are gorgeous). On your way to the island, try to spot black swans in the Swan river.
 * Perth. Kings Park and Botanic Garden (free) - a great place to encounter local plants and birds. The Floating Stone artwork (-31.952708, 115.85906) by [Richard Williamson](https://floatingstones.com.au/). Supreme Court Gardens are nice, Elizabeth Quay is nice for a stroll in the evening. Hygge Bar - the cocktails are not bad. Still on my wishlist: Cottesloe Beach, Art Gallery of Western Australia (AGWA), Perth Mint.
