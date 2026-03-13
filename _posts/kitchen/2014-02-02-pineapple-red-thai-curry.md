@@ -22,7 +22,7 @@ categories:
 * 0.5 teaspoon Kashmiri chilli powder
 * 60 twists of black pepper (about 2 teaspoons)
 <nbsp></nbsp>
-* neutral oil (e.g. sunflower)
+* olive oil
 * 3 aubergines
 * 100g cashews
 * 400g can of coconut cream
@@ -44,7 +44,7 @@ categories:
 * Chop green beans into bite size pieces and add them in.
 * Chop the pineapple into bite size pieces and add them in. Add water if needed.
 * Once the aubergines are ready, add them and cashews into the curry. Give them 5min to get to know each other.
-* Taste to adjust salt, spiciness (chilli powder), acidity (lime juice) and sweetness (unrefined sugar).
+* Taste to adjust salt and spiciness (chilli powder).
 * Stir in half of the basil.
 * Serve with rice, sprinkled with remaining basil and with lime wedgies on the side.
 

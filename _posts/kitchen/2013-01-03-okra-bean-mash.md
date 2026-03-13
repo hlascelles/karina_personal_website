@@ -20,7 +20,7 @@ categories:
 * 1 red onion
 * 2 tomatoes
 <nbsp></nbsp>
-* 700g pre-cooked white beans (white kidney beans, butter beans, etc.)
+* 700g pre-cooked white beans (cannellini, white kidney beans, butter beans, etc.)
 * 0.25 teaspoon salt
 * 40g lemon juice
 

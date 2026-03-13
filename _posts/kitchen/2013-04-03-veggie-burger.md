@@ -18,7 +18,8 @@ categories:
 * mustard
 * 1 red onion
 * 1 tomato
-* mild cheddar cheese
+* Lettuce
+* Cheddar cheese
 
 **Methods:**
 
@@ -27,4 +28,4 @@ categories:
 * Meanwhile, toast two slices of rye bread.
 * Slice the onion, tomato and some cheese.
 * Spread mustard on both slices of bread. Place onion slices on top. Top with burgers. 
-* Use the still hot pan to melt the cheese. Top the burgers with melted cheese and tomato slices.
+* Use the still hot pan to melt the cheese. Top the burgers with melted cheese, lettuce and tomato slices.

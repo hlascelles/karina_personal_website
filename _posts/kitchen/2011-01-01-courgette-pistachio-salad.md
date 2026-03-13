@@ -10,7 +10,7 @@ categories:
 
 * courgettes - fresh, firm, young and thin; but not baby courgettes
 * pistachios
-* delicate cruciferous greens (rocket/arugula or watercress)
+* delicate cruciferous greens (watercress, rocket, etc.)
 <nbsp></nbsp>
 * 1 lemon
 * 30g olive oil

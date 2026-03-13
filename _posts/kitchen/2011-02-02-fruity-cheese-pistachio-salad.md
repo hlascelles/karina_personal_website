@@ -13,7 +13,7 @@ categories:
 <nbsp></nbsp>
 * 1 nectarine
 * Strawberries
-* delicate cruciferous greens (rocket/arugula or watercress)
+* delicate cruciferous greens (rocket, watercress, etc.)
 <nbsp></nbsp>
 * 20g olive oil
 * 15g red wine vinegar

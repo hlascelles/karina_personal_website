@@ -20,14 +20,14 @@ categories:
 * 1 teaspoons coriander powder
 * 15g tomato paste
 <nbsp></nbsp>
-* 700g white pre-cooked beans (white kidney beans, butter beans, etc.)
+* 700g white pre-cooked beans (cannellini, white kidney beans, butter beans, etc.)
 * 0.25 teaspoon salt
 * 40g lemon juice
 
 **Methods:**
 
 * Preheat a large pan with olive oil. Chop the mushrooms and fry them until golden.
-* Chop the onion into large chunks, peel the garlic cloves and chop big ones in half, chop both dry and fresh chillies into chunks. Place all of these into a small pan and add a lot of olive oil to cover them almost completely. Fry until garlic becomes golden on the outside and caramelised on the inside.
+* Chop the onion into large chunks, peel the garlic cloves and chop big ones in half, chop both dry and fresh chillies into chunks. Place all of these into a small pan and add 30g of olive oil. Fry until garlic becomes golden on the outside and caramelised on the inside.
 * Meanwhile, warm up the beans in the microwave. Add salt and 20g of lemon juice. Handblender into a mash. Taste and adjust salt and acidity (lemon juice).
 * Once the garlic is looking ready, take the small pan off the heat. Add cumin and coriander powder and tomato paste. Once the mixture has cooled down a bit, handblender it into a paste. Taste and adjust salt and spiciness (chilli powder). Mix in the fried mushrooms.
 * Serve bean mash topped with spicy mushrooms.

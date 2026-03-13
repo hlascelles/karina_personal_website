@@ -13,7 +13,7 @@ categories:
 * 100g walnuts
 * 2 [grapefruits](https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix)
 * 20 twists of black pepper
-* delicate cruciferous greens (rocket/arugula or watercress)
+* delicate cruciferous greens (rocket, watercress, etc.)
 <nbsp></nbsp>
 * 15g olive oil
 * 10g Dijon mustard (about 1.5 teaspoons)

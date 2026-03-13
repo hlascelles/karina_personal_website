@@ -20,19 +20,18 @@ categories:
 <nbsp></nbsp>
 * 1 green chilli (jalapeno or any other)
 * 40g red onion
-* (optional) parsley
 * pitas
 
 **Methods:**
 
 * Prep the corn kernels - chop them off their cobs or defrost and pat dry with a kitchen towel.
-* Preheat a large pan on high heat with a bit of olive oil. Spread the corn in the pan into an even layer. Without stirring, char the corn kernels on very high heat.
+* Preheat a large pan on high heat with a bit of olive oil. Spread the corn in the pan into an even layer. Without stirring, char the corn kernels on high heat.
 * Meanwhile, make the dressing - zest a lime; in a large bowl mix yoghurt with the juice of a lime, lime zest, salt and black pepper.
 * Dice the onion and the green chilli.
 * Once the corn starts charring, into the pan add chilli powder and the garlic through a garlic press. Add a tiny splash of water to deglaze the pan, stir and give it a minute until the garlic smells really nice. Don't give your corn too much time in the pan, or it will dry out.
 * Add the corn into the dressing and mix well. 
 * Toast the pitas.
-* Mix the onion and the green chilli into the corn. Optionally, you could add some parsley.
+* Mix the onion and the green chilli into the corn.
 * Serve with pitas.
 
 **Inspired by:** [Brian Lagerstrom](https://youtu.be/yNIr-Q4wcL4?t=558)

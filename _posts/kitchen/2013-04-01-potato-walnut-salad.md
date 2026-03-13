@@ -11,7 +11,7 @@ categories:
 * 400g baby potatoes
 * 300g green beans
 * 200g cherry tomatoes
-* 60g delicate cruciferous greens (rocket/arugula or watercress)
+* 60g delicate cruciferous greens (rocket, watercress, etc.)
 <nbsp></nbsp>
 * 60g walnuts
 * 10g red onion

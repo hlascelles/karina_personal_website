@@ -9,7 +9,6 @@ categories:
 **Ingredients:**
 
 * olive oil
-* butter
 * 400g mushrooms (Oyster mushrooms, Brown Shimeji mushrooms, etc.)
 * 20g garlic (about 4 cloves)
 * 20 twists of black pepper
@@ -25,7 +24,7 @@ categories:
 **Methods:**
 
 * Chop all mushrooms finely.
-* Preheat the pan, add a generous splash of olive oil and a blob of butter, and let the butter melt. Start frying the mushrooms.
+* Preheat the pan with a generous splash of olive oil. Start frying the mushrooms.
 * Start boiling the pasta in salty water.
 * Meanwhile, grate Parmesan coarsely and chop the parsley.
 * When the mushrooms are golden on most side, use a garlic press to add garlic cloves directly into pan. Add black pepper.

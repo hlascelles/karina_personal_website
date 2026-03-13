@@ -8,8 +8,8 @@ categories:
 
 **Ingredients:**
 
-* 500g baby potatoes
-* neutral oil (e.g. sunflower)
+* 750g baby potatoes
+* olive oil
 <nbsp></nbsp>
 * 60g tamarind paste
 * 30g pitted dates
@@ -29,13 +29,13 @@ categories:
 * 0.25 teaspoon salt
 
 **Methods:**
-* Start boiling the potatoes.
-* Meanwhile, make the tamarind chutney - handblender tamarind paste with roughly chopped dates and ginger, clove and chilli powder, and 40g water. 
+* Boil the potatoes hours in advance, as it will take time for the starches to set as the potatoes cool down. Or boil them the day before. Or if you are boiling them last minute, spread them on a cold plate as soon as they are ready and put them in the coldest place available for at least a bit.
+<nbsp></nbsp>
 * Defrost the peas and handblender them with roughly chopped green chilli and garlic, cumin and coriander powder, and salt.
-* Once the potatoes are ready, spread them on a cold plate to cool them down. 
 * Preheat a large frying pan with a generous amount of oil. Place the potatoes onto a chopping board and use a flat bottomed glass to [crush them into pancakes of uniform thickness](https://youtu.be/aPPRhlYwKYU?t=603). Fry them on both sides until golden brown. 
-* Meanwhile, finely slice the red onion.
+* Meanwhile, make the tamarind chutney - handblender tamarind paste with roughly chopped dates and ginger, clove and chilli powder, and 40g water. 
+* Finely slice the red onion.
 * Mix the yoghurt with salt. If it's thick, thin it out with water.
 * Once potatoes are golden brown on both sides, spread them on plates. Serve toped them with peas, yoghurt, tamarind chutney and onions.
 
-**Notes:** in India aloo tikki are an explosion of many flavours. For a more authentic experience, add pomegranate seeds and chickpeas fried in oil with garam masala and lime powder (or green mango powder).
+**Notes:** In India aloo tikki are an explosion of many flavours. For a more authentic experience, add pomegranate seeds and chickpeas fried in oil with garam masala and lime powder (or green mango powder).

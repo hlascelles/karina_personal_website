@@ -18,7 +18,7 @@ categories:
 <nbsp></nbsp>
 * 130g dark >70% chocolate (vegan)
 * 480g very ripe peeled bananas (3-5 bananas)
-* 80g sunflower/canola oil
+* 80g neutral oil (e.g. sunflower)
 * 170g sugar
 
 **Methods:**

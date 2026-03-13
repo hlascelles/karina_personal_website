@@ -41,7 +41,7 @@ categories:
 * Add chopped fresh tomatoes and a can of tomatoes. Refill the can with the bean cooking liquid (or water) and add it in. Add tamari soy sauce. Let it simmer for another 15min.
 * Add in the cooked beans (freshly cooked, frozen or from a can) and corn kernels. Add more bean cooking liquid (or water) if needed. Let it simmer for another 15min.
 * Meanwhile, zest the lime. Mix avocado with the juice of the lime and the zest. Finely chop the parsley.
-* Stir, taste and adjust salt (tamari soy sauce), acidity (vinegar), spiciness (chilli powder) and sweetness (unrefined sugar, e.g. coconut sugar or jaggery).
+* Stir, taste and adjust salt (tamari soy sauce), acidity (vinegar) and spiciness (chilli powder).
 * Serve with rice and zingy avocado, sprinkled with parsley.
 
 **Inspired by:** [Brian Lagerstrom](https://youtu.be/wtS8PTaedzA)
