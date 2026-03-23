@@ -10,6 +10,10 @@
   url: "/goals/"
   side: left
 
+- title: "My thoughts"
+  url: "/notes/"
+  side: left
+
 - title: "Travel notes"
   url: "/travel/"
   side: left
@@ -17,16 +21,3 @@
 - title: "Kitchen notes"
   url: "/kitchen/"
   side: left
-
-- title: "Notes"
-  url: "/notes/"
-  side: left
-
-# - title: "Projects"
-#   url: "/projects/"
-#   side: left
-#   dropdown:
-#   - title: "Stop Plastic Pollution"
-#     url: "/projects/stop-plastic-pollution/"
-#   - title: "London PyTorch Meetup"
-#     url: "/projects/london-pytorch-meetup/"

@@ -9,7 +9,7 @@ widgets:
   title: <a href="/travel/street-art/" target="_self">Random street art</a>
 - url: /travel/cities/
   image: city-london.jpg
-  title: <a href="/travel/cities/" target="_self">200 most exciting cities</a>
+  title: <a href="/travel/cities/" target="_self">200 most exciting cities?</a>
 - url: /notes/orchids/
   image: main-orchids.jpg
   title: <a href="/notes/orchids/" target="_self">Taking care of orchids</a>
