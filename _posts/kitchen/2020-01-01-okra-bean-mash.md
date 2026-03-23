@@ -19,10 +19,8 @@ categories:
 * 350g okra
 * 1 red onion
 * 2 tomatoes
-<nbsp></nbsp>
 * 700g pre-cooked white beans (cannellini, white kidney beans, butter beans, etc.)
 * 0.25 teaspoon salt
-* 40g lemon juice
 
 **Methods:**
 
@@ -31,5 +29,5 @@ categories:
 * Pre-heat a frying pan with a bit of olive oil. Cut the onion into 8 wedges, and start frying it. Add the okra to finish cooking it in the pan. 
 * Meanwhile, warm up the beans in the microwave. 
 * Cut the tomatoes into 8 wedges. Add them into the pan. Add the lemon zest paste to the pan and mix everything together.
-* Add salt and lemon juice to the beans. Handblender into a mash. Taste and adjust salt and acidity (lemon juice).
+* Add salt and 40g of lemon juice to the beans. Handblender into a mash. Taste and adjust salt and acidity (lemon juice).
 * Serve bean mash topped with veggies.

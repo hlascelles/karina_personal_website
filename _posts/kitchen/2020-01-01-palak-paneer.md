@@ -9,6 +9,7 @@ categories:
 **Ingredients:**
 
 * wholegrain rice
+<nbsp></nbsp>
 * 750g spinach
 * 650g paneer
 * 1 big tomato (about 200g)
@@ -31,6 +32,6 @@ categories:
 * Heat a non-stick pan with oil. Cut the paneer into small cubes and fry it until golden on most sides.
 * Meanwhile, make the curry paste: handblender roughly chopped onions, chillies, garlic and ginger (no need to peel the ginger) with salt the spices - garam masala, cumin, turmeric.
 * Finely chop the tomatoes.
-* In a heavy bottom pot, heat a bit of oil. Add the curry paste and fry for a couple of minutes, until it smells really good. Once it starts sticking to the bottom of the pot, add the tomatoes. Let it simmer on low heat for a couple of minutes.
+* In a heavy bottom pot, heat a bit of oil. Add the curry paste and fry it for a minute, stirring constantly, until it smells really good. Add the tomatoes. Let it simmer on low heat for a couple of minutes.
 * Once the paneer is ready, add spinach and paneer to the pot. Give them a couple of minutes to simmer together.
-* Take off the heat, stir in the cream. Taste and adjust salt and spiciness (Kashmiri chilli powder), saltiness and creaminess. Serve with rice.
+* Take off the heat, and stir in the cream. Taste and adjust salt, spiciness (Kashmiri chilli powder) and creaminess. Serve with rice.
