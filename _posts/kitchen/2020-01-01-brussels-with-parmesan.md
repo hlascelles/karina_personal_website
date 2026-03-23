@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Brussels sprouts with Parmesan
+title: Brussels sprouts salad
 header: no
 categories:
     - kitchen
@@ -30,3 +30,5 @@ categories:
 * Add milled seeds, toasted almond flakes and grated Parmesan. Mix everything together.
 
 **Inspired by:** [Dan Souza](https://youtu.be/B2Q4RRjNveE)
+
+**Note:** For a [Brian Lagerstrom](https://youtu.be/1LlZJFfJyxk?t=678) inspired vegan version, remove Parmesan, almond flakes and milled seeds. Replace them with 30g pickled golden raisins, 20g fried capers, 20g diced red onion and 20g finely chopped parsley. To pickle the raisins, place them in a small saucepan, cover with distilled vinegar (or the cheapest one you’ve got), and bring to a simmer, then take off the heat and let them plump up. To make fried capers, add them to the Brussels sprouts about half-way through the frying process.

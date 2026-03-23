@@ -10,7 +10,7 @@ categories:
 
 * prunes
 * dark rum
-* dark >70% chocolate (vegan)
+* 100% chocolate
 
 **Methods:**
 
