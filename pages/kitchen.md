@@ -5,20 +5,20 @@ permalink: "/kitchen/"
 header: no
 widgets:
 - url: /kitchen/protein/
-  image: food-pantry.jpg
+  image: food-protein.jpg
   title: <a href="/kitchen/protein/" target="_self">Protein-forward</a>
 - url: /kitchen/fibre/
-  image: food-fresh.jpg
+  image: food-fibre.jpg
   title: <a href="/kitchen/fibre/" target="_self">Fibre-forward</a>
 - url: /kitchen/carb/
-  image: food-carbs.jpg
+  image: food-carb.jpg
   title: <a href="/kitchen/carb/" target="_self">Carb-forward</a>
 
 - url: /kitchen/dessert/
-  image: food-sweet.jpg
-  title: <a href="/kitchen/carb/" target="_self">Dessert</a>
+  image: food-dessert.jpg
+  title: <a href="/kitchen/dessert/" target="_self">Dessert</a>
 - url: /kitchen/notes/
-  image: food-vegan.jpg
+  image: food-notes.jpg
   title: <a href="/kitchen/notes/" target="_self">Notes</a>
 ---
 
