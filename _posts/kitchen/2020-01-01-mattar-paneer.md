@@ -15,8 +15,8 @@ categories:
 * 30g tomato paste
 * 1 teaspoon salt
 * 3 teaspoons garam masala
-* 1.5 teaspoon Kashmiri chilli powder
 * 1 teaspoon ground cumin
+* 1 teaspoon Kashmiri chilli powder
 * 0.5 teaspoon ground cinnamon
 * 0.25 teaspoon ground cloves
 <nbsp></nbsp>
