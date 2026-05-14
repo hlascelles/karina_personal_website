@@ -6,6 +6,8 @@ gem "bigdecimal"
 gem "faraday-retry"
 gem 'jekyll'
 gem "jekyll-sass-converter", "2.1.0"
+gem "logger"
+gem "rake"
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
