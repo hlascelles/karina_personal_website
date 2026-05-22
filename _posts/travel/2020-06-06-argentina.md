@@ -170,16 +170,11 @@ Here is a list of places I visited during the trip, listed in chronological orde
 
 
 
-## Food and drink in Argentina:
-* Both Buenos Aires and Mendoza are worthy of gastronomy tourism. 
-* Most wines are made to local taste - they are easy to drink, they taste young and lack body. 
-* More than half of Argentinians have some degree of Italian ancestry, and yet most Italian food in the country is inedibly bad.
-* DDL stands for dulce de leche. Try to catch them all - made from cow milk, goat milk and buffalo milk.
-
 ## Notes:
 * Argentina is on holiday in January. In residential areas of big cities many restaurants and shops close for Christmas and reopen only in late January. In national tourism destinations everything is booked out for January.
 * The currency situation in Argentina is fascinating, I'd love to do a PhD on this topic. At the time when I visited, the best way was to send myself money through Western Union and withdraw cash from a local branch; this way I got twice as much ARS for the same amount of currency in my bank account compared to paying by card. The situation is constantly changing, so do your research before your trip. Note that tourists seem to look for Western Union on Google maps and form long queues at those locations. To avoid queueing, see [the map of all branches](https://location.westernunion.com/ar/), identify locations that don't show up in Google maps searches, and use them quietly.
 * I used Claro prepaid sim card and it worked well. Buy the sim card in a Claro shop (passport required, cash only), then top up in corner shops as needed (ask for "recarga Claro"). On your phone, with Claro sim active, you can see how much money you have on your account and how much different packages cost [here](https://simple.claro.com.ar/inicio/).
 * Sube card works on all public transport in Buenos Aires, Mendoza and other big cities. One card per group is sufficient, no need to buy one per person.
-* Here they are called Islas Malvinas; do not under any circumstances call them Falkland Islands.
+* Food and drink: More than half of Argentinians have some degree of Italian ancestry, and yet most Italian food in the country is really bad. DDL stands for dulce de leche; it is made from cow, goat or buffalo milk - all are delicious. Most red wines are made to local taste - they are easy to drink, they taste young and lack body. 
+* In Argentina they are called Islas Malvinas; do not under any circumstances call them Falkland Islands.
 * Movies to watch before you go: [Argentina, 1985](https://www.imdb.com/title/tt15301048/).
