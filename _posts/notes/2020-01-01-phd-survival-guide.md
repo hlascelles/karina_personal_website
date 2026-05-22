@@ -4,7 +4,7 @@ title: "PhD survival guide"
 header: no
 image:
     title: main-phd.jpg
-the_date: Feb 2020
+the_date: February 2020
 show_meta: true
 categories:
     - notes

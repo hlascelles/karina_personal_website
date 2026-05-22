@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: "The goals I've set myself:"
+title: "My goals:"
 permalink: "/goals/"
 meta_description:
 header: no

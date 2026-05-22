@@ -2,7 +2,7 @@
 layout: kz-page
 permalink: "/travel/"
 subheadline:
-title: "My travel notes"
+title: "My travel notes:"
 teaser:
 header: no
 widgets:
@@ -54,9 +54,9 @@ widgets:
 - url:
   image: country-colombia.jpg
   title: 14. Colombia
-- url:
+- url: /travel/croatia/
   image: country-croatia.jpg
-  title: 15. Croatia
+  title: <a href="/travel/croatia/" target="_self">15. Croatia</a>
 - url: /travel/cyprus/
   image: country-cyprus.jpg
   title: <a href="/travel/cyprus/" target="_self">16. Cyprus</a>
