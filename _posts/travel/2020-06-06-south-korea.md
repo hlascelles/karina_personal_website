@@ -10,7 +10,7 @@ categories:
 ### Reasons to go:
 
 <a name="seoul"></a>
-### 1. Seoul
+##### 1. Seoul
 * ...
 
 
@@ -36,7 +36,7 @@ Gyeongju notes:
 
 
 
-##### X. Jeju Island
+##### 3. Jeju Island
 * Hallasan National Park. There are two trails that lead to the [volcano summit](https://thegirlwithabigbag.com/guide-to-the-trail-reservation-process-for-jeju-islands-hallasan/), both require a [reservation in advance](https://visithalla.jeju.go.kr/main/main.do?language=en). See blogs by [Hallie](https://thesoulofseoul.net/jeju-island-mount-halla-by-eorimok-trail/), [Sam](https://thereshegoesagain.org/hiking-hallasan-jeju-korea/) and [Kim](https://www.goingthewholehogg.com/hiking-hallasan/). Since I was not aiming to reach the summit, I did Yeongsil trail which starts from the highest parking lot (33.348375, 126.49669). I loved every bit of this wonderful hike. If you get to Witse Oreum Shelter with toilets (33.362024, 126.51762) before the cut-off time (usually 13:00), you can continue hiking to a great viewpoint (33.362456, 126.52306) of the crater wall. This hike is very popular, so you must arrive very early to get a parking spot. Afterwards, stop at (33.357661, 126.46275) for a short beautiful walk throught the wetlands. For more hiking on Jeju, there are many [oreums](https://en.wikipedia.org/wiki/Oreum), for example Ttarabi Oreum. 
 * Seongsan Ilchulbong Tuff Cone - seeing it from the beach (33.461996, 126.93872) was the best bit (free). You have to buy a ticket to climb to the summit - the view is good, but skipable. On the way back, stop at (33.469037, 126.92349) to see the port from the bridge (33.468849, 126.92532).
 * Bijarim Forest (33.491452, 126.81093) - a very beautiful old forest of Florida nutmeg (Torreya taxifolia). Not free. For more forest walks there is Saryeoni Forest Path Red Ascension Entrance and Seogwipo Natural Recreational Forest.
@@ -52,7 +52,7 @@ Jeju notes:
 
 
 
-##### X. Pohang, the steel city
+##### 4. Pohang, the steel city
 * &#9733; Hwanho Park Space Walk - the world's best staircase! Climb it during the day (sunset time is most magical) and come back to see it lit up at night (a different kind of magical). Climbing it is not allowed during bad/windy weather, you can check the status [here](https://www.pohang.go.kr/dept/spaceWalk/info.do?mid=0603010000&token=1728343312958), but really you do want to see it whether or not you'll be allowed to climb it. Free.
 * Pohang Museum Of Steel Art - a lovely art museum, but there were only paintings and no steel art when I visited. Free.
 * &#9733; POSCO History Museum (35.997095, 129.38706) - a very interesting museum that changed the way I think about the history of South Korea. Free. Take this skywalk (35.998767, 129.38525) for a view of some of the POSCO facilities.
@@ -60,7 +60,7 @@ Jeju notes:
 
 
 
-##### X. The land of caves between Gangneung and Uljin
+##### 5. The land of caves between Gangneung and Uljin
 
 * &#9733; Hwanseongul Cave - a huge cave which feels like being inside a giant sourdough. You can spend a long time exploring. The monorail to the entrance saves a lot of time, which justifies the price; they take only cash and Korean cards. No toilets after the monorail. I did not visit Daegeumgul Cave (guided tours only, pre-book online), but maybe you should since it is right there.
 * &#9733; Gosu Cave - narrow and intimate, this a magnificent counterpart to Hwanseongul Cave. You can spend a long time exploring.
@@ -70,7 +70,7 @@ Jeju notes:
 
 
 
-##### X. Mokpo and around
+##### 6. Mokpo and around
 * Wolchulsan National Park. From the carpark (34.776895, 126.72154), I hiked to Weolchulsan Suspension Bridge (34.768891, 126.71218), the peak (34.766619, 126.70404) and then looped back past the waterfall (34.769911, 126.710043).
 * Taepyeong Halophytes Botanical Garden (34.99668, 126.1738) - a beautiful boardwalk through the wetland. The only wetland biota of salt farm in South Korea. Free.
 * &#9733; Taepyeong Salt Farm. I am not sure if I was allowed to be there, but nobody stopped me (it was just past working hours, but before sunset). There are no gates or barriers to prevent you from driving between Taepyeong Halophytes Botanical Garden and (34.992307, 126.14708).
@@ -78,7 +78,7 @@ Jeju notes:
 
 
 
-### X. Wetlands around Suncheon
+##### 7. Wetlands around Suncheon
 * Suncheon Bay Nature Reserve (34.886225, 127.50868) - wonderful boardwalks through the wetlands. Not free. The ticket includes entry to Suncheon Bay National Garden on the same day, but I skipped it. 
 * Gangjin Bay Ecological Park (34.620641, 126.77333) - equally wonderful boardwalks through the wetlands. Free and much less popular than Suncheon Bay Nature Reserve, so this would be my first choise if I could only do one.
 * On my wishlist: 벌교생태공원 (Beolgyo Ecological Park) - more wonderful boardwalks through the wetlands.
@@ -86,7 +86,7 @@ Jeju notes:
 
 
 
-##### X. Gwangju and around
+##### 8. Gwangju and around
 
 * Mudeungsan National Park. From the parking (35.100667, 126.99525), the hike goes past this shelter with toilets (35.116163, 126.99881) to Ipseokdae (무등산 입석대) rocks (35.117547, 127.00221). See [Aurora's blog](https://thegirlwithabigbag.com/mudeungsan-national-park/).
 * Leeleenam Studio - really cool art space in a cool neighbourhood. Free.
@@ -95,21 +95,21 @@ Jeju notes:
 
 
 
-##### X. Jeonju and around
+##### 9. Jeonju and around
 * Daedunsan Provincial Park 대둔산도립공원 (전북). Parking at (36.117483, 127.3344). I took the cable car (36.116684, 127.32976). The hike goes via Geumgang Suspension Bridge (36.123114, 127.32365), the iconic steep staircase called Samseon Cloud Bridge (36.123691, 127.3223) which you can bypass if you'd rather not, and the Daedunsan peak (36.12783, 127.32321). I took a diversion to (36.124594, 127.32048) before returning to the cable car. Instead of taking the cable car, it would have been fun to do the ridge walk via (36.14495, 127.322501).
 * Geumsansa temple (35.723002, 127.053698) - from all the temples I visited in South Korea, this one stood out as really nice. It also had great coffee at nearby Hay ground 헤이그라운드 (35.716689, 127.040542).
 * Jeonju Hanok Village - a nice place for an evening stroll. And there is Jeondong Cathedral.
 
 
 
-##### X. Seoraksan National Park
+##### 10. Seoraksan National Park
 
 * I hiked to Ulsanbawi Rock (38.194182, 128.47473) first. On the way back I explored this little temple in a rock (38.190016, 128.47496) and Seoraksan Sinheungsa Temple. Then I hiked to Towangseong Falls Observatory (38.161979, 128.49911) for beautiful mountain views. See [this useful blog](https://thegirlwithabigbag.com/complete-seoraksan-hiking-guide/).
 * On my wishlist: Mountain views from Gwongeumseong fortress, Wondae-ri Birch Forest.
 
 
 
-##### X. Sejong City and around
+##### 11. Sejong City and around
 
 * Ieung Bridge (Geumgang Pedestrian Bridge) - doing the whole lap (36.48581, 127.284156) was much fun.
 * Architecture: Government Complex Sejong is a [3.6km long building](https://en.wikipedia.org/wiki/Government_Complex,_Sejong) (well, a series of buildings), National Library of Korea Sejong, Government Complex Sejong Convention Center (36.500954, 127.26982), Presidential Archives (36.501584, 127.2732), Sejong Lake Park Floating Stage Island 세종호수공원 수상무대섬 (36.497383, 127.2725).
@@ -118,7 +118,7 @@ Jeju notes:
 
 
 <a name="busan"></a>
-##### X. Busan
+##### 12. Busan
 
 * Haeundae Beach - the beach, the architecture of Haeundae Marine City (35.156985, 129.14474), and Momos Coffee (Marine City branch is awesome, and I'm excited to try the other branches).
 * Beomeosa Temple - I particularly enjoyed the turtles (35.283513, 129.07118). From (35.282613, 129.06793) it is an enjoyable hike along the river of boulders to Geumjeongsanseong Fortress North Gate 금정산성 북문 (35.275473, 129.05752). 
@@ -137,12 +137,14 @@ Busan notes:
 
 
 
-##### X. DMZ (bring passport and binoculars)
+##### 13. DMZ (bring passport and binoculars)
 * I did this [DMZ Half-Day Tour led by a retired military officer](https://www.plktravel.com/) from Seoul. Look for "DMZ Tour From Seoul / PLK Travel" on Google Maps to see their reviews. All tour pass through (37.890563, 126.7403), you could join there instead of in Seoul. The two interesting things to see on this kind of tour are The Third Tunnel (37.916651, 126.69916) and Dorasan Observatory (37.911031, 126.70598) or Odusan Observatory. Even the no-shopping tour I did had a shopping stop at (37.909253, 126.73431), I believe other tours are worse. Definitely bring binoculars to make the most of your time at the observatory; taking photos is not allowed, but binoculars are allowed.
+* &#9733; To learn a bit about North Korea, watch [The Mole: Undercover in North Korea (2020)](https://www.imdb.com/title/tt13243898/) and read [Nothing to Envy: Ordinary Lives in North Korea (2009) by Barbara Demick](https://www.goodreads.com/book/show/40604846-nothing-to-envy). Both are truly outstanding.
+* [Koryo Tours](https://koryogroup.com/) do tours to North Korea from China.
 
 On my wishlist:
 * The Second Tunnel tours from Cheorwon Peace Tourist Information Center (38.2656137, 127.2826855) at 15-19 Yangji 2-gil, Dongsong-eup, Cheorwon-gun. Same-day in-person registration (cannot be bre-booked), arrive at 9:00 to join one of the self-driving tours that day. Closed on Tuesdays. Sometimes these tours are cancelled for security reasons, so it's best to ask a local to call +82-033-450-5559 and ask about the date you are interested in (they don't speak any English). If you are already in the area, you can ask at Cheorwon Tourist Information Center (also no English, but they use translation apps with enthusiasm). I arrived too late when all the tours were already full, so instead I ended up doing a riverside suspension walk - Cheorwon Hantan River (Columnar Joint Road), starting from the ticket office at (38.17498, 127.29974).
-* Ganghwa Peace Observatory on Ganghwado island. And Ganghwa Anglican Church - the most Korean looking church.
+* Ganghwa Peace Observatory on Ganghwado island. And Ganghwa Anglican Church in Ganghwa-gun - the most Korean looking church.
 * Goseong: Goseong Unification Observation Tower and DMZ Museum.
 * [510km of hiking path](https://www.durunubi.kr/dmz-introduction.do) along the DMZ. 
 
