@@ -31,7 +31,7 @@ describe 'pages' do
 
       if href.nil?
         it 'nil href' do
-          fail 'This is an unspecified link'
+          fail "#{link} has an unspecified href"
         end
       elsif href.start_with?('http')
         it 'external link should not contain samudra.world' do
