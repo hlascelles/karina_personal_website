@@ -2,7 +2,7 @@
 layout: kz-page
 permalink: "/travel/"
 subheadline:
-title: "My travel notes:"
+title: "Karina's travel notes:"
 teaser:
 header: no
 widgets:

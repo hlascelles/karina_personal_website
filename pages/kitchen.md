@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: "My recipe collection:"
+title: "Karina's recipe library:"
 permalink: "/kitchen/"
 header: no
 widgets:

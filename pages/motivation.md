@@ -1,7 +1,7 @@
 ---
 layout: kz-page
 title: "My motivation letter"
-permalink: "/about/"
+permalink: "/motivation/"
 header: no
 image:
     title: main-kz.jpg
