@@ -78,7 +78,7 @@ Some things are just too obvious, you won't write them down, and you'll forget a
 The most important feature of your notes is that they are searchable, so keeping typed notes is better than a handwritten notebook or an audio log. 
 Ctrl-F shortcut is the best thing ever, but sometimes you might also need some regex. 
 That is a good reason for keeping your notes in a plain text format (perhaps in markdown syntax) using a text editor (Sublime is my favourite). 
-You might be comfortable with keeping your notes in Word/Google Doc, but having a single file thousands of pages long is impractical from a technical point of view, so you'll definitely want to split it into different files. 
+You might be comfortable with keeping your notes in Word/Google Doc (*what you see is what you get* formats), but having a single file thousands of pages long is impractical from a technical point of view, so you'll definitely want to split it into different files. 
 That creates a problem, as searching across several Word documents or a folder on Google Drive is not easily impossible. 
 Plain text files (all of them at once) can be easily searched with command line tools like ripgrep.
 
