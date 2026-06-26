@@ -17,7 +17,7 @@ widgets:
   text: 
 - url: /travel/
   image: city-ho-chi-minh.jpg
-  title: Explore the most unique places
+  title: Explore world's most unique places
   dates: Since Nov 2019
   text: 
 - url: /travel/cities/
