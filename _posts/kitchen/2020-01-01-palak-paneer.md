@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Palak paneer
 header: no
 categories:

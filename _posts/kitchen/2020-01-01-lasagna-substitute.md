@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: 5min lasagna substitute
 header: no
 categories:

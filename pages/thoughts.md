@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: "What I'm thinking:"
 permalink: "/thoughts/"
 header: no

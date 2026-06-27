@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: London neighbourhoods
 image:
     title: main-london.jpg

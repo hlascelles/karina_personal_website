@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Peanut butter and plum on sourdough
 header: no
 categories:

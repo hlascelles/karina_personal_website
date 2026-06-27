@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 permalink: "/travel/"
 subheadline:
 title: "Karina's travel notes:"

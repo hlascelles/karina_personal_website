@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Buckwheat crepes
 header: no
 categories:

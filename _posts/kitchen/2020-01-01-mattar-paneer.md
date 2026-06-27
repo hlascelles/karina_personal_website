@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Mattar paneer
 header: no
 categories:

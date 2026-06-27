@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Quinoa, grapefruit and avocado salad
 header: no
 categories:

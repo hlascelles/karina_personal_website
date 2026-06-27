@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Pasta with parsley and walnut pesto
 header: no
 categories:

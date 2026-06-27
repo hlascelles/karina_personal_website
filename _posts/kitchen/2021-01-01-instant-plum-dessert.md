@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Instant plum dessert
 header: no
 categories:

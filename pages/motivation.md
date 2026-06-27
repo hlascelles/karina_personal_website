@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: "My motivation letter"
 permalink: "/motivation/"
 header: no

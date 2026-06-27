@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Mushroom and butternut squash red Thai curry
 header: no
 categories:

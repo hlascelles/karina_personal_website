@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Celebrating a good cucumber
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: El Salvador
 meta_description: 
 header: no

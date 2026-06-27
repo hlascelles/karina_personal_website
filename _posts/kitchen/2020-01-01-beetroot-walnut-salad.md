@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Beetroot, walnut and grapefruit salad
 header: no
 categories:

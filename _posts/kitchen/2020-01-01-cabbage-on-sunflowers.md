@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Cabbage on sunflowers
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Flourless chocolate cake
 header: no
 categories:

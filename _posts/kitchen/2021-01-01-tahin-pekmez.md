@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Tahin pekmez
 header: no
 categories:

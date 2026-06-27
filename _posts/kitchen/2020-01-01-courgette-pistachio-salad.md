@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Courgette and pistachio salad
 header: no
 categories:

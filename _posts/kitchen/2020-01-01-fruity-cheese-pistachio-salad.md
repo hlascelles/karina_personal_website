@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Fruity goat cheese and pistachio salad
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: "Karina's recipe library:"
 permalink: "/kitchen/"
 header: no

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Gooey chocolate pots
 header: no
 categories:

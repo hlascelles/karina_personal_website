@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 subheadline: 
 title: Canary islands
 show_meta: false

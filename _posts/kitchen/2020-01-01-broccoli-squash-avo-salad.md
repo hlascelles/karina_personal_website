@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Broccoli, squash and avocado salad
 header: no
 categories:

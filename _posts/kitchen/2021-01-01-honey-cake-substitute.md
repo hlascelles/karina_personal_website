@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: 5min honey cake substitute
 header: no
 categories:

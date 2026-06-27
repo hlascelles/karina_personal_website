@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Beetroot soup (Borscht)
 header: no
 categories:

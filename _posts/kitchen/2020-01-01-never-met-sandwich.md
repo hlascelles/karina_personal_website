@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: They've never met sandwich
 header: no
 categories:

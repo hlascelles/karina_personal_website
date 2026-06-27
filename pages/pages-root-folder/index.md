@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 permalink: /index.html
 homepage: true
 title: Hi! I'm Karina.

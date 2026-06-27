@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Red wine risotto
 header: no
 categories:

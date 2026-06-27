@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title:  Banana chocolate muffins
 header: no
 categories:

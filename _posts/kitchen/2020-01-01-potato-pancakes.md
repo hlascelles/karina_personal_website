@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Potato pancakes
 header: no
 categories:

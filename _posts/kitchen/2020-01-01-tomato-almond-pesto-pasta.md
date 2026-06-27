@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Pasta with tomato and almond pesto
 header: no
 categories:

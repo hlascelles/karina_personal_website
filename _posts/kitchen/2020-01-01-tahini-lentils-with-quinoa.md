@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Tahini lentils with quinoa
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Buttermilk pancakes
 header: no
 categories:

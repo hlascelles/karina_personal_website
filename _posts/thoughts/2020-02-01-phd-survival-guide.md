@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: "PhD survival guide"
 header: no
 image:

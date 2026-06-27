@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Chocolate truffles
 header: no
 categories:

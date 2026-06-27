@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Fruit salad 9+
 header: no
 categories:

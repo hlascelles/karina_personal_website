@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Mushroom pasta
 header: no
 categories:

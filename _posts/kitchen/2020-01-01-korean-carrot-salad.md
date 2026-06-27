@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Korean carrot salad
 header: no
 categories:

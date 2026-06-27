@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Brussels sprouts salad
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Chia seed pudding
 header: no
 categories:

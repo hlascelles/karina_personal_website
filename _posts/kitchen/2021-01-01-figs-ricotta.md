@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Fresh figs and ricotta
 header: no
 categories:

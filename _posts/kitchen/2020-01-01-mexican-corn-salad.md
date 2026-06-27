@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Mexican corn salad (esquites)
 header: no
 categories:

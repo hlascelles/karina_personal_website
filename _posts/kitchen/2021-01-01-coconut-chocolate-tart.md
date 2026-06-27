@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Coconut chocolate tart
 header: no
 categories:
