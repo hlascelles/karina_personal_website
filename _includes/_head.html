@@ -43,18 +43,6 @@
 	{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
 	<link rel="canonical" href="{{ url }}{{ page.url }}">
 
-	{% if site.socialmedia.twitter %}
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="{{ site.socialmedia.twitter }}">
-	<meta name="twitter:creator" content="{{ site.socialmedia.twitter }}">
-	<meta name="twitter:title" content="{{ title }}">
-	<meta name="twitter:description" content="{{ description }}">
-	{% if page.image.title %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
-	{% endif %}
-
-	<link type="text/plain" rel="author" href="/humans.txt">
-
 	{% comment %} Favicon generated with https://favicon.io using Kalam font {% endcomment %}
   <link rel="icon" sizes="32x32" href="/assets/img/favicon.ico">
 
