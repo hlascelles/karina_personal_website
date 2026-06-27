@@ -1,7 +1,6 @@
 port: 4000
 url: 'http://localhost:4000'
-# Ensure we only use gems available to GitHub pages
-safe: true
+safe: true # Ensure we only use gems available to GitHub pages
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
