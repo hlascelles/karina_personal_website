@@ -16,7 +16,7 @@ layout: compress
 	{% endif %}
 
 	<div class="row t30">
-		<div class="columns{% if page.sidebar == NULL %} end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<div class="columns end">
 			<article itemscope itemtype="http://schema.org/Article">
 				<header>
 					{% if page.image.title %}
@@ -51,21 +51,7 @@ layout: compress
 					{{ content }}
 				</div>
 			</article>
-		</div><!-- /.medium-8.columns -->
-
-
-		{% if page.sidebar == "left" %}
-		<div class="medium-4 columns medium-pull-8">
-			{% include _sidebar.html %}
-		</div><!-- /.medium-4.columns -->
-		{% endif %}
-
-
-		{% if page.sidebar == "right" %}
-		<div class="medium-4 columns">
-			{% include _sidebar.html %}
-		</div><!-- /.medium-4.columns -->
-		{% endif %}
+		</div>
 	</div><!-- /.row -->
 
 
