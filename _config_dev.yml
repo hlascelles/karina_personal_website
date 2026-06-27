@@ -1,18 +1,5 @@
-# Start development with installing all dependencies
-# bundle install
-
-# Then run the website locally (go to localhost:4000 in your browser)
-# bundle exec jekyll serve --config _config.yml,_config_dev.yml
-
-# If port busy, check whuch process (PID) is using it and kill it
-# sudo lsof -i tcp:4000
-# kill -9 PID
-
-# ALL IMAGES MUST BE WITH 3-to-2 ASPECT RATIO, ALL TEAM IMAGES WITH 3-to-4
-
 port: 4000
 url: 'http://localhost:4000'
-urlimg: 'http://localhost:4000/images/'
 
 # # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 # gist:
