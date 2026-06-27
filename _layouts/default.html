@@ -11,7 +11,9 @@ layout: compress
 	{% include _navigation.html %}
 	{% endunless %}
 
-	{% include _masthead.html %}
+	{% if page.header.image_fullwidth %}
+	<div id="masthead"></div>
+	{% endif %}
 
 	<div class="row t30">
 		<div class="columns{% if page.sidebar == NULL %} end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
