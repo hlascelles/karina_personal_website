@@ -8,9 +8,9 @@ baseurl: '' # Must be "" (not "/") as "" is what GitHub pages will set
 urlimg: '/images/'
 language: 'en' # The language setting is used in /includes/header.html for html-settings
 # Theme works best with Kramdown (using the table of contents function)
-markdown           : kramdown
-permalink          : /:categories/:title/
-highlight          : rouge
+markdown: kramdown
+permalink: /:categories/:title/
+highlight: rouge
 # Exclude these files from your production _site
 exclude:
 - .sass-cache
@@ -21,39 +21,27 @@ exclude:
 # Options › http://jch.penibelst.de
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
+  comments: [ "<!-- ", " -->" ]
   endings: all
   profile: false
   ignore:
-    envs: [development]
-
-
-#
-#       ____       ____            ____
-#      / __ \___  / __/___ ___  __/ / /_
-#     / / / / _ \/ /_/ __ `/ / / / / __/
-#    / /_/ /  __/ __/ /_/ / /_/ / / /_
-#   /_____/\___/_/  \__,_/\__,_/_/\__/
-#
-# Default Settings
+    envs: [ development ]
 
 defaults:
-  -
-    scope:
-      path: ''        # an empty string here means all files in the project
-      type: 'pages'
-    values:
-      show_meta: false  # Hide metadata for all pages
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-      show_meta: false   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+- scope:
+    path: ''        # an empty string here means all files in the project
+    type: 'pages'
+  values:
+    show_meta: false  # Hide metadata for all pages
+    # sidebar:        # Possible values › left, right › by default there will be no sidebar
+- scope:
+    path: ''
+    type: 'posts'
+  values:
+    show_meta: false   # Show metadata for all posts
+    # sidebar:        # Possible values › left, right › by default there will be no sidebar
 
 favicon-32x32: 'favicon.ico'
 sass:
-  sass_dir : _sass
-  style    : :compressed
+  sass_dir: _sass
+  style: :compressed
