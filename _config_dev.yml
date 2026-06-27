@@ -30,11 +30,6 @@ sass:
   # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
   # sourcemap: true # Produces an error
 
-# # Disable when not in production
-google_analytics_tracking_id: false
-
-
-
 # # Description
 
 # Beautiful layouts can be constructed using https://get.foundation/sites/docs-v5/components/grid.html

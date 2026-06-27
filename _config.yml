@@ -53,78 +53,10 @@ defaults:
       show_meta: false   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
 
-
-
-#       _   __            _             __  _
-#      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
-#     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
-#    / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
-#   /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/
-#                       /____/
-#
-#  Open _data/navigation.yml to adjust the left and right topbar navigation
-#
-
-
-
-#     _____ __________
-#    / ___// ____/ __ \
-#    \__ \/ __/ / / / /
-#   ___/ / /___/ /_/ /
-#  /____/_____/\____/    Verify Website to Webmaster Tools
-
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
-# yandex_site_verification:  ''
-# alexa_verify_id:           ''
-
-
-
-#       ______            _
-#      / ____/___ __   __(_)________  ____  _____
-#     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
-#    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  )
-#   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
-#                                                 More information » https://mathiasbynens.be/notes/touch-icons
-
-favicon-32x32:                          'favicon.ico'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
-
-#      _____
-#     / ___/____ ___________
-#     \__ \/ __ `/ ___/ ___/
-#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
-#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
-#
-
+favicon-32x32: 'favicon.ico'
 sass:
-    sass_dir : _sass
-    style    : :compressed
-
-
-#       ___                __      __  _
-#      /   |  ____  ____ _/ /_  __/ /_(_)_________
-#     / /| | / __ \/ __ `/ / / / / __/ / ___/ ___/
-#    / ___ |/ / / / /_/ / / /_/ / /_/ / /__(__  )
-#   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/      https://www.google.com/analytics/
-#                        /____/
-#
-# used in _includes/head
-# google_analytics_tracking_id:     # not used anymore, instead using gtag
-
-# gtag: G-QC7ZVMEGFD
-
-
+  sass_dir : _sass
+  style    : :compressed
 
 #   _                 _     _
 #  | |_ __ ___      _| | __| |_ ___
