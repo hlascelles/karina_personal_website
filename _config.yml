@@ -30,15 +30,9 @@ defaults:
 - scope:
     path: ''        # an empty string here means all files in the project
     type: 'pages'
-  values:
-    show_meta: false  # Hide metadata for all pages
-    # sidebar:        # Possible values › left, right › by default there will be no sidebar
 - scope:
     path: ''
     type: 'posts'
-  values:
-    show_meta: false   # Show metadata for all posts
-    # sidebar:        # Possible values › left, right › by default there will be no sidebar
 
 favicon-32x32: 'favicon.ico'
 sass:

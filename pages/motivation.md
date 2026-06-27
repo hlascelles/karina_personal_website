@@ -5,7 +5,6 @@ permalink: "/motivation/"
 header: no
 image:
     title: main-kz.jpg
-show_meta: false
 categories:
     - notes
 ---

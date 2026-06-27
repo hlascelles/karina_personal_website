@@ -2,7 +2,6 @@
 layout: default
 subheadline: 
 title: Canary islands
-show_meta: false
 header: no
 categories:
     - travel
