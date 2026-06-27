@@ -10,14 +10,6 @@
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
 
-{% if page.breadcrumb == true %}
-{% include _breadcrumb.html %}
-{% endif %}
-
-
-
-
-
 {% elsif page.header.title %}
 
 <div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
@@ -27,10 +19,6 @@
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
-
-{% if page.breadcrumb == true %}
-{% include _breadcrumb.html %}
-{% endif %}
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
@@ -58,10 +46,6 @@
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
 
-{% if page.breadcrumb == true %}
-{% include _breadcrumb.html %}
-{% endif %}
-
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
 	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
@@ -85,10 +69,6 @@
 		</figure><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
-
-{% if page.breadcrumb == true %}
-{% include _breadcrumb.html %}
-{% endif %}
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
@@ -114,10 +94,6 @@
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
 
-{% if page.breadcrumb == true %}
-{% include _breadcrumb.html %}
-{% endif %}
-
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
 	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
@@ -129,13 +105,6 @@
 {% endif %}
 
 
-
-
-
 {% elsif page.header == false %}
-
-{% if page.breadcrumb == true %}
-{% include _breadcrumb.html %}
-{% endif %}
 
 {% endif %}
