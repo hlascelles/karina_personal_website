@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Carrot cake
 header: no
 categories:

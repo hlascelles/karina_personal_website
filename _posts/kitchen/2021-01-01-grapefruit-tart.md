@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Grapefruit tart
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Spicy, sweet and sour mango
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Argentina
 meta_description: 
 header: no

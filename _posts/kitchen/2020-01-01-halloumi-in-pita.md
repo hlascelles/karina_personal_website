@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Lazy halloumi wrap
 header: no
 categories:

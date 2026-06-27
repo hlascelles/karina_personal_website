@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Pasta with green pea pesto
 header: no
 categories:

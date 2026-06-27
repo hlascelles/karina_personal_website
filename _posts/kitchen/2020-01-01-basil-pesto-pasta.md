@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Pasta with basil and pine nut pesto
 header: no
 categories:

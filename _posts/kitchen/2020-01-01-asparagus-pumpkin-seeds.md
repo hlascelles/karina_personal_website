@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Asparagus, ricotta, pumpkin seeds
 header: no
 categories:

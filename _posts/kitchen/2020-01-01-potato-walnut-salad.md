@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Potato salad with walnut dressing
 header: no
 categories:

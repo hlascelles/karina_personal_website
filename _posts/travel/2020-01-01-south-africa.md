@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: South Africa
 meta_description: 
 header: no

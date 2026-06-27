@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Prune candies
 header: no
 categories:

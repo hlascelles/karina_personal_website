@@ -1,14 +1,15 @@
 ---
-layout: kz-page
+layout: default
 title: "PhD survival guide"
 header: no
 image:
     title: main-phd.jpg
-the_date: Feb 2020
-show_meta: true
+calendar: Feb 2020
 categories:
     - thoughts
 ---
+
+{% include _calendar.html %}
 
 ### Choosing a PhD
 

@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Cheesecake with plum sauce
 header: no
 categories:

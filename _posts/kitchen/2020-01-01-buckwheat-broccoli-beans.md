@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Buckwheat, broccoli, beans
 header: no
 categories:

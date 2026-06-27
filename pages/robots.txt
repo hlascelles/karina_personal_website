@@ -1,0 +1,7 @@
+---
+layout: null
+title: "Permissions for Web Crawlers"
+permalink: /robots.txt
+---
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml

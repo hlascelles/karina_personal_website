@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Spicy mushrooms with bean mash
 header: no
 categories:

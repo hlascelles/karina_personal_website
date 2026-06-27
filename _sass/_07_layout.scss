@@ -9,7 +9,6 @@
 - Masthead › medium-only
 - Masthead › large-only
 - Masthead › xlarge-up
-- Breadcrumb
 - Meta
 - Jump to top
 - Footer
@@ -198,36 +197,21 @@ body.video cite { color: #fff; }
     height: 260px;
 }
 
-
-
-/* Breadcrumb
-------------------------------------------------------------------- */
-
-#breadcrumb {
-    background: scale-color($grey-1, $lightness: 55%);
-    border-top: 1px solid scale-color($grey-1, $lightness: 45%);
-    border-bottom: 1px solid scale-color($grey-1, $lightness: 45%);
-}
-.breadcrumbs>.current {
-  font-weight: bold;
-}
-
-
 /* Meta
 ------------------------------------------------------------------- */
 
-#page-meta, #page-meta a {
+#page-calendar, #page-calendar a {
     color: $grey-5;
 }
 
-#page-meta .button {
+#page-calendar .button {
     background: $grey-5;
     border: 0;
 }
-#page-meta .button {
+#page-calendar .button {
     color: #fff;
 }
-#page-meta .button:hover {
+#page-calendar .button:hover {
     background: $primary-color;
 }
 .meta-info p {
@@ -325,6 +309,8 @@ body.video cite { color: #fff; }
     font-size: rem-calc(23);
     display: block;
     width: 36px;
+    height: 36px;
+    line-height: 36px;
     border-radius: 50%;
     color: $subfooter-bg;
     background: $subfooter-color;

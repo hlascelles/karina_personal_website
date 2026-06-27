@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Banana buckwheat pancakes
 header: no
 categories:

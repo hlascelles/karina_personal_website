@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Sundried tomato chickpea stew
 header: no
 categories:

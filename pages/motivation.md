@@ -1,11 +1,10 @@
 ---
-layout: kz-page
+layout: default
 title: "My motivation letter"
 permalink: "/motivation/"
 header: no
 image:
     title: main-kz.jpg
-show_meta: false
 categories:
     - notes
 ---

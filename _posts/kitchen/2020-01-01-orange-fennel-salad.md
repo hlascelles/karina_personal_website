@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Orange and fennel salad
 header: no
 categories:

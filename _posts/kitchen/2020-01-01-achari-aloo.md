@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Achari aloo with black beans
 header: no
 categories:

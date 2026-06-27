@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Australia
 meta_description: 
 header: no

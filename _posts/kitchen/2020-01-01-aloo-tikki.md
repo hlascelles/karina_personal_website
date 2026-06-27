@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Modern aloo tikki
 header: no
 categories:

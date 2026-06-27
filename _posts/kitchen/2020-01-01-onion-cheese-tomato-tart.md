@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Caramelised onion, Gruyère and tomato tart
 header: no
 categories:

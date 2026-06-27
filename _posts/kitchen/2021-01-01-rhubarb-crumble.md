@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Rhubarb crumble
 header: no
 categories:

@@ -1,8 +1,9 @@
 ---
-layout: kz-page
+layout: default
 permalink: "/travel/"
 subheadline:
 title: "Karina's travel notes:"
+meta_title: "Travel notes"
 teaser:
 header: no
 widgets:

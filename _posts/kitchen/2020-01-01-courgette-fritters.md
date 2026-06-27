@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Turkish courgette fritters (Mücver)
 header: no
 categories:

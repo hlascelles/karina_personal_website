@@ -1,5 +1,5 @@
 ---
-layout: kz-page
+layout: default
 title: Broccoli with bean mash
 header: no
 categories:
