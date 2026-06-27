@@ -1,37 +1,18 @@
-{% comment %}
-#
-#   Liquid variables are created at the top to keep the source DRY and clean.
-#   Idea by ericcarlisle.com
-#
-#   Variables › {{ url }} › site.url + site.baseurl
-#   Variables › {{ title }} › page.title
-#
-{% endcomment %}{% capture ignore %}
-
 {% assign url = site.baseurl | prepend: site.url %}
-
 {% capture title %}{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title | strip_html | strip }}{% endif %}{% endcapture %}
-
 {% assign title = title | strip_html | escape | strip_newlines %}
 
-{% endcapture %}<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{{ title }}</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }}</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<!-- Search Engine Optimization -->
+<meta name="description" content="{{ description }}">
+{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
+<link rel="canonical" href="{{ url }}{{ page.url }}">
 
-	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov" rel="stylesheet" type="text/css">
-
-
-	<!-- Search Engine Optimization -->
-	<meta name="description" content="{{ description }}">
-	{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
-	<link rel="canonical" href="{{ url }}{{ page.url }}">
-
-	{% comment %} Favicon generated with https://favicon.io using Kalam font {% endcomment %}
-  <link rel="icon" sizes="32x32" href="/assets/img/favicon.ico">
-
-	{% unless page.style == NULL %}
-	<style type="text/css">{{ page.style }}</style>
-	{% endunless %}
+{% comment %} Favicon generated with https://favicon.io using Kalam font {% endcomment %}
+<link rel="icon" sizes="32x32" href="/assets/img/favicon.ico">
