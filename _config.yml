@@ -6,27 +6,16 @@ baseurl: '' # Must be "" (not "/") as "" is what GitHub pages will set
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 urlimg: '/images/'
-
+language: 'en' # The language setting is used in /includes/header.html for html-settings
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown
 permalink          : /:categories/:title/
 highlight          : rouge
-excerpt_separator  : "<!--more-->"
-include            : ['.htaccess']
 # Exclude these files from your production _site
 exclude:
-    - .sass-cache
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - INSTALL.md
-    - vendor
-
-
-# The language setting is used in /includes/header.html for html-settings
-language: 'en'
-
+- .sass-cache
+- Gemfile
+- Gemfile.lock
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
