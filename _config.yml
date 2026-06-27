@@ -45,7 +45,6 @@ defaults:
     values:
       show_meta: false  # Hide metadata for all pages
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
   -
     scope:
       path: ''
@@ -53,7 +52,6 @@ defaults:
     values:
       show_meta: false   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
 
 
 
@@ -127,17 +125,6 @@ msapplication_tilecolor:                '#fabb00'
 #     twitter: phlow
 #     facebook: phlow.media
 
-
-#        ____  _
-#       / __ \(_)________ ___  _______
-#      / / / / / ___/ __ `/ / / / ___/
-#     / /_/ / (__  ) /_/ / /_/ (__  )
-#    /_____/_/____/\__, /\__,_/____/
-#                    /_/
-#
-# used in _includes/comments
-
-# disqus_shortname: feelingresponsive
 
 
 #      _____
