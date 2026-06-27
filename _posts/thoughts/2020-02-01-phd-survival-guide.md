@@ -4,10 +4,12 @@ title: "PhD survival guide"
 header: no
 image:
     title: main-phd.jpg
-date: Feb 2020
+calendar: Feb 2020
 categories:
     - thoughts
 ---
+
+{% include _calendar.html %}
 
 ### Choosing a PhD
 
