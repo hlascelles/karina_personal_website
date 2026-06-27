@@ -77,6 +77,12 @@ layout: compress
 	{% include _footer.html %}
 	{% endunless %}
 
-	{% include _footer_scripts.html %}
+	<script src="/assets/js/javascript.js"></script>
+
+	{% if page.header.image_fullwidth %}
+	<script>
+		$("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}");
+	</script>
+	{% endif %}
 </body>
 </html>
