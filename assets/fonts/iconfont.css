@@ -43,7 +43,6 @@
 .icon-edit:before,
 .icon-export:before,
 .icon-eye:before,
-.icon-facebook:before,
 .icon-feather:before,
 .icon-github:before,
 .icon-globe:before,
@@ -112,7 +111,6 @@
 .icon-edit:before { content: "\f110"; }
 .icon-export:before { content: "\f111"; }
 .icon-eye:before { content: "\f112"; }
-.icon-facebook:before { content: "\f113"; }
 .icon-feather:before { content: "\f114"; }
 .icon-github:before { content: "\f115"; }
 .icon-globe:before { content: "\f116"; }
