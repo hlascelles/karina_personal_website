@@ -2,6 +2,7 @@
 layout: default
 title: "PhD survival guide"
 header: no
+slim: true
 image:
     title: main-phd.jpg
 calendar: Feb 2020
