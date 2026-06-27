@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Karina's recipe library:"
+meta_title: "Kitchen notes"
 permalink: "/kitchen/"
 header: no
 widgets:

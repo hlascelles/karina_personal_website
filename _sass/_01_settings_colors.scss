@@ -1,17 +1,4 @@
 @charset "utf-8";
-/* TOC – Color Variables
-
-- Basics
-- Corporate Identity Colorpalette
-- Foundation Color Variables
-- Grey Scale
-- Topbar-Navigation
-- Footer
-- Code
-
-*/
-
-
 
 /* Basics
 ------------------------------------------------------------------- */
@@ -26,8 +13,8 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-3: #90BE6D;		// website color
-$ci-1: #538D22;		// website subtle color
+$ci-3: $grey-3;		// website color, used to be #90BE6D
+$ci-1: $grey-8;		// website subtle color, used to be #538D22
 
 $ci-8: #334D5C;		// dark turquoise
 $ci-2: #45B29D;		// turquoise
@@ -116,7 +103,7 @@ $footer-link-color: $ci-6;
 
 
 $subfooter-bg: $grey-13;
-$subfooter-color: $grey-8;
+$subfooter-color: $grey-7;
 $subfooter-link-color: $grey-8;
 
 

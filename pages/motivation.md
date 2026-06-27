@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "My motivation letter"
+meta_title: "Karina's motivation letter"
 permalink: "/motivation/"
 header: no
 image:

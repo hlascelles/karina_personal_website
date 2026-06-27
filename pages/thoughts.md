@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "What I'm thinking:"
+meta_title: "My thoughts"
 permalink: "/thoughts/"
 header: no
 widgets:
