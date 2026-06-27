@@ -1,9 +1,14 @@
 - name: Email
   url: mailto:hello@karina.io
-  class: icon-mail
+  class: fa-solid fa-envelope
+  title: ""
+
+- name: Signal
+  url: https://signal.me/#eu/wkVsgEQ3FcolaMLX_u6326aBgH4eCCcxR6OdHek_bGDlE2NcIoBLi7BdXxUxsFcl
+  class: fa-brands fa-signal-messenger
   title: ""
 
 - name: LinkedIn
   url: https://www.linkedin.com/in/karina-zile/
-  class: icon-linkedin
+  class: fa-brands fa-linkedin-in
   title: ""
