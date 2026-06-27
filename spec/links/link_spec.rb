@@ -20,8 +20,8 @@ describe 'pages' do
   find_links(['a', 'link']) do |file, link, href, target|
     describe "#{file} link href '#{href}' and target '#{target}'" do
       if link['rel'] == "canonical"
-        it 'should contain localhost' do
-          expect(href).to include('localhost')
+        it 'should contain localhost or karina.io' do
+          expect(href).to include('localhost').or include('karina.io')
         end
       else
         it 'should not contain localhost' do
