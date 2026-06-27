@@ -1,14 +1,10 @@
 title: "karina.io"
-# This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'https://karina.io'
+url: 'https://karina.io' # This URL is the main address for absolute links. Don't include a slash at the end.
 baseurl: '' # Must be "" (not "/") as "" is what GitHub pages will set
-
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
-#
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-#
 urlimg: '/images/'
 
 
