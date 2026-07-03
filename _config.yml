@@ -1,23 +1,23 @@
-title: "karina.io"
-url: 'https://karina.io' # This URL is the main address for absolute links. Don't include a slash at the end.
-baseurl: '' # Must be "" (not "/") as "" is what GitHub pages will set
-# This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash at the end.
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-urlimg: '/images/'
-# Theme works best with Kramdown (using the table of contents function)
-markdown: kramdown
+title: 'karina.io'
+url: 'https://karina.io' #tThis URL is the main address for absolute links. Don't include a slash at the end.
+baseurl: '' # must be "" (not "/") as "" is what GitHub pages will set.
+urlimg: '/images/' # this URL points directly to the images directory, it needs a slash at the end. 
+markdown: kramdown # theme works best with Kramdown (using the table of contents function)
 permalink: /:categories/:title/
-highlight: rouge
+favicon-32x32: 'favicon.ico'
+highlight: rouge # this is a code highlighter
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
 # Exclude these files from your production _site
 exclude:
 - .sass-cache
 - Gemfile
 - Gemfile.lock
 
-# Used › default.html front-matter and compress.html
-# Options › http://jch.penibelst.de
+# Configuration for compress.html that is used in all other layouts, see http://jch.penibelst.de for details
 compress_html:
   clippings: all
   comments: [ "<!-- ", " -->" ]
@@ -25,16 +25,3 @@ compress_html:
   profile: false
   ignore:
     envs: [ development ]
-
-defaults:
-- scope:
-    path: ''        # an empty string here means all files in the project
-    type: 'pages'
-- scope:
-    path: ''
-    type: 'posts'
-
-favicon-32x32: 'favicon.ico'
-sass:
-  sass_dir: _sass
-  style: :compressed
