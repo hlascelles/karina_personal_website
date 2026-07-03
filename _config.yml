@@ -1,4 +1,4 @@
-title: 'karina.io'
+title: "Karina's website"
 url: 'https://karina.io' #tThis URL is the main address for absolute links. Don't include a slash at the end.
 baseurl: '' # must be "" (not "/") as "" is what GitHub pages will set.
 urlimg: '/images/' # this URL points directly to the images directory, it needs a slash at the end. 
