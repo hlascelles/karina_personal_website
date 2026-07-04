@@ -2,7 +2,7 @@
 
 <div class="medium-{{ include.grid_column_size_attribute }} columns{% if include.end %} end{% endif %} widget" style="margin-bottom: 10px;">
 	{% if include.widget.url != empty %}<a href="{{ include.widget.url }}">{% endif %}
-		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+		{% if widget_image != empty %}<img src="{{ widget_image }}" width="303px" height="202px"/>{% endif %}
 	{% if include.widget.url != empty %}</a>{% endif %}
 
 	{% if include.widget.title != empty %}
