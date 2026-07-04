@@ -1,8 +1,3 @@
-- title: "Logo"
-  url: "/"
-  logo: true
-  side: left
-
 - title: "My goals"
   url: "/goals/"
   side: left
