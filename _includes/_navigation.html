@@ -1,11 +1,8 @@
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
-      <li class="name">
-      <h1><a href="/">{% include _logo.html %}</a></h1>
-    </li>
-      <!-- Remove the class "menu-icon" to get rid of the menu burger. To prepend the burger with some text, add e.g. "Menu" into <span> -->
-      <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+      <li class="name"><h1><a href="/">{% include _logo.html %}</a></h1></li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span><!-- Blank span needed to show menu burger --></span></a></li>
     </ul>
     <section class="top-bar-section">
       <!-- Left navigation -->
@@ -88,8 +85,8 @@
                   </ul>
               </li>
             {% endif %}
-          {% endfor %}
-        {% endif %}
+          {% endif %}
+        {% endfor %}
       </ul>
     </section>
   </nav>
