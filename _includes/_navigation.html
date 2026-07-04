@@ -8,44 +8,6 @@
       <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
     </ul>
     <section class="top-bar-section">
-
-      <!-- Right navigation -->
-      <ul class="right">
-        {% for link in site.data.navigation %}
-          {% if link.side == 'right' %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% assign _baseurl = '' %}
-            {% elsif link.url == '#' %}
-              {% assign domain = '' %}
-              {% assign _baseurl = site.baseurl %}
-            {% else %}
-              {% assign domain = site.url %}
-              {% assign _baseurl = site.baseurl %}
-            {% endif %}
-            {% if link.dropdown == nil %}
-              <li class="divider"></li>
-              <li{% if link.url == page.url && page.homepage != true %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ link.url }}">{{ link.title | escape }}</a></li>
-            {% else %}
-              <li class="divider"></li>
-              <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
-                <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ link.url }}">{{ link.title | escape }}</a>
-                  <ul class="dropdown">
-                    {% for dropdown_link in link.dropdown %}
-                      {% if dropdown_link.url contains 'http' %}
-                        {% assign domain = '' %}
-                        {% else %}
-                        {% assign domain = site.url %}
-                      {% endif %}
-                      <li><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ dropdown_link.url }}">{{ dropdown_link.title | escape }}</a></li>
-                    {% endfor %}
-                  </ul>
-              </li>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      </ul>
-
       <!-- Left navigation -->
       <ul class="left">
         {% for link in site.data.navigation %}
@@ -91,6 +53,43 @@
             {% endif %}
           {% endif %}
         {% endfor %}
+      </ul>
+
+      <!-- Right navigation -->
+      <ul class="right">
+        {% for link in site.data.navigation %}
+          {% if link.side == 'right' %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+              {% assign _baseurl = '' %}
+            {% elsif link.url == '#' %}
+              {% assign domain = '' %}
+              {% assign _baseurl = site.baseurl %}
+            {% else %}
+              {% assign domain = site.url %}
+              {% assign _baseurl = site.baseurl %}
+            {% endif %}
+            {% if link.dropdown == nil %}
+              <li class="divider"></li>
+              <li{% if link.url == page.url && page.homepage != true %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ link.url }}">{{ link.title | escape }}</a></li>
+            {% else %}
+              <li class="divider"></li>
+              <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
+                <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ link.url }}">{{ link.title | escape }}</a>
+                  <ul class="dropdown">
+                    {% for dropdown_link in link.dropdown %}
+                      {% if dropdown_link.url contains 'http' %}
+                        {% assign domain = '' %}
+                        {% else %}
+                        {% assign domain = site.url %}
+                      {% endif %}
+                      <li><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ dropdown_link.url }}">{{ dropdown_link.title | escape }}</a></li>
+                    {% endfor %}
+                  </ul>
+              </li>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
       </ul>
     </section>
   </nav>
