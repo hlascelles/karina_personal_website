@@ -40,7 +40,6 @@
                   </ul>
               </li>
             {% endif %}
-          <li class="divider"></li>
           {% endif %}
         {% endfor %}
       </ul>
@@ -59,7 +58,6 @@
               {% assign domain = site.url %}
               {% assign _baseurl = site.baseurl %}
             {% endif %}
-            <li class="divider"></li>
             {% if link.dropdown == nil %}
               <li{% if link.url == page.url %} class="active"{% endif %}>
                 <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ link.url }}">
