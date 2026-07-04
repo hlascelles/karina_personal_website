@@ -2,7 +2,7 @@ title: "Karina's website" # the title of the website
 url: "https://karina.io" # this URL is the address for absolute links, don't include a slash at the end
 baseurl: "" # must be "" (not "/") as "" is what GitHub pages will set
 urlimg: "/images/" # this URL points to the images directory, do include a slash at the end
-markdown: kramdown # theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
 permalink: /:categories/:title/
 favicon-32x32: "favicon.ico" #the favicon
 highlight: rouge # which code highlighter to use
