@@ -66,13 +66,9 @@
 
             {% comment %}   If left side WITHOUT dropdown menu do   {% endcomment %}
             {% if link.dropdown == nil %}
-              <li{% if link.url == page.url %} class="active {% if link.logo != nil %}show-for-large-up{% endif %}"{% elsif page.homepage == true and link.url == '/' %} class="{% if link.logo != nil %}show-for-large-up{% endif %}"{% else %} class="{% if link.logo != nil %}show-for-large-up{% endif %}"{% endif %}>
+              <li{% if link.url == page.url %} class="active"{% endif %}>
                 <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ link.url }}">
-                  {% if link.logo %}
-                    {% include _logo.html %}
-                  {% else %}
-                    {{ link.title | escape }}
-                  {% endif %}
+                  {{ link.title | escape }}
                 </a>
               </li>
               <li class="divider"></li>
