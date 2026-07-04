@@ -1,6 +1,6 @@
 {% capture widget_image %}{{ site.urlimg }}{{ include.widget.image }}{% endcapture %}
 
-<div class="medium-{{ include.grid_column_size_attribute }} columns widget" style="margin-bottom: 10px;">
+<div class="medium-{{ include.grid_column_size_attribute }} columns{% if include.end %} end{% endif %} widget" style="margin-bottom: 10px;">
 	{% if include.widget.url != empty %}<a href="{{ include.widget.url }}">{% endif %}
 		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
 	{% if include.widget.url != empty %}</a>{% endif %}
