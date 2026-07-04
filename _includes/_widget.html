@@ -1,16 +1,9 @@
-{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ include.widget.url }}{% endif %}{% endcapture %}
-{% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
+{% capture widget_image %}{{ site.urlimg }}{{ include.widget.image }}{% endcapture %}
 
 <div class="medium-{{ include.grid_column_size_attribute }} columns widget" style="margin-bottom: 10px;">
-	{% if include.widget.video %}
-		{{ include.widget.video }}
-	{% elsif widget_url == empty %}
+	{% if include.widget.url != empty %}<a href="{{ include.widget.url }}">{% endif %}
 		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
-	{% else %}
-		<a href="{{ widget_url }}">
-			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
-		</a>
-	{% endif %}
+	{% if include.widget.url != empty %}</a>{% endif %}
 
 	{% if include.widget.title != empty %}
 	<h2 class="font-size-h3 t10 b15">{{ include.widget.title }}</h2>
