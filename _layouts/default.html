@@ -62,7 +62,7 @@ layout: compress
 
 	{% if page.header.image_fullwidth %}
 	<script>
-		$("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}");
+		$("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", { fade: 200 });
 	</script>
 	{% endif %}
 </body>
